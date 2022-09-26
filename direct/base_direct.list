@@ -1,21 +1,24 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:19:11
-# DOMAIN-SUFFIX: 35
-# TOTAL: 35
+# UPDATED: 2022-09-27 04:40:23
+# DOMAIN-SUFFIX: 38
+# TOTAL: 38
 DOMAIN-SUFFIX,adblock.adguard.com
 DOMAIN-SUFFIX,adlink.wf
 DOMAIN-SUFFIX,adload.ru
 DOMAIN-SUFFIX,admin.mailchimp.com
+DOMAIN-SUFFIX,adobeid-*.services.adobe.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adstop.org
 DOMAIN-SUFFIX,adv.bloop.info
 DOMAIN-SUFFIX,alllaw.112.2o7.net
+DOMAIN-SUFFIX,api.browser.yandex.*
 DOMAIN-SUFFIX,api-merchants.skimlinks.com
 DOMAIN-SUFFIX,api-secure.solvemedia.com
 DOMAIN-SUFFIX,authentication-api.skimlinks.com
 DOMAIN-SUFFIX,banner.dna.fi
+DOMAIN-SUFFIX,cdn*.porn300.com
 DOMAIN-SUFFIX,developers.google.com
 DOMAIN-SUFFIX,download.adguard.com
 DOMAIN-SUFFIX,ed98512111bb19e5.in.net

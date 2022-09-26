@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:25:32
-# DOMAIN-SUFFIX: 988
-# TOTAL: 988
+# UPDATED: 2022-09-27 04:46:17
+# DOMAIN-SUFFIX: 1004
+# TOTAL: 1004
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,admixer.co.kr
 DOMAIN-SUFFIX,admixer.net
 DOMAIN-SUFFIX,admulti.com
 DOMAIN-SUFFIX,ad.myinstashot.com
+DOMAIN-SUFFIX,ad*.nexage.com
 DOMAIN-SUFFIX,adn.insight.ucweb.com
 DOMAIN-SUFFIX,ad.nvdvr.cn
 DOMAIN-SUFFIX,adnxs.com
@@ -145,6 +146,7 @@ DOMAIN-SUFFIX,adserver.pandora.com
 DOMAIN-SUFFIX,adserver.shadow.snapads.com
 DOMAIN-SUFFIX,adserver.ubiyoo.com
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com
+DOMAIN-SUFFIX,adserver.*.yahoodns.net
 DOMAIN-SUFFIX,adservice.tohsoft.com
 DOMAIN-SUFFIX,ads.feelingtouch.com
 DOMAIN-SUFFIX,ads.fotoable.com
@@ -203,6 +205,7 @@ DOMAIN-SUFFIX,adtimaserver.vn
 DOMAIN-SUFFIX,adtorque.in
 DOMAIN-SUFFIX,adtrack.king.com
 DOMAIN-SUFFIX,adultadworld.com
+DOMAIN-SUFFIX,adv0*.msa.cdn.mediaset.net
 DOMAIN-SUFFIX,adversal.com
 DOMAIN-SUFFIX,adverticum.net
 DOMAIN-SUFFIX,advertise.com
@@ -258,6 +261,9 @@ DOMAIN-SUFFIX,api-a.op-mobile.opera.com
 DOMAIN-SUFFIX,api.appfireworks.com
 DOMAIN-SUFFIX,api.applovefrom.com
 DOMAIN-SUFFIX,api.appnxt.net
+DOMAIN-SUFFIX,api*.batmobil.net
+DOMAIN-SUFFIX,api*.batmobi.net
+DOMAIN-SUFFIX,api-*.bidmachine.io
 DOMAIN-SUFFIX,api.brs.intl.miui.com
 DOMAIN-SUFFIX,api.cloudmobi.net
 DOMAIN-SUFFIX,api.fusepowered.com
@@ -320,6 +326,7 @@ DOMAIN-SUFFIX,banners.etermax.com
 DOMAIN-SUFFIX,banners.mobile.yandex.net
 DOMAIN-SUFFIX,bannersnack.com
 DOMAIN-SUFFIX,banners-slb.mobile.yandex.net
+DOMAIN-SUFFIX,banner.*.tccapis.com
 DOMAIN-SUFFIX,bannerwall.herewetest.com
 DOMAIN-SUFFIX,bannerwall.s3.appcnt.com
 DOMAIN-SUFFIX,bayctrk.com
@@ -366,6 +373,7 @@ DOMAIN-SUFFIX,cdn2.auditude.com
 DOMAIN-SUFFIX,cdn7.rocks
 DOMAIN-SUFFIX,cdn.88-f.net
 DOMAIN-SUFFIX,cdn.adbert.info
+DOMAIN-SUFFIX,cdn-adn-*.rayjump.com
 DOMAIN-SUFFIX,cdn-adn.rayjump.com
 DOMAIN-SUFFIX,cdn.ads.fotoable.net
 DOMAIN-SUFFIX,cdn-api.admost.com
@@ -476,6 +484,7 @@ DOMAIN-SUFFIX,etcodes.com
 DOMAIN-SUFFIX,etl.tindersparks.com
 DOMAIN-SUFFIX,eu-ad.sam4m.com
 DOMAIN-SUFFIX,euadsapi.manhuaren.com
+DOMAIN-SUFFIX,events-*.op.hicloud.com
 DOMAIN-SUFFIX,exe.bid
 DOMAIN-SUFFIX,exelbid.com
 DOMAIN-SUFFIX,exp.glispa.com
@@ -541,10 +550,13 @@ DOMAIN-SUFFIX,hybrid.ai
 DOMAIN-SUFFIX,hyperadx.com
 DOMAIN-SUFFIX,i2ad.jp
 DOMAIN-SUFFIX,i2.myapkcdn.in
+DOMAIN-SUFFIX,iad-*.appboy.com
 DOMAIN-SUFFIX,iad.appboy.com
+DOMAIN-SUFFIX,iad-*.braze.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iam.datasavannah.com
 DOMAIN-SUFFIX,id1.cn
+DOMAIN-SUFFIX,ifengad.*.ifeng.com
 DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,imgx.jampp.com
 DOMAIN-SUFFIX,i-mobile.co.jp
@@ -616,6 +628,7 @@ DOMAIN-SUFFIX,madnet.ru
 DOMAIN-SUFFIX,mads.bz
 DOMAIN-SUFFIX,mainadv.com
 DOMAIN-SUFFIX,manage.com
+DOMAIN-SUFFIX,marketplace-*.hyprmx.com
 DOMAIN-SUFFIX,matrix.dailyinnovation.biz
 DOMAIN-SUFFIX,maudau.com
 DOMAIN-SUFFIX,mblapi.ssl2.duapps.com
@@ -627,6 +640,7 @@ DOMAIN-SUFFIX,media6degrees.com
 DOMAIN-SUFFIX,mediaforge.com
 DOMAIN-SUFFIX,medialand.ru
 DOMAIN-SUFFIX,media.motrixi.com
+DOMAIN-SUFFIX,mediate-ios-*.hyprmx.com
 DOMAIN-SUFFIX,medleyads.com
 DOMAIN-SUFFIX,meendocash.com
 DOMAIN-SUFFIX,metamx.com
@@ -764,6 +778,7 @@ DOMAIN-SUFFIX,pr.comet.yahoo.com
 DOMAIN-SUFFIX,preitem.wshareit.com
 DOMAIN-SUFFIX,presage.io
 DOMAIN-SUFFIX,prod.cm.publishers.advertising.a2z.com
+DOMAIN-SUFFIX,production-adserver-*.amazonaws.com
 DOMAIN-SUFFIX,projectwonderful.com
 DOMAIN-SUFFIX,promo-images.ttpsdk.info
 DOMAIN-SUFFIX,promoted.sndcdn.com
@@ -803,6 +818,7 @@ DOMAIN-SUFFIX,rossoad.com
 DOMAIN-SUFFIX,rotaban.ru
 DOMAIN-SUFFIX,rtapi.abbi.io
 DOMAIN-SUFFIX,rtb.appbid.com
+DOMAIN-SUFFIX,rtbimp-loadbalancer-*.amazonaws.com
 DOMAIN-SUFFIX,rtb.kds.media
 DOMAIN-SUFFIX,rtb.nexage.com
 DOMAIN-SUFFIX,rtb.platform.glispa.com

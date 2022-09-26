@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-26 04:39:48
-# DOMAIN-SUFFIX: 21785
-# TOTAL: 21785
+# UPDATED: 2022-09-27 04:39:25
+# DOMAIN-SUFFIX: 21798
+# TOTAL: 21798
 DOMAIN-SUFFIX,0-000.store
 DOMAIN-SUFFIX,005.0x1f4b0.com
 DOMAIN-SUFFIX,006a039c957c142bb.com
@@ -1595,6 +1595,7 @@ DOMAIN-SUFFIX,adligature.com
 DOMAIN-SUFFIX,ad.linksynergy.com
 DOMAIN-SUFFIX,ad.lomadee.com
 DOMAIN-SUFFIX,adlook.net
+DOMAIN-SUFFIX,ad*.mac-torrent-download.net
 DOMAIN-SUFFIX,ad-mapps.com
 DOMAIN-SUFFIX,ad-m.asia
 DOMAIN-SUFFIX,admax.quisma.com
@@ -1710,6 +1711,10 @@ DOMAIN-SUFFIX,adschill.com
 DOMAIN-SUFFIX,adsco.re
 DOMAIN-SUFFIX,adscreendirect.com
 DOMAIN-SUFFIX,adscustsrv.com
+DOMAIN-SUFFIX,ads*.depositfiles.com
+DOMAIN-SUFFIX,ads*.depositfiles.org
+DOMAIN-SUFFIX,ads*.dfiles.eu
+DOMAIN-SUFFIX,ads*.dfiles.ru
 DOMAIN-SUFFIX,adsdk.com
 DOMAIN-SUFFIX,ads-dot-fbc-web-2018.uc.r.appspot.com
 DOMAIN-SUFFIX,adsdot.ph
@@ -1779,6 +1784,7 @@ DOMAIN-SUFFIX,adsnot.1javguru.xyz
 DOMAIN-SUFFIX,adsnot.1supjav.xyz
 DOMAIN-SUFFIX,adsomi.com
 DOMAIN-SUFFIX,adsonar.com
+DOMAIN-SUFFIX,ads*.opensubtitles.org
 DOMAIN-SUFFIX,adsoptimal.com
 DOMAIN-SUFFIX,adsovo.com
 DOMAIN-SUFFIX,ads-partners.coupang.com
@@ -4587,6 +4593,7 @@ DOMAIN-SUFFIX,carvyre.com
 DOMAIN-SUFFIX,casadelfutbol.info
 DOMAIN-SUFFIX,casavasstamnoi.com
 DOMAIN-SUFFIX,cas.clickability.com
+DOMAIN-SUFFIX,cas.*.criteo.com
 DOMAIN-SUFFIX,cash4members.com
 DOMAIN-SUFFIX,cash-ads.com
 DOMAIN-SUFFIX,cash-duck.com
@@ -10015,6 +10022,7 @@ DOMAIN-SUFFIX,hospitecrew.club
 DOMAIN-SUFFIX,hostave4.net
 DOMAIN-SUFFIX,hostave.net
 DOMAIN-SUFFIX,hostingcloud.racing
+DOMAIN-SUFFIX,hostingcloud.*.wasm
 DOMAIN-SUFFIX,hostrydebowel.com
 DOMAIN-SUFFIX,hosupshunk.com
 DOMAIN-SUFFIX,hot-3d-girls.com
@@ -10195,6 +10203,7 @@ DOMAIN-SUFFIX,i5iog3mlrw.com
 DOMAIN-SUFFIX,i7ece0xrg4nx.com
 DOMAIN-SUFFIX,i884.info
 DOMAIN-SUFFIX,i99i.org
+DOMAIN-SUFFIX,iad-*.blaze.com
 DOMAIN-SUFFIX,iadqqgpjno.com
 DOMAIN-SUFFIX,i-afk.com
 DOMAIN-SUFFIX,iaheyftbsn.review
@@ -14866,6 +14875,7 @@ DOMAIN-SUFFIX,pigpenchiba.com
 DOMAIN-SUFFIX,pigtre.com
 DOMAIN-SUFFIX,piguiqproxy.com
 DOMAIN-SUFFIX,pihu.xxxpornhd.pro
+DOMAIN-SUFFIX,pijama.*.elasticbeanstalk.com
 DOMAIN-SUFFIX,pikedhelloed.com
 DOMAIN-SUFFIX,pikeletkiyi.com
 DOMAIN-SUFFIX,pilaffskoniga.com
@@ -14963,6 +14973,7 @@ DOMAIN-SUFFIX,playgroundloom.com
 DOMAIN-SUFFIX,play.springboardplatform.com
 DOMAIN-SUFFIX,playstream.media
 DOMAIN-SUFFIX,playukinternet.com
+DOMAIN-SUFFIX,play*.videos.vidto.me
 DOMAIN-SUFFIX,playwrightglancing.com
 DOMAIN-SUFFIX,playwrightsickengineer.com
 DOMAIN-SUFFIX,play.yo.onvid.club
@@ -17421,7 +17432,6 @@ DOMAIN-SUFFIX,showfocuspocus.com
 DOMAIN-SUFFIX,showmebars.com
 DOMAIN-SUFFIX,shownperfunctory.com
 DOMAIN-SUFFIX,show-review.com
-DOMAIN-SUFFIX,sh|ptewauta.net
 DOMAIN-SUFFIX,shqbsdjatunl.com
 DOMAIN-SUFFIX,shredsorators.com
 DOMAIN-SUFFIX,shrewdoscular.com
@@ -18010,6 +18020,8 @@ DOMAIN-SUFFIX,ssfultraightd.one
 DOMAIN-SUFFIX,sshopee.beauty
 DOMAIN-SUFFIX,sshsnahw.com
 DOMAIN-SUFFIX,ssiapawz.com
+DOMAIN-SUFFIX,s*.site.flashx.cc
+DOMAIN-SUFFIX,s*.skencituer.com
 DOMAIN-SUFFIX,sskmnews.pro
 DOMAIN-SUFFIX,ssl2anyone3.com
 DOMAIN-SUFFIX,ssl2anyone5.com
@@ -18389,6 +18401,7 @@ DOMAIN-SUFFIX,swatad.com
 DOMAIN-SUFFIX,swaylieutenant.com
 DOMAIN-SUFFIX,swdlxrsm.com
 DOMAIN-SUFFIX,sweaterwarmly.com
+DOMAIN-SUFFIX,s*.web.flashx.co
 DOMAIN-SUFFIX,sweepawejasper.com
 DOMAIN-SUFFIX,sweepia.com
 DOMAIN-SUFFIX,sweepprolong.com

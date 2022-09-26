@@ -1,9 +1,9 @@
 # NAME: SpanishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:25:09
-# DOMAIN-SUFFIX: 79
-# TOTAL: 79
+# UPDATED: 2022-09-27 04:45:54
+# DOMAIN-SUFFIX: 81
+# TOTAL: 81
 DOMAIN-SUFFIX,25haich4342.ru
 DOMAIN-SUFFIX,adclient-uol.lp.uol.com.br
 DOMAIN-SUFFIX,ad.correioweb.com.br
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ads.celldorado.com
 DOMAIN-SUFFIX,ads.elpais.com.uy
 DOMAIN-SUFFIX,ads.enrt.eu
 DOMAIN-SUFFIX,ads.eorezo.com
+DOMAIN-SUFFIX,adserver*.euroweeklynews.com
 DOMAIN-SUFFIX,ads.gamavirtual.com
 DOMAIN-SUFFIX,ads.gazetaesportiva.net
 DOMAIN-SUFFIX,ads.lomadee.com
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX,pub.lacuerda.net
 DOMAIN-SUFFIX,publicidad.net
 DOMAIN-SUFFIX,publipagos.com
 DOMAIN-SUFFIX,pubs.xl.pt
+DOMAIN-SUFFIX,punch-fansub.com.br^*-banner.swf
 DOMAIN-SUFFIX,pwjwgrtznpl.com
 DOMAIN-SUFFIX,seguro.via-rs.net
 DOMAIN-SUFFIX,softclick.com.br

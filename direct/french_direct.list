@@ -1,8 +1,9 @@
 # NAME: FrenchDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:24:55
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2022-09-27 04:45:41
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 DOMAIN-SUFFIX,dl.unlockapk.com
 DOMAIN-SUFFIX,thumb.oloadcdn.net
+DOMAIN-SUFFIX,www*.tusfiles.net
