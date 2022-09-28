@@ -1,7 +1,7 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-28 04:31:58
+# UPDATED: 2022-09-28 14:47:05
 # DOMAIN-SUFFIX: 128
 # TOTAL: 128
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
@@ -14,8 +14,11 @@ DOMAIN-SUFFIX,adcdn.pingan.com
 DOMAIN-SUFFIX,ad.kazakinfo.com
 DOMAIN-SUFFIX,admin.dable.io
 DOMAIN-SUFFIX,ad.ourgame.com
+DOMAIN-SUFFIX,ads.adsterra.com
 DOMAIN-SUFFIX,ads.tdbank.com
+DOMAIN-SUFFIX,adsterra.com
 DOMAIN-SUFFIX,advert.kf5.com
+DOMAIN-SUFFIX,affiliates.adsterra.com
 DOMAIN-SUFFIX,afi-b.com
 DOMAIN-SUFFIX,analytics.amplitude.com
 DOMAIN-SUFFIX,anwb.webpower.eu
@@ -24,11 +27,14 @@ DOMAIN-SUFFIX,api-v*.trbo.com
 DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
+DOMAIN-SUFFIX,app.crazyegg.com
 DOMAIN-SUFFIX,artifactory.appodeal.com
-DOMAIN-SUFFIX,artners.adsterra.com
 DOMAIN-SUFFIX,a.sellpoint.net
 DOMAIN-SUFFIX,awin1.com
 DOMAIN-SUFFIX,bcicl.*.evergage.com
+DOMAIN-SUFFIX,beta.affiliates.adsterra.com
+DOMAIN-SUFFIX,beta.partners.adsterra.com
+DOMAIN-SUFFIX,beta.publishers.adsterra.com
 DOMAIN-SUFFIX,blog.logrocket.com
 DOMAIN-SUFFIX,brm-core-*.brsrvr.com
 DOMAIN-SUFFIX,buyad.bi-xenon.cn
@@ -50,25 +56,20 @@ DOMAIN-SUFFIX,cloud.notification-naviextras.com
 DOMAIN-SUFFIX,cm-beacon.nakanohito.jp
 DOMAIN-SUFFIX,cm-widget.nakanohito.jp
 DOMAIN-SUFFIX,contents*.00110.citi.com
+DOMAIN-SUFFIX,core.crazyegg.com
 DOMAIN-SUFFIX,cs.silverpop.com
 DOMAIN-SUFFIX,cutcaptcha.com
 DOMAIN-SUFFIX,daikoku.ebis.ne.jp
-DOMAIN-SUFFIX,ds.adsterra.com
-DOMAIN-SUFFIX,-ds.metric.gstatic.com
-DOMAIN-SUFFIX,dsterra.com
-DOMAIN-SUFFIX,elp-advertisers.adsterra.com
+DOMAIN-SUFFIX,ds.metric.gstatic.com
 DOMAIN-SUFFIX,email.awscloud.com
 DOMAIN-SUFFIX,email.elitedangerous.com
 DOMAIN-SUFFIX,email.procook.co.uk
 DOMAIN-SUFFIX,email.*.skyeng.ru
 DOMAIN-SUFFIX,envato.market
-DOMAIN-SUFFIX,eta.affiliates.adsterra.com
-DOMAIN-SUFFIX,eta.partners.adsterra.com
-DOMAIN-SUFFIX,eta.publishers.adsterra.com
 DOMAIN-SUFFIX,eum-blue-saas.instana.io
 DOMAIN-SUFFIX,feed.adrelayer.com
-DOMAIN-SUFFIX,ffiliates.adsterra.com
 DOMAIN-SUFFIX,forum.notebookreview.com
+DOMAIN-SUFFIX,ftp.bmp.ovh
 DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,go.scorptec.com.au
 DOMAIN-SUFFIX,goto.target.com
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,gs.statcounter.com
 DOMAIN-SUFFIX,guce.advertising.com
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,health.halodoc.com
+DOMAIN-SUFFIX,help-advertisers.adsterra.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,href.li
 DOMAIN-SUFFIX,h-sdk.online-metrix.net
@@ -104,13 +106,13 @@ DOMAIN-SUFFIX,official.paymaya.com
 DOMAIN-SUFFIX,omniture.walmart.com
 DOMAIN-SUFFIX,omsc.kpn.com
 DOMAIN-SUFFIX,oneline.nextday.media
-DOMAIN-SUFFIX,ore.crazyegg.com
 DOMAIN-SUFFIX,pagead.l.doubleclick.net
-DOMAIN-SUFFIX,pp.crazyegg.com
+DOMAIN-SUFFIX,partners.adsterra.com
 DOMAIN-SUFFIX,promo.gramedia.com
 DOMAIN-SUFFIX,proto2ad.durasite.net
 DOMAIN-SUFFIX,pt.afl.rakuten.co.jp
 DOMAIN-SUFFIX,public-cis.exponea.com
+DOMAIN-SUFFIX,publishers.adsterra.com
 DOMAIN-SUFFIX,radiofrance.targetspot.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
 DOMAIN-SUFFIX,redir.tradedoubler.com
@@ -124,9 +126,7 @@ DOMAIN-SUFFIX,tags.crwdcntrl.net
 DOMAIN-SUFFIX,thumbnail.thench.net
 DOMAIN-SUFFIX,tlaol.com
 DOMAIN-SUFFIX,torimochi.line-apps.com
-DOMAIN-SUFFIX,tp.bmp.ovh
 DOMAIN-SUFFIX,track.rutarget.ru
-DOMAIN-SUFFIX,ublishers.adsterra.com
 DOMAIN-SUFFIX,validate.perfdrive.com
 DOMAIN-SUFFIX,vcentry3.valuecommerce.ne.jp
 DOMAIN-SUFFIX,wup-7b4df495.santander.cl

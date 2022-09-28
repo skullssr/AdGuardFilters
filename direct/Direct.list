@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-28 04:35:30
+# UPDATED: 2022-09-28 15:03:03
 # DOMAIN-SUFFIX: 197
 # TOTAL: 197
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
@@ -21,10 +21,13 @@ DOMAIN-SUFFIX,admin.mailchimp.com
 DOMAIN-SUFFIX,adobeid-*.services.adobe.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,ad.ourgame.com
+DOMAIN-SUFFIX,ads.adsterra.com
 DOMAIN-SUFFIX,ads.tdbank.com
+DOMAIN-SUFFIX,adsterra.com
 DOMAIN-SUFFIX,adstop.org
 DOMAIN-SUFFIX,adv.bloop.info
 DOMAIN-SUFFIX,advert.kf5.com
+DOMAIN-SUFFIX,affiliates.adsterra.com
 DOMAIN-SUFFIX,afi-b.com
 DOMAIN-SUFFIX,alllaw.112.2o7.net
 DOMAIN-SUFFIX,analytics.amplitude.com
@@ -37,14 +40,17 @@ DOMAIN-SUFFIX,api-v*.trbo.com
 DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
+DOMAIN-SUFFIX,app.crazyegg.com
 DOMAIN-SUFFIX,artifactory.appodeal.com
-DOMAIN-SUFFIX,artners.adsterra.com
 DOMAIN-SUFFIX,a.sellpoint.net
 DOMAIN-SUFFIX,authentication-api.skimlinks.com
 DOMAIN-SUFFIX,auth.tbn.ru
 DOMAIN-SUFFIX,awin1.com
 DOMAIN-SUFFIX,banner.dna.fi
 DOMAIN-SUFFIX,bcicl.*.evergage.com
+DOMAIN-SUFFIX,beta.affiliates.adsterra.com
+DOMAIN-SUFFIX,beta.partners.adsterra.com
+DOMAIN-SUFFIX,beta.publishers.adsterra.com
 DOMAIN-SUFFIX,blog.logrocket.com
 DOMAIN-SUFFIX,blubroid.de
 DOMAIN-SUFFIX,brm-core-*.brsrvr.com
@@ -71,6 +77,7 @@ DOMAIN-SUFFIX,cm-widget.nakanohito.jp
 DOMAIN-SUFFIX,contents*.00110.citi.com
 DOMAIN-SUFFIX,cookie-bar.eu
 DOMAIN-SUFFIX,cookieconsent.insites.com
+DOMAIN-SUFFIX,core.crazyegg.com
 DOMAIN-SUFFIX,cs.silverpop.com
 DOMAIN-SUFFIX,cutcaptcha.com
 DOMAIN-SUFFIX,daikoku.ebis.ne.jp
@@ -78,25 +85,19 @@ DOMAIN-SUFFIX,developers.google.com
 DOMAIN-SUFFIX,dl.unlockapk.com
 DOMAIN-SUFFIX,download.adguard.com
 DOMAIN-SUFFIX,drupalcampmsk.ru
-DOMAIN-SUFFIX,ds.adsterra.com
-DOMAIN-SUFFIX,-ds.metric.gstatic.com
-DOMAIN-SUFFIX,dsterra.com
+DOMAIN-SUFFIX,ds.metric.gstatic.com
 DOMAIN-SUFFIX,ed98512111bb19e5.in.net
-DOMAIN-SUFFIX,elp-advertisers.adsterra.com
 DOMAIN-SUFFIX,email.awscloud.com
 DOMAIN-SUFFIX,email.elitedangerous.com
 DOMAIN-SUFFIX,email.procook.co.uk
 DOMAIN-SUFFIX,email.*.skyeng.ru
 DOMAIN-SUFFIX,envato.market
 DOMAIN-SUFFIX,equifaxps.122.2o7.net
-DOMAIN-SUFFIX,eta.affiliates.adsterra.com
-DOMAIN-SUFFIX,eta.partners.adsterra.com
-DOMAIN-SUFFIX,eta.publishers.adsterra.com
 DOMAIN-SUFFIX,eum-blue-saas.instana.io
 DOMAIN-SUFFIX,feadrope.net
 DOMAIN-SUFFIX,feed.adrelayer.com
-DOMAIN-SUFFIX,ffiliates.adsterra.com
 DOMAIN-SUFFIX,forum.notebookreview.com
+DOMAIN-SUFFIX,ftp.bmp.ovh
 DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,go.scorptec.com.au
 DOMAIN-SUFFIX,goto.target.com
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,gs.statcounter.com
 DOMAIN-SUFFIX,guce.advertising.com
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,health.halodoc.com
+DOMAIN-SUFFIX,help-advertisers.adsterra.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,href.li
 DOMAIN-SUFFIX,h-sdk.online-metrix.net
@@ -143,20 +145,20 @@ DOMAIN-SUFFIX,official.paymaya.com
 DOMAIN-SUFFIX,omniture.walmart.com
 DOMAIN-SUFFIX,omsc.kpn.com
 DOMAIN-SUFFIX,oneline.nextday.media
-DOMAIN-SUFFIX,ore.crazyegg.com
 DOMAIN-SUFFIX,pagead.l.doubleclick.net
 DOMAIN-SUFFIX,partner.kards.qip.ru
+DOMAIN-SUFFIX,partners.adsterra.com
 DOMAIN-SUFFIX,pass.yandex.kz
 DOMAIN-SUFFIX,pass.yandex.ru
 DOMAIN-SUFFIX,pgpartner.com
 DOMAIN-SUFFIX,pics.porn300.com
 DOMAIN-SUFFIX,pics.porndroids.com
-DOMAIN-SUFFIX,pp.crazyegg.com
 DOMAIN-SUFFIX,privat24.privatbank.ua
 DOMAIN-SUFFIX,promo.gramedia.com
 DOMAIN-SUFFIX,proto2ad.durasite.net
 DOMAIN-SUFFIX,pt.afl.rakuten.co.jp
 DOMAIN-SUFFIX,public-cis.exponea.com
+DOMAIN-SUFFIX,publishers.adsterra.com
 DOMAIN-SUFFIX,puma.112.2o7.net
 DOMAIN-SUFFIX,radiofrance.targetspot.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
@@ -183,11 +185,9 @@ DOMAIN-SUFFIX,thumb.oloadcdn.net
 DOMAIN-SUFFIX,thumbor.thedailymeal.com
 DOMAIN-SUFFIX,tlaol.com
 DOMAIN-SUFFIX,torimochi.line-apps.com
-DOMAIN-SUFFIX,tp.bmp.ovh
 DOMAIN-SUFFIX,track2.royalmail.com
 DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,track.rutarget.ru
-DOMAIN-SUFFIX,ublishers.adsterra.com
 DOMAIN-SUFFIX,uobsoe.com
 DOMAIN-SUFFIX,validate.perfdrive.com
 DOMAIN-SUFFIX,vcentry3.valuecommerce.ne.jp
