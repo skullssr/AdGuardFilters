@@ -1,9 +1,9 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-28 04:34:49
-# DOMAIN-SUFFIX: 500
-# TOTAL: 500
+# UPDATED: 2022-09-29 04:48:33
+# DOMAIN-SUFFIX: 501
+# TOTAL: 501
 DOMAIN-SUFFIX,0fsq1fgipb.ru
 DOMAIN-SUFFIX,0p1ohj2f5f.ru
 DOMAIN-SUFFIX,1p3opxwwet.ru
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,brandings.kanobu.ru
 DOMAIN-SUFFIX,brekl.wigeo.ru
 DOMAIN-SUFFIX,brend.hdkinoshka.net
 DOMAIN-SUFFIX,brocode1s.com
+DOMAIN-SUFFIX,brocode3s.com
 DOMAIN-SUFFIX,bs.orsk.ru
 DOMAIN-SUFFIX,b.stranamam.ru
 DOMAIN-SUFFIX,bugaga.tut.by
