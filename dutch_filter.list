@@ -1,14 +1,21 @@
 # NAME: DutchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:25:03
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# UPDATED: 2022-09-30 04:51:25
+# DOMAIN-SUFFIX: 43
+# TOTAL: 43
 DOMAIN-SUFFIX,aa.tweakers.nl
 DOMAIN-SUFFIX,ab.tweakers.nl
+DOMAIN-SUFFIX,adconfigproxy.azurewebsites.net
+DOMAIN-SUFFIX,adrequest.net
+DOMAIN-SUFFIX,adshim.com
 DOMAIN-SUFFIX,advertising-cdn.dpgmedia.cloud
 DOMAIN-SUFFIX,advertising-module.api.dpgmedia.cloud
+DOMAIN-SUFFIX,affiliatepartners.com
+DOMAIN-SUFFIX,affiliateprogramma.eu
 DOMAIN-SUFFIX,a.medialaancdn.be
+DOMAIN-SUFFIX,believe-the-hype.be
+DOMAIN-SUFFIX,botndm.nl
 DOMAIN-SUFFIX,content1.pcmweb.nl
 DOMAIN-SUFFIX,content1.pu.nl
 DOMAIN-SUFFIX,content1.wasmachines.nl
@@ -21,5 +28,22 @@ DOMAIN-SUFFIX,content2.wasmachines.nl
 DOMAIN-SUFFIX,content2.zoom.nl
 DOMAIN-SUFFIX,crnsgngrpj.nl
 DOMAIN-SUFFIX,dntblckmpls.nl
+DOMAIN-SUFFIX,ds1.nl
+DOMAIN-SUFFIX,dt51.net
+DOMAIN-SUFFIX,dt71.net
+DOMAIN-SUFFIX,gratis-neuken.com
 DOMAIN-SUFFIX,nojazz.eu
+DOMAIN-SUFFIX,nonstoppartner.net
+DOMAIN-SUFFIX,online-banners.nl
+DOMAIN-SUFFIX,optoutadvertising.com
+DOMAIN-SUFFIX,partner.bol.com
+DOMAIN-SUFFIX,pexi.nl
+DOMAIN-SUFFIX,sp.dpgmedia.net
+DOMAIN-SUFFIX,sponsorkliks.com
+DOMAIN-SUFFIX,static-dscn.net
+DOMAIN-SUFFIX,t.bazarow.com
+DOMAIN-SUFFIX,tools.islive.nl
+DOMAIN-SUFFIX,travelads.be
 DOMAIN-SUFFIX,viadata.store
+DOMAIN-SUFFIX,vpscash.nl
+DOMAIN-SUFFIX,xpartners.nl

@@ -1,0 +1,10 @@
+# NAME: ExperimentalFilter
+# AUTHOR: skullssr
+# REPO: https://github.com/skullssr/AdGuardFilters
+# UPDATED: 2022-09-30 04:51:43
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,android.test.filter
+DOMAIN-SUFFIX,chrome.test.filter.com
+DOMAIN-SUFFIX,windows.filter
+DOMAIN-SUFFIX,windows.test.filter

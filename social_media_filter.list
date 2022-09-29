@@ -1,8 +1,63 @@
 # NAME: SocialMediaFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:21:45
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2022-09-30 04:47:45
+# DOMAIN-SUFFIX: 57
+# TOTAL: 57
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,button.flattr.com
+DOMAIN-SUFFIX,button-follow.zalo.me
+DOMAIN-SUFFIX,button-share.zalo.me
+DOMAIN-SUFFIX,cdn.wibiya.com
+DOMAIN-SUFFIX,changetip.com
+DOMAIN-SUFFIX,coverweb.org
+DOMAIN-SUFFIX,filamentapp-assets.s3.amazonaws.com
+DOMAIN-SUFFIX,filamentapp.s3.amazonaws.com
+DOMAIN-SUFFIX,friends2follow.com
+DOMAIN-SUFFIX,getbtn.com
+DOMAIN-SUFFIX,getbutton.io
+DOMAIN-SUFFIX,goodshare.ru
 DOMAIN-SUFFIX,instagram.astv.ru
+DOMAIN-SUFFIX,jsoon.digitiminimi.com
 DOMAIN-SUFFIX,knopka.fishurl.ru
+DOMAIN-SUFFIX,lessbuttons.com
+DOMAIN-SUFFIX,likebtn.com
+DOMAIN-SUFFIX,linksalpha.com
+DOMAIN-SUFFIX,mailget.net
+DOMAIN-SUFFIX,mediabuttons.ru
+DOMAIN-SUFFIX,my.hellobar.com
+DOMAIN-SUFFIX,nwidget.networkedblogs.com
+DOMAIN-SUFFIX,omt.shinobi.jp
+DOMAIN-SUFFIX,platform.linkedin.com
+DOMAIN-SUFFIX,plusone.google.com
+DOMAIN-SUFFIX,shareaholic.com
+DOMAIN-SUFFIX,share.baidu.com
+DOMAIN-SUFFIX,share-count.donreach.com
+DOMAIN-SUFFIX,share.donreach.com
+DOMAIN-SUFFIX,share.gree.jp
+DOMAIN-SUFFIX,share.itraffic.su
+DOMAIN-SUFFIX,share.pluso.ru
+DOMAIN-SUFFIX,sharethis.com
+DOMAIN-SUFFIX,share.yandex.net
+DOMAIN-SUFFIX,share.yandex.ru
+DOMAIN-SUFFIX,shorte.st
+DOMAIN-SUFFIX,snapwidget.com
+DOMAIN-SUFFIX,static.hootsuite.com
+DOMAIN-SUFFIX,sumome-140a.kxcdn.com
+DOMAIN-SUFFIX,taboolasyndication.com
+DOMAIN-SUFFIX,tgwidget.com
+DOMAIN-SUFFIX,traq.li
+DOMAIN-SUFFIX,twitcount.com
+DOMAIN-SUFFIX,twitter.countoon.com
+DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,weheartit.com
+DOMAIN-SUFFIX,widget.instodom.com
+DOMAIN-SUFFIX,widget.pushbullet.com
+DOMAIN-SUFFIX,widgets.bufferapp.com
+DOMAIN-SUFFIX,widgets-code.websta.me
+DOMAIN-SUFFIX,widgets.getpocket.com
+DOMAIN-SUFFIX,woobox.com
+DOMAIN-SUFFIX,w.uptolike.com
+DOMAIN-SUFFIX,xing-share.com
+DOMAIN-SUFFIX,xn--r1a.website
+DOMAIN-SUFFIX,x.pluso.ru

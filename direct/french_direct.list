@@ -1,9 +1,33 @@
 # NAME: FrenchDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-27 04:45:41
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2022-09-30 04:51:16
+# DOMAIN-SUFFIX: 27
+# TOTAL: 27
+DOMAIN-SUFFIX,9docu.org
+DOMAIN-SUFFIX,adpop.me
+DOMAIN-SUFFIX,adyou.me
+DOMAIN-SUFFIX,adzeni.com
+DOMAIN-SUFFIX,allfoot.info
+DOMAIN-SUFFIX,bilan.ch
+DOMAIN-SUFFIX,bleachmx.fr
+DOMAIN-SUFFIX,cookomix.com
+DOMAIN-SUFFIX,cpmlink.net
 DOMAIN-SUFFIX,dl.unlockapk.com
+DOMAIN-SUFFIX,eclypsia.com
+DOMAIN-SUFFIX,eurosport.fr
+DOMAIN-SUFFIX,grazia.fr
+DOMAIN-SUFFIX,klcheck.com
+DOMAIN-SUFFIX,olympine.com
+DOMAIN-SUFFIX,playerhd2.pw
+DOMAIN-SUFFIX,qub.ca
+DOMAIN-SUFFIX,radio.fr
+DOMAIN-SUFFIX,sospc.name
+DOMAIN-SUFFIX,svonm.com
+DOMAIN-SUFFIX,tf1.fr
+DOMAIN-SUFFIX,tf1info.fr
 DOMAIN-SUFFIX,thumb.oloadcdn.net
+DOMAIN-SUFFIX,toplien.fr
+DOMAIN-SUFFIX,torrent9.uno
+DOMAIN-SUFFIX,uploadx.link
 DOMAIN-SUFFIX,www*.tusfiles.net
