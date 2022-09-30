@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-30 04:47:29
+# UPDATED: 2022-10-01 04:47:21
 # DOMAIN-SUFFIX: 19047
 # TOTAL: 19047
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -1882,6 +1882,7 @@ DOMAIN-SUFFIX,a.intercityhotel.com
 DOMAIN-SUFFIX,a.ipoque.com
 DOMAIN-SUFFIX,air360tracker.net
 DOMAIN-SUFFIX,aircanada.tt.omtrdc.net
+DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,ajaralarm.com
 DOMAIN-SUFFIX,a.jaz-hotel.com
@@ -8640,7 +8641,6 @@ DOMAIN-SUFFIX,marketing.aten.com
 DOMAIN-SUFFIX,marketing.atlanticcitynj.com
 DOMAIN-SUFFIX,marketing.atlanticdiagnosticlaboratories.com
 DOMAIN-SUFFIX,marketing.atlanticlabequipment.com
-DOMAIN-SUFFIX,marketingautomation.services
 DOMAIN-SUFFIX,marketing.autozonemecanicos.com
 DOMAIN-SUFFIX,marketing.avantage.nl
 DOMAIN-SUFFIX,marketing.avidiahealth.com
