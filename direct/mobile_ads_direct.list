@@ -1,7 +1,15 @@
 # NAME: MobileAdsDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-24 09:25:34
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2022-09-30 16:25:44
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+DOMAIN-SUFFIX,15min.lt
+DOMAIN-SUFFIX,dallasnews.com
+DOMAIN-SUFFIX,farmeramania.de
+DOMAIN-SUFFIX,m.beautypageants.in
+DOMAIN-SUFFIX,news.internet.apps.samsung.com
 DOMAIN-SUFFIX,pics.porndroids.com
+DOMAIN-SUFFIX,publico.pt
+DOMAIN-SUFFIX,synonymbog.com
+DOMAIN-SUFFIX,usgamer.net
