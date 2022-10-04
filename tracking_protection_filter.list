@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-04 05:12:57
-# DOMAIN-SUFFIX: 24583
-# TOTAL: 24583
+# UPDATED: 2022-10-05 04:48:12
+# DOMAIN-SUFFIX: 24585
+# TOTAL: 24585
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3062,6 +3062,7 @@ DOMAIN-SUFFIX,analyticsnew.overwolf.com
 DOMAIN-SUFFIX,analytics.newscred.com
 DOMAIN-SUFFIX,analytics.newsinc.com
 DOMAIN-SUFFIX,analytics.nextopia.net
+DOMAIN-SUFFIX,analytics.ngs55.ru
 DOMAIN-SUFFIX,analytics.nordea.com
 DOMAIN-SUFFIX,analytics.nordea.dk
 DOMAIN-SUFFIX,analytics.nordea.fi
@@ -4277,6 +4278,7 @@ DOMAIN-SUFFIX,bitbucket-lululemonusa.tt.omtrdc.net
 DOMAIN-SUFFIX,bitdefender.tt.omtrdc.net
 DOMAIN-SUFFIX,bitterbear.com
 DOMAIN-SUFFIX,bi.tt.omtrdc.net
+DOMAIN-SUFFIX,biv.gazeta.pl
 DOMAIN-SUFFIX,biz1.kddi.com
 DOMAIN-SUFFIX,bizcover.tt.omtrdc.net
 DOMAIN-SUFFIX,bizible.com
@@ -12186,7 +12188,6 @@ DOMAIN-SUFFIX,meadowlark.bump.sh
 DOMAIN-SUFFIX,meapk.com
 DOMAIN-SUFFIX,measuread.com
 DOMAIN-SUFFIX,measure.ensighten.com
-DOMAIN-SUFFIX,measure.ic.tver.jp
 DOMAIN-SUFFIX,measure.ly
 DOMAIN-SUFFIX,measuremap.com
 DOMAIN-SUFFIX,measurementapi.com
@@ -15146,6 +15147,7 @@ DOMAIN-SUFFIX,prospecteye.com
 DOMAIN-SUFFIX,prospex.actonservice.com
 DOMAIN-SUFFIX,protectcrev.com
 DOMAIN-SUFFIX,protectsubrev.com
+DOMAIN-SUFFIX,protestcopy.com
 DOMAIN-SUFFIX,protosell.actonservice.com
 DOMAIN-SUFFIX,protys.protys.fr
 DOMAIN-SUFFIX,proudprose.com
