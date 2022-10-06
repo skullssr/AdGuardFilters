@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-06 04:49:10
-# DOMAIN-SUFFIX: 24589
-# TOTAL: 24589
+# UPDATED: 2022-10-07 04:49:05
+# DOMAIN-SUFFIX: 24588
+# TOTAL: 24588
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2623,7 +2623,6 @@ DOMAIN-SUFFIX,alertsatwork.americanexpress.com
 DOMAIN-SUFFIX,alexacdn.com
 DOMAIN-SUFFIX,alexadev.tt.omtrdc.net
 DOMAIN-SUFFIX,alexametrics.com
-DOMAIN-SUFFIX,alexatracker.com
 DOMAIN-SUFFIX,alfeza.vueling.com
 DOMAIN-SUFFIX,al.fulcloset.jp
 DOMAIN-SUFFIX,al.ganzo.ne.jp
@@ -4014,7 +4013,6 @@ DOMAIN-SUFFIX,bawdybalance.com
 DOMAIN-SUFFIX,bawdybeast.com
 DOMAIN-SUFFIX,bawdypets.com
 DOMAIN-SUFFIX,b-aws.aol.com
-DOMAIN-SUFFIX,b-aws.huffingtonpost.com
 DOMAIN-SUFFIX,baynote.net
 DOMAIN-SUFFIX,bb33sticksexchangepart.tt.omtrdc.net
 DOMAIN-SUFFIX,bb8.aotter.net
@@ -4238,7 +4236,6 @@ DOMAIN-SUFFIX,bhcumsc.com
 DOMAIN-SUFFIX,bh.mboxedge18-tyo2.tt.omtrdc.net
 DOMAIN-SUFFIX,bhs4.com
 DOMAIN-SUFFIX,bh.samsungcanada.tt.omtrdc.net
-DOMAIN-SUFFIX,b.huffingtonpost.com
 DOMAIN-SUFFIX,bhxemw.charleskeith.com
 DOMAIN-SUFFIX,bia.brightinfo.com
 DOMAIN-SUFFIX,bidder.mdspinc.com
@@ -19951,6 +19948,7 @@ DOMAIN-SUFFIX,stats.koehrer.de
 DOMAIN-SUFFIX,stats.kongressen.com
 DOMAIN-SUFFIX,stats.krauss.io
 DOMAIN-SUFFIX,stats.kryptoslogic.com
+DOMAIN-SUFFIX,stats.landingi.com
 DOMAIN-SUFFIX,stats.larsroettig.dev
 DOMAIN-SUFFIX,stats.lastfm.matthiasloibl.com
 DOMAIN-SUFFIX,stats.laxallstars.com
@@ -21156,6 +21154,7 @@ DOMAIN-SUFFIX,tester3m.tt.omtrdc.net
 DOMAIN-SUFFIX,testerhelvetia.tt.omtrdc.net
 DOMAIN-SUFFIX,tester-mboxedge34.tt.omtrdc.net
 DOMAIN-SUFFIX,testingdeltadentalca.tt.omtrdc.net
+DOMAIN-SUFFIX,testingmetriksbre.ru
 DOMAIN-SUFFIX,test-nintendoofamerica.tt.omtrdc.net
 DOMAIN-SUFFIX,test.shigoto-web.com
 DOMAIN-SUFFIX,te.supportfreecontent.com

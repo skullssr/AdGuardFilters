@@ -1,10 +1,12 @@
 # NAME: DutchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-30 04:51:25
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# UPDATED: 2022-10-07 04:53:01
+# DOMAIN-SUFFIX: 45
+# TOTAL: 45
+DOMAIN-SUFFIX,aa.hwigroup.com
 DOMAIN-SUFFIX,aa.tweakers.nl
+DOMAIN-SUFFIX,ab.hwigroup.com
 DOMAIN-SUFFIX,ab.tweakers.nl
 DOMAIN-SUFFIX,adconfigproxy.azurewebsites.net
 DOMAIN-SUFFIX,adrequest.net
