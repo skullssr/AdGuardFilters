@@ -1,9 +1,9 @@
 # NAME: JapaneseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-30 16:25:37
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
+# UPDATED: 2022-10-11 04:52:27
+# DOMAIN-SUFFIX: 23
+# TOTAL: 23
 DOMAIN-SUFFIX,ad-contents.jp
 DOMAIN-SUFFIX,cmnw.jp
 DOMAIN-SUFFIX,d-navi004.com
@@ -17,8 +17,10 @@ DOMAIN-SUFFIX,mushinavi.com
 DOMAIN-SUFFIX,my0nio.seesaa.net
 DOMAIN-SUFFIX,nasubiblog.com
 DOMAIN-SUFFIX,nazolog.com
+DOMAIN-SUFFIX,realtime-chart.info
 DOMAIN-SUFFIX,repeat-drama.info
 DOMAIN-SUFFIX,ronron-blog.com
+DOMAIN-SUFFIX,sekai-kabuka.com
 DOMAIN-SUFFIX,shindan-apps.net
 DOMAIN-SUFFIX,shopping-now.jp
 DOMAIN-SUFFIX,teachios.com

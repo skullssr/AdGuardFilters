@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-01 04:49:07
-# DOMAIN-SUFFIX: 402
-# TOTAL: 402
+# UPDATED: 2022-10-11 04:50:17
+# DOMAIN-SUFFIX: 403
+# TOTAL: 403
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,ad.jaumo.com
 DOMAIN-SUFFIX,adklick.de
 DOMAIN-SUFFIX,adklick.net
 DOMAIN-SUFFIX,admanagement.ch
+DOMAIN-SUFFIX,ad-mix.de
 DOMAIN-SUFFIX,ad.netzquadrat.de
 DOMAIN-SUFFIX,adnited.net
 DOMAIN-SUFFIX,ad-pay.de
