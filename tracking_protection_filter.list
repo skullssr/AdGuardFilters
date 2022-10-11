@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-11 04:48:30
-# DOMAIN-SUFFIX: 26613
-# TOTAL: 26613
+# UPDATED: 2022-10-12 04:48:32
+# DOMAIN-SUFFIX: 26617
+# TOTAL: 26617
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -8807,6 +8807,7 @@ DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,events.release.narrativ.com
 DOMAIN-SUFFIX,events.sd-nbb.de
 DOMAIN-SUFFIX,events.splash-screen.net
+DOMAIN-SUFFIX,events.split.io
 DOMAIN-SUFFIX,events.splunk.com
 DOMAIN-SUFFIX,events-stream-svc.cordial.com
 DOMAIN-SUFFIX,events-stream-svc.usw2.cordial.com
@@ -17497,6 +17498,7 @@ DOMAIN-SUFFIX,rt.applvn.com
 DOMAIN-SUFFIX,rtax.criteo.com
 DOMAIN-SUFFIX,rtbanalytics.com
 DOMAIN-SUFFIX,rtb.softcube.com
+DOMAIN-SUFFIX,rtc.dymatrix.cloud
 DOMAIN-SUFFIX,rt.flix360.com
 DOMAIN-SUFFIX,rtldisneyfernsehengm.tt.omtrdc.net
 DOMAIN-SUFFIX,rtl.met.vgwort.de
@@ -23565,6 +23567,7 @@ DOMAIN-SUFFIX,tracker.realclearpolitics.com
 DOMAIN-SUFFIX,tracker-rec.smart-bdash.com
 DOMAIN-SUFFIX,tracker.redditmedia.com
 DOMAIN-SUFFIX,tracker.relaido.jp
+DOMAIN-SUFFIX,tracker.remp-beam.golem.de
 DOMAIN-SUFFIX,tracker.remp.impresa.pt
 DOMAIN-SUFFIX,tracker.remp.sme.sk
 DOMAIN-SUFFIX,tracker.revip.info
@@ -23696,6 +23699,7 @@ DOMAIN-SUFFIX,tracking.cspire.com
 DOMAIN-SUFFIX,tracking.deluxe-marketing.com
 DOMAIN-SUFFIX,tracking.diginetica.net
 DOMAIN-SUFFIX,tracking.digitalbooker.com
+DOMAIN-SUFFIX,tracking.digitalocean.com
 DOMAIN-SUFFIX,tracking.directservices.it
 DOMAIN-SUFFIX,tracking.direxion.com
 DOMAIN-SUFFIX,tracking.discountid.com
