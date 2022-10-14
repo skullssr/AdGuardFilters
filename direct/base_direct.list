@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-13 04:44:35
-# DOMAIN-SUFFIX: 3096
-# TOTAL: 3096
+# UPDATED: 2022-10-15 04:44:34
+# DOMAIN-SUFFIX: 3097
+# TOTAL: 3097
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,ads.kazakh-zerno.net
 DOMAIN-SUFFIX,adslinkfly.online
 DOMAIN-SUFFIX,adslink.pw
 DOMAIN-SUFFIX,ads.listonic.com
+DOMAIN-SUFFIX,ads.lollipod.de
 DOMAIN-SUFFIX,ads.microsoft.com
 DOMAIN-SUFFIX,ads.midwayusa.com
 DOMAIN-SUFFIX,ads.pinterest.com
