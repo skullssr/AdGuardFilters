@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-15 04:48:45
-# DOMAIN-SUFFIX: 26623
-# TOTAL: 26623
+# UPDATED: 2022-10-17 04:48:02
+# DOMAIN-SUFFIX: 26625
+# TOTAL: 26625
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -4852,6 +4852,7 @@ DOMAIN-SUFFIX,beacon-1.newrelic.com
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,beacon.carfax.com
 DOMAIN-SUFFIX,beacon.digima.com
+DOMAIN-SUFFIX,beacon.dropbox.com
 DOMAIN-SUFFIX,beacon.ehow.com
 DOMAIN-SUFFIX,beacon.examiner.com
 DOMAIN-SUFFIX,beacon-fullpage-predictor.goguardian.com
@@ -17326,6 +17327,7 @@ DOMAIN-SUFFIX,restisbench.com
 DOMAIN-SUFFIX,restricted.academysportsandoutd.tt.omtrdc.net
 DOMAIN-SUFFIX,restricted.bankofamerica.tt.omtrdc.net
 DOMAIN-SUFFIX,res-x.com
+DOMAIN-SUFFIX,retargetapp.com
 DOMAIN-SUFFIX,retargeter.com.br
 DOMAIN-SUFFIX,retargeting.biz
 DOMAIN-SUFFIX,retargeting.newsmanapp.com
