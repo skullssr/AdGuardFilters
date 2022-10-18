@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-18 04:47:42
-# DOMAIN-SUFFIX: 23032
-# TOTAL: 23032
+# UPDATED: 2022-10-19 04:47:38
+# DOMAIN-SUFFIX: 23038
+# TOTAL: 23038
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3740,6 +3740,7 @@ DOMAIN-SUFFIX,at.deutsche-bank.de
 DOMAIN-SUFFIX,atdmt.com
 DOMAIN-SUFFIX,a.telenor.se
 DOMAIN-SUFFIX,a.telus.com
+DOMAIN-SUFFIX,a.thelocal.com
 DOMAIN-SUFFIX,athena-abbvieinc.tt.omtrdc.net
 DOMAIN-SUFFIX,athena.abercrombie.tt.omtrdc.net
 DOMAIN-SUFFIX,athena.absa.tt.omtrdc.net
@@ -4852,6 +4853,7 @@ DOMAIN-SUFFIX,clamcelery.com
 DOMAIN-SUFFIX,clam.figmachina.com
 DOMAIN-SUFFIX,clam.mglaman.dev
 DOMAIN-SUFFIX,clanker-events.squarespace.com
+DOMAIN-SUFFIX,clarice.streema.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,claritytag.com
 DOMAIN-SUFFIX,clarivoy.com
@@ -7310,6 +7312,7 @@ DOMAIN-SUFFIX,event-collector.prd.data.s.joyn.de
 DOMAIN-SUFFIX,event.collector.scopely.io
 DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,event.condenastdigital.com
+DOMAIN-SUFFIX,event.csdn.net
 DOMAIN-SUFFIX,event.demirorenteknoloji.com
 DOMAIN-SUFFIX,event.dengage.com
 DOMAIN-SUFFIX,event.getblue.io
@@ -11859,6 +11862,7 @@ DOMAIN-SUFFIX,metrics.uol.com.br
 DOMAIN-SUFFIX,metric.superpages.com
 DOMAIN-SUFFIX,metrics.ups.com
 DOMAIN-SUFFIX,metrics.usbank.com
+DOMAIN-SUFFIX,metrics.userguiding.com
 DOMAIN-SUFFIX,metrics.us.levi.com
 DOMAIN-SUFFIX,metrics.usopen.org
 DOMAIN-SUFFIX,metrics.us.playstation.com
@@ -12241,6 +12245,7 @@ DOMAIN-SUFFIX,msioay.backcountry.com
 DOMAIN-SUFFIX,msmetrics.ws.sonos.com
 DOMAIN-SUFFIX,msr.p-antiaging.com
 DOMAIN-SUFFIX,mstat.acestream.net
+DOMAIN-SUFFIX,mstm.motorsport.com
 DOMAIN-SUFFIX,ms.topschooljobs.org
 DOMAIN-SUFFIX,mstracker.net
 DOMAIN-SUFFIX,msufcu.actonservice.com
@@ -13414,6 +13419,7 @@ DOMAIN-SUFFIX,pciokm.glamuse.com
 DOMAIN-SUFFIX,p.classroombookings.com
 DOMAIN-SUFFIX,pclicks.com
 DOMAIN-SUFFIX,pclick.yahoo.com
+DOMAIN-SUFFIX,pclog.i4.cn
 DOMAIN-SUFFIX,pc.personalcreations.com
 DOMAIN-SUFFIX,pcspeedup.com
 DOMAIN-SUFFIX,p.data.cctv.com
@@ -19562,6 +19568,7 @@ DOMAIN-SUFFIX,telemetry.swe.quicinc.com
 DOMAIN-SUFFIX,telemetry.swiftkey.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry.voxeet.com
+DOMAIN-SUFFIX,telem.sre.gopuff.com
 DOMAIN-SUFFIX,telenor.tt.omtrdc.net
 DOMAIN-SUFFIX,teleport.soom.la
 DOMAIN-SUFFIX,te.limango.de
@@ -21759,7 +21766,6 @@ DOMAIN-SUFFIX,usereachpeople.com
 DOMAIN-SUFFIX,userexperience.thehut.net
 DOMAIN-SUFFIX,userlook.com
 DOMAIN-SUFFIX,userneeds.dk
-DOMAIN-SUFFIX,user-rating.burda-forward.de
 DOMAIN-SUFFIX,userreplay.net
 DOMAIN-SUFFIX,userreport.com
 DOMAIN-SUFFIX,userreporting.cloud.unity3d.com
