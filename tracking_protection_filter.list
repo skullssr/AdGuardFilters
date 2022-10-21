@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-20 04:48:26
-# DOMAIN-SUFFIX: 25151
-# TOTAL: 25151
+# UPDATED: 2022-10-22 04:48:01
+# DOMAIN-SUFFIX: 25154
+# TOTAL: 25154
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2960,6 +2960,7 @@ DOMAIN-SUFFIX,analytic.imlive.com
 DOMAIN-SUFFIX,analytic.piri.net
 DOMAIN-SUFFIX,analytic.press
 DOMAIN-SUFFIX,analytic.rocks
+DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,analytics1.dillards.com
 DOMAIN-SUFFIX,analytics.247sports.com
 DOMAIN-SUFFIX,analytics2.awsli.com.br
@@ -5217,6 +5218,7 @@ DOMAIN-SUFFIX,collector-cdn.github.com
 DOMAIN-SUFFIX,collector.cdp.cnn.com
 DOMAIN-SUFFIX,collector-dev.cdp-dev.cnn.com
 DOMAIN-SUFFIX,collector.doordash.com
+DOMAIN-SUFFIX,collector.fiverr.com
 DOMAIN-SUFFIX,collector.getyourguide.com
 DOMAIN-SUFFIX,collector.githubapp.com
 DOMAIN-SUFFIX,collector.github.com
@@ -14256,6 +14258,7 @@ DOMAIN-SUFFIX,news.valawyersweekly.com
 DOMAIN-SUFFIX,newt.javier.dev
 DOMAIN-SUFFIX,newtrackmedia.com
 DOMAIN-SUFFIX,newyorklifeinsurance.tt.omtrdc.net
+DOMAIN-SUFFIX,nex.163.com
 DOMAIN-SUFFIX,nexeps.com
 DOMAIN-SUFFIX,nexipayments.tt.omtrdc.net
 DOMAIN-SUFFIX,nextclick.pl
@@ -16151,6 +16154,7 @@ DOMAIN-SUFFIX,rejectfairies.com
 DOMAIN-SUFFIX,rejestr.org
 DOMAIN-SUFFIX,rejseplanen.tns-gallup.dk
 DOMAIN-SUFFIX,relap.io
+DOMAIN-SUFFIX,relay.fiverr.com
 DOMAIN-SUFFIX,relead.com
 DOMAIN-SUFFIX,relevant-digital.com
 DOMAIN-SUFFIX,releventsportsllc.tt.omtrdc.net
@@ -23631,7 +23635,6 @@ DOMAIN-SUFFIX,tyvjyt.rivers.com.au
 DOMAIN-SUFFIX,tyxo.bg
 DOMAIN-SUFFIX,tyxo.com
 DOMAIN-SUFFIX,t*.zcvh.net
-DOMAIN-SUFFIX,tzegilo.com
 DOMAIN-SUFFIX,t.zhipin.com
 DOMAIN-SUFFIX,tz.met.vgwort.de
 DOMAIN-SUFFIX,tzovkp.aboutyou.at

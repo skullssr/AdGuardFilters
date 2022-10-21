@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-21 04:44:06
+# UPDATED: 2022-10-22 04:44:08
 # DOMAIN-SUFFIX: 3107
 # TOTAL: 3107
 DOMAIN-SUFFIX,0123movies.com
@@ -1476,6 +1476,7 @@ DOMAIN-SUFFIX,komorkomania.pl
 DOMAIN-SUFFIX,kompas.com
 DOMAIN-SUFFIX,komputerswiat.pl
 DOMAIN-SUFFIX,konosubamanga.com
+DOMAIN-SUFFIX,koora.golato.tv
 DOMAIN-SUFFIX,koreanaddict.net
 DOMAIN-SUFFIX,kostenloseklingeltone.com
 DOMAIN-SUFFIX,kostenloslivetv.blogspot.com
@@ -2116,7 +2117,6 @@ DOMAIN-SUFFIX,pocaodemana.com
 DOMAIN-SUFFIX,pointsrecipes.com
 DOMAIN-SUFFIX,pokefetch.com
 DOMAIN-SUFFIX,pokemonexotic.net
-DOMAIN-SUFFIX,poketory.com
 DOMAIN-SUFFIX,polim-tv.blogspot.com
 DOMAIN-SUFFIX,politics-dz.com
 DOMAIN-SUFFIX,polskieszlaki.pl
