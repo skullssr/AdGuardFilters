@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-06 04:37:45
-# DOMAIN-SUFFIX: 127
-# TOTAL: 127
+# UPDATED: 2022-10-25 04:37:04
+# DOMAIN-SUFFIX: 122
+# TOTAL: 122
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,analytics.amplitude.com
 DOMAIN-SUFFIX,anwb.webpower.eu
 DOMAIN-SUFFIX,api.ads.tvb.com
 DOMAIN-SUFFIX,api-v*.trbo.com
-DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
 DOMAIN-SUFFIX,app.crazyegg.com
@@ -70,7 +69,6 @@ DOMAIN-SUFFIX,eum-blue-saas.instana.io
 DOMAIN-SUFFIX,feed.adrelayer.com
 DOMAIN-SUFFIX,forum.notebookreview.com
 DOMAIN-SUFFIX,ftp.bmp.ovh
-DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,go.scorptec.com.au
 DOMAIN-SUFFIX,goto.target.com
 DOMAIN-SUFFIX,goto.walmart.com
@@ -82,10 +80,8 @@ DOMAIN-SUFFIX,health.halodoc.com
 DOMAIN-SUFFIX,help-advertisers.adsterra.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,href.li
-DOMAIN-SUFFIX,h-sdk.online-metrix.net
 DOMAIN-SUFFIX,ia.hit.interia.pl
 DOMAIN-SUFFIX,id.i2i.jp
-DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,img.ads.tvb.com
 DOMAIN-SUFFIX,intersport.peerius.com
 DOMAIN-SUFFIX,link.morningbrew.com
@@ -115,7 +111,6 @@ DOMAIN-SUFFIX,publishers.adsterra.com
 DOMAIN-SUFFIX,radiofrance.targetspot.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
 DOMAIN-SUFFIX,redir.tradedoubler.com
-DOMAIN-SUFFIX,r.sascdn.com
 DOMAIN-SUFFIX,stash.roistat.com
 DOMAIN-SUFFIX,static-v*.trbo.com
 DOMAIN-SUFFIX,str.hit.gemius.pl
