@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-10-25 04:37:04
-# DOMAIN-SUFFIX: 122
-# TOTAL: 122
+# UPDATED: 2022-11-01 05:09:25
+# DOMAIN-SUFFIX: 123
+# TOTAL: 123
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,ia.hit.interia.pl
 DOMAIN-SUFFIX,id.i2i.jp
 DOMAIN-SUFFIX,img.ads.tvb.com
 DOMAIN-SUFFIX,intersport.peerius.com
+DOMAIN-SUFFIX,js.monitor.azure.com
 DOMAIN-SUFFIX,link.morningbrew.com
 DOMAIN-SUFFIX,links.e.theatlantic.com
 DOMAIN-SUFFIX,links.getblueshift.com

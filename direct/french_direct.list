@@ -1,25 +1,17 @@
 # NAME: FrenchDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-09-30 16:25:36
-# DOMAIN-SUFFIX: 64
-# TOTAL: 64
+# UPDATED: 2022-11-01 05:24:30
+# DOMAIN-SUFFIX: 48
+# TOTAL: 48
 DOMAIN-SUFFIX,9docu.org
-DOMAIN-SUFFIX,adpop.me
-DOMAIN-SUFFIX,adyou.me
-DOMAIN-SUFFIX,adzeni.com
 DOMAIN-SUFFIX,allfoot.info
 DOMAIN-SUFFIX,animes-mangas-ddl.net
 DOMAIN-SUFFIX,annuaire-ebook.com
 DOMAIN-SUFFIX,api.opensubtitles.org
 DOMAIN-SUFFIX,bilan.ch
-DOMAIN-SUFFIX,bleachmx.fr
-DOMAIN-SUFFIX,cap-public.fr
 DOMAIN-SUFFIX,commentcamarche.net
 DOMAIN-SUFFIX,cookomix.com
-DOMAIN-SUFFIX,coolgames.com
-DOMAIN-SUFFIX,cours-de-droit.net
-DOMAIN-SUFFIX,cpmlink.net
 DOMAIN-SUFFIX,desatcabletntsof.blogspot.com
 DOMAIN-SUFFIX,desatcabletntsof.blogspot.de
 DOMAIN-SUFFIX,desatcabletntsof.blogspot.fr
@@ -28,7 +20,6 @@ DOMAIN-SUFFIX,dl.unlockapk.com
 DOMAIN-SUFFIX,eclypsia.com
 DOMAIN-SUFFIX,empire-streaming.co
 DOMAIN-SUFFIX,eurosport.fr
-DOMAIN-SUFFIX,filespace.com
 DOMAIN-SUFFIX,grazia.fr
 DOMAIN-SUFFIX,hdstreamvf.com
 DOMAIN-SUFFIX,iphonesoft.fr
@@ -37,19 +28,15 @@ DOMAIN-SUFFIX,lesacdechips.com
 DOMAIN-SUFFIX,liens-telechargement.com
 DOMAIN-SUFFIX,linternaute.com
 DOMAIN-SUFFIX,macplanete.com
-DOMAIN-SUFFIX,mobinozer.com
 DOMAIN-SUFFIX,olympine.com
 DOMAIN-SUFFIX,omgtorrent.cz
 DOMAIN-SUFFIX,playerhd2.pw
 DOMAIN-SUFFIX,protect-lien.com
 DOMAIN-SUFFIX,qub.ca
-DOMAIN-SUFFIX,radio-en-direct.fr
 DOMAIN-SUFFIX,radio.fr
 DOMAIN-SUFFIX,recreatisse.com
 DOMAIN-SUFFIX,reponsesphoto.fr
-DOMAIN-SUFFIX,sat-universe.com
 DOMAIN-SUFFIX,sofiotheque.info
-DOMAIN-SUFFIX,sospc.name
 DOMAIN-SUFFIX,streamingdivx.co
 DOMAIN-SUFFIX,streamonsport.info
 DOMAIN-SUFFIX,svonm.com
@@ -57,14 +44,11 @@ DOMAIN-SUFFIX,telechargementz.tv
 DOMAIN-SUFFIX,tf1.fr
 DOMAIN-SUFFIX,tf1info.fr
 DOMAIN-SUFFIX,thumb.oloadcdn.net
-DOMAIN-SUFFIX,toplien.fr
 DOMAIN-SUFFIX,torrent9.uno
 DOMAIN-SUFFIX,tsa-algerie.com
 DOMAIN-SUFFIX,tutoriaux-excalibur.com
-DOMAIN-SUFFIX,uploadx.link
 DOMAIN-SUFFIX,vandenbrink.fr
 DOMAIN-SUFFIX,voirseries.co
 DOMAIN-SUFFIX,www*.tusfiles.net
-DOMAIN-SUFFIX,xavierstuder.com
 DOMAIN-SUFFIX,yggtorrent.fr
 DOMAIN-SUFFIX,zone-telechargement2.net
