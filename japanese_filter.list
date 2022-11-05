@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-01 05:24:36
-# DOMAIN-SUFFIX: 337
-# TOTAL: 337
+# UPDATED: 2022-11-06 05:23:35
+# DOMAIN-SUFFIX: 326
+# TOTAL: 326
 DOMAIN-SUFFIX,10clicks.com
 DOMAIN-SUFFIX,1800cnt.com
 DOMAIN-SUFFIX,6ms.biz
@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,adingo.jp.eimg.jp
 DOMAIN-SUFFIX,ad.inter-edu.com
 DOMAIN-SUFFIX,ad.jp.ap.valuecommerce.com
 DOMAIN-SUFFIX,adjust-net.jp
-DOMAIN-SUFFIX,ad.kau.li
 DOMAIN-SUFFIX,ad.kodansha.pub
 DOMAIN-SUFFIX,ad.land.to
 DOMAIN-SUFFIX,admane.jp
@@ -51,14 +50,12 @@ DOMAIN-SUFFIX,adm.shinobi.jp
 DOMAIN-SUFFIX,ad.netowl.jp
 DOMAIN-SUFFIX,ad.net-tool.jp
 DOMAIN-SUFFIX,ad-nex.com
-DOMAIN-SUFFIX,ad.nicovideo.jp
 DOMAIN-SUFFIX,adntokyo.gunosy.com
 DOMAIN-SUFFIX,adnwif.smt.docomo.ne.jp
 DOMAIN-SUFFIX,ad.nwi.jp
 DOMAIN-SUFFIX,ad-paradise.com
 DOMAIN-SUFFIX,adp.homes.co.jp
 DOMAIN-SUFFIX,adpicker.net
-DOMAIN-SUFFIX,ad.pitta.ne.jp
 DOMAIN-SUFFIX,adplan-ds.com
 DOMAIN-SUFFIX,adplatform.jp
 DOMAIN-SUFFIX,ad.presco.asia
@@ -68,8 +65,6 @@ DOMAIN-SUFFIX,adresult-sp.jp
 DOMAIN-SUFFIX,adroute.focas.jp
 DOMAIN-SUFFIX,ads-connect.com
 DOMAIN-SUFFIX,ad-seek.jp
-DOMAIN-SUFFIX,ad-sell.com
-DOMAIN-SUFFIX,ad-shot.com
 DOMAIN-SUFFIX,ads-lite.net
 DOMAIN-SUFFIX,ads.metropolis.co.jp
 DOMAIN-SUFFIX,ads.museum.or.jp
@@ -116,7 +111,6 @@ DOMAIN-SUFFIX,a.overlay.top
 DOMAIN-SUFFIX,ap.ad-feed.com
 DOMAIN-SUFFIX,a-pagerank.net
 DOMAIN-SUFFIX,api.primecaster.net
-DOMAIN-SUFFIX,api.triver.jp
 DOMAIN-SUFFIX,api.unthem.com
 DOMAIN-SUFFIX,app.monetrack.com
 DOMAIN-SUFFIX,appollo.jp
@@ -192,7 +186,6 @@ DOMAIN-SUFFIX,genieesspv.jp
 DOMAIN-SUFFIX,geotg.jp
 DOMAIN-SUFFIX,gmossp-sp.jp
 DOMAIN-SUFFIX,goldenssp.com
-DOMAIN-SUFFIX,google-analyticals.com
 DOMAIN-SUFFIX,gsspcln.jp
 DOMAIN-SUFFIX,gum.dlbooks.to
 DOMAIN-SUFFIX,gyro-n.com
@@ -228,7 +221,6 @@ DOMAIN-SUFFIX,maio.jp
 DOMAIN-SUFFIX,maist.jp
 DOMAIN-SUFFIX,managedweb.net
 DOMAIN-SUFFIX,mcnt.jp
-DOMAIN-SUFFIX,mdotm.com
 DOMAIN-SUFFIX,media5.fc2.com
 DOMAIN-SUFFIX,mediad.co.jp
 DOMAIN-SUFFIX,media-rep.com
@@ -277,7 +269,6 @@ DOMAIN-SUFFIX,scottdwebgraphics.com
 DOMAIN-SUFFIX,sda.seesaa.jp
 DOMAIN-SUFFIX,sdqoi2d.com
 DOMAIN-SUFFIX,search.jword.jp
-DOMAIN-SUFFIX,searchteria.co.jp
 DOMAIN-SUFFIX,seedapp-creative.s3.amazonaws.com
 DOMAIN-SUFFIX,seogreat.net
 DOMAIN-SUFFIX,seoparts.com
@@ -310,7 +301,6 @@ DOMAIN-SUFFIX,trafficgate.net
 DOMAIN-SUFFIX,trafficstars.com
 DOMAIN-SUFFIX,trigs-sockets.com
 DOMAIN-SUFFIX,trustclick.ne.jp
-DOMAIN-SUFFIX,trustedvalues.ml
 DOMAIN-SUFFIX,tumabeni.com
 DOMAIN-SUFFIX,ueuodgnrhb.com
 DOMAIN-SUFFIX,uh.nakanohito.jp
@@ -337,7 +327,6 @@ DOMAIN-SUFFIX,yads.yahoo.co.jp
 DOMAIN-SUFFIX,yads.yjtag.yahoo.co.jp
 DOMAIN-SUFFIX,yicha.jp
 DOMAIN-SUFFIX,zastag.com
-DOMAIN-SUFFIX,z-profit.com
 DOMAIN-SUFFIX,zucks.net
 DOMAIN-SUFFIX,zucks.net.zimg.jp
 DOMAIN-SUFFIX,zxcvbnmasdfghjklqwertyuiop.work
