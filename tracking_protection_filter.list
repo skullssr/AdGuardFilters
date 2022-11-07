@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-05 05:34:37
-# DOMAIN-SUFFIX: 26989
-# TOTAL: 26989
+# UPDATED: 2022-11-08 05:07:00
+# DOMAIN-SUFFIX: 26991
+# TOTAL: 26991
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3132,6 +3132,7 @@ DOMAIN-SUFFIX,analytics.kemlu.go.id
 DOMAIN-SUFFIX,analytics.kerns.co
 DOMAIN-SUFFIX,analytics.kidoz.net
 DOMAIN-SUFFIX,analytics.kkb.com.tr
+DOMAIN-SUFFIX,analytics.kongregate.io
 DOMAIN-SUFFIX,analytics.krieselreihe.com
 DOMAIN-SUFFIX,analytics.kukla.club
 DOMAIN-SUFFIX,analytics.kurocore.com
@@ -23864,6 +23865,7 @@ DOMAIN-SUFFIX,tracking.americas.business.samsung.com
 DOMAIN-SUFFIX,tracking.ancestry.com
 DOMAIN-SUFFIX,tracking.apac.business.samsung.com
 DOMAIN-SUFFIX,trackingapi.cloudapp.net
+DOMAIN-SUFFIX,tracking-api.hotmart.com
 DOMAIN-SUFFIX,trackingapi.kaufda.de
 DOMAIN-SUFFIX,trackingapi.meinprospekt.de
 DOMAIN-SUFFIX,tracking-api.sub100.com.br
