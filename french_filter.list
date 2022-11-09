@@ -1,9 +1,9 @@
 # NAME: FrenchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-09 05:38:40
-# DOMAIN-SUFFIX: 10961
-# TOTAL: 10961
+# UPDATED: 2022-11-10 05:40:54
+# DOMAIN-SUFFIX: 10962
+# TOTAL: 10962
 DOMAIN-SUFFIX,00261bc6d5.com
 DOMAIN-SUFFIX,003gjzy7k1wc.top
 DOMAIN-SUFFIX,0101264c3c.com
@@ -1885,6 +1885,7 @@ DOMAIN-SUFFIX,cdn3.net
 DOMAIN-SUFFIX,cdn7.space
 DOMAIN-SUFFIX,cdn.fail
 DOMAIN-SUFFIX,cdnfile.xyz
+DOMAIN-SUFFIX,cdn.hqwa.xyz
 DOMAIN-SUFFIX,cdnion.com
 DOMAIN-SUFFIX,cdn-partners-references.lesoir.be
 DOMAIN-SUFFIX,cdntraffic.com
