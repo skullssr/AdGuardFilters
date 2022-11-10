@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-09 05:34:54
-# DOMAIN-SUFFIX: 28406
-# TOTAL: 28406
+# UPDATED: 2022-11-11 05:06:56
+# DOMAIN-SUFFIX: 28413
+# TOTAL: 28413
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2520,7 +2520,6 @@ DOMAIN-SUFFIX,affiliate.topol.io
 DOMAIN-SUFFIX,affiliate.urbanstore.cz
 DOMAIN-SUFFIX,affiliate.urbanstore.sk
 DOMAIN-SUFFIX,affiliate.velebny.cz
-DOMAIN-SUFFIX,affiliatly.com
 DOMAIN-SUFFIX,affil.katalog-rebelky.cz
 DOMAIN-SUFFIX,affil.knihazenasnov.sk
 DOMAIN-SUFFIX,affil.kralovstvi-tiande.cz
@@ -2890,6 +2889,7 @@ DOMAIN-SUFFIX,analytics.amig.com
 DOMAIN-SUFFIX,analytics.anvato.net
 DOMAIN-SUFFIX,analytics.any.do
 DOMAIN-SUFFIX,analytics-api.a-f.io
+DOMAIN-SUFFIX,analytics-api.dvdfab.at
 DOMAIN-SUFFIX,analytics-api.dvdfab.cn
 DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
 DOMAIN-SUFFIX,analytics-api.dvdfab.fr
@@ -19132,6 +19132,7 @@ DOMAIN-SUFFIX,seek.tt.omtrdc.net
 DOMAIN-SUFFIX,seewhy.com
 DOMAIN-SUFFIX,segment-cdn.producthunt.com
 DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segments.adap.tv
@@ -19209,6 +19210,10 @@ DOMAIN-SUFFIX,services.princes-trust.org.uk
 DOMAIN-SUFFIX,services.sdiapi.com
 DOMAIN-SUFFIX,services.wetek.com
 DOMAIN-SUFFIX,servicing.unitedautocredit.net
+DOMAIN-SUFFIX,servo-report.dvdfab.at
+DOMAIN-SUFFIX,servo-report.dvdfab.cn
+DOMAIN-SUFFIX,servo-report.dvdfab.co.jp
+DOMAIN-SUFFIX,servo-report.dvdfab.fr
 DOMAIN-SUFFIX,servustats.com
 DOMAIN-SUFFIX,sesamlimited.tt.omtrdc.net
 DOMAIN-SUFFIX,sessioncam.com
@@ -22524,6 +22529,7 @@ DOMAIN-SUFFIX,stat.hitosara.com
 DOMAIN-SUFFIX,stathound.com
 DOMAIN-SUFFIX,stat.i3.dmm.com
 DOMAIN-SUFFIX,static-ads.zaloapp.com
+DOMAIN-SUFFIX,static.affiliatly.com
 DOMAIN-SUFFIX,static.analytics-site.com
 DOMAIN-SUFFIX,static.bc-cdn.io
 DOMAIN-SUFFIX,static.cloudflareinsights.com
@@ -24830,6 +24836,7 @@ DOMAIN-SUFFIX,track.91app.io
 DOMAIN-SUFFIX,track.aayay.net
 DOMAIN-SUFFIX,track.abrdn.com
 DOMAIN-SUFFIX,track.adabra.com
+DOMAIN-SUFFIX,trackad.cz
 DOMAIN-SUFFIX,track.adform.net
 DOMAIN-SUFFIX,track.ad.nl
 DOMAIN-SUFFIX,track.adspire.io
