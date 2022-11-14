@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-04 05:10:52
-# DOMAIN-SUFFIX: 348
-# TOTAL: 348
+# UPDATED: 2022-11-15 05:16:09
+# DOMAIN-SUFFIX: 347
+# TOTAL: 347
 DOMAIN-SUFFIX,1686607364.rsc.cdn77.org
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -150,7 +150,6 @@ DOMAIN-SUFFIX,chaicdn.tk
 DOMAIN-SUFFIX,chip.com.tr
 DOMAIN-SUFFIX,citireklam.com
 DOMAIN-SUFFIX,clickmerkez.com
-DOMAIN-SUFFIX,cmsbetconstruct.com
 DOMAIN-SUFFIX,cntadvertising.com
 DOMAIN-SUFFIX,coderturk.com
 DOMAIN-SUFFIX,cokemoke.cf
