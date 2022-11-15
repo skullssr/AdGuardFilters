@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-15 05:11:52
-# DOMAIN-SUFFIX: 25167
-# TOTAL: 25167
+# UPDATED: 2022-11-16 05:12:41
+# DOMAIN-SUFFIX: 25173
+# TOTAL: 25173
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -9212,6 +9212,7 @@ DOMAIN-SUFFIX,event.dengage.com
 DOMAIN-SUFFIX,event.evtm.53.com
 DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,eventgw.twilio.com
+DOMAIN-SUFFIX,event.hket.com
 DOMAIN-SUFFIX,event.impression-neo.naver.com
 DOMAIN-SUFFIX,event.instiengage.com
 DOMAIN-SUFFIX,eventlogger.soundcloud.com
@@ -9929,6 +9930,7 @@ DOMAIN-SUFFIX,generalmotorscorporation.tt.omtrdc.net
 DOMAIN-SUFFIX,generalmotorscorpora.tt.omtrdc.net
 DOMAIN-SUFFIX,generaltracking.de
 DOMAIN-SUFFIX,genesishealth.hrm.healthgrades.com
+DOMAIN-SUFFIX,genesis.malwarebytes.com
 DOMAIN-SUFFIX,genieedmp.com
 DOMAIN-SUFFIX,genieesspv.jp
 DOMAIN-SUFFIX,genre.tt.omtrdc.net
@@ -11210,6 +11212,7 @@ DOMAIN-SUFFIX,inhalt.bild.de
 DOMAIN-SUFFIX,inimbus.com.au
 DOMAIN-SUFFIX,inistrack.net
 DOMAIN-SUFFIX,init.blackcrow.ai
+DOMAIN-SUFFIX,inlog01.hket.com
 DOMAIN-SUFFIX,innocentinvention.com
 DOMAIN-SUFFIX,innocentwax.com
 DOMAIN-SUFFIX,innovateads.com
@@ -11525,6 +11528,7 @@ DOMAIN-SUFFIX,jrucbb.guestreservations.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,jscdn.appier.net
 DOMAIN-SUFFIX,jscounter.com
+DOMAIN-SUFFIX,js.glossom.jp
 DOMAIN-SUFFIX,js.go2sdk.com
 DOMAIN-SUFFIX,jshkyh.29cm.co.kr
 DOMAIN-SUFFIX,js.hsadspixel.net
@@ -20635,6 +20639,7 @@ DOMAIN-SUFFIX,suntrust.tt.omtrdc.net
 DOMAIN-SUFFIX,su-offers.com
 DOMAIN-SUFFIX,supercounters.com
 DOMAIN-SUFFIX,superficialeyes.com
+DOMAIN-SUFFIX,superficialspring.com
 DOMAIN-SUFFIX,superficialsquare.com
 DOMAIN-SUFFIX,superstat.info
 DOMAIN-SUFFIX,superstats.com
@@ -20887,6 +20892,7 @@ DOMAIN-SUFFIX,t.activase.com
 DOMAIN-SUFFIX,t.adbr.io
 DOMAIN-SUFFIX,t.adlpo.com
 DOMAIN-SUFFIX,taduhy.timberland.co.uk
+DOMAIN-SUFFIX,t.adx.opera.com
 DOMAIN-SUFFIX,tafequeensland.tt.omtrdc.net
 DOMAIN-SUFFIX,t.afi-b.com
 DOMAIN-SUFFIX,tafrebadus.com

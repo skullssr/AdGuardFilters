@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-11 05:02:22
-# DOMAIN-SUFFIX: 3112
-# TOTAL: 3112
+# UPDATED: 2022-11-16 05:08:42
+# DOMAIN-SUFFIX: 3113
+# TOTAL: 3113
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -2735,6 +2735,7 @@ DOMAIN-SUFFIX,toptv.cloud
 DOMAIN-SUFFIX,topvideosgay.com
 DOMAIN-SUFFIX,topwebsitelists.com
 DOMAIN-SUFFIX,topzone.lt
+DOMAIN-SUFFIX,toramemoblog.com
 DOMAIN-SUFFIX,torrentbrazil.org
 DOMAIN-SUFFIX,torrentdosfilmes.co
 DOMAIN-SUFFIX,torrentdosfilmeshd.net
