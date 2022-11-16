@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-11 04:54:55
-# DOMAIN-SUFFIX: 124
-# TOTAL: 124
+# UPDATED: 2022-11-17 05:15:49
+# DOMAIN-SUFFIX: 125
+# TOTAL: 125
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,health.halodoc.com
 DOMAIN-SUFFIX,help-advertisers.adsterra.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,href.li
+DOMAIN-SUFFIX,h-sdk.online-metrix.net
 DOMAIN-SUFFIX,ia.hit.interia.pl
 DOMAIN-SUFFIX,id.i2i.jp
 DOMAIN-SUFFIX,img.ads.tvb.com
