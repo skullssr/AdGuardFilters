@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-16 05:17:14
-# DOMAIN-SUFFIX: 1064
-# TOTAL: 1064
+# UPDATED: 2022-11-22 05:16:38
+# DOMAIN-SUFFIX: 1067
+# TOTAL: 1067
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -358,6 +358,7 @@ DOMAIN-SUFFIX,bi.yeshen.com
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,black6adv.com
 DOMAIN-SUFFIX,blogads.com
+DOMAIN-SUFFIX,blueduckredapple.com
 DOMAIN-SUFFIX,boostads.net
 DOMAIN-SUFFIX,brainient.com
 DOMAIN-SUFFIX,brealtime.com
@@ -402,6 +403,7 @@ DOMAIN-SUFFIX,cdn-highwinds.unityads.unity3d.com
 DOMAIN-SUFFIX,cdn-image.com
 DOMAIN-SUFFIX,cdn.jampp.com
 DOMAIN-SUFFIX,cdn-ketchapp.akamaized.net
+DOMAIN-SUFFIX,cdn.mobilefuse.com
 DOMAIN-SUFFIX,cdns.lodeo.io
 DOMAIN-SUFFIX,cdn-store-icons-akamai-prd.unityads.unity3d.com
 DOMAIN-SUFFIX,cdn-store-icons-highwinds-prd.unityads.unity3d.com
@@ -958,6 +960,7 @@ DOMAIN-SUFFIX,teads.tv
 DOMAIN-SUFFIX,telemetryverification.net
 DOMAIN-SUFFIX,teracreative.com
 DOMAIN-SUFFIX,terraclicks.com
+DOMAIN-SUFFIX,thecatmachine.com
 DOMAIN-SUFFIX,theship.club
 DOMAIN-SUFFIX,thetrafficstat.net
 DOMAIN-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com
