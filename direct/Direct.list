@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-18 05:21:19
-# DOMAIN-SUFFIX: 4118
-# TOTAL: 4118
+# UPDATED: 2022-11-23 05:15:59
+# DOMAIN-SUFFIX: 4120
+# TOTAL: 4120
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,admin.dable.io
 DOMAIN-SUFFIX,admin.mailchimp.com
 DOMAIN-SUFFIX,admin.mgid.com
+DOMAIN-SUFFIX,adnews.me
 DOMAIN-SUFFIX,adobeactivators.blogspot.com
 DOMAIN-SUFFIX,adobeid-*.services.adobe.com
 DOMAIN-SUFFIX,adobelogin.com
@@ -2112,6 +2113,7 @@ DOMAIN-SUFFIX,localizaagencia.com
 DOMAIN-SUFFIX,logentries.com
 DOMAIN-SUFFIX,logging.apache.org
 DOMAIN-SUFFIX,login.admitad.com
+DOMAIN-SUFFIX,login.eki-net.com
 DOMAIN-SUFFIX,login.gaijin.net
 DOMAIN-SUFFIX,login.sendpulse.com
 DOMAIN-SUFFIX,log.mmstat.com
