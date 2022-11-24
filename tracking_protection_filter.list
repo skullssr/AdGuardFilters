@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-24 05:17:27
-# DOMAIN-SUFFIX: 23070
-# TOTAL: 23070
+# UPDATED: 2022-11-25 05:11:05
+# DOMAIN-SUFFIX: 23071
+# TOTAL: 23071
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -12153,6 +12153,7 @@ DOMAIN-SUFFIX,mobilecontent.networks.prod.p0.phx-infra.com
 DOMAIN-SUFFIX,mobilecontent.projectdrgn.com
 DOMAIN-SUFFIX,mobile-content.pumb.ua
 DOMAIN-SUFFIX,mobile.du.ae
+DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
 DOMAIN-SUFFIX,mobilelog.upqzfile.com
 DOMAIN-SUFFIX,mobilelog.ws.pho.to
 DOMAIN-SUFFIX,mobile.slgnt.eu
