@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-25 05:11:05
-# DOMAIN-SUFFIX: 23071
-# TOTAL: 23071
+# UPDATED: 2022-11-26 05:27:20
+# DOMAIN-SUFFIX: 23083
+# TOTAL: 23083
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2434,6 +2434,7 @@ DOMAIN-SUFFIX,analytics.simplii.com
 DOMAIN-SUFFIX,analytics.sitewit.com
 DOMAIN-SUFFIX,analytics.sixfigureswine.com
 DOMAIN-SUFFIX,analytics.sixt.com
+DOMAIN-SUFFIX,analytics.*.sky.com
 DOMAIN-SUFFIX,analytics.skyscanner.net
 DOMAIN-SUFFIX,analytics.slashdotmedia.com
 DOMAIN-SUFFIX,analytics.snappea.com
@@ -3314,6 +3315,7 @@ DOMAIN-SUFFIX,beanstalkdata.com
 DOMAIN-SUFFIX,beanstock.com
 DOMAIN-SUFFIX,bear.datingrelationshipsadvice.com
 DOMAIN-SUFFIX,beastbeef.com
+DOMAIN-SUFFIX,beat.yourtv.jp
 DOMAIN-SUFFIX,beaver.bluebunnypaper.com
 DOMAIN-SUFFIX,beaver.livechatlabs.com
 DOMAIN-SUFFIX,bebj.com
@@ -6532,6 +6534,7 @@ DOMAIN-SUFFIX,data-cfe819bed5.playboy.de
 DOMAIN-SUFFIX,data.cofinoga.fr
 DOMAIN-SUFFIX,datacollect*.abtasty.com
 DOMAIN-SUFFIX,data.collectandgo.be
+DOMAIN-SUFFIX,datacollector-*.dt.dbankcloud.cn
 DOMAIN-SUFFIX,datacollector-*.dt.hicloud.com
 DOMAIN-SUFFIX,data-collector.wefi.com
 DOMAIN-SUFFIX,data.collishop.be
@@ -7347,6 +7350,9 @@ DOMAIN-SUFFIX,dko.vente-unique.nl
 DOMAIN-SUFFIX,dlabiznesu.pracuj.pl
 DOMAIN-SUFFIX,dlesjf.jutarnji.hr
 DOMAIN-SUFFIX,dloeloqua.danskespil.dk
+DOMAIN-SUFFIX,d-log.asahi.co.jp
+DOMAIN-SUFFIX,d-log.bs-asahi.tv
+DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
 DOMAIN-SUFFIX,dlqxtm.sssports.com
 DOMAIN-SUFFIX,dmanalytics1.com
 DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
@@ -7493,6 +7499,7 @@ DOMAIN-SUFFIX,dtmssl.bobcat.com
 DOMAIN-SUFFIX,dt.nrjmobile.fr
 DOMAIN-SUFFIX,dtscout.com
 DOMAIN-SUFFIX,dttrk.com
+DOMAIN-SUFFIX,d.tv-asahi.co.jp
 DOMAIN-SUFFIX,dtxtngytz5im1.cloudfront.net
 DOMAIN-SUFFIX,du2k.bhv.fr
 DOMAIN-SUFFIX,d.uni-medias.com
@@ -10911,6 +10918,7 @@ DOMAIN-SUFFIX,logs.51cto.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
+DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
 DOMAIN-SUFFIX,logs.gaaana.com
 DOMAIN-SUFFIX,logs.gaana.com
 DOMAIN-SUFFIX,log-sg.bytegsdk.com
@@ -14297,6 +14305,8 @@ DOMAIN-SUFFIX,recruitics.com
 DOMAIN-SUFFIX,recs.atgsvcs.com
 DOMAIN-SUFFIX,recs.richrelevance.com
 DOMAIN-SUFFIX,rectrack.optimum-performance.de
+DOMAIN-SUFFIX,recv-entry.tbs.co.jp
+DOMAIN-SUFFIX,recv-jnn.tbs.co.jp
 DOMAIN-SUFFIX,red.aff-tracker.com
 DOMAIN-SUFFIX,redatastore.ru
 DOMAIN-SUFFIX,redcounter.net
@@ -21770,6 +21780,7 @@ DOMAIN-SUFFIX,uapoisk.net
 DOMAIN-SUFFIX,uarating.com
 DOMAIN-SUFFIX,uat1-dc.pagoda.com
 DOMAIN-SUFFIX,uazmti.a101.com.tr
+DOMAIN-SUFFIX,ubacollect-*.cloud.dbankcloud.cn
 DOMAIN-SUFFIX,ubak.zhugeapi.net
 DOMAIN-SUFFIX,ubdjfy.maje.com
 DOMAIN-SUFFIX,ubertags.com
@@ -22042,6 +22053,7 @@ DOMAIN-SUFFIX,videostat.meta.ua
 DOMAIN-SUFFIX,videostats.kakao.com
 DOMAIN-SUFFIX,vidigital.ru
 DOMAIN-SUFFIX,viewar.org
+DOMAIN-SUFFIX,view.fujitv.co.jp
 DOMAIN-SUFFIX,views.2222.ro
 DOMAIN-SUFFIX,views.romaniatv.net
 DOMAIN-SUFFIX,vihtori-analytics.fi

@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-23 05:15:57
-# DOMAIN-SUFFIX: 1071
-# TOTAL: 1071
+# UPDATED: 2022-11-26 05:31:28
+# DOMAIN-SUFFIX: 1070
+# TOTAL: 1070
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ad6media.fr
 DOMAIN-SUFFIX,ad999.biz
 DOMAIN-SUFFIX,adadvisor.net
 DOMAIN-SUFFIX,ad-api.ehawk.com
+DOMAIN-SUFFIX,ad-*.appacc.dbankedge.cn
 DOMAIN-SUFFIX,ad.apps.fm
 DOMAIN-SUFFIX,ad.apsalar.com
 DOMAIN-SUFFIX,ad.auditude.com
@@ -233,7 +234,9 @@ DOMAIN-SUFFIX,adwods.com
 DOMAIN-SUFFIX,ad.wynk.in
 DOMAIN-SUFFIX,adxcorp.kr
 DOMAIN-SUFFIX,ad-x.co.uk
+DOMAIN-SUFFIX,adx-*.dbankedge.cn
 DOMAIN-SUFFIX,adx-dre.op.hicloud.com
+DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-SUFFIX,adx-tk.rayjump.com
 DOMAIN-SUFFIX,adywind.com
 DOMAIN-SUFFIX,adzerk.net
@@ -467,10 +470,6 @@ DOMAIN-SUFFIX,dante2007.com
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,daxuetong.zone
-DOMAIN-SUFFIX,dbankcloud.asia
-DOMAIN-SUFFIX,dbankcloud.cn
-DOMAIN-SUFFIX,dbankcloud.eu
-DOMAIN-SUFFIX,dbankcloud.ru
 DOMAIN-SUFFIX,debojuagug1sf.cloudfront.net
 DOMAIN-SUFFIX,delivery-cdn-cf.adswizz.com
 DOMAIN-SUFFIX,deliveryengine.adswizz.com

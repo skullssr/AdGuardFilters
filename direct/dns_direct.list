@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-23 05:00:23
-# DOMAIN-SUFFIX: 126
-# TOTAL: 126
+# UPDATED: 2022-11-26 05:16:22
+# DOMAIN-SUFFIX: 128
+# TOTAL: 128
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,cs.silverpop.com
 DOMAIN-SUFFIX,cutcaptcha.com
 DOMAIN-SUFFIX,daikoku.ebis.ne.jp
 DOMAIN-SUFFIX,ds.metric.gstatic.com
+DOMAIN-SUFFIX,e.customeriomail.com
 DOMAIN-SUFFIX,email.awscloud.com
 DOMAIN-SUFFIX,email.elitedangerous.com
 DOMAIN-SUFFIX,email.procook.co.uk
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,omniture.walmart.com
 DOMAIN-SUFFIX,omsc.kpn.com
 DOMAIN-SUFFIX,oneline.nextday.media
 DOMAIN-SUFFIX,pagead.l.doubleclick.net
+DOMAIN-SUFFIX,partner.everydays.de
 DOMAIN-SUFFIX,partners.adsterra.com
 DOMAIN-SUFFIX,promo.gramedia.com
 DOMAIN-SUFFIX,proto2ad.durasite.net
