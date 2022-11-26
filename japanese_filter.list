@@ -1,7 +1,7 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-21 05:19:42
+# UPDATED: 2022-11-27 05:39:39
 # DOMAIN-SUFFIX: 323
 # TOTAL: 323
 DOMAIN-SUFFIX,10clicks.com
@@ -62,7 +62,6 @@ DOMAIN-SUFFIX,ad.presco.asia
 DOMAIN-SUFFIX,adpriv.nikkei.com
 DOMAIN-SUFFIX,ad.rarure.com
 DOMAIN-SUFFIX,adresult-sp.jp
-DOMAIN-SUFFIX,adroute.focas.jp
 DOMAIN-SUFFIX,ads-connect.com
 DOMAIN-SUFFIX,ad-seek.jp
 DOMAIN-SUFFIX,ads-lite.net
@@ -177,6 +176,7 @@ DOMAIN-SUFFIX,find-a.jp
 DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,flt.ad-spire.net
 DOMAIN-SUFFIX,flux-g.com
+DOMAIN-SUFFIX,focas.jp
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fxprime-popular.com
 DOMAIN-SUFFIX,genieedmp.com
