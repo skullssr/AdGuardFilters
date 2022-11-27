@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-27 05:40:12
-# DOMAIN-SUFFIX: 4126
-# TOTAL: 4126
+# UPDATED: 2022-11-28 05:29:09
+# DOMAIN-SUFFIX: 4127
+# TOTAL: 4127
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -3270,6 +3270,7 @@ DOMAIN-SUFFIX,sms-empfangen.com
 DOMAIN-SUFFIX,smskola.com
 DOMAIN-SUFFIX,smslisten.com
 DOMAIN-SUFFIX,smsnumbersonline.com
+DOMAIN-SUFFIX,smsonline.cloud
 DOMAIN-SUFFIX,smspinger.com
 DOMAIN-SUFFIX,smsreceiveonline.com
 DOMAIN-SUFFIX,smsreceiving.com
