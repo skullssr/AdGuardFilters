@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-29 05:21:08
-# DOMAIN-SUFFIX: 23838
-# TOTAL: 23838
+# UPDATED: 2022-11-30 05:06:49
+# DOMAIN-SUFFIX: 23841
+# TOTAL: 23841
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3967,6 +3967,7 @@ DOMAIN-SUFFIX,cdn.glassboxcdn.com
 DOMAIN-SUFFIX,cdn.gusto.com
 DOMAIN-SUFFIX,cdn.kaizenplatform.net
 DOMAIN-SUFFIX,cdn-ln.ozk.com
+DOMAIN-SUFFIX,cdn.mavi.digital
 DOMAIN-SUFFIX,cdn.mediatradecraft.com
 DOMAIN-SUFFIX,cdn.memo.co
 DOMAIN-SUFFIX,cdnm.sts.pl
@@ -20305,6 +20306,7 @@ DOMAIN-SUFFIX,ticket.sirlottoclub.com
 DOMAIN-SUFFIX,ticklesign.com
 DOMAIN-SUFFIX,tick.pcrpriser.se
 DOMAIN-SUFFIX,tidytrail.com
+DOMAIN-SUFFIX,tieszhu.com
 DOMAIN-SUFFIX,tigershark.moonpot.com
 DOMAIN-SUFFIX,tiglck.technopolis.bg
 DOMAIN-SUFFIX,tiglon.beyondco.de
@@ -21583,6 +21585,7 @@ DOMAIN-SUFFIX,tr.cashback.floa.fr
 DOMAIN-SUFFIX,tr.cb4x.banque-casino.fr
 DOMAIN-SUFFIX,tr.cb4x.floa.fr
 DOMAIN-SUFFIX,trc.caravas.jp
+DOMAIN-SUFFIX,trc.gpcdn.pl
 DOMAIN-SUFFIX,tr.christmas.petit-bateau.com
 DOMAIN-SUFFIX,tr.cifa02k.espmp-aufr.net
 DOMAIN-SUFFIX,tr.cifa.espmp-nifr.net
@@ -21936,7 +21939,6 @@ DOMAIN-SUFFIX,trk.olnl.net
 DOMAIN-SUFFIX,tr.kommunikation.younited-credit.com
 DOMAIN-SUFFIX,tr.kontakt.younited-credit.com
 DOMAIN-SUFFIX,trk.packagingdigest.com
-DOMAIN-SUFFIX,trk.performanceplay.co.kr
 DOMAIN-SUFFIX,trk.pinterest.com
 DOMAIN-SUFFIX,trk.plasticstoday.com
 DOMAIN-SUFFIX,trk.powderandbulksolids.com
@@ -23072,6 +23074,7 @@ DOMAIN-SUFFIX,webcounter.co.za
 DOMAIN-SUFFIX,web-counter.net
 DOMAIN-SUFFIX,webcounter.ws
 DOMAIN-SUFFIX,web.crm.beps.it
+DOMAIN-SUFFIX,web-device-id.banggood.com
 DOMAIN-SUFFIX,web.diebayerische.de
 DOMAIN-SUFFIX,web.e.aldermore.co.uk
 DOMAIN-SUFFIX,webed.dm-event.net
