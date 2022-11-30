@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-11-30 05:06:49
-# DOMAIN-SUFFIX: 23841
-# TOTAL: 23841
+# UPDATED: 2022-12-01 05:20:48
+# DOMAIN-SUFFIX: 23840
+# TOTAL: 23840
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -4398,7 +4398,6 @@ DOMAIN-SUFFIX,cnt.nov.ru
 DOMAIN-SUFFIX,cnt.patpat.com
 DOMAIN-SUFFIX,cnt.rambler.ru
 DOMAIN-SUFFIX,cnt.ramlife.ru
-DOMAIN-SUFFIX,cnt.streamz.ws
 DOMAIN-SUFFIX,cnt.trvdp.com
 DOMAIN-SUFFIX,cnt.xhamster.com
 DOMAIN-SUFFIX,cnxweb.com
@@ -9407,6 +9406,7 @@ DOMAIN-SUFFIX,happyunicorns.gutefrage.net
 DOMAIN-SUFFIX,harborcub.com
 DOMAIN-SUFFIX,hardtofindmilk.com
 DOMAIN-SUFFIX,hare.felix-schmid.de
+DOMAIN-SUFFIX,harvester.cms.markiza.sk
 DOMAIN-SUFFIX,harvester.eu.square-enix.com
 DOMAIN-SUFFIX,harvester.ext.square-enix-europe.com
 DOMAIN-SUFFIX,harvester.hbpl.co.uk
@@ -23602,7 +23602,6 @@ DOMAIN-SUFFIX,xohhed.macway.com
 DOMAIN-SUFFIX,xoq.pmubrasil.com.br
 DOMAIN-SUFFIX,xovq5nemr.com
 DOMAIN-SUFFIX,xpanama.net
-DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,xpcpmr.gsm55.com
 DOMAIN-SUFFIX,xplosion.de
 DOMAIN-SUFFIX,xps.huk24.de
