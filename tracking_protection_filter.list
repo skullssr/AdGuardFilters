@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-01 05:20:48
-# DOMAIN-SUFFIX: 23840
-# TOTAL: 23840
+# UPDATED: 2022-12-02 05:18:28
+# DOMAIN-SUFFIX: 23847
+# TOTAL: 23847
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2200,6 +2200,7 @@ DOMAIN-SUFFIX,analytics.amica.com
 DOMAIN-SUFFIX,analytics.anvato.net
 DOMAIN-SUFFIX,analytics.any.do
 DOMAIN-SUFFIX,analytics-api.a-f.io
+DOMAIN-SUFFIX,analytics-api.dvdfab.*
 DOMAIN-SUFFIX,analytics-api.dvdfab.at
 DOMAIN-SUFFIX,analytics-api.dvdfab.cn
 DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
@@ -2370,6 +2371,7 @@ DOMAIN-SUFFIX,analytics.lunge.de
 DOMAIN-SUFFIX,analytics.m7g.twitch.tv
 DOMAIN-SUFFIX,analytics.macklin.me
 DOMAIN-SUFFIX,analytics.maileon.com
+DOMAIN-SUFFIX,analytics.makeitmeme.com
 DOMAIN-SUFFIX,analytics.mall.tv
 DOMAIN-SUFFIX,analytics.mambaui.com
 DOMAIN-SUFFIX,analytics.marquiz.ru
@@ -2618,6 +2620,7 @@ DOMAIN-SUFFIX,annoyedfifth.com
 DOMAIN-SUFFIX,annoyingacoustics.com
 DOMAIN-SUFFIX,annwwu.guitarcenter.com
 DOMAIN-SUFFIX,anon-stats.eff.org
+DOMAIN-SUFFIX,anonym.data.funkedigital.de
 DOMAIN-SUFFIX,anormal-tracker.de
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,an.reflektion.com
@@ -4499,9 +4502,9 @@ DOMAIN-SUFFIX,collector.trendmd.com
 DOMAIN-SUFFIX,collector-*.tvsquared.com
 DOMAIN-SUFFIX,collector.vhx.tv
 DOMAIN-SUFFIX,collector.wawlabs.com
-DOMAIN-SUFFIX,collector.xhamster.com
-DOMAIN-SUFFIX,collector.xhamster*.desi
+DOMAIN-SUFFIX,collector.xhamster*.*
 DOMAIN-SUFFIX,collector.xhwide1.com
+DOMAIN-SUFFIX,collector.xhwide8.com
 DOMAIN-SUFFIX,collect.serious.li
 DOMAIN-SUFFIX,collect-test.arabam.com
 DOMAIN-SUFFIX,collect.tianya.cn
@@ -11093,6 +11096,7 @@ DOMAIN-SUFFIX,log.apkomega.com
 DOMAIN-SUFFIX,log.apk.v-mate.mobi
 DOMAIN-SUFFIX,log.appbundledownload.com
 DOMAIN-SUFFIX,log.appdriver.jp
+DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
 DOMAIN-SUFFIX,log.avlyun.com
 DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
 DOMAIN-SUFFIX,log.bandi.so
@@ -12590,6 +12594,7 @@ DOMAIN-SUFFIX,monitor-targeting-failures.sqrt-5041.de
 DOMAIN-SUFFIX,monitus.net
 DOMAIN-SUFFIX,monkeytracker.cz
 DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
+DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
 DOMAIN-SUFFIX,mon.snssdk.com
 DOMAIN-SUFFIX,monster.trk.agency
 DOMAIN-SUFFIX,montblanc.lenta.ru
@@ -13959,6 +13964,7 @@ DOMAIN-SUFFIX,pixel.1und1.de
 DOMAIN-SUFFIX,pixel.4pcdn.de
 DOMAIN-SUFFIX,pixel.4players.de
 DOMAIN-SUFFIX,pixel.ad
+DOMAIN-SUFFIX,pixel*.adswizz.com
 DOMAIN-SUFFIX,pixel.advertising.com
 DOMAIN-SUFFIX,pixel.anyclip.com
 DOMAIN-SUFFIX,pixelapi-*.cs.mysamba.tv
@@ -13978,7 +13984,6 @@ DOMAIN-SUFFIX,pixel.europapress.net
 DOMAIN-SUFFIX,pixel.ex.co
 DOMAIN-SUFFIX,pixeleze.com
 DOMAIN-SUFFIX,pixel.facebook.com
-DOMAIN-SUFFIX,pixelg.adswizz.com
 DOMAIN-SUFFIX,pixelhere.com
 DOMAIN-SUFFIX,pixel.honestjohn.co.uk
 DOMAIN-SUFFIX,pixel.inforsea.com
@@ -13996,6 +14001,7 @@ DOMAIN-SUFFIX,pixel.playbuzz.com
 DOMAIN-SUFFIX,pixelpop.co
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.quantserve.com
+DOMAIN-SUFFIX,pixel.randi.adswizz.com
 DOMAIN-SUFFIX,pixel.reddit.com
 DOMAIN-SUFFIX,pixel.redditmedia.com
 DOMAIN-SUFFIX,pixelrevenue.com
@@ -15796,6 +15802,7 @@ DOMAIN-SUFFIX,servicesdp.luckydays.ca
 DOMAIN-SUFFIX,servicesdp.spinaway.ca
 DOMAIN-SUFFIX,services.sdiapi.com
 DOMAIN-SUFFIX,services.wetek.com
+DOMAIN-SUFFIX,servo-report.dvdfab.*
 DOMAIN-SUFFIX,servo-report.dvdfab.at
 DOMAIN-SUFFIX,servo-report.dvdfab.cn
 DOMAIN-SUFFIX,servo-report.dvdfab.co.jp
