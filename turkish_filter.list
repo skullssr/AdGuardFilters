@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-01 05:24:53
-# DOMAIN-SUFFIX: 348
-# TOTAL: 348
+# UPDATED: 2022-12-06 05:26:34
+# DOMAIN-SUFFIX: 347
+# TOTAL: 347
 DOMAIN-SUFFIX,1686607364.rsc.cdn77.org
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -57,7 +57,6 @@ DOMAIN-SUFFIX,adrequests.com
 DOMAIN-SUFFIX,ad.reyazilim.com
 DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,adrttt.com
-DOMAIN-SUFFIX,ads5.sabah.com.tr
 DOMAIN-SUFFIX,ad.sacitaslan.com
 DOMAIN-SUFFIX,adsblok.com
 DOMAIN-SUFFIX,ads.code.com.tr
@@ -72,7 +71,6 @@ DOMAIN-SUFFIX,ads.gencgazete.net
 DOMAIN-SUFFIX,ads.gercekgundem.com
 DOMAIN-SUFFIX,ads.igfhaber.com
 DOMAIN-SUFFIX,ad.sigortagundem.biz
-DOMAIN-SUFFIX,adsim.sabah.com.tr
 DOMAIN-SUFFIX,ads.inegolonline.com
 DOMAIN-SUFFIX,ads.macsonuclari.mobi
 DOMAIN-SUFFIX,ads.modabetaff.com
@@ -83,7 +81,6 @@ DOMAIN-SUFFIX,ads.oyungemisi.com
 DOMAIN-SUFFIX,adsp.ciner.com.tr
 DOMAIN-SUFFIX,adsp.haberturk.com
 DOMAIN-SUFFIX,ads.pivol.net
-DOMAIN-SUFFIX,ads.sabah.com.tr
 DOMAIN-SUFFIX,ads.skorfikstur.com
 DOMAIN-SUFFIX,ads.sondakika.com
 DOMAIN-SUFFIX,adsupp.network
@@ -150,6 +147,7 @@ DOMAIN-SUFFIX,cdn.smartclick.io
 DOMAIN-SUFFIX,chaicdn.tk
 DOMAIN-SUFFIX,chip.com.tr
 DOMAIN-SUFFIX,citireklam.com
+DOMAIN-SUFFIX,clbanners9.com
 DOMAIN-SUFFIX,clickmerkez.com
 DOMAIN-SUFFIX,cntadvertising.com
 DOMAIN-SUFFIX,coderturk.com
@@ -302,6 +300,7 @@ DOMAIN-SUFFIX,smrtbnr.top
 DOMAIN-SUFFIX,sosinyo.xyz
 DOMAIN-SUFFIX,sportframe.org
 DOMAIN-SUFFIX,spwms.com
+DOMAIN-SUFFIX,stage-api-rotorfon.go.dogt.xyz
 DOMAIN-SUFFIX,stairtuy.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
 DOMAIN-SUFFIX,stopblyat.tk
