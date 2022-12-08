@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-08 05:30:39
-# DOMAIN-SUFFIX: 23895
-# TOTAL: 23895
+# UPDATED: 2022-12-09 05:33:26
+# DOMAIN-SUFFIX: 23901
+# TOTAL: 23901
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -8734,10 +8734,12 @@ DOMAIN-SUFFIX,events.turbosquid.com
 DOMAIN-SUFFIX,events.tvtime.com
 DOMAIN-SUFFIX,events.verticurl.com
 DOMAIN-SUFFIX,events.virtusize.jp
+DOMAIN-SUFFIX,events.webdock.io
 DOMAIN-SUFFIX,events.whisk.com
 DOMAIN-SUFFIX,event.syndigo.cloud
 DOMAIN-SUFFIX,event.thermofisher.com
 DOMAIN-SUFFIX,eventtracker.elitedaily.com
+DOMAIN-SUFFIX,eventtracking.hubapi.com
 DOMAIN-SUFFIX,event.trove.com
 DOMAIN-SUFFIX,event.webcollage.net
 DOMAIN-SUFFIX,everestjs.net
@@ -15163,6 +15165,7 @@ DOMAIN-SUFFIX,ressources.lacentrale.fr
 DOMAIN-SUFFIX,ressources.mavoiturecash.fr
 DOMAIN-SUFFIX,ressources.promoneuve.fr
 DOMAIN-SUFFIX,restisbench.com
+DOMAIN-SUFFIX,restrainstorm.com
 DOMAIN-SUFFIX,res-x.com
 DOMAIN-SUFFIX,retargetapp.com
 DOMAIN-SUFFIX,retargeter.com.br
@@ -18720,6 +18723,7 @@ DOMAIN-SUFFIX,sst.dell.com
 DOMAIN-SUFFIX,sst.johnlewis.com
 DOMAIN-SUFFIX,sst.nab.com.au
 DOMAIN-SUFFIX,ssuperstats.observepoint.com
+DOMAIN-SUFFIX,ss.webdock.io
 DOMAIN-SUFFIX,sswmetrics.flysilver.com
 DOMAIN-SUFFIX,sswmetrics.omanair.com
 DOMAIN-SUFFIX,ssy7.destinia.com.ua
@@ -20785,6 +20789,7 @@ DOMAIN-SUFFIX,tr.acd-comexpert.fr
 DOMAIN-SUFFIX,tracdelight.io
 DOMAIN-SUFFIX,trace-2000.com
 DOMAIN-SUFFIX,trace21.dsb-ebusiness.com
+DOMAIN-SUFFIX,trace.51jingying.com
 DOMAIN-SUFFIX,trace.events
 DOMAIN-SUFFIX,trace.insead.edu
 DOMAIN-SUFFIX,tracelog.www.alibaba.com
@@ -21621,6 +21626,7 @@ DOMAIN-SUFFIX,trafficjoint.com
 DOMAIN-SUFFIX,trafficmaxx.de
 DOMAIN-SUFFIX,trafficregenerator.com
 DOMAIN-SUFFIX,trafficscanner.pl
+DOMAIN-SUFFIX,traffic.wdc.center
 DOMAIN-SUFFIX,trafic.ro
 DOMAIN-SUFFIX,trafikkfondet.no
 DOMAIN-SUFFIX,trafit.com

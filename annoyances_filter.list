@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-06 05:22:59
-# DOMAIN-SUFFIX: 911
-# TOTAL: 911
+# UPDATED: 2022-12-09 05:34:01
+# DOMAIN-SUFFIX: 912
+# TOTAL: 912
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,cdn.pushowl.com
 DOMAIN-SUFFIX,cdn.qform24.com
 DOMAIN-SUFFIX,cdn.reamaze.com
 DOMAIN-SUFFIX,cdn.siteswithcontent.com
+DOMAIN-SUFFIX,cdn.snigelweb.com
 DOMAIN-SUFFIX,cdn.subscribers.com
 DOMAIN-SUFFIX,cdn.swellrewards.com
 DOMAIN-SUFFIX,cdnt.netcoresmartech.com
@@ -679,6 +680,7 @@ DOMAIN-SUFFIX,redpsh.pro
 DOMAIN-SUFFIX,relateddigital.com
 DOMAIN-SUFFIX,renderer.qmerce.com
 DOMAIN-SUFFIX,reprocautious.com
+DOMAIN-SUFFIX,restrainstorm.com
 DOMAIN-SUFFIX,rhetoricalloss.com
 DOMAIN-SUFFIX,rocket-push.com
 DOMAIN-SUFFIX,rodo.agora.pl
@@ -872,7 +874,6 @@ DOMAIN-SUFFIX,widget.privy.com
 DOMAIN-SUFFIX,widget.profeat.team
 DOMAIN-SUFFIX,widget.replain.cc
 DOMAIN-SUFFIX,widget.reserve-widget.ru
-DOMAIN-SUFFIX,widgets.binotel.com
 DOMAIN-SUFFIX,widgets.coingecko.com
 DOMAIN-SUFFIX,widgets.digitalmediacommunications.com
 DOMAIN-SUFFIX,widgets.getsitecontrol.com
