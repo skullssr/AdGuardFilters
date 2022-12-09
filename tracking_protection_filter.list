@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-09 05:33:26
-# DOMAIN-SUFFIX: 23901
-# TOTAL: 23901
+# UPDATED: 2022-12-10 05:16:22
+# DOMAIN-SUFFIX: 23906
+# TOTAL: 23906
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2484,6 +2484,7 @@ DOMAIN-SUFFIX,analytics.maileon.com
 DOMAIN-SUFFIX,analytics.makeitmeme.com
 DOMAIN-SUFFIX,analytics.mall.tv
 DOMAIN-SUFFIX,analytics.mambaui.com
+DOMAIN-SUFFIX,analytics.map.qq.com
 DOMAIN-SUFFIX,analytics.marquiz.ru
 DOMAIN-SUFFIX,analytics.martin-fieber.de
 DOMAIN-SUFFIX,analytics.ma.tune.com
@@ -15371,6 +15372,7 @@ DOMAIN-SUFFIX,s1.subaru.com
 DOMAIN-SUFFIX,s232.theintelligencer.com
 DOMAIN-SUFFIX,s24-analytics.com
 DOMAIN-SUFFIX,s2whyufxmzam.chatpay.com.br
+DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s362693299.aon.com
 DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
 DOMAIN-SUFFIX,s3s-main.net
@@ -18103,6 +18105,7 @@ DOMAIN-SUFFIX,sparrow.uitvaartzorg-vanraemdonck.be
 DOMAIN-SUFFIX,sparrow.workingincontent.com
 DOMAIN-SUFFIX,s.parrysound.com
 DOMAIN-SUFFIX,sp.azcentral.com
+DOMAIN-SUFFIX,sp*.baidu.com
 DOMAIN-SUFFIX,sp.battlecreekenquirer.com
 DOMAIN-SUFFIX,sp.baxterbulletin.com
 DOMAIN-SUFFIX,sp.bucyrustelegraphforum.com
@@ -19662,6 +19665,7 @@ DOMAIN-SUFFIX,suddensoda.com
 DOMAIN-SUFFIX,suddenstructure.com
 DOMAIN-SUFFIX,sugarcurtain.com
 DOMAIN-SUFFIX,sugarfriction.com
+DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,suite*.linximpulse.net
 DOMAIN-SUFFIX,suivi.vos-droits-cpf.org
 DOMAIN-SUFFIX,sulkybutter.com
@@ -23858,6 +23862,7 @@ DOMAIN-SUFFIX,zgsdk.zhugeio.com
 DOMAIN-SUFFIX,zgumwv.stepstone.de
 DOMAIN-SUFFIX,zgwxoy.autoscout24.ro
 DOMAIN-SUFFIX,zhcxvk.qvc.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,zion.qbo.intuit.com
 DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
 DOMAIN-SUFFIX,zippywind.com
