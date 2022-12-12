@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-10 05:12:30
-# DOMAIN-SUFFIX: 3089
-# TOTAL: 3089
+# UPDATED: 2022-12-13 05:16:40
+# DOMAIN-SUFFIX: 3087
+# TOTAL: 3087
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -739,6 +739,7 @@ DOMAIN-SUFFIX,doodhwali.com
 DOMAIN-SUFFIX,dood.la
 DOMAIN-SUFFIX,dood.so
 DOMAIN-SUFFIX,dopedgeeks.com
+DOMAIN-SUFFIX,dora-guide.com
 DOMAIN-SUFFIX,doridro.com
 DOMAIN-SUFFIX,doridro.net
 DOMAIN-SUFFIX,dormir-moins-bete.com
@@ -1417,7 +1418,6 @@ DOMAIN-SUFFIX,k258059.net
 DOMAIN-SUFFIX,k2nblog.com
 DOMAIN-SUFFIX,kaamuu.com
 DOMAIN-SUFFIX,kabel-tv-plus.blogspot.com
-DOMAIN-SUFFIX,kakaotv.daum.net
 DOMAIN-SUFFIX,kalite18.cyou
 DOMAIN-SUFFIX,kamikiyuki.hatenablog.com
 DOMAIN-SUFFIX,kampusexcel.com
@@ -2092,7 +2092,6 @@ DOMAIN-SUFFIX,player.pl
 DOMAIN-SUFFIX,player.watch.aetnd.com
 DOMAIN-SUFFIX,playlists.rocks
 DOMAIN-SUFFIX,playstore.pw
-DOMAIN-SUFFIX,play-tv.kakao.com
 DOMAIN-SUFFIX,playview.io
 DOMAIN-SUFFIX,plex-guide.de
 DOMAIN-SUFFIX,pleximum.com
@@ -2787,7 +2786,6 @@ DOMAIN-SUFFIX,tvarticles.org
 DOMAIN-SUFFIX,tv-bu.blogspot.com
 DOMAIN-SUFFIX,tvcatchup.com
 DOMAIN-SUFFIX,tvfree.me
-DOMAIN-SUFFIX,tv.kakao.com
 DOMAIN-SUFFIX,tvn24.pl
 DOMAIN-SUFFIX,tvnturbo.pl
 DOMAIN-SUFFIX,tv-onlinehd.com
