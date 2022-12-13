@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-13 05:20:31
-# DOMAIN-SUFFIX: 23924
-# TOTAL: 23924
+# UPDATED: 2022-12-14 05:31:28
+# DOMAIN-SUFFIX: 23926
+# TOTAL: 23926
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -5548,6 +5548,7 @@ DOMAIN-SUFFIX,d1lm7kd3bd3yo9.cloudfront.net
 DOMAIN-SUFFIX,d1m6l9dfulcyw7.cloudfront.net
 DOMAIN-SUFFIX,d1mdhw23tj9j17.cloudfront.net
 DOMAIN-SUFFIX,d1miwkthq39xj8.cloudfront.net
+DOMAIN-SUFFIX,d1n00d49gkbray.cloudfront.net
 DOMAIN-SUFFIX,d1nh2vjpqpfnin.cloudfront.net
 DOMAIN-SUFFIX,d1qpxk1wfeh8v1.cloudfront.net
 DOMAIN-SUFFIX,d1r27qvpjiaqj3.cloudfront.net
@@ -11923,6 +11924,7 @@ DOMAIN-SUFFIX,media.pirtek.co.uk
 DOMAIN-SUFFIX,media.pirtek.de
 DOMAIN-SUFFIX,mediaplan.ru
 DOMAIN-SUFFIX,mediaplex.com
+DOMAIN-SUFFIX,media.richrelevance.com
 DOMAIN-SUFFIX,mediarithmics.com
 DOMAIN-SUFFIX,mediaseeding.com
 DOMAIN-SUFFIX,mediasource.actonservice.com

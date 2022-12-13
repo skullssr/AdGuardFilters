@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-13 05:16:40
+# UPDATED: 2022-12-14 05:27:35
 # DOMAIN-SUFFIX: 3087
 # TOTAL: 3087
 DOMAIN-SUFFIX,0123movies.com
@@ -739,7 +739,6 @@ DOMAIN-SUFFIX,doodhwali.com
 DOMAIN-SUFFIX,dood.la
 DOMAIN-SUFFIX,dood.so
 DOMAIN-SUFFIX,dopedgeeks.com
-DOMAIN-SUFFIX,dora-guide.com
 DOMAIN-SUFFIX,doridro.com
 DOMAIN-SUFFIX,doridro.net
 DOMAIN-SUFFIX,dormir-moins-bete.com
@@ -2245,6 +2244,7 @@ DOMAIN-SUFFIX,rmdan.org
 DOMAIN-SUFFIX,rmdan.tv
 DOMAIN-SUFFIX,rnbxclusive.best
 DOMAIN-SUFFIX,rndnovels.com
+DOMAIN-SUFFIX,roanoke.com
 DOMAIN-SUFFIX,robloxaltgen.com
 DOMAIN-SUFFIX,robloxexploitz.com
 DOMAIN-SUFFIX,robloxhacks.net
