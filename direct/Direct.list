@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-14 05:35:56
+# UPDATED: 2022-12-15 05:33:06
 # DOMAIN-SUFFIX: 4097
 # TOTAL: 4097
 DOMAIN-SUFFIX,0123movies.com
@@ -1124,7 +1124,7 @@ DOMAIN-SUFFIX,embed.kijk.nl
 DOMAIN-SUFFIX,embedstream.me
 DOMAIN-SUFFIX,embedupload.com
 DOMAIN-SUFFIX,emoji.gg
-DOMAIN-SUFFIX,empire-streaming.co
+DOMAIN-SUFFIX,empire-streaming.*
 DOMAIN-SUFFIX,empregovaga.com
 DOMAIN-SUFFIX,emtb-news.de
 DOMAIN-SUFFIX,emurom.net
