@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-16 05:22:44
-# DOMAIN-SUFFIX: 4098
-# TOTAL: 4098
+# UPDATED: 2022-12-20 05:07:07
+# DOMAIN-SUFFIX: 4099
+# TOTAL: 4099
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -1696,6 +1696,7 @@ DOMAIN-SUFFIX,hoerzu.de
 DOMAIN-SUFFIX,hollywoodmask.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,hookeaudio.com
+DOMAIN-SUFFIX,hopto.org
 DOMAIN-SUFFIX,horamerica.com
 DOMAIN-SUFFIX,horoscopes.rambler.ru
 DOMAIN-SUFFIX,hoshinoromi.org
