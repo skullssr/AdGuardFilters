@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-16 05:14:24
+# UPDATED: 2022-12-21 05:26:25
 # DOMAIN-SUFFIX: 3089
 # TOTAL: 3089
 DOMAIN-SUFFIX,0123movies.com
@@ -2962,7 +2962,6 @@ DOMAIN-SUFFIX,watchtopgearonline.net
 DOMAIN-SUFFIX,watchvideo.us
 DOMAIN-SUFFIX,waterfaucet.online
 DOMAIN-SUFFIX,watoday.com.au
-DOMAIN-SUFFIX,weadown.com
 DOMAIN-SUFFIX,weatherx.co.in
 DOMAIN-SUFFIX,web.archive.org
 DOMAIN-SUFFIX,webassistance.eu
@@ -3045,6 +3044,7 @@ DOMAIN-SUFFIX,xiaomitools.com
 DOMAIN-SUFFIX,xmod.in
 DOMAIN-SUFFIX,xmpp.disk.yandex.net
 DOMAIN-SUFFIX,xpickle.club
+DOMAIN-SUFFIX,xpicture.ru
 DOMAIN-SUFFIX,xploit.ink
 DOMAIN-SUFFIX,xproxxx.org
 DOMAIN-SUFFIX,xshark.me

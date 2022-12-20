@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-20 05:07:07
+# UPDATED: 2022-12-21 05:35:02
 # DOMAIN-SUFFIX: 4099
 # TOTAL: 4099
 DOMAIN-SUFFIX,0123movies.com
@@ -3918,7 +3918,6 @@ DOMAIN-SUFFIX,waterfaucet.online
 DOMAIN-SUFFIX,watoday.com.au
 DOMAIN-SUFFIX,waz.de
 DOMAIN-SUFFIX,wcfcourier.com
-DOMAIN-SUFFIX,weadown.com
 DOMAIN-SUFFIX,weatherx.co.in
 DOMAIN-SUFFIX,web.archive.org
 DOMAIN-SUFFIX,webassistance.eu
@@ -4038,6 +4037,7 @@ DOMAIN-SUFFIX,xiuren.org
 DOMAIN-SUFFIX,xmod.in
 DOMAIN-SUFFIX,xmpp.disk.yandex.net
 DOMAIN-SUFFIX,xpickle.club
+DOMAIN-SUFFIX,xpicture.ru
 DOMAIN-SUFFIX,xploit.ink
 DOMAIN-SUFFIX,xproxxx.org
 DOMAIN-SUFFIX,xshark.me
