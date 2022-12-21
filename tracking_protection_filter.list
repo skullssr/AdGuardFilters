@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-20 05:02:39
-# DOMAIN-SUFFIX: 25323
-# TOTAL: 25323
+# UPDATED: 2022-12-22 05:16:23
+# DOMAIN-SUFFIX: 25320
+# TOTAL: 25320
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2185,7 +2185,6 @@ DOMAIN-SUFFIX,analytics.amrcollection.com
 DOMAIN-SUFFIX,analytics.anvato.net
 DOMAIN-SUFFIX,analytics.any.do
 DOMAIN-SUFFIX,analytics-api.a-f.io
-DOMAIN-SUFFIX,analytics-api.dvdfab.*
 DOMAIN-SUFFIX,analytics-api.dvdfab.at
 DOMAIN-SUFFIX,analytics-api.dvdfab.cn
 DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
@@ -4603,7 +4602,6 @@ DOMAIN-SUFFIX,collector.trendmd.com
 DOMAIN-SUFFIX,collector-*.tvsquared.com
 DOMAIN-SUFFIX,collector.vhx.tv
 DOMAIN-SUFFIX,collector.wawlabs.com
-DOMAIN-SUFFIX,collector.xhamster*.*
 DOMAIN-SUFFIX,collector.xhwide1.com
 DOMAIN-SUFFIX,collector.xhwide8.com
 DOMAIN-SUFFIX,collect.serious.li
@@ -17015,7 +17013,6 @@ DOMAIN-SUFFIX,services.princes-trust.org.uk
 DOMAIN-SUFFIX,services.reworkbyroe.com
 DOMAIN-SUFFIX,services.sdiapi.com
 DOMAIN-SUFFIX,services.wetek.com
-DOMAIN-SUFFIX,servo-report.dvdfab.*
 DOMAIN-SUFFIX,servo-report.dvdfab.at
 DOMAIN-SUFFIX,servo-report.dvdfab.cn
 DOMAIN-SUFFIX,servo-report.dvdfab.co.jp
