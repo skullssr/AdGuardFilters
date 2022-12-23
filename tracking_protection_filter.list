@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-23 05:21:42
-# DOMAIN-SUFFIX: 25323
-# TOTAL: 25323
+# UPDATED: 2022-12-24 05:19:19
+# DOMAIN-SUFFIX: 25326
+# TOTAL: 25326
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -4062,6 +4062,7 @@ DOMAIN-SUFFIX,cdn.rlets.com
 DOMAIN-SUFFIX,cdn-s.chumbacasino.com
 DOMAIN-SUFFIX,cdn-s.dev.chumbacasino.com
 DOMAIN-SUFFIX,cdn-s.dev.globalpoker.com
+DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,cdn-s.globalpoker.com
 DOMAIN-SUFFIX,cdn.sgmntfy.com
 DOMAIN-SUFFIX,cdns.moneyplace.com.au
@@ -11234,6 +11235,7 @@ DOMAIN-SUFFIX,laughablecopper.com
 DOMAIN-SUFFIX,laughablelizards.com
 DOMAIN-SUFFIX,laughcloth.com
 DOMAIN-SUFFIX,laughdrum.com
+DOMAIN-SUFFIX,launches.appsflyersdk.com
 DOMAIN-SUFFIX,lax.data.srf.ch
 DOMAIN-SUFFIX,lbnrrh.autouncle.dk
 DOMAIN-SUFFIX,lb.secureweb24.net
@@ -22292,6 +22294,7 @@ DOMAIN-SUFFIX,tracker.pinnaclesports.com
 DOMAIN-SUFFIX,tracker.plerdy.com
 DOMAIN-SUFFIX,tracker.prom.ua
 DOMAIN-SUFFIX,tracker.providence.org
+DOMAIN-SUFFIX,tracker.ranker.com
 DOMAIN-SUFFIX,tracker.realclearpolitics.com
 DOMAIN-SUFFIX,tracker-rec.smart-bdash.com
 DOMAIN-SUFFIX,tracker.redditmedia.com
