@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-27 05:30:02
-# DOMAIN-SUFFIX: 325
-# TOTAL: 325
+# UPDATED: 2022-12-28 05:16:25
+# DOMAIN-SUFFIX: 326
+# TOTAL: 326
 DOMAIN-SUFFIX,10clicks.com
 DOMAIN-SUFFIX,1800cnt.com
 DOMAIN-SUFFIX,6ms.biz
@@ -141,7 +141,6 @@ DOMAIN-SUFFIX,cdj-dap.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,cdn.alistcloud.com
 DOMAIN-SUFFIX,cdn.lodeo.io
 DOMAIN-SUFFIX,cdn.mixx-ad.net
-DOMAIN-SUFFIX,cdn.relaido.jp
 DOMAIN-SUFFIX,click-count.info
 DOMAIN-SUFFIX,clickmedias.info
 DOMAIN-SUFFIX,c.nakanohito.jp
@@ -200,6 +199,7 @@ DOMAIN-SUFFIX,i2i.jp
 DOMAIN-SUFFIX,i2iserv.com
 DOMAIN-SUFFIX,image-rentracks.com
 DOMAIN-SUFFIX,i-mobile.co.jp
+DOMAIN-SUFFIX,impactify.media
 DOMAIN-SUFFIX,infotop.jp
 DOMAIN-SUFFIX,itgear.jp
 DOMAIN-SUFFIX,j-a-net.jp
@@ -262,6 +262,7 @@ DOMAIN-SUFFIX,reajyu.net
 DOMAIN-SUFFIX,recommender.jp
 DOMAIN-SUFFIX,redirectvoluum.com
 DOMAIN-SUFFIX,reemo-ad.jp
+DOMAIN-SUFFIX,relaido.jp
 DOMAIN-SUFFIX,rentracks.jp
 DOMAIN-SUFFIX,resad.mediaid.click
 DOMAIN-SUFFIX,roselip-fetish.com
