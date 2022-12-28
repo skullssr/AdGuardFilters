@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-28 05:12:31
-# DOMAIN-SUFFIX: 26577
-# TOTAL: 26577
+# UPDATED: 2022-12-29 05:14:53
+# DOMAIN-SUFFIX: 26578
+# TOTAL: 26578
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -11013,7 +11013,6 @@ DOMAIN-SUFFIX,ip2phrase.com
 DOMAIN-SUFFIX,ipaddresslabs.com
 DOMAIN-SUFFIX,ip-adress.com
 DOMAIN-SUFFIX,ipcatch.com
-DOMAIN-SUFFIX,ipcc-vnp1.vnptmedia.vn
 DOMAIN-SUFFIX,ipcc.vnpt.com.vn
 DOMAIN-SUFFIX,ipcheck.blogsys.jp
 DOMAIN-SUFFIX,ipcounter.de
@@ -16563,6 +16562,7 @@ DOMAIN-SUFFIX,response.xactware.com
 DOMAIN-SUFFIX,res.programme-television.org
 DOMAIN-SUFFIX,res.public.fr
 DOMAIN-SUFFIX,res.rbl.ms
+DOMAIN-SUFFIX,res.regoo.com
 DOMAIN-SUFFIX,ressources.caradisiac.com
 DOMAIN-SUFFIX,ressources.centraleauto.com
 DOMAIN-SUFFIX,ressources.lacentrale.fr
@@ -19852,6 +19852,7 @@ DOMAIN-SUFFIX,snowplow-collector-*.amazonaws.com
 DOMAIN-SUFFIX,snowplow-collector.apartmentlist.io
 DOMAIN-SUFFIX,snowplow-pixel.tradingview.com
 DOMAIN-SUFFIX,snowsignal.com
+DOMAIN-SUFFIX,snowy.bellroy.com
 DOMAIN-SUFFIX,snr4.canalplus.com
 DOMAIN-SUFFIX,snuhpz.shopbarcos.jp
 DOMAIN-SUFFIX,snvbhd.weltbild.at
