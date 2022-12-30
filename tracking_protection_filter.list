@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-30 05:19:32
-# DOMAIN-SUFFIX: 26577
-# TOTAL: 26577
+# UPDATED: 2022-12-31 05:12:45
+# DOMAIN-SUFFIX: 26578
+# TOTAL: 26578
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -10136,7 +10136,7 @@ DOMAIN-SUFFIX,hsprzf.shinhwaworld.com
 DOMAIN-SUFFIX,hs-scripts.com
 DOMAIN-SUFFIX,hssyje.theathletesfoot.com.au
 DOMAIN-SUFFIX,hstats.askmiso.com
-DOMAIN-SUFFIX,hstats.hepsiburada.com
+DOMAIN-SUFFIX,hstats*.hepsiburada.com
 DOMAIN-SUFFIX,h.threatmetrix.com
 DOMAIN-SUFFIX,htiagq.sheplers.com
 DOMAIN-SUFFIX,h.truist.com
@@ -10153,6 +10153,7 @@ DOMAIN-SUFFIX,huccia.lozkoholicy.pl
 DOMAIN-SUFFIX,hudb.pl
 DOMAIN-SUFFIX,huffpost.met.vgwort.de
 DOMAIN-SUFFIX,humanclick.com
+DOMAIN-SUFFIX,humanz.com
 DOMAIN-SUFFIX,humdrumhat.com
 DOMAIN-SUFFIX,hummingbird.mavencoalition.io
 DOMAIN-SUFFIX,hung.ch
