@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-13 05:22:17
-# DOMAIN-SUFFIX: 410
-# TOTAL: 410
+# UPDATED: 2023-01-01 05:20:22
+# DOMAIN-SUFFIX: 411
+# TOTAL: 411
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,frvfrv.com
 DOMAIN-SUFFIX,fsm2.spiegel.de
 DOMAIN-SUFFIX,gamesaffiliate.de
 DOMAIN-SUFFIX,gamigoads.com
+DOMAIN-SUFFIX,gbucket.ch
 DOMAIN-SUFFIX,geldcounter.de
 DOMAIN-SUFFIX,gigapromo.de
 DOMAIN-SUFFIX,goldbach.com
