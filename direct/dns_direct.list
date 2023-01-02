@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-27 05:14:50
-# DOMAIN-SUFFIX: 131
-# TOTAL: 131
+# UPDATED: 2023-01-03 04:59:54
+# DOMAIN-SUFFIX: 128
+# TOTAL: 128
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,buyad.bi-xenon.cn
 DOMAIN-SUFFIX,captcha.su.baidu.com
 DOMAIN-SUFFIX,cdnbc-wup.hsbc.com.hk
 DOMAIN-SUFFIX,cdn.rozetka.com.ua
-DOMAIN-SUFFIX,check2.tsb.co.uk
 DOMAIN-SUFFIX,cindyholbrook.lpages.co
 DOMAIN-SUFFIX,citiintl.122.2o7.net
 DOMAIN-SUFFIX,cj.dotomi.com
@@ -84,7 +83,6 @@ DOMAIN-SUFFIX,health.halodoc.com
 DOMAIN-SUFFIX,help-advertisers.adsterra.com
 DOMAIN-SUFFIX,home.focusatwill.com
 DOMAIN-SUFFIX,href.li
-DOMAIN-SUFFIX,h-sdk.online-metrix.net
 DOMAIN-SUFFIX,ia.hit.interia.pl
 DOMAIN-SUFFIX,id.i2i.jp
 DOMAIN-SUFFIX,img.ads.tvb.com
@@ -94,7 +92,6 @@ DOMAIN-SUFFIX,link.morningbrew.com
 DOMAIN-SUFFIX,links.e.theatlantic.com
 DOMAIN-SUFFIX,links.getblueshift.com
 DOMAIN-SUFFIX,logentries.com
-DOMAIN-SUFFIX,login.eki-net.com
 DOMAIN-SUFFIX,login.sendpulse.com
 DOMAIN-SUFFIX,log.mmstat.com
 DOMAIN-SUFFIX,ma135-r.analytics.edgekey.net
