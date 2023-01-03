@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-01 05:20:22
-# DOMAIN-SUFFIX: 411
-# TOTAL: 411
+# UPDATED: 2023-01-04 05:28:45
+# DOMAIN-SUFFIX: 412
+# TOTAL: 412
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,adc.tripple.at
 DOMAIN-SUFFIX,ad.de.doubleclick.net
 DOMAIN-SUFFIX,addefend.com
 DOMAIN-SUFFIX,ad.dl.dewezet.de
+DOMAIN-SUFFIX,ad.dl.mainpost.de
 DOMAIN-SUFFIX,ad.dslr-forum.de
 DOMAIN-SUFFIX,ad.games.ch
 DOMAIN-SUFFIX,adhost.in
