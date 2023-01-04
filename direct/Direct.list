@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-04 05:31:17
-# DOMAIN-SUFFIX: 4080
-# TOTAL: 4080
+# UPDATED: 2023-01-05 05:15:08
+# DOMAIN-SUFFIX: 4081
+# TOTAL: 4081
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -272,6 +272,7 @@ DOMAIN-SUFFIX,anime47.com
 DOMAIN-SUFFIX,animecast.net
 DOMAIN-SUFFIX,animedao28.stream
 DOMAIN-SUFFIX,animedao29.stream
+DOMAIN-SUFFIX,animedao.to
 DOMAIN-SUFFIX,anime-extremo.com
 DOMAIN-SUFFIX,animee.xyz
 DOMAIN-SUFFIX,animefastmega.com
