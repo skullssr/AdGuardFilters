@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-06 05:27:30
-# DOMAIN-SUFFIX: 26524
-# TOTAL: 26524
+# UPDATED: 2023-01-07 05:34:09
+# DOMAIN-SUFFIX: 26525
+# TOTAL: 26525
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -17535,6 +17535,7 @@ DOMAIN-SUFFIX,sdk.airbridge.io
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
 DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+DOMAIN-SUFFIX,sdk.conscent.in
 DOMAIN-SUFFIX,sdk-log-inter.youdao.com
 DOMAIN-SUFFIX,sdklogs.avocarrot.com
 DOMAIN-SUFFIX,sdk-orion.appboy.com

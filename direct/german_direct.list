@@ -1,9 +1,9 @@
 # NAME: GermanDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2022-12-25 05:32:28
-# DOMAIN-SUFFIX: 316
-# TOTAL: 316
+# UPDATED: 2023-01-07 05:35:58
+# DOMAIN-SUFFIX: 315
+# TOTAL: 315
 DOMAIN-SUFFIX,20min.ch
 DOMAIN-SUFFIX,4fansites.de
 DOMAIN-SUFFIX,4players.de
@@ -123,7 +123,6 @@ DOMAIN-SUFFIX,gusto.at
 DOMAIN-SUFFIX,gut-erklaert.de
 DOMAIN-SUFFIX,hallo-muenchen.de
 DOMAIN-SUFFIX,hamburg.de
-DOMAIN-SUFFIX,hardwareluxx.de
 DOMAIN-SUFFIX,harzkurier.de
 DOMAIN-SUFFIX,hdfilme.*
 DOMAIN-SUFFIX,heftig.de
