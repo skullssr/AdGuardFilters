@@ -1,9 +1,9 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-05 05:12:17
-# DOMAIN-SUFFIX: 3935
-# TOTAL: 3935
+# UPDATED: 2023-01-08 05:25:29
+# DOMAIN-SUFFIX: 3936
+# TOTAL: 3936
 DOMAIN-SUFFIX,0001.best
 DOMAIN-SUFFIX,0427d7.se
 DOMAIN-SUFFIX,0483bm4mlow8.xyz
@@ -2991,6 +2991,7 @@ DOMAIN-SUFFIX,server.adeasy.ru
 DOMAIN-SUFFIX,serverbest.xyz
 DOMAIN-SUFFIX,server.roolim.ru
 DOMAIN-SUFFIX,server.zombie-tv.org
+DOMAIN-SUFFIX,servetraff.com
 DOMAIN-SUFFIX,service.rorer.ru
 DOMAIN-SUFFIX,servw.bid
 DOMAIN-SUFFIX,setka.media

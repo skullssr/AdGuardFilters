@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-03 05:14:14
-# DOMAIN-SUFFIX: 326
-# TOTAL: 326
+# UPDATED: 2023-01-08 05:27:53
+# DOMAIN-SUFFIX: 334
+# TOTAL: 334
 DOMAIN-SUFFIX,10clicks.com
 DOMAIN-SUFFIX,1800cnt.com
 DOMAIN-SUFFIX,6ms.biz
@@ -53,11 +53,13 @@ DOMAIN-SUFFIX,ad-nex.com
 DOMAIN-SUFFIX,adntokyo.gunosy.com
 DOMAIN-SUFFIX,adnwif.smt.docomo.ne.jp
 DOMAIN-SUFFIX,ad.nwi.jp
+DOMAIN-SUFFIX,ad-optima.com
 DOMAIN-SUFFIX,ad-paradise.com
 DOMAIN-SUFFIX,adp.homes.co.jp
 DOMAIN-SUFFIX,adpicker.net
 DOMAIN-SUFFIX,adplan-ds.com
 DOMAIN-SUFFIX,adplatform.jp
+DOMAIN-SUFFIX,adplushome.com
 DOMAIN-SUFFIX,ad.presco.asia
 DOMAIN-SUFFIX,adpriv.nikkei.com
 DOMAIN-SUFFIX,ad.rarure.com
@@ -86,7 +88,9 @@ DOMAIN-SUFFIX,ad.woman.mynavi.jp
 DOMAIN-SUFFIX,ad.xdomain.ne.jp
 DOMAIN-SUFFIX,ad.xrea.com
 DOMAIN-SUFFIX,af-110.com
+DOMAIN-SUFFIX,af-a.jp
 DOMAIN-SUFFIX,affiliate.konibet.com
+DOMAIN-SUFFIX,affiliateone.jp
 DOMAIN-SUFFIX,affiliate.rakuten.co.jp
 DOMAIN-SUFFIX,affiliate-script-pr.firebaseapp.com
 DOMAIN-SUFFIX,affiliates.expaus.in
@@ -128,6 +132,7 @@ DOMAIN-SUFFIX,bartinkizogrenciyurdu.com
 DOMAIN-SUFFIX,b-click.net
 DOMAIN-SUFFIX,best-lucky-cat.xyz
 DOMAIN-SUFFIX,bizad.nikkeibp.co.jp
+DOMAIN-SUFFIX,bizmotion.jp
 DOMAIN-SUFFIX,blog.livelog.biz
 DOMAIN-SUFFIX,blogparts.dgpot.com
 DOMAIN-SUFFIX,blogparts.gcolle.net
@@ -246,6 +251,7 @@ DOMAIN-SUFFIX,okbp.xyz
 DOMAIN-SUFFIX,one.impact-ad.jp
 DOMAIN-SUFFIX,ov.yahoo.co.jp
 DOMAIN-SUFFIX,partner.become.co.jp
+DOMAIN-SUFFIX,performancefirst.jp
 DOMAIN-SUFFIX,pokoran.com
 DOMAIN-SUFFIX,polymorphicads.jp
 DOMAIN-SUFFIX,p.permalink-system.com
@@ -292,6 +298,7 @@ DOMAIN-SUFFIX,tcs-asp.net
 DOMAIN-SUFFIX,textad.net
 DOMAIN-SUFFIX,thatsping.jp
 DOMAIN-SUFFIX,thench.net
+DOMAIN-SUFFIX,threeate.jp
 DOMAIN-SUFFIX,torimochi-ad.net
 DOMAIN-SUFFIX,townlife-aff.com
 DOMAIN-SUFFIX,tracer.jp
@@ -301,6 +308,7 @@ DOMAIN-SUFFIX,trading-ad.net
 DOMAIN-SUFFIX,traffic-exchange.tv
 DOMAIN-SUFFIX,trafficgate.net
 DOMAIN-SUFFIX,trafficstars.com
+DOMAIN-SUFFIX,trigraff.com
 DOMAIN-SUFFIX,trigs-sockets.com
 DOMAIN-SUFFIX,trustclick.ne.jp
 DOMAIN-SUFFIX,tumabeni.com
