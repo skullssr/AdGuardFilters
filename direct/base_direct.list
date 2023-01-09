@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-09 05:14:46
+# UPDATED: 2023-01-10 05:26:56
 # DOMAIN-SUFFIX: 3079
 # TOTAL: 3079
 DOMAIN-SUFFIX,0123movies.com
@@ -472,6 +472,7 @@ DOMAIN-SUFFIX,carajuki.com
 DOMAIN-SUFFIX,carapraktis.info
 DOMAIN-SUFFIX,caratulasparacuadernos.com
 DOMAIN-SUFFIX,caravaning.de
+DOMAIN-SUFFIX,card.llsif.moe
 DOMAIN-SUFFIX,cariskuy.com
 DOMAIN-SUFFIX,cartoon.porn
 DOMAIN-SUFFIX,casos-aislados.com
@@ -3056,7 +3057,6 @@ DOMAIN-SUFFIX,yomasti.co
 DOMAIN-SUFFIX,yoshare.net
 DOMAIN-SUFFIX,youbamangablog.ga
 DOMAIN-SUFFIX,youkaiwatch2345.blog.fc2.com
-DOMAIN-SUFFIX,youmath.it
 DOMAIN-SUFFIX,yourdictionary.com
 DOMAIN-SUFFIX,yourlifeupdated.net
 DOMAIN-SUFFIX,yoursavegames.com
