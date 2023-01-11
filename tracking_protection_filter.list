@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-11 05:16:50
-# DOMAIN-SUFFIX: 25802
-# TOTAL: 25802
+# UPDATED: 2023-01-12 05:23:15
+# DOMAIN-SUFFIX: 25805
+# TOTAL: 25805
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -7727,6 +7727,7 @@ DOMAIN-SUFFIX,d-log.asahi.co.jp
 DOMAIN-SUFFIX,d-log.bs-asahi.tv
 DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
 DOMAIN-SUFFIX,dlrdmw.zanui.com.au
+DOMAIN-SUFFIX,dls2s.appsflyer.com
 DOMAIN-SUFFIX,dlzbax.street-academy.com
 DOMAIN-SUFFIX,dmanalytics1.com
 DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
@@ -11721,6 +11722,7 @@ DOMAIN-SUFFIX,logging.goodgamestudios.com
 DOMAIN-SUFFIX,logging.prefixbox.com
 DOMAIN-SUFFIX,loggingservices.tribune.com
 DOMAIN-SUFFIX,loggly.cheatsheet.com
+DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,log.go2s.co
 DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
@@ -14478,6 +14480,7 @@ DOMAIN-SUFFIX,offer.buy.myjourney2022.com
 DOMAIN-SUFFIX,offer.buy.wellness-europe.com
 DOMAIN-SUFFIX,offer.buy.wellness-quality.com
 DOMAIN-SUFFIX,offer.gentleandrose.com
+DOMAIN-SUFFIX,offer-go.com
 DOMAIN-SUFFIX,offer.kundenmanufaktur.com
 DOMAIN-SUFFIX,offermatica.com
 DOMAIN-SUFFIX,offer.paintlyshopnow.com
