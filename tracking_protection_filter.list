@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-12 05:23:15
-# DOMAIN-SUFFIX: 25805
-# TOTAL: 25805
+# UPDATED: 2023-01-13 05:42:31
+# DOMAIN-SUFFIX: 25802
+# TOTAL: 25802
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2711,7 +2711,6 @@ DOMAIN-SUFFIX,analytics.theinstitutes.org
 DOMAIN-SUFFIX,analytics.thenest.com
 DOMAIN-SUFFIX,analytics.thenewslens.com
 DOMAIN-SUFFIX,analytics.thetab.com
-DOMAIN-SUFFIX,analytics.thevideo.me
 DOMAIN-SUFFIX,analytics.tiendaenoferta.com
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,analytics.tilikum.io
@@ -4273,7 +4272,6 @@ DOMAIN-SUFFIX,cdn.sppoints.xyz
 DOMAIN-SUFFIX,cdnstats-a.akamaihd.net
 DOMAIN-SUFFIX,cdn.stat-track.com
 DOMAIN-SUFFIX,cdnstr.com
-DOMAIN-SUFFIX,cdn.stroeerdigitalgroup.de
 DOMAIN-SUFFIX,cdn.teleportapi.com
 DOMAIN-SUFFIX,cdn.topmind.io
 DOMAIN-SUFFIX,cdn.trackclicks.info
@@ -9164,6 +9162,7 @@ DOMAIN-SUFFIX,fpctraffic2.com
 DOMAIN-SUFFIX,fpc.trimarkusa.com
 DOMAIN-SUFFIX,fp-*it*.fengkongcloud.com
 DOMAIN-SUFFIX,fp.kakaku.com
+DOMAIN-SUFFIX,fpnpmcdn.net
 DOMAIN-SUFFIX,fprnt.com
 DOMAIN-SUFFIX,fq9vy0muyqi3.www.madrigalmaps.com
 DOMAIN-SUFFIX,fqppgv.cheapoair.com
@@ -11814,7 +11813,6 @@ DOMAIN-SUFFIX,logtake.weidian.com
 DOMAIN-SUFFIX,log-tb.sgsnssdk.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,log.tf.co.kr
-DOMAIN-SUFFIX,log.thevideo.me
 DOMAIN-SUFFIX,log*-*.tiktokv.com
 DOMAIN-SUFFIX,log.tiktokv.com
 DOMAIN-SUFFIX,log.tpns.tencent.com
@@ -21005,7 +21003,6 @@ DOMAIN-SUFFIX,stats.telositycompany.com
 DOMAIN-SUFFIX,stats.tena.ee
 DOMAIN-SUFFIX,stats.textprotocol.org
 DOMAIN-SUFFIX,stats.thenewradiance.com
-DOMAIN-SUFFIX,stats.thevideo.me
 DOMAIN-SUFFIX,stats.thingsthatkeepmeupatnight.dev
 DOMAIN-SUFFIX,stats.thomasfroese.com
 DOMAIN-SUFFIX,stats.threadstart.io
