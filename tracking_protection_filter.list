@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-13 05:42:31
-# DOMAIN-SUFFIX: 25802
-# TOTAL: 25802
+# UPDATED: 2023-01-14 05:23:06
+# DOMAIN-SUFFIX: 25804
+# TOTAL: 25804
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -4773,6 +4773,7 @@ DOMAIN-SUFFIX,collector.vhx.tv
 DOMAIN-SUFFIX,collector.wawlabs.com
 DOMAIN-SUFFIX,collector.xhwide1.com
 DOMAIN-SUFFIX,collector.xhwide8.com
+DOMAIN-SUFFIX,collect.rtl.lu
 DOMAIN-SUFFIX,collect.serious.li
 DOMAIN-SUFFIX,collect-test.arabam.com
 DOMAIN-SUFFIX,collect.tianya.cn
@@ -5471,6 +5472,7 @@ DOMAIN-SUFFIX,d20duyjzb7cuoc.cloudfront.net
 DOMAIN-SUFFIX,d21o24qxwf7uku.cloudfront.net
 DOMAIN-SUFFIX,d22v2nmahyeg2a.cloudfront.net
 DOMAIN-SUFFIX,d23p9gffjvre9v.cloudfront.net
+DOMAIN-SUFFIX,d24rtvkqjwgutp.cloudfront.net
 DOMAIN-SUFFIX,d276.ourmidland.com
 DOMAIN-SUFFIX,d28g9g3vb08y70.cloudfront.net
 DOMAIN-SUFFIX,d2cmqkwo8rxlr9.cloudfront.net
@@ -11721,7 +11723,6 @@ DOMAIN-SUFFIX,logging.goodgamestudios.com
 DOMAIN-SUFFIX,logging.prefixbox.com
 DOMAIN-SUFFIX,loggingservices.tribune.com
 DOMAIN-SUFFIX,loggly.cheatsheet.com
-DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,log.go2s.co
 DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
@@ -20106,6 +20107,7 @@ DOMAIN-SUFFIX,ssmr2.so-net.ne.jp
 DOMAIN-SUFFIX,ssmr.nuro.jp
 DOMAIN-SUFFIX,ssmr.so-net.ne.jp
 DOMAIN-SUFFIX,ss.musthird.com
+DOMAIN-SUFFIX,s.sofoot.com
 DOMAIN-SUFFIX,s.somos-arts.org
 DOMAIN-SUFFIX,ssp.igaw.io
 DOMAIN-SUFFIX,s.sporks.space
