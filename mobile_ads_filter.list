@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-14 05:27:31
-# DOMAIN-SUFFIX: 1073
-# TOTAL: 1073
+# UPDATED: 2023-01-18 05:29:31
+# DOMAIN-SUFFIX: 1077
+# TOTAL: 1077
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -933,6 +933,9 @@ DOMAIN-SUFFIX,ssp.mediation.trnox.com
 DOMAIN-SUFFIX,ssp.otm-r.com
 DOMAIN-SUFFIX,startappexchange.com
 DOMAIN-SUFFIX,startappservice.com
+DOMAIN-SUFFIX,startup-mobile.ap.yandex-net.ru
+DOMAIN-SUFFIX,startup.mobile.webvisor.com
+DOMAIN-SUFFIX,startup.mobile.yandex.net
 DOMAIN-SUFFIX,static.doubleclick.net
 DOMAIN-SUFFIX,static.hyprmx.com
 DOMAIN-SUFFIX,static.jampp.com
@@ -1042,6 +1045,7 @@ DOMAIN-SUFFIX,waiads.com
 DOMAIN-SUFFIX,wap-click.com
 DOMAIN-SUFFIX,wapstart.ru
 DOMAIN-SUFFIX,wbn.su
+DOMAIN-SUFFIX,wd.adcolony.xyz
 DOMAIN-SUFFIX,wdig.vo.llnwd.net
 DOMAIN-SUFFIX,weboohost.com
 DOMAIN-SUFFIX,webview.unityads.unity3d.com

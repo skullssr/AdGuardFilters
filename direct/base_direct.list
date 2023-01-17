@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-14 05:18:56
-# DOMAIN-SUFFIX: 3073
-# TOTAL: 3073
+# UPDATED: 2023-01-18 05:20:49
+# DOMAIN-SUFFIX: 3074
+# TOTAL: 3074
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -1511,6 +1511,7 @@ DOMAIN-SUFFIX,leakite.com
 DOMAIN-SUFFIX,learn-automation.com
 DOMAIN-SUFFIX,learningcrux.com
 DOMAIN-SUFFIX,learnmania.org
+DOMAIN-SUFFIX,lecturel.com
 DOMAIN-SUFFIX,leechall.com
 DOMAIN-SUFFIX,leechall.download
 DOMAIN-SUFFIX,leechpremium.link
