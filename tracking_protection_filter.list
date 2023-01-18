@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-18 05:25:05
-# DOMAIN-SUFFIX: 26261
-# TOTAL: 26261
+# UPDATED: 2023-01-19 05:16:30
+# DOMAIN-SUFFIX: 26265
+# TOTAL: 26265
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -1745,6 +1745,7 @@ DOMAIN-SUFFIX,ad.kinozal.website
 DOMAIN-SUFFIX,adku.co
 DOMAIN-SUFFIX,adku.com
 DOMAIN-SUFFIX,ad-log.dable.io
+DOMAIN-SUFFIX,ad-log.wemakeprice.com
 DOMAIN-SUFFIX,admantx.com
 DOMAIN-SUFFIX,admdspc.com
 DOMAIN-SUFFIX,admeasure.hh-online.jp
@@ -2641,6 +2642,7 @@ DOMAIN-SUFFIX,analytics.metro-tr.com
 DOMAIN-SUFFIX,analytics.mhpod.gov.au
 DOMAIN-SUFFIX,analytics.michiganlottery.com
 DOMAIN-SUFFIX,analytics.mindjolt.com
+DOMAIN-SUFFIX,analytics-mkt.wemakeprice.com
 DOMAIN-SUFFIX,analytics.mlstatic.com
 DOMAIN-SUFFIX,analytics.mobilegamestats.com
 DOMAIN-SUFFIX,analytics.mobile.walmart.com
@@ -2822,6 +2824,7 @@ DOMAIN-SUFFIX,analytics.trust.page
 DOMAIN-SUFFIX,analytics.trutv.com
 DOMAIN-SUFFIX,analytics.tver.jp
 DOMAIN-SUFFIX,analytics.twitter.com
+DOMAIN-SUFFIX,analytics.ubports.com
 DOMAIN-SUFFIX,analytics.ubs.com
 DOMAIN-SUFFIX,analytics-udg.netdna-ssl.com
 DOMAIN-SUFFIX,analytics.unand.ac.id
@@ -22931,6 +22934,7 @@ DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
 DOMAIN-SUFFIX,tracker.citicsinfo.com
 DOMAIN-SUFFIX,tracker.convead.io
 DOMAIN-SUFFIX,tracker.cpapath.com
+DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.departapp.com
 DOMAIN-SUFFIX,tracker.digitalcamp.co.kr
 DOMAIN-SUFFIX,tracker.downdetector.com
