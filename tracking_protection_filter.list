@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-19 05:16:30
-# DOMAIN-SUFFIX: 26265
-# TOTAL: 26265
+# UPDATED: 2023-01-20 05:03:59
+# DOMAIN-SUFFIX: 26269
+# TOTAL: 26269
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3040,6 +3040,7 @@ DOMAIN-SUFFIX,api.imqtyik.com
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.ipdata.co
 DOMAIN-SUFFIX,api.iterative.ly
+DOMAIN-SUFFIX,a.pikabu.ru
 DOMAIN-SUFFIX,api.limbik.com
 DOMAIN-SUFFIX,api.logmatic.io
 DOMAIN-SUFFIX,api.miui.security.xiaomi.com
@@ -12088,6 +12089,7 @@ DOMAIN-SUFFIX,log.hypebeast.com
 DOMAIN-SUFFIX,login.affiliatesit.cz
 DOMAIN-SUFFIX,log.invodo.com
 DOMAIN-SUFFIX,log-ird.outbrain.com
+DOMAIN-SUFFIX,log.isnssdk.com
 DOMAIN-SUFFIX,logistics.osmworldwide.com
 DOMAIN-SUFFIX,log.iyunmai.com
 DOMAIN-SUFFIX,log.krs-ix.ru
@@ -12163,6 +12165,7 @@ DOMAIN-SUFFIX,logs.unchecky.com
 DOMAIN-SUFFIX,log.suumo.jp
 DOMAIN-SUFFIX,logs.viadata.store
 DOMAIN-SUFFIX,logtake.weidian.com
+DOMAIN-SUFFIX,log-tb.isnssdk.com
 DOMAIN-SUFFIX,log-tb.sgsnssdk.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,log.tf.co.kr
@@ -14278,6 +14281,7 @@ DOMAIN-SUFFIX,money.mioweb.cz
 DOMAIN-SUFFIX,mongoosemetrics.com
 DOMAIN-SUFFIX,mongoose.thechocolatelife.com
 DOMAIN-SUFFIX,mon.ingservices.nl
+DOMAIN-SUFFIX,mon.isnssdk.com
 DOMAIN-SUFFIX,monitis.com
 DOMAIN-SUFFIX,monitor.azure.com
 DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com

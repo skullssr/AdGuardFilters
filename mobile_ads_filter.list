@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-18 05:29:31
-# DOMAIN-SUFFIX: 1077
-# TOTAL: 1077
+# UPDATED: 2023-01-20 05:08:25
+# DOMAIN-SUFFIX: 1087
+# TOTAL: 1087
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -477,6 +477,7 @@ DOMAIN-SUFFIX,deliveryengine.adswizz.com
 DOMAIN-SUFFIX,dev.appboy.com
 DOMAIN-SUFFIX,dispatcher.mng-ads.com
 DOMAIN-SUFFIX,disqusads.com
+DOMAIN-SUFFIX,dm.isnssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,dotomi.com
 DOMAIN-SUFFIX,dpstack.com
@@ -556,6 +557,7 @@ DOMAIN-SUFFIX,gwallet.com
 DOMAIN-SUFFIX,gwrtdp-tn690BFAdt.tclclouds.com
 DOMAIN-SUFFIX,gynax.com
 DOMAIN-SUFFIX,h12-media.com
+DOMAIN-SUFFIX,h5.isnssdk.com
 DOMAIN-SUFFIX,h5.wannaplay.cn
 DOMAIN-SUFFIX,ha-api.pushwoosh.com
 DOMAIN-SUFFIX,hasmobi.net
@@ -567,6 +569,7 @@ DOMAIN-SUFFIX,hnr.wwxhba.xyz
 DOMAIN-SUFFIX,holder.com.ua
 DOMAIN-SUFFIX,hormebets.info
 DOMAIN-SUFFIX,hostgrater.com
+DOMAIN-SUFFIX,hotapi-va.isnssdk.com
 DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
 DOMAIN-SUFFIX,houseads.ttpsdk.info
 DOMAIN-SUFFIX,hqsjc.com
@@ -575,6 +578,7 @@ DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,huntmad.com
 DOMAIN-SUFFIX,hybrid.ai
 DOMAIN-SUFFIX,hyperadx.com
+DOMAIN-SUFFIX,i16-tb.isnssdk.com
 DOMAIN-SUFFIX,i2ad.jp
 DOMAIN-SUFFIX,i2.myapkcdn.in
 DOMAIN-SUFFIX,iad-*.appboy.com
@@ -582,8 +586,11 @@ DOMAIN-SUFFIX,iad.appboy.com
 DOMAIN-SUFFIX,iad-*.braze.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iam.datasavannah.com
+DOMAIN-SUFFIX,ichannel.isnssdk.com
 DOMAIN-SUFFIX,id1.cn
 DOMAIN-SUFFIX,ifengad.*.ifeng.com
+DOMAIN-SUFFIX,i.isnssdk.com
+DOMAIN-SUFFIX,imapi-sg.isnssdk.com
 DOMAIN-SUFFIX,imasdk.googleapis.com
 DOMAIN-SUFFIX,imgx.jampp.com
 DOMAIN-SUFFIX,i-mobile.co.jp
@@ -610,7 +617,6 @@ DOMAIN-SUFFIX,investingchannel.com
 DOMAIN-SUFFIX,iqzone.com
 DOMAIN-SUFFIX,i.singular.net
 DOMAIN-SUFFIX,i.skimresources.com
-DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,i-vengo.com
 DOMAIN-SUFFIX,iyes.youku.com
 DOMAIN-SUFFIX,javacript.gq
@@ -787,6 +793,7 @@ DOMAIN-SUFFIX,onclickads.net
 DOMAIN-SUFFIX,onedrive.su
 DOMAIN-SUFFIX,onlineapi.youappi.com
 DOMAIN-SUFFIX,online-prod.zenmxapps.com
+DOMAIN-SUFFIX,open.isnssdk.com
 DOMAIN-SUFFIX,opt8.co
 DOMAIN-SUFFIX,optimatic.com
 DOMAIN-SUFFIX,os.scmpacdn.com
@@ -798,6 +805,7 @@ DOMAIN-SUFFIX,pagead46.l.doubleclick.net
 DOMAIN-SUFFIX,pagefair.net
 DOMAIN-SUFFIX,painsko.com
 DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangolin16.isnssdk.com
 DOMAIN-SUFFIX,partnerad.l.doubleclick.net
 DOMAIN-SUFFIX,partnerearning.com
 DOMAIN-SUFFIX,pasta.esfile.duapps.com
@@ -984,6 +992,8 @@ DOMAIN-SUFFIX,tkmftc.aotter.net
 DOMAIN-SUFFIX,tkportal.aotter.net
 DOMAIN-SUFFIX,tm1.hoiplay.com
 DOMAIN-SUFFIX,tmz.vo.llnwd.net
+DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
+DOMAIN-SUFFIX,tnc16-useast1a.isnssdk.com
 DOMAIN-SUFFIX,tnkfactory.com
 DOMAIN-SUFFIX,tonefuse.com
 DOMAIN-SUFFIX,tongqing2015.com
