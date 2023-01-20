@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-20 04:59:42
-# DOMAIN-SUFFIX: 3072
-# TOTAL: 3072
+# UPDATED: 2023-01-21 05:31:09
+# DOMAIN-SUFFIX: 3074
+# TOTAL: 3074
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -434,6 +434,7 @@ DOMAIN-SUFFIX,btc2019.tk
 DOMAIN-SUFFIX,btcfaucet.best
 DOMAIN-SUFFIX,btcnewz.com
 DOMAIN-SUFFIX,btvsports.lol
+DOMAIN-SUFFIX,builder.io
 DOMAIN-SUFFIX,burnbutt.com
 DOMAIN-SUFFIX,business-credits.cc
 DOMAIN-SUFFIX,business-degrees.me
@@ -736,6 +737,7 @@ DOMAIN-SUFFIX,doodhwali.com
 DOMAIN-SUFFIX,dood.la
 DOMAIN-SUFFIX,dood.re
 DOMAIN-SUFFIX,dood.so
+DOMAIN-SUFFIX,dood.yt
 DOMAIN-SUFFIX,dopedgeeks.com
 DOMAIN-SUFFIX,doridro.com
 DOMAIN-SUFFIX,doridro.net
