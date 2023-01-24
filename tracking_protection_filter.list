@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-24 05:45:43
-# DOMAIN-SUFFIX: 25816
-# TOTAL: 25816
+# UPDATED: 2023-01-25 05:52:27
+# DOMAIN-SUFFIX: 25815
+# TOTAL: 25815
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -4810,7 +4810,6 @@ DOMAIN-SUFFIX,clientlog.portal.office.com
 DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,client-metrics.chess.com
 DOMAIN-SUFFIX,clientmetrics.kik.com
-DOMAIN-SUFFIX,client.perimeterx.net
 DOMAIN-SUFFIX,clientservice.alphasimplex.com
 DOMAIN-SUFFIX,cliftons.actonservice.com
 DOMAIN-SUFFIX,clinical.questdiagnostics.com
@@ -4975,6 +4974,7 @@ DOMAIN-SUFFIX,cnt.rambler.ru
 DOMAIN-SUFFIX,cnt.ramlife.ru
 DOMAIN-SUFFIX,cnt.trvdp.com
 DOMAIN-SUFFIX,cnt.xhamster.com
+DOMAIN-SUFFIX,cntxtfl.com
 DOMAIN-SUFFIX,cnvzhn.edouarddenis-immobilier.com
 DOMAIN-SUFFIX,cnxweb.com
 DOMAIN-SUFFIX,cnzz.com
@@ -5060,13 +5060,11 @@ DOMAIN-SUFFIX,collector.mazeberry.com
 DOMAIN-SUFFIX,collector.mediator.media
 DOMAIN-SUFFIX,collector-medium.lightstep.com
 DOMAIN-SUFFIX,collector.megaxh.com
-DOMAIN-SUFFIX,collector-*.perimeterx.net
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector.puhutv.com
 DOMAIN-SUFFIX,collector-*.px-cdn.net
 DOMAIN-SUFFIX,collector-*.pxchk.net
-DOMAIN-SUFFIX,collector-*.px-cloud.net
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
 DOMAIN-SUFFIX,collector.roistat.com
@@ -25803,6 +25801,7 @@ DOMAIN-SUFFIX,ztest1track.com
 DOMAIN-SUFFIX,ztevents.zaloapp.com
 DOMAIN-SUFFIX,ztfjtn.liujo.com
 DOMAIN-SUFFIX,ztqnls.lojasrenner.com.br
+DOMAIN-SUFFIX,ztrck.me
 DOMAIN-SUFFIX,ztsrv.com
 DOMAIN-SUFFIX,zudver.matsmart.se
 DOMAIN-SUFFIX,zug.sbb.ch
