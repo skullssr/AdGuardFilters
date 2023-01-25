@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-25 05:52:27
-# DOMAIN-SUFFIX: 25815
-# TOTAL: 25815
+# UPDATED: 2023-01-26 05:44:06
+# DOMAIN-SUFFIX: 25819
+# TOTAL: 25819
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -5024,6 +5024,7 @@ DOMAIN-SUFFIX,collect.elvia.ch
 DOMAIN-SUFFIX,collectfasttracks.com
 DOMAIN-SUFFIX,collect.feefo.com
 DOMAIN-SUFFIX,collect.helsana.ch
+DOMAIN-SUFFIX,collect.hollisterco.com
 DOMAIN-SUFFIX,collect.igodigital.com
 DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
 DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
@@ -14745,6 +14746,7 @@ DOMAIN-SUFFIX,oproi.com
 DOMAIN-SUFFIX,optify.net
 DOMAIN-SUFFIX,optimahub.com
 DOMAIN-SUFFIX,optimallimit.com
+DOMAIN-SUFFIX,optimeeze.appspot.com
 DOMAIN-SUFFIX,optimierung-der-website.de
 DOMAIN-SUFFIX,optimisation.coop.co.uk
 DOMAIN-SUFFIX,optimisation.data.lloydsbankinggroup.com
@@ -20316,7 +20318,6 @@ DOMAIN-SUFFIX,stat.rare.ru
 DOMAIN-SUFFIX,stat.ruvr.ru
 DOMAIN-SUFFIX,stats01.20min.ch
 DOMAIN-SUFFIX,stats.0x2142.com
-DOMAIN-SUFFIX,stats1.tune.pk
 DOMAIN-SUFFIX,stats1.wpmudev.com
 DOMAIN-SUFFIX,stats21.com
 DOMAIN-SUFFIX,stats2.agilecrm.com
@@ -21463,6 +21464,7 @@ DOMAIN-SUFFIX,tagger.ope.scmp.com
 DOMAIN-SUFFIX,tag.getdrip.com
 DOMAIN-SUFFIX,tag.goadopt.io
 DOMAIN-SUFFIX,tag.hariken.co
+DOMAIN-SUFFIX,tag.imagino.com
 DOMAIN-SUFFIX,tag.karte.io
 DOMAIN-SUFFIX,tagmanager1.citibank.com
 DOMAIN-SUFFIX,tagmanager1.citibankonline.com
@@ -22473,6 +22475,7 @@ DOMAIN-SUFFIX,tracker.cpapath.com
 DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.departapp.com
 DOMAIN-SUFFIX,tracker.digitalcamp.co.kr
+DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
 DOMAIN-SUFFIX,tracker.downdetector.com
 DOMAIN-SUFFIX,tracker.durasite.net
 DOMAIN-SUFFIX,tracker.ethicalcorp.com
@@ -22648,6 +22651,7 @@ DOMAIN-SUFFIX,tracking.americas.business.samsung.com
 DOMAIN-SUFFIX,tracking.analysis.hibu.com
 DOMAIN-SUFFIX,tracking.ancestry.com
 DOMAIN-SUFFIX,tracking.apac.business.samsung.com
+DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
 DOMAIN-SUFFIX,trackingapi.cloudapp.net
 DOMAIN-SUFFIX,tracking-api.hotmart.com
 DOMAIN-SUFFIX,trackingapi.kaufda.de
