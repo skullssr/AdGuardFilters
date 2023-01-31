@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-31 05:35:59
-# DOMAIN-SUFFIX: 29114
-# TOTAL: 29114
+# UPDATED: 2023-02-01 05:23:00
+# DOMAIN-SUFFIX: 29120
+# TOTAL: 29120
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -8651,6 +8651,7 @@ DOMAIN-SUFFIX,d-log.asahi.co.jp
 DOMAIN-SUFFIX,d-log.bs-asahi.tv
 DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
 DOMAIN-SUFFIX,dls2s.appsflyer.com
+DOMAIN-SUFFIX,dlsdk.appsflyer.com
 DOMAIN-SUFFIX,dlzbax.street-academy.com
 DOMAIN-SUFFIX,dmanalytics1.com
 DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
@@ -9778,6 +9779,7 @@ DOMAIN-SUFFIX,eventgw.twilio.com
 DOMAIN-SUFFIX,event.hket.com
 DOMAIN-SUFFIX,event.impression-neo.naver.com
 DOMAIN-SUFFIX,event.instiengage.com
+DOMAIN-SUFFIX,event-listener.air.tv
 DOMAIN-SUFFIX,eventlogger.soundcloud.com
 DOMAIN-SUFFIX,eventlog.inspsearchapi.com
 DOMAIN-SUFFIX,eventlog.inspsearch.com
@@ -9787,6 +9789,7 @@ DOMAIN-SUFFIX,event.mrtnsvr.com
 DOMAIN-SUFFIX,event.prod.bidr.io
 DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
 DOMAIN-SUFFIX,events.accuity.com
+DOMAIN-SUFFIX,events.air.tv
 DOMAIN-SUFFIX,events.apester.com
 DOMAIN-SUFFIX,eventsapi.grocerkey.com
 DOMAIN-SUFFIX,events-api*.outfit7.com
@@ -10140,6 +10143,7 @@ DOMAIN-SUFFIX,finley.finleyusa.com
 DOMAIN-SUFFIX,firefly.daroncreative.co
 DOMAIN-SUFFIX,firefly.maier.tech
 DOMAIN-SUFFIX,fireworkanalytics.com
+DOMAIN-SUFFIX,firstblackphase.com
 DOMAIN-SUFFIX,firstfrogs.com
 DOMAIN-SUFFIX,firstparty.alloyio.com
 DOMAIN-SUFFIX,firstpromoter.com
@@ -11878,6 +11882,7 @@ DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,imzahrwl.xyz
 DOMAIN-SUFFIX,inaftracker.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
+DOMAIN-SUFFIX,inapps.appsflyersdk.com
 DOMAIN-SUFFIX,inaudium.com
 DOMAIN-SUFFIX,inboxtag.com
 DOMAIN-SUFFIX,incentivesnetwork.net
@@ -12348,7 +12353,6 @@ DOMAIN-SUFFIX,intelligence.officialwesthamstore.com
 DOMAIN-SUFFIX,intelligencepartner.actonservice.com
 DOMAIN-SUFFIX,intelligenceretarget.com
 DOMAIN-SUFFIX,intelligentscissors.com
-DOMAIN-SUFFIX,intellimize.co
 DOMAIN-SUFFIX,intelli-shop.actonservice.com
 DOMAIN-SUFFIX,intelli-tracker.com
 DOMAIN-SUFFIX,intelpartneralliance.intel.com
@@ -13273,6 +13277,7 @@ DOMAIN-SUFFIX,log.hitsteps.com
 DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,log.hypebeast.com
 DOMAIN-SUFFIX,login.affiliatesit.cz
+DOMAIN-SUFFIX,log.intellimize.co
 DOMAIN-SUFFIX,log.invodo.com
 DOMAIN-SUFFIX,log-ird.outbrain.com
 DOMAIN-SUFFIX,log.isnssdk.com
@@ -28521,6 +28526,7 @@ DOMAIN-SUFFIX,wsapi.master.live
 DOMAIN-SUFFIX,ws.audioeye.com
 DOMAIN-SUFFIX,ws-goguardian.pusher.com
 DOMAIN-SUFFIX,ws.ksmobile.net
+DOMAIN-SUFFIX,wsmetrics.batch.com
 DOMAIN-SUFFIX,w.smobile.wotif.com
 DOMAIN-SUFFIX,wstat.ozon.ru
 DOMAIN-SUFFIX,wstatslive.com
