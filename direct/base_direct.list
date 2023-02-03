@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-03 05:37:59
-# DOMAIN-SUFFIX: 3064
-# TOTAL: 3064
+# UPDATED: 2023-02-04 05:22:46
+# DOMAIN-SUFFIX: 3063
+# TOTAL: 3063
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,1000bit.it
@@ -2503,7 +2503,6 @@ DOMAIN-SUFFIX,stfly.io
 DOMAIN-SUFFIX,stiffgamerdown.com
 DOMAIN-SUFFIX,stream4free.live
 DOMAIN-SUFFIX,streamanime.xyz
-DOMAIN-SUFFIX,streameast.*
 DOMAIN-SUFFIX,streameast.live
 DOMAIN-SUFFIX,streamlive.to
 DOMAIN-SUFFIX,streamlord.com
