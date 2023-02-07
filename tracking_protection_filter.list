@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-07 05:29:05
-# DOMAIN-SUFFIX: 26103
-# TOTAL: 26103
+# UPDATED: 2023-02-08 05:43:46
+# DOMAIN-SUFFIX: 26102
+# TOTAL: 26102
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -21095,7 +21095,6 @@ DOMAIN-SUFFIX,stats.video.globo.com
 DOMAIN-SUFFIX,stats*.videonow.ru
 DOMAIN-SUFFIX,stats.video.search.yahoo.com
 DOMAIN-SUFFIX,stats.videoseyred.in
-DOMAIN-SUFFIX,stats.videoseyredin.net
 DOMAIN-SUFFIX,stats.vidyome.com
 DOMAIN-SUFFIX,stats.viqeo.tv
 DOMAIN-SUFFIX,stats.visistat.com
