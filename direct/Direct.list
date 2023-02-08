@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-08 05:48:00
-# DOMAIN-SUFFIX: 4097
-# TOTAL: 4097
+# UPDATED: 2023-02-09 05:27:28
+# DOMAIN-SUFFIX: 4096
+# TOTAL: 4096
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1426,7 +1426,6 @@ DOMAIN-SUFFIX,furioscans.com
 DOMAIN-SUFFIX,fussballdaten.de
 DOMAIN-SUFFIX,futbin.com
 DOMAIN-SUFFIX,futbolchile.net
-DOMAIN-SUFFIX,futbol-envivohd.com
 DOMAIN-SUFFIX,futbolfullenvivo.com
 DOMAIN-SUFFIX,futeboltv.com
 DOMAIN-SUFFIX,futeboltvgratis.com

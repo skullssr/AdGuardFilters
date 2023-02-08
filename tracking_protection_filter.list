@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-08 05:43:46
-# DOMAIN-SUFFIX: 26102
-# TOTAL: 26102
+# UPDATED: 2023-02-09 05:23:14
+# DOMAIN-SUFFIX: 26104
+# TOTAL: 26104
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -16218,6 +16218,7 @@ DOMAIN-SUFFIX,refwkk.topky.sk
 DOMAIN-SUFFIX,refwkk.zoznam.sk
 DOMAIN-SUFFIX,reg.informationweek.com
 DOMAIN-SUFFIX,reg.interop.com
+DOMAIN-SUFFIX,region1.analytics.google.com
 DOMAIN-SUFFIX,register.appsflyer.com
 DOMAIN-SUFFIX,register.dnv.com
 DOMAIN-SUFFIX,register.harley-davidson.com
@@ -22664,6 +22665,7 @@ DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
 DOMAIN-SUFFIX,tracker.downdetector.com
 DOMAIN-SUFFIX,tracker.durasite.net
 DOMAIN-SUFFIX,tracker.fengkongcloud.com
+DOMAIN-SUFFIX,tracker.files.fm
 DOMAIN-SUFFIX,tracker.giftd.ru
 DOMAIN-SUFFIX,tracker.gleanview.com
 DOMAIN-SUFFIX,tracker.hdtvcloud.com
