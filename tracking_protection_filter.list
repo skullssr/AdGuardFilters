@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-09 05:23:14
-# DOMAIN-SUFFIX: 26104
-# TOTAL: 26104
+# UPDATED: 2023-02-10 05:12:05
+# DOMAIN-SUFFIX: 26105
+# TOTAL: 26105
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -12114,7 +12114,6 @@ DOMAIN-SUFFIX,log.musical.ly
 DOMAIN-SUFFIX,log.newsbreak.jp
 DOMAIN-SUFFIX,log.newsvine.com
 DOMAIN-SUFFIX,lognormal.net
-DOMAIN-SUFFIX,log.ohmynews.com
 DOMAIN-SUFFIX,log.ohou.se
 DOMAIN-SUFFIX,log.olark.com
 DOMAIN-SUFFIX,log.outbrain.com
@@ -12175,6 +12174,7 @@ DOMAIN-SUFFIX,log.tf.co.kr
 DOMAIN-SUFFIX,log*-*.tiktokv.com
 DOMAIN-SUFFIX,log.tiktokv.com
 DOMAIN-SUFFIX,log.tpns.tencent.com
+DOMAIN-SUFFIX,log.trackingio.com
 DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
 DOMAIN-SUFFIX,logua.com
 DOMAIN-SUFFIX,log.umsns.com
@@ -12376,6 +12376,7 @@ DOMAIN-SUFFIX,m.addthisedge.com
 DOMAIN-SUFFIX,madetoconnect.summit-broadband.com
 DOMAIN-SUFFIX,m.adtiming.com
 DOMAIN-SUFFIX,magacin.tns-gallup.dk
+DOMAIN-SUFFIX,magicaljoin.com
 DOMAIN-SUFFIX,magiq.com
 DOMAIN-SUFFIX,magnetairport.com
 DOMAIN-SUFFIX,magnetmail1.net
