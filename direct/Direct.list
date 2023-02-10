@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-09 05:27:28
-# DOMAIN-SUFFIX: 4096
-# TOTAL: 4096
+# UPDATED: 2023-02-11 05:38:06
+# DOMAIN-SUFFIX: 4094
+# TOTAL: 4094
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1839,7 +1839,6 @@ DOMAIN-SUFFIX,jakimasklad.pl
 DOMAIN-SUFFIX,jam1tron.com
 DOMAIN-SUFFIX,janusnotes.com
 DOMAIN-SUFFIX,jav777.xyz
-DOMAIN-SUFFIX,jav911.com
 DOMAIN-SUFFIX,javadecompilers.com
 DOMAIN-SUFFIX,java-forum.org
 DOMAIN-SUFFIX,javaguides.net
@@ -1958,7 +1957,6 @@ DOMAIN-SUFFIX,kodvizit.com
 DOMAIN-SUFFIX,kollhong.com
 DOMAIN-SUFFIX,komikcast.com
 DOMAIN-SUFFIX,komiku.co.id
-DOMAIN-SUFFIX,komiupdates.xyz
 DOMAIN-SUFFIX,komorkomania.pl
 DOMAIN-SUFFIX,komputerswiat.pl
 DOMAIN-SUFFIX,konhaber.com
@@ -2280,6 +2278,7 @@ DOMAIN-SUFFIX,menshealth.de
 DOMAIN-SUFFIX,mentalflare.com
 DOMAIN-SUFFIX,menulisonline.com
 DOMAIN-SUFFIX,meocanaltv.com
+DOMAIN-SUFFIX,meracalculator.com
 DOMAIN-SUFFIX,mercedesclub.cz
 DOMAIN-SUFFIX,merdekaid.online
 DOMAIN-SUFFIX,merkur.de
@@ -2852,11 +2851,11 @@ DOMAIN-SUFFIX,pramejarab.blogspot.com
 DOMAIN-SUFFIX,pravda.ru
 DOMAIN-SUFFIX,praxis-jugendarbeit.de
 DOMAIN-SUFFIX,prdnews.com
+DOMAIN-SUFFIX,premium-
 DOMAIN-SUFFIX,premiumchronicle.com
 DOMAIN-SUFFIX,premiumleecher.com
 DOMAIN-SUFFIX,premium-link.ninja
 DOMAIN-SUFFIX,premiumtoss.com
-DOMAIN-SUFFIX,premium-uploaded.net
 DOMAIN-SUFFIX,pressgazette.co.uk
 DOMAIN-SUFFIX,prestashopturkiye.com
 DOMAIN-SUFFIX,prgwonders.blogspot.com
@@ -3762,7 +3761,6 @@ DOMAIN-SUFFIX,upfiles.top
 DOMAIN-SUFFIX,upinipin.me
 DOMAIN-SUFFIX,uploadbank.com
 DOMAIN-SUFFIX,uploadcloud.pro
-DOMAIN-SUFFIX,uploaded.net
 DOMAIN-SUFFIX,uploadedpremiumlink.xyz
 DOMAIN-SUFFIX,upload.far7net.com
 DOMAIN-SUFFIX,up-load.io
