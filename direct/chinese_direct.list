@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-01-27 05:07:07
-# DOMAIN-SUFFIX: 161
-# TOTAL: 161
+# UPDATED: 2023-02-14 05:31:26
+# DOMAIN-SUFFIX: 162
+# TOTAL: 162
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,nodkey.xyz
 DOMAIN-SUFFIX,notafree.host
 DOMAIN-SUFFIX,oiihk.com
 DOMAIN-SUFFIX,olgame.tw
+DOMAIN-SUFFIX,ozabc.com
 DOMAIN-SUFFIX,panjiachen.github.io
 DOMAIN-SUFFIX,papalah.com
 DOMAIN-SUFFIX,passiontimes.hk
