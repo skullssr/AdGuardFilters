@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-14 05:45:59
-# DOMAIN-SUFFIX: 4093
-# TOTAL: 4093
+# UPDATED: 2023-02-16 05:07:51
+# DOMAIN-SUFFIX: 4094
+# TOTAL: 4094
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -356,6 +356,7 @@ DOMAIN-SUFFIX,apnetv.tv
 DOMAIN-SUFFIX,app.adroll.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
+DOMAIN-SUFFIX,app-cdn.minepi.com
 DOMAIN-SUFFIX,app.crazyegg.com
 DOMAIN-SUFFIX,appdn.net
 DOMAIN-SUFFIX,appdrop.net
