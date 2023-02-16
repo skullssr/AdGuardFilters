@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-16 05:03:21
-# DOMAIN-SUFFIX: 27897
-# TOTAL: 27897
+# UPDATED: 2023-02-17 05:01:34
+# DOMAIN-SUFFIX: 27902
+# TOTAL: 27902
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
@@ -3438,8 +3438,10 @@ DOMAIN-SUFFIX,api.rudderlabs.com
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,api.safedk.com
 DOMAIN-SUFFIX,api.safegraph.com
+DOMAIN-SUFFIX,api.sec.intl.miui.com
 DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.segment.io
+DOMAIN-SUFFIX,api.setting.intl.miui.com
 DOMAIN-SUFFIX,api.share.mob.com
 DOMAIN-SUFFIX,api.smbeat.jp
 DOMAIN-SUFFIX,api.splkmobile.com
@@ -4008,6 +4010,7 @@ DOMAIN-SUFFIX,au.promo.skf.com
 DOMAIN-SUFFIX,ausclh.castlery.com
 DOMAIN-SUFFIX,au.secure.sonosite.com
 DOMAIN-SUFFIX,auspiciousyard.com
+DOMAIN-SUFFIX,authbe.sec.intl.miui.com
 DOMAIN-SUFFIX,auth.be.sec.miui.com
 DOMAIN-SUFFIX,auth.bz
 DOMAIN-SUFFIX,auth.carte-gr.total.fr
@@ -8198,6 +8201,7 @@ DOMAIN-SUFFIX,data.ricaud.com
 DOMAIN-SUFFIX,data.rmsocio.realmadrid.com
 DOMAIN-SUFFIX,dataroid.com
 DOMAIN-SUFFIX,datas.connectingthreads.com
+DOMAIN-SUFFIX,data.sec.intl.miui.com
 DOMAIN-SUFFIX,data.sec.miui.com
 DOMAIN-SUFFIX,data.securemetrics-apple.com
 DOMAIN-SUFFIX,data.service.aware.com.au
@@ -10039,6 +10043,7 @@ DOMAIN-SUFFIX,flamingo.abihome.de
 DOMAIN-SUFFIX,flamingo.stacking-club.com
 DOMAIN-SUFFIX,flashadengine.com
 DOMAIN-SUFFIX,flash-counter.com
+DOMAIN-SUFFIX,flash.sec.intl.miui.com
 DOMAIN-SUFFIX,flavors.firmenich.com
 DOMAIN-SUFFIX,flcounter.com
 DOMAIN-SUFFIX,flea.artisan.school
