@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-17 05:06:03
-# DOMAIN-SUFFIX: 4093
-# TOTAL: 4093
+# UPDATED: 2023-02-18 05:08:46
+# DOMAIN-SUFFIX: 4094
+# TOTAL: 4094
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -575,6 +575,7 @@ DOMAIN-SUFFIX,brigitte.de
 DOMAIN-SUFFIX,brm-core-*.brsrvr.com
 DOMAIN-SUFFIX,brocardi.it
 DOMAIN-SUFFIX,broncos.com.au
+DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bs.to
 DOMAIN-SUFFIX,btc2019.tk
 DOMAIN-SUFFIX,btcfaucet.best
