@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-18 05:04:16
-# DOMAIN-SUFFIX: 27903
-# TOTAL: 27903
+# UPDATED: 2023-02-19 05:44:26
+# DOMAIN-SUFFIX: 27904
+# TOTAL: 27904
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -10102,6 +10102,7 @@ DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,footprintlive.com
 DOMAIN-SUFFIX,forbin.actonservice.com
 DOMAIN-SUFFIX,force24.co.uk
+DOMAIN-SUFFIX,forecast.lemonde.fr
 DOMAIN-SUFFIX,forecasttiger.com
 DOMAIN-SUFFIX,foregoingfowl.com
 DOMAIN-SUFFIX,forensics1000.com
