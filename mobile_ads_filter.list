@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-07 05:33:18
-# DOMAIN-SUFFIX: 1089
-# TOTAL: 1089
+# UPDATED: 2023-02-21 05:48:42
+# DOMAIN-SUFFIX: 1090
+# TOTAL: 1090
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,1rx.io
@@ -899,6 +899,7 @@ DOMAIN-SUFFIX,sdk.adtiming.com
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,sdk.native123.com
 DOMAIN-SUFFIX,sdk.starbolt.io
+DOMAIN-SUFFIX,sdkv2.imaginationunwired.com
 DOMAIN-SUFFIX,search.adcaffe.com
 DOMAIN-SUFFIX,sekindo.com
 DOMAIN-SUFFIX,sensors.larkplayerapp.com
