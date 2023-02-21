@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-21 05:44:13
-# DOMAIN-SUFFIX: 28623
-# TOTAL: 28623
+# UPDATED: 2023-02-22 06:08:53
+# DOMAIN-SUFFIX: 28632
+# TOTAL: 28632
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,13js1lbtbj3.sparkloop.app
 DOMAIN-SUFFIX,13p76nnir.de
 DOMAIN-SUFFIX,16ao.mathon.fr
 DOMAIN-SUFFIX,16i6nuuc2ej.koelewijn.nl
+DOMAIN-SUFFIX,1800cnt.com
 DOMAIN-SUFFIX,1909a8.satofull.jp
 DOMAIN-SUFFIX,1a715b8q5m3j.www.logology.co
 DOMAIN-SUFFIX,1amehwchx31.bloxdhop.io
@@ -6014,6 +6015,7 @@ DOMAIN-SUFFIX,counter.24log.es
 DOMAIN-SUFFIX,counter24.luxnet.ua
 DOMAIN-SUFFIX,counter.24smi.info
 DOMAIN-SUFFIX,counter27.ch
+DOMAIN-SUFFIX,counter2.blog.livedoor.com
 DOMAIN-SUFFIX,counter.adguard.com
 DOMAIN-SUFFIX,counter.ajansspor.com
 DOMAIN-SUFFIX,counter.all.biz
@@ -8785,6 +8787,7 @@ DOMAIN-SUFFIX,distillery.wistia.com
 DOMAIN-SUFFIX,distiltag.com
 DOMAIN-SUFFIX,distinctday.com
 DOMAIN-SUFFIX,distralytics.com
+DOMAIN-SUFFIX,distributionneck.com
 DOMAIN-SUFFIX,distributors.balluff.com
 DOMAIN-SUFFIX,dit.whatsapp.net
 DOMAIN-SUFFIX,divehope.com
@@ -8803,6 +8806,7 @@ DOMAIN-SUFFIX,dkhywqapojyk7.cloudfront.net
 DOMAIN-SUFFIX,d-kint.d-kintetsu.co.jp
 DOMAIN-SUFFIX,dkmvyl.kidsahoi.ch
 DOMAIN-SUFFIX,dkno.netpartnering.com
+DOMAIN-SUFFIX,dkotrack.com
 DOMAIN-SUFFIX,dko.vente-unique.nl
 DOMAIN-SUFFIX,dlabiznesu.pracuj.pl
 DOMAIN-SUFFIX,dlesjf.fightsite.hr
@@ -9944,7 +9948,6 @@ DOMAIN-SUFFIX,events.release.narrativ.com
 DOMAIN-SUFFIX,events.ricoh.ch
 DOMAIN-SUFFIX,events.sd-nbb.de
 DOMAIN-SUFFIX,events.splash-screen.net
-DOMAIN-SUFFIX,events.split.io
 DOMAIN-SUFFIX,events.splunk.com
 DOMAIN-SUFFIX,events-stream-svc.cordial.com
 DOMAIN-SUFFIX,events-stream-svc.usw2.cordial.com
@@ -16123,6 +16126,7 @@ DOMAIN-SUFFIX,odc.1und1.de
 DOMAIN-SUFFIX,odc.weather.com
 DOMAIN-SUFFIX,odjdpy.jobware.de
 DOMAIN-SUFFIX,odoscope.com
+DOMAIN-SUFFIX,odtrtadl.com
 DOMAIN-SUFFIX,o.efax.fr
 DOMAIN-SUFFIX,oek7.april-moto.com
 DOMAIN-SUFFIX,oeqirr.com
@@ -17543,6 +17547,7 @@ DOMAIN-SUFFIX,preciouseffect.com
 DOMAIN-SUFFIX,preciousyoke.com
 DOMAIN-SUFFIX,precisioncounter.com
 DOMAIN-SUFFIX,predataclient.b-cdn.net
+DOMAIN-SUFFIX,predatasrv.com
 DOMAIN-SUFFIX,predicta.net
 DOMAIN-SUFFIX,predictivedna.com
 DOMAIN-SUFFIX,predictiveresponse.net
@@ -17899,6 +17904,7 @@ DOMAIN-SUFFIX,rabbit.radicalxchange.org
 DOMAIN-SUFFIX,rabbitrifle.com
 DOMAIN-SUFFIX,rabbit.upwardhomes.net
 DOMAIN-SUFFIX,raccoon.donateflow.com
+DOMAIN-SUFFIX,rac.ruutu.fi
 DOMAIN-SUFFIX,radarstats.com
 DOMAIN-SUFFIX,radarurl.com
 DOMAIN-SUFFIX,radiometer.actonservice.com
@@ -22793,6 +22799,7 @@ DOMAIN-SUFFIX,stats.coditia.com
 DOMAIN-SUFFIX,stats.cohere.so
 DOMAIN-SUFFIX,stats.colabra.app
 DOMAIN-SUFFIX,stats.coldbox.org
+DOMAIN-SUFFIX,statscollector.sd-rtn.com
 DOMAIN-SUFFIX,stats.coloursoftware.com
 DOMAIN-SUFFIX,statscol.pond5.com
 DOMAIN-SUFFIX,stats.computecmedia.de
@@ -23925,6 +23932,7 @@ DOMAIN-SUFFIX,tagman.virginatlantic.com
 DOMAIN-SUFFIX,tagman.waitrosecellar.com
 DOMAIN-SUFFIX,tagman.waitrose.com
 DOMAIN-SUFFIX,tagmwu.thalia.at
+DOMAIN-SUFFIX,tag.nifty.com
 DOMAIN-SUFFIX,tag.pprl.io
 DOMAIN-SUFFIX,tags.aljazeera.com
 DOMAIN-SUFFIX,tags.aljazeera.net
@@ -24991,6 +24999,7 @@ DOMAIN-SUFFIX,tracker.idocdn.com
 DOMAIN-SUFFIX,tracker.insurancenexus.com
 DOMAIN-SUFFIX,tracker.joongang.co.kr
 DOMAIN-SUFFIX,tracker.joost.com
+DOMAIN-SUFFIX,tracker.kantan-access.com
 DOMAIN-SUFFIX,tracker.lolalytics.com
 DOMAIN-SUFFIX,tracker.mattel.com
 DOMAIN-SUFFIX,tracker.metricool.com
