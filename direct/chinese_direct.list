@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-14 05:31:26
-# DOMAIN-SUFFIX: 162
-# TOTAL: 162
+# UPDATED: 2023-02-24 06:05:56
+# DOMAIN-SUFFIX: 163
+# TOTAL: 163
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,duelmeta.com
 DOMAIN-SUFFIX,e9china.net
 DOMAIN-SUFFIX,easylife.tw
 DOMAIN-SUFFIX,edmondpoon.com
+DOMAIN-SUFFIX,ekamus.info
 DOMAIN-SUFFIX,elife-cloud.blogspot.com
 DOMAIN-SUFFIX,eolinker.com
 DOMAIN-SUFFIX,eu4cn.com
