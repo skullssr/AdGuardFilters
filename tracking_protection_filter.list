@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-02-28 05:50:53
-# DOMAIN-SUFFIX: 28541
-# TOTAL: 28541
+# UPDATED: 2023-03-01 05:33:46
+# DOMAIN-SUFFIX: 28549
+# TOTAL: 28549
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,7wrxo2xh.iriscreative.co
 DOMAIN-SUFFIX,8020solutions.net
 DOMAIN-SUFFIX,82o9v830.com
 DOMAIN-SUFFIX,83.locksmaker.com.cn
+DOMAIN-SUFFIX,8digits.com
 DOMAIN-SUFFIX,8ehhtsv9bo7i.monkeylearn.com
 DOMAIN-SUFFIX,8ezc.sfr.fr
 DOMAIN-SUFFIX,99click.com
@@ -4747,6 +4748,7 @@ DOMAIN-SUFFIX,bounce-ads.de
 DOMAIN-SUFFIX,bounceexchange.com
 DOMAIN-SUFFIX,bouncex.com
 DOMAIN-SUFFIX,bouncyproperty.com
+DOMAIN-SUFFIX,boundlessbrake.com
 DOMAIN-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
 DOMAIN-SUFFIX,boutique.ricoh.fr
 DOMAIN-SUFFIX,bovid.arshaw.com
@@ -11408,6 +11410,7 @@ DOMAIN-SUFFIX,hello.bpost.be
 DOMAIN-SUFFIX,hello.ops.bpost.be
 DOMAIN-SUFFIX,hello.postuler.bpost.be
 DOMAIN-SUFFIX,hellosherpa.com
+DOMAIN-SUFFIX,hellosmpl.com
 DOMAIN-SUFFIX,hello.solliciteren.bpost.be
 DOMAIN-SUFFIX,helpgrid1.ksmobile.com
 DOMAIN-SUFFIX,helpster.met.vgwort.de
@@ -11458,7 +11461,6 @@ DOMAIN-SUFFIX,historicalrequest.com
 DOMAIN-SUFFIX,hi.streetworkoutlist.com
 DOMAIN-SUFFIX,hit100.ro
 DOMAIN-SUFFIX,hit2map.com
-DOMAIN-SUFFIX,hit.8digits.com
 DOMAIN-SUFFIX,hit.acstat.com
 DOMAIN-SUFFIX,hitapi.pulpoar.com
 DOMAIN-SUFFIX,hitbox.com
@@ -11589,6 +11591,7 @@ DOMAIN-SUFFIX,hot-count.com
 DOMAIN-SUFFIX,hotcounter.de
 DOMAIN-SUFFIX,hotel-marketing.hrs.com
 DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hotlog.ru
 DOMAIN-SUFFIX,hotrank.com.tw
 DOMAIN-SUFFIX,hoverfly.1pageimpact.com.au
@@ -13220,6 +13223,7 @@ DOMAIN-SUFFIX,logger-*.dailymotion.com
 DOMAIN-SUFFIX,logger.dailymotion.com
 DOMAIN-SUFFIX,logger.eigene.io
 DOMAIN-SUFFIX,logger.goeuro.com
+DOMAIN-SUFFIX,logger.growstarry.com
 DOMAIN-SUFFIX,logger.nerdwallet.com
 DOMAIN-SUFFIX,logger.ntracecloud.com
 DOMAIN-SUFFIX,logger.pw
@@ -13301,6 +13305,7 @@ DOMAIN-SUFFIX,logs.51cto.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
+DOMAIN-SUFFIX,logservice.hicloud.com
 DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
 DOMAIN-SUFFIX,logs.gaaana.com
 DOMAIN-SUFFIX,logs.gaana.com
@@ -14368,6 +14373,7 @@ DOMAIN-SUFFIX,meqjjl.bubbleroom.dk
 DOMAIN-SUFFIX,mercadeo.promerica.fi.cr
 DOMAIN-SUFFIX,mercadoclics.com
 DOMAIN-SUFFIX,mercent.com
+DOMAIN-SUFFIX,mercury.coupang.com
 DOMAIN-SUFFIX,meremark.com
 DOMAIN-SUFFIX,merkur.met.vgwort.de
 DOMAIN-SUFFIX,meryjanechile.rdtrke.com
@@ -14876,6 +14882,7 @@ DOMAIN-SUFFIX,metrics.huntington.com
 DOMAIN-SUFFIX,metrics.huntingtonsdiseasehcp.com
 DOMAIN-SUFFIX,metrics.hydraulicspneumatics.com
 DOMAIN-SUFFIX,metrics.hyundaiusa.com
+DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics-ieeexplore.ieee.org
 DOMAIN-SUFFIX,metrics.ifc.org
 DOMAIN-SUFFIX,metrics.iij.ad.jp
@@ -25126,7 +25133,6 @@ DOMAIN-SUFFIX,tracking.info.methodisthealthsystem.org
 DOMAIN-SUFFIX,tracking.info.rcgt.com
 DOMAIN-SUFFIX,tracking.insperity.com
 DOMAIN-SUFFIX,trackinginternal.ti.com.cn
-DOMAIN-SUFFIX,tracking.intl.miui.com
 DOMAIN-SUFFIX,tracking.janssenmedicalcloud.co.il
 DOMAIN-SUFFIX,tracking.janssenmedicalcloud.com
 DOMAIN-SUFFIX,tracking.janssenmedicalcloud.de
@@ -25166,6 +25172,7 @@ DOMAIN-SUFFIX,tracking.mattersurfaces.com
 DOMAIN-SUFFIX,tracking.max.co.il
 DOMAIN-SUFFIX,tracking.medimag.ro
 DOMAIN-SUFFIX,tracking.military.com
+DOMAIN-SUFFIX,tracking.*.miui.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.mizuhogroup.com
 DOMAIN-SUFFIX,tracking.mjbizdaily.com
@@ -27045,6 +27052,7 @@ DOMAIN-SUFFIX,uninterestedquarter.com
 DOMAIN-SUFFIX,uniqodo.com
 DOMAIN-SUFFIX,united.activate.ensighten.com
 DOMAIN-SUFFIX,united-infos.net
+DOMAIN-SUFFIX,units.knotch.it
 DOMAIN-SUFFIX,universaltrackingcontainer.com
 DOMAIN-SUFFIX,unknowncrate.com
 DOMAIN-SUFFIX,unknowntray.com
