@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-03 05:13:13
-# DOMAIN-SUFFIX: 8811
-# TOTAL: 8811
+# UPDATED: 2023-03-04 05:42:11
+# DOMAIN-SUFFIX: 8826
+# TOTAL: 8826
 DOMAIN-SUFFIX,001adafg.xyz
 DOMAIN-SUFFIX,0024aaaa.com
 DOMAIN-SUFFIX,003store.com
@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,1200555.com
 DOMAIN-SUFFIX,1201555.com
 DOMAIN-SUFFIX,1.201980.com
 DOMAIN-SUFFIX,1202liutiao.xyz
+DOMAIN-SUFFIX,1203555.com
 DOMAIN-SUFFIX,1205qitiao2022.xyz
 DOMAIN-SUFFIX,12086.net
 DOMAIN-SUFFIX,12291.com
@@ -513,6 +514,7 @@ DOMAIN-SUFFIX,5lpt.cn
 DOMAIN-SUFFIX,5mm.zxfw5.cn
 DOMAIN-SUFFIX,5pe6.fun
 DOMAIN-SUFFIX,5pub.com
+DOMAIN-SUFFIX,5py1.xyz
 DOMAIN-SUFFIX,5r562.cn
 DOMAIN-SUFFIX,5s34y422.cn
 DOMAIN-SUFFIX,5t15.cn
@@ -829,6 +831,7 @@ DOMAIN-SUFFIX,9869936.com
 DOMAIN-SUFFIX,98dvu.fun
 DOMAIN-SUFFIX,991019.top
 DOMAIN-SUFFIX,99520.xyz
+DOMAIN-SUFFIX,996000996.xyz
 DOMAIN-SUFFIX,99885aaa.com
 DOMAIN-SUFFIX,99886aaa.com
 DOMAIN-SUFFIX,99888aaa.com
@@ -991,6 +994,7 @@ DOMAIN-SUFFIX,adccoo.cn
 DOMAIN-SUFFIX,ad.cdnjm.cn
 DOMAIN-SUFFIX,adconfer.com
 DOMAIN-SUFFIX,addihj.cn
+DOMAIN-SUFFIX,additionsmiracle.com
 DOMAIN-SUFFIX,address9.com
 DOMAIN-SUFFIX,adelazanna.com
 DOMAIN-SUFFIX,adf.dahe.cn
@@ -1755,6 +1759,7 @@ DOMAIN-SUFFIX,bxlidv.ink
 DOMAIN-SUFFIX,bxly.xyz
 DOMAIN-SUFFIX,by.dyq.cn
 DOMAIN-SUFFIX,byfft.top
+DOMAIN-SUFFIX,byj123.cn
 DOMAIN-SUFFIX,byqiu.xyz
 DOMAIN-SUFFIX,byrprsi.cn
 DOMAIN-SUFFIX,byscy.cn
@@ -2572,6 +2577,7 @@ DOMAIN-SUFFIX,ebazhaheiw.top
 DOMAIN-SUFFIX,eblnzoq.cn
 DOMAIN-SUFFIX,ebp.renren.com
 DOMAIN-SUFFIX,ebpu2.top
+DOMAIN-SUFFIX,ebten.xyz
 DOMAIN-SUFFIX,ebzqyow.cn
 DOMAIN-SUFFIX,eclczg.cn
 DOMAIN-SUFFIX,ecma.bdimg.com
@@ -2715,6 +2721,7 @@ DOMAIN-SUFFIX,evbb.xyz
 DOMAIN-SUFFIX,evunmc.xyz
 DOMAIN-SUFFIX,ew740.cn
 DOMAIN-SUFFIX,ewadakesw.cyou
+DOMAIN-SUFFIX,ewahj.cyou
 DOMAIN-SUFFIX,ewmvim.xyz
 DOMAIN-SUFFIX,ewogldw.top
 DOMAIN-SUFFIX,ewrwf.com
@@ -2847,6 +2854,7 @@ DOMAIN-SUFFIX,fhlong2000.xyz
 DOMAIN-SUFFIX,fhnmzqw.cn
 DOMAIN-SUFFIX,fhpjoqi.cn
 DOMAIN-SUFFIX,fhsiqk.xyz
+DOMAIN-SUFFIX,fhvbhx.xyz
 DOMAIN-SUFFIX,first11.cn
 DOMAIN-SUFFIX,first-hufu.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,fishsalt.top
@@ -3946,6 +3954,7 @@ DOMAIN-SUFFIX,ituoniao.co
 DOMAIN-SUFFIX,ituxzez.cn
 DOMAIN-SUFFIX,itv.hexun.com
 DOMAIN-SUFFIX,itxinrou.com
+DOMAIN-SUFFIX,itxueyuan.com^*.mp4
 DOMAIN-SUFFIX,ityou2tcdb.icu
 DOMAIN-SUFFIX,iu9g.top
 DOMAIN-SUFFIX,iuerxw.xyz
@@ -4208,10 +4217,12 @@ DOMAIN-SUFFIX,jqdldk.cn
 DOMAIN-SUFFIX,jqnggnsa.fun
 DOMAIN-SUFFIX,jqsex.com
 DOMAIN-SUFFIX,jqtzw.xyz
+DOMAIN-SUFFIX,jqueryboots.com
 DOMAIN-SUFFIX,jquery-cdn.cc
 DOMAIN-SUFFIX,jquery.envi-met.com.cn
 DOMAIN-SUFFIX,jrhbhz.com
 DOMAIN-SUFFIX,jrnrpma.cn
+DOMAIN-SUFFIX,jrrwsk.ltd
 DOMAIN-SUFFIX,jrrxbz.net
 DOMAIN-SUFFIX,jrysogsia.uno
 DOMAIN-SUFFIX,js1.122cha.com
@@ -4694,6 +4705,7 @@ DOMAIN-SUFFIX,leiwo.xyz
 DOMAIN-SUFFIX,leixigroup.com
 DOMAIN-SUFFIX,lejlb.com
 DOMAIN-SUFFIX,lejso.com
+DOMAIN-SUFFIX,lelouch.tech
 DOMAIN-SUFFIX,lemoncai.xyz
 DOMAIN-SUFFIX,lencool.cn
 DOMAIN-SUFFIX,lepjrh.xyz
@@ -5213,6 +5225,7 @@ DOMAIN-SUFFIX,mstgc.com
 DOMAIN-SUFFIX,m.szyuke.cn
 DOMAIN-SUFFIX,mt.64foot.com
 DOMAIN-SUFFIX,mt66g.com
+DOMAIN-SUFFIX,mtawcy.xyz
 DOMAIN-SUFFIX,mtburn.com
 DOMAIN-SUFFIX,mthdqs.cn
 DOMAIN-SUFFIX,mtk.pub
@@ -6050,6 +6063,7 @@ DOMAIN-SUFFIX,qorlsbls.cyou
 DOMAIN-SUFFIX,qosbbzw.cyou
 DOMAIN-SUFFIX,qowg.top
 DOMAIN-SUFFIX,qpb*.sohu.com
+DOMAIN-SUFFIX,qponfva.cn
 DOMAIN-SUFFIX,qptnew.com
 DOMAIN-SUFFIX,qq2ux.top
 DOMAIN-SUFFIX,qq78da.com
@@ -7518,6 +7532,7 @@ DOMAIN-SUFFIX,wangzezhong.top
 DOMAIN-SUFFIX,wangzj.top
 DOMAIN-SUFFIX,w.anmeihe.cn
 DOMAIN-SUFFIX,wantfour.com
+DOMAIN-SUFFIX,wanyi.pw
 DOMAIN-SUFFIX,wanzikeji.com
 DOMAIN-SUFFIX,waoeou.xyz
 DOMAIN-SUFFIX,wap001.bytravel.cn
