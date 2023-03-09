@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-09 05:38:53
+# UPDATED: 2023-03-10 05:23:53
 # DOMAIN-SUFFIX: 27899
 # TOTAL: 27899
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -10631,6 +10631,7 @@ DOMAIN-SUFFIX,gamefowl.alexpriest.com
 DOMAIN-SUFFIX,gamefowl.emailforward.mx
 DOMAIN-SUFFIX,gamefowl.karlsutt.com
 DOMAIN-SUFFIX,gammamaximum.com
+DOMAIN-SUFFIX,ganalytics.live
 DOMAIN-SUFFIX,g.analytics.versa-ai.com
 DOMAIN-SUFFIX,gapp1.com
 DOMAIN-SUFFIX,gateway.aimia.com
@@ -15616,7 +15617,6 @@ DOMAIN-SUFFIX,niftymaps.com
 DOMAIN-SUFFIX,nik.io
 DOMAIN-SUFFIX,nil.naver.com
 DOMAIN-SUFFIX,ninestats.com
-DOMAIN-SUFFIX,ninja.data.olxcdn.com
 DOMAIN-SUFFIX,ninja.onap.io
 DOMAIN-SUFFIX,nirdjz.revolveclothing.com.au
 DOMAIN-SUFFIX,njnlih.realitatea.net
