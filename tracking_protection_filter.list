@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-10 05:23:53
-# DOMAIN-SUFFIX: 27899
-# TOTAL: 27899
+# UPDATED: 2023-03-11 05:35:34
+# DOMAIN-SUFFIX: 27885
+# TOTAL: 27885
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -9865,12 +9865,6 @@ DOMAIN-SUFFIX,et.sncf.com
 DOMAIN-SUFFIX,et.swatch.com
 DOMAIN-SUFFIX,e.tw.cx
 DOMAIN-SUFFIX,etyper.com
-DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com.mcas.ms
-DOMAIN-SUFFIX,euc-powerpoint-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,euc-powerpoint-telemetry.officeapps.live.com.mcas.ms
-DOMAIN-SUFFIX,euc-word-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,euc-word-telemetry.officeapps.live.com.mcas.ms
 DOMAIN-SUFFIX,eue.d-teknoloji.com.tr
 DOMAIN-SUFFIX,eu.groupondata.com
 DOMAIN-SUFFIX,eule1.pmu.fr
@@ -10061,8 +10055,6 @@ DOMAIN-SUFFIX,exactag.com
 DOMAIN-SUFFIX,exacttarget.api.mashery.com
 DOMAIN-SUFFIX,exapxl.de
 DOMAIN-SUFFIX,exbujk.glamood.com
-DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com.mcas.ms
 DOMAIN-SUFFIX,exchangedetail.com
 DOMAIN-SUFFIX,exclusivebrass.com
 DOMAIN-SUFFIX,exclusiveclicks.com
@@ -17158,12 +17150,7 @@ DOMAIN-SUFFIX,post-log.pushwoosh.com
 DOMAIN-SUFFIX,powderprofit.com
 DOMAIN-SUFFIX,powerbiz.co
 DOMAIN-SUFFIX,powercount.com
-DOMAIN-SUFFIX,powerpoint-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,powerpoint-telemetry.officeapps.live.com.mcas.ms
-DOMAIN-SUFFIX,ppc-onenote-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,ppc-powerpoint-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,ppc.silkroadtracker.com
-DOMAIN-SUFFIX,ppc-word-telemetry.officeapps.live.com
 DOMAIN-SUFFIX,p.placed.com
 DOMAIN-SUFFIX,pplpiq.pricerunner.se
 DOMAIN-SUFFIX,p.pmu.fr
@@ -23754,6 +23741,7 @@ DOMAIN-SUFFIX,thongke.24h.com.vn
 DOMAIN-SUFFIX,thongke.vui.vn
 DOMAIN-SUFFIX,t.hoood.info
 DOMAIN-SUFFIX,thor.pureelectric.se
+DOMAIN-SUFFIX,thoth.utyug.media
 DOMAIN-SUFFIX,threechurch.com
 DOMAIN-SUFFIX,threetruck.com
 DOMAIN-SUFFIX,throattrees.com
@@ -27332,8 +27320,6 @@ DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,woopra-ns.com
 DOMAIN-SUFFIX,woowjy.desa.com.tr
 DOMAIN-SUFFIX,wordkeyhelper.com
-DOMAIN-SUFFIX,word-telemetry.officeapps.live.com
-DOMAIN-SUFFIX,word-telemetry.officeapps.live.com.mcas.ms
 DOMAIN-SUFFIX,workableachiever.com
 DOMAIN-SUFFIX,workforce-optimization.insperity.com
 DOMAIN-SUFFIX,workforcetrends.advancedtech.com
