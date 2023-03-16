@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-16 05:21:45
-# DOMAIN-SUFFIX: 28146
-# TOTAL: 28146
+# UPDATED: 2023-03-17 05:15:23
+# DOMAIN-SUFFIX: 28150
+# TOTAL: 28150
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -2954,6 +2954,7 @@ DOMAIN-SUFFIX,a.myfidevs.io
 DOMAIN-SUFFIX,ana.bandi.so
 DOMAIN-SUFFIX,anaconda.webitizeicts.com
 DOMAIN-SUFFIX,anaconda.zephyrus.gg
+DOMAIN-SUFFIX,ana.gomtv.com
 DOMAIN-SUFFIX,analitits.com
 DOMAIN-SUFFIX,analoganalytics.com
 DOMAIN-SUFFIX,analy1.dtnnetwork.be
@@ -9206,6 +9207,7 @@ DOMAIN-SUFFIX,ea.fleurancenature.com
 DOMAIN-SUFFIX,ea.fleurancenature.fr
 DOMAIN-SUFFIX,ea.francoisesaget.com
 DOMAIN-SUFFIX,ea.franziskasager.de
+DOMAIN-SUFFIX,eagle-insight.com
 DOMAIN-SUFFIX,eagle.joulescope.com
 DOMAIN-SUFFIX,eagle.mbcharbonneau.com
 DOMAIN-SUFFIX,eagle.sutton.io
@@ -13196,6 +13198,7 @@ DOMAIN-SUFFIX,loggly.cheatsheet.com
 DOMAIN-SUFFIX,log.go2s.co
 DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
+DOMAIN-SUFFIX,log.gomlab.com
 DOMAIN-SUFFIX,log.gs3.goo.ne.jp
 DOMAIN-SUFFIX,loggychops.paulsmith.site
 DOMAIN-SUFFIX,log.haberturk.com
@@ -13213,6 +13216,7 @@ DOMAIN-SUFFIX,logistics.osmworldwide.com
 DOMAIN-SUFFIX,log.iyunmai.com
 DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,loglady.publicbroadcasting.net
+DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
 DOMAIN-SUFFIX,log-live.direct.ly
 DOMAIN-SUFFIX,log.liverail.com
 DOMAIN-SUFFIX,log.lon22.com
