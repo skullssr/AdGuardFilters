@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-21 05:36:39
-# DOMAIN-SUFFIX: 906
-# TOTAL: 906
+# UPDATED: 2023-03-22 05:21:46
+# DOMAIN-SUFFIX: 909
+# TOTAL: 909
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,ads.reward.rakuten.jp
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adsrvr.io
 DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,ads-server.mxplay.com
 DOMAIN-SUFFIX,ads.taptapnetworks.com
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ads.viber.com
@@ -622,6 +623,7 @@ DOMAIN-SUFFIX,mtag.mman.kr
 DOMAIN-SUFFIX,mtburn.com
 DOMAIN-SUFFIX,mtburn.jp
 DOMAIN-SUFFIX,mtrcss.com
+DOMAIN-SUFFIX,mxaserver.mxplay.com
 DOMAIN-SUFFIX,mxttrf.com
 DOMAIN-SUFFIX,mxvp-ad-config-prod-1.zenmxapps.com
 DOMAIN-SUFFIX,mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -714,6 +716,7 @@ DOMAIN-SUFFIX,px.adhigh.net
 DOMAIN-SUFFIX,qgss8.com
 DOMAIN-SUFFIX,qist.me
 DOMAIN-SUFFIX,qoisocrldvnesni.ru
+DOMAIN-SUFFIX,qqcdnpictest.mxplay.com
 DOMAIN-SUFFIX,questionmarket.com
 DOMAIN-SUFFIX,r2d2.aotter.net
 DOMAIN-SUFFIX,r7mediar.com

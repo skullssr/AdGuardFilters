@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-21 05:32:12
-# DOMAIN-SUFFIX: 28690
-# TOTAL: 28690
+# UPDATED: 2023-03-22 05:17:31
+# DOMAIN-SUFFIX: 28693
+# TOTAL: 28693
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -5899,6 +5899,7 @@ DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector.puhutv.com
 DOMAIN-SUFFIX,collector-*.px-cdn.net
 DOMAIN-SUFFIX,collector-*.pxchk.net
+DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
 DOMAIN-SUFFIX,collector.roistat.com
@@ -10811,6 +10812,7 @@ DOMAIN-SUFFIX,freshmarketer.com
 DOMAIN-SUFFIX,freshplum.com
 DOMAIN-SUFFIX,fretfulfurniture.com
 DOMAIN-SUFFIX,friendbuy.com
+DOMAIN-SUFFIX,friendlyfold.com
 DOMAIN-SUFFIX,friendwool.com
 DOMAIN-SUFFIX,frightenedpotato.com
 DOMAIN-SUFFIX,frog.editorx.com
@@ -19064,6 +19066,7 @@ DOMAIN-SUFFIX,scriptil.com
 DOMAIN-SUFFIX,scripts21.com
 DOMAIN-SUFFIX,script-sh.d2cdm.jp
 DOMAIN-SUFFIX,scriptshead.com
+DOMAIN-SUFFIX,scripts-repo.reelevant.com
 DOMAIN-SUFFIX,scripttags.jst.ai
 DOMAIN-SUFFIX,scrollservice.com
 DOMAIN-SUFFIX,scrubswim.com
