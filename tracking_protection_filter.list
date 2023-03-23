@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-23 05:16:48
-# DOMAIN-SUFFIX: 28739
-# TOTAL: 28739
+# UPDATED: 2023-03-24 05:38:51
+# DOMAIN-SUFFIX: 28738
+# TOTAL: 28738
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -4638,7 +4638,6 @@ DOMAIN-SUFFIX,beacon.tws.toyota.jp
 DOMAIN-SUFFIX,beacon.unext.jp
 DOMAIN-SUFFIX,beacon.vertebrae-axis.com
 DOMAIN-SUFFIX,beacon.walmart.ca
-DOMAIN-SUFFIX,beacon.walmart.com
 DOMAIN-SUFFIX,beacon.watch.impress.co.jp
 DOMAIN-SUFFIX,beacon.wikia-services.com
 DOMAIN-SUFFIX,beacon.www.theguardian.com
