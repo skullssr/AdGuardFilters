@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-23 05:20:43
-# DOMAIN-SUFFIX: 356
-# TOTAL: 356
+# UPDATED: 2023-03-25 05:37:24
+# DOMAIN-SUFFIX: 357
+# TOTAL: 357
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -273,6 +273,7 @@ DOMAIN-SUFFIX,pompass.net
 DOMAIN-SUFFIX,p.permalink-system.com
 DOMAIN-SUFFIX,pr-agent.jp
 DOMAIN-SUFFIX,preaf.jp
+DOMAIN-SUFFIX,presco.ai
 DOMAIN-SUFFIX,primead.jp
 DOMAIN-SUFFIX,promolayer.io
 DOMAIN-SUFFIX,public.adgger.jp

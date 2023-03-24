@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-24 05:38:51
-# DOMAIN-SUFFIX: 28738
-# TOTAL: 28738
+# UPDATED: 2023-03-25 05:33:27
+# DOMAIN-SUFFIX: 28740
+# TOTAL: 28740
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -5324,6 +5324,7 @@ DOMAIN-SUFFIX,cattle.weiss-bregenz.at
 DOMAIN-SUFFIX,cattle.yourdallashandyman.com
 DOMAIN-SUFFIX,cat.weddingsabroad.com
 DOMAIN-SUFFIX,causecherry.com
+DOMAIN-SUFFIX,cautiouscamera.com
 DOMAIN-SUFFIX,cautiouscrate.com
 DOMAIN-SUFFIX,cautiouscredit.com
 DOMAIN-SUFFIX,ca.video-cdn.net
@@ -13395,6 +13396,7 @@ DOMAIN-SUFFIX,livestat.com
 DOMAIN-SUFFIX,livestats.fr
 DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
 DOMAIN-SUFFIX,livetracker.rfe.pangea-cms.com
+DOMAIN-SUFFIX,livetrafficfeed.com
 DOMAIN-SUFFIX,livewebstats.dk
 DOMAIN-SUFFIX,liwxfq.customink.com
 DOMAIN-SUFFIX,lizardslaugh.com
@@ -18222,6 +18224,7 @@ DOMAIN-SUFFIX,repdata.usatoday.com
 DOMAIN-SUFFIX,repeatsweater.com
 DOMAIN-SUFFIX,repixel.co
 DOMAIN-SUFFIX,replaceroute.com
+DOMAIN-SUFFIX,report2.iciba.com
 DOMAIN-SUFFIX,report*.appmetrica.webvisor.com
 DOMAIN-SUFFIX,report.iciba.com
 DOMAIN-SUFFIX,reporting.aatkit.com
@@ -24038,7 +24041,6 @@ DOMAIN-SUFFIX,tag.search.sensefuel.live
 DOMAIN-SUFFIX,tags.experian.co.uk
 DOMAIN-SUFFIX,tags.hickies.com
 DOMAIN-SUFFIX,tags.kone.com
-DOMAIN-SUFFIX,tags.newscgp.com
 DOMAIN-SUFFIX,tags.refinery89.com
 DOMAIN-SUFFIX,tagsrvcs.com
 DOMAIN-SUFFIX,tags.soloway.ru
