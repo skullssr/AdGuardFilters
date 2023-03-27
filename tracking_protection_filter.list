@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-27 05:13:39
-# DOMAIN-SUFFIX: 28741
-# TOTAL: 28741
+# UPDATED: 2023-03-28 05:30:22
+# DOMAIN-SUFFIX: 28742
+# TOTAL: 28742
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,2rid9fii9chx.www.atlaslane.com
 DOMAIN-SUFFIX,2yqcaqbfnv.nextgen.shareablee.com
 DOMAIN-SUFFIX,2znp09oa.com
+DOMAIN-SUFFIX,31830fbc-adbf-11ed-afa1-0242ac120002.site
 DOMAIN-SUFFIX,3347.wolf-gordon.com
 DOMAIN-SUFFIX,3347.wolfgordon.com
 DOMAIN-SUFFIX,33across.com
@@ -5854,6 +5855,7 @@ DOMAIN-SUFFIX,collect.albacross.com
 DOMAIN-SUFFIX,collect.allianz.ch
 DOMAIN-SUFFIX,collect.allianzcinema.ch
 DOMAIN-SUFFIX,collect.allianzdriveincinema.ch
+DOMAIN-SUFFIX,collect.analytics.unity3d.com
 DOMAIN-SUFFIX,collect.asics.com
 DOMAIN-SUFFIX,collect.babybus.com
 DOMAIN-SUFFIX,collect.banggood.com
@@ -11670,7 +11672,6 @@ DOMAIN-SUFFIX,hetchi.com
 DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,heymatic.com
 DOMAIN-SUFFIX,heystaks.com
-DOMAIN-SUFFIX,heytapmobi.com
 DOMAIN-SUFFIX,heytapmobile.com
 DOMAIN-SUFFIX,hfc195b.com
 DOMAIN-SUFFIX,hfd.bridgetowermedia.com
