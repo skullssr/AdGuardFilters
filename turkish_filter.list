@@ -1,7 +1,7 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-21 05:36:26
+# UPDATED: 2023-03-29 05:27:56
 # DOMAIN-SUFFIX: 356
 # TOTAL: 356
 DOMAIN-SUFFIX,aadserving.com
@@ -291,6 +291,7 @@ DOMAIN-SUFFIX,rek.yemlee.com
 DOMAIN-SUFFIX,reviveservers.com
 DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,r.filmizlesene.vip
+DOMAIN-SUFFIX,rotorfon.go-prod.dogt.xyz
 DOMAIN-SUFFIX,r.yabancidizi.in
 DOMAIN-SUFFIX,salutationcheerlessdemote.com
 DOMAIN-SUFFIX,sam.setimedia.com
@@ -308,7 +309,6 @@ DOMAIN-SUFFIX,smrtbnr.top
 DOMAIN-SUFFIX,sosinyo.xyz
 DOMAIN-SUFFIX,sportframe.org
 DOMAIN-SUFFIX,spwms.com
-DOMAIN-SUFFIX,stage-api-rotorfon.go.dogt.xyz
 DOMAIN-SUFFIX,stairtuy.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
 DOMAIN-SUFFIX,stopblyat.tk
