@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-29 05:19:05
-# DOMAIN-SUFFIX: 3195
-# TOTAL: 3195
+# UPDATED: 2023-03-30 05:05:58
+# DOMAIN-SUFFIX: 3196
+# TOTAL: 3196
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -138,7 +138,7 @@ DOMAIN-SUFFIX,agxapks.com
 DOMAIN-SUFFIX,ah-me.com
 DOMAIN-SUFFIX,aiarticlespinner.co
 DOMAIN-SUFFIX,aimasummd.blog.fc2.com
-DOMAIN-SUFFIX,ak4eg.cam
+DOMAIN-SUFFIX,ak4eg.*
 DOMAIN-SUFFIX,akalaty4day.com
 DOMAIN-SUFFIX,akanosora.com
 DOMAIN-SUFFIX,akashiro.co.id
@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,akoam.site
 DOMAIN-SUFFIX,akoam.ws
 DOMAIN-SUFFIX,aktion-solar.com
 DOMAIN-SUFFIX,aktuality.sk
+DOMAIN-SUFFIX,akw.to
 DOMAIN-SUFFIX,alexgoldcheidt.com
 DOMAIN-SUFFIX,alexstuff.ru
 DOMAIN-SUFFIX,alfaloji.org
