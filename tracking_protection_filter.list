@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-30 05:10:37
-# DOMAIN-SUFFIX: 28746
-# TOTAL: 28746
+# UPDATED: 2023-03-31 05:03:14
+# DOMAIN-SUFFIX: 28751
+# TOTAL: 28751
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -5948,6 +5948,7 @@ DOMAIN-SUFFIX,combclover.com
 DOMAIN-SUFFIX,com.carte-gr.total.fr
 DOMAIN-SUFFIX,comcastresidentialservices.tt.omtrdc.net
 DOMAIN-SUFFIX,comeresaprensasl.tt.omtrdc.net
+DOMAIN-SUFFIX,cometlytrack.com
 DOMAIN-SUFFIX,comet.sputniknews.com
 DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,comfortablecheese.com
@@ -9323,6 +9324,7 @@ DOMAIN-SUFFIX,dsply.com
 DOMAIN-SUFFIX,dsp-tracking.unityads.unity3d.com
 DOMAIN-SUFFIX,dsptrack.mobshark.net
 DOMAIN-SUFFIX,ds.webprojectslab.com
+DOMAIN-SUFFIX,dt.beyla.site
 DOMAIN-SUFFIX,dtch.brunel.nl
 DOMAIN-SUFFIX,dtc-v6t.com
 DOMAIN-SUFFIX,dti-ranker.com
@@ -11643,6 +11645,7 @@ DOMAIN-SUFFIX,hedgehog.fightforthefuture.org
 DOMAIN-SUFFIX,hedgehog.impira.com
 DOMAIN-SUFFIX,heise.met.vgwort.de
 DOMAIN-SUFFIX,hej.henriksommerfeld.se
+DOMAIN-SUFFIX,hellay.net
 DOMAIN-SUFFIX,hell.duttak.com
 DOMAIN-SUFFIX,hello.bpost.be
 DOMAIN-SUFFIX,hello.ops.bpost.be
@@ -12288,7 +12291,6 @@ DOMAIN-SUFFIX,imzahrwl.xyz
 DOMAIN-SUFFIX,in2.crispydeal.in
 DOMAIN-SUFFIX,inaftracker.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
-DOMAIN-SUFFIX,inapps.appsflyersdk.com
 DOMAIN-SUFFIX,inaudium.com
 DOMAIN-SUFFIX,inboxtag.com
 DOMAIN-SUFFIX,in-business.vodafone.com
@@ -13489,6 +13491,7 @@ DOMAIN-SUFFIX,log.cloud.sbs.co.kr
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
 DOMAIN-SUFFIX,logcol.kyobobook.co.kr
+DOMAIN-SUFFIX,log.collectaction.com
 DOMAIN-SUFFIX,logcollector.viewster.com
 DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
 DOMAIN-SUFFIX,logconfig.polarisoffice.com
@@ -17723,6 +17726,7 @@ DOMAIN-SUFFIX,productivepear.com
 DOMAIN-SUFFIX,productsup.com
 DOMAIN-SUFFIX,proext.com
 DOMAIN-SUFFIX,profile.marketone.com
+DOMAIN-SUFFIX,profiler-collector.wshareit.com
 DOMAIN-SUFFIX,profilesnitch.com
 DOMAIN-SUFFIX,profiling.home.kpmg
 DOMAIN-SUFFIX,profiling.martela.com
@@ -18113,6 +18117,7 @@ DOMAIN-SUFFIX,rebelsubway.com
 DOMAIN-SUFFIX,rec.banggood.com
 DOMAIN-SUFFIX,rec.detik.com
 DOMAIN-SUFFIX,receiver.eigene.io
+DOMAIN-SUFFIX,receiver-metis.infeng.site
 DOMAIN-SUFFIX,receiver.pravoved.org
 DOMAIN-SUFFIX,receptivebranch.com
 DOMAIN-SUFFIX,receptiveink.com
@@ -27022,6 +27027,7 @@ DOMAIN-SUFFIX,truehits3.gits.net.th
 DOMAIN-SUFFIX,truehits.in.th
 DOMAIN-SUFFIX,truehits.net
 DOMAIN-SUFFIX,trueoffice.actonservice.com
+DOMAIN-SUFFIX,trueroas.io
 DOMAIN-SUFFIX,tr.ujsv.espmp-agfr.net
 DOMAIN-SUFFIX,tr.uk.icicibank.com
 DOMAIN-SUFFIX,tr.uk.katun.com
@@ -27286,7 +27292,6 @@ DOMAIN-SUFFIX,uhmayt.peachjohn.co.jp
 DOMAIN-SUFFIX,uhn9.up-france.fr
 DOMAIN-SUFFIX,uh.nakanohito.jp
 DOMAIN-SUFFIX,uicjnk.gumtree.co.za
-DOMAIN-SUFFIX,uid.mavencoalition.io
 DOMAIN-SUFFIX,uie.data.cbc.ca
 DOMAIN-SUFFIX,uifesg.modulor.de
 DOMAIN-SUFFIX,uim.tifbs.net
