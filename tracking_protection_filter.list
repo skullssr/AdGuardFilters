@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-31 05:03:14
-# DOMAIN-SUFFIX: 28751
-# TOTAL: 28751
+# UPDATED: 2023-04-01 05:14:08
+# DOMAIN-SUFFIX: 28755
+# TOTAL: 28755
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3242,6 +3242,7 @@ DOMAIN-SUFFIX,analytics.joincambridge.com
 DOMAIN-SUFFIX,analytics.jst.ai
 DOMAIN-SUFFIX,analytics.kaggle.io
 DOMAIN-SUFFIX,analytics.kaltura.com
+DOMAIN-SUFFIX,analytics.karakuri.ai
 DOMAIN-SUFFIX,analytics.katespade.com
 DOMAIN-SUFFIX,analytics.kellyservices.com
 DOMAIN-SUFFIX,analytics.kemlu.go.id
@@ -5377,6 +5378,7 @@ DOMAIN-SUFFIX,cdn.pranmcpkx.com
 DOMAIN-SUFFIX,cdn.preciso.net
 DOMAIN-SUFFIX,cdn.raekdata.com
 DOMAIN-SUFFIX,cdn-ra.rockcontent.com
+DOMAIN-SUFFIX,cdn-redirector.glopal.com
 DOMAIN-SUFFIX,cdn.reproio.com
 DOMAIN-SUFFIX,cdn.resonate.com
 DOMAIN-SUFFIX,cdn.rlets.com
@@ -23622,6 +23624,7 @@ DOMAIN-SUFFIX,stopphoulplay.com
 DOMAIN-SUFFIX,storea8tracking.alc.co.jp
 DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,storedk.tns-gallup.dk
+DOMAIN-SUFFIX,storelog.kode.co.kr
 DOMAIN-SUFFIX,storescissors.com
 DOMAIN-SUFFIX,stores-counters.wix.com
 DOMAIN-SUFFIX,storeslope.com
@@ -24389,6 +24392,7 @@ DOMAIN-SUFFIX,telemetry.stryker.com
 DOMAIN-SUFFIX,telemetry.swe.quicinc.com
 DOMAIN-SUFFIX,telemetry.swiftkey.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
+DOMAIN-SUFFIX,telemetry.transcend.io
 DOMAIN-SUFFIX,telemetry.voxeet.com
 DOMAIN-SUFFIX,telem.sre.gopuff.com
 DOMAIN-SUFFIX,teleport.soom.la
