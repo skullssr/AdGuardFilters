@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-01 05:09:45
-# DOMAIN-SUFFIX: 3198
-# TOTAL: 3198
+# UPDATED: 2023-04-02 05:19:31
+# DOMAIN-SUFFIX: 3199
+# TOTAL: 3199
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2656,6 +2656,7 @@ DOMAIN-SUFFIX,sznpaste.net
 DOMAIN-SUFFIX,t3.com
 DOMAIN-SUFFIX,tagblatt.ch
 DOMAIN-SUFFIX,tailieungon.com
+DOMAIN-SUFFIX,taimanin-rpg.wikiru.jp
 DOMAIN-SUFFIX,tainhanhvn.com
 DOMAIN-SUFFIX,taisv.com
 DOMAIN-SUFFIX,tajemnice-swiata.pl

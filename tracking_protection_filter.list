@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-01 05:14:08
-# DOMAIN-SUFFIX: 28755
-# TOTAL: 28755
+# UPDATED: 2023-04-02 05:23:52
+# DOMAIN-SUFFIX: 28756
+# TOTAL: 28756
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -5363,6 +5363,7 @@ DOMAIN-SUFFIX,cdn.attkdmg.xyz
 DOMAIN-SUFFIX,cdn.c-i.as
 DOMAIN-SUFFIX,cdn.cohesionapps.com
 DOMAIN-SUFFIX,cdn.contalyze.com
+DOMAIN-SUFFIX,cdn.counter.dev
 DOMAIN-SUFFIX,cdn.czx5eyk0exbhwp43ya.biz
 DOMAIN-SUFFIX,cdn.ddmanager.ru
 DOMAIN-SUFFIX,cdn.driveback.ru
@@ -6371,7 +6372,6 @@ DOMAIN-SUFFIX,countercity.net
 DOMAIN-SUFFIX,counter.cropvid.com
 DOMAIN-SUFFIX,counter.daara.kr
 DOMAIN-SUFFIX,counter.de
-DOMAIN-SUFFIX,counter.dev
 DOMAIN-SUFFIX,counter.entertainmentwise.com
 DOMAIN-SUFFIX,counterfire.info
 DOMAIN-SUFFIX,counter*.freecounter.ovh
@@ -24302,6 +24302,7 @@ DOMAIN-SUFFIX,t.clic2buy.com
 DOMAIN-SUFFIX,tc-log.mattel163.com
 DOMAIN-SUFFIX,t.cofcsports.com
 DOMAIN-SUFFIX,t.cotsta.ru
+DOMAIN-SUFFIX,t.counter.dev
 DOMAIN-SUFFIX,t.c-rtb.com
 DOMAIN-SUFFIX,tcs.tt.omtrdc.net
 DOMAIN-SUFFIX,tctm.co
