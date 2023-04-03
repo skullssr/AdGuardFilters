@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-02 05:23:52
-# DOMAIN-SUFFIX: 28756
-# TOTAL: 28756
+# UPDATED: 2023-04-04 05:37:46
+# DOMAIN-SUFFIX: 28758
+# TOTAL: 28758
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3204,6 +3204,7 @@ DOMAIN-SUFFIX,analytics.gnc.com
 DOMAIN-SUFFIX,analytics.go.com
 DOMAIN-SUFFIX,analytics.gokwik.co
 DOMAIN-SUFFIX,analytics.gorillanation.com
+DOMAIN-SUFFIX,analytics.grape.media
 DOMAIN-SUFFIX,analytics.greenmountain.com
 DOMAIN-SUFFIX,analytics.greenmountainenergy.com
 DOMAIN-SUFFIX,analytics.growthphysics.com
@@ -27665,6 +27666,7 @@ DOMAIN-SUFFIX,voismarketing.vodafone.com
 DOMAIN-SUFFIX,vole.amplenote.com
 DOMAIN-SUFFIX,vole.contemporaryartlibrary.org
 DOMAIN-SUFFIX,volkswagenag.tt.omtrdc.net
+DOMAIN-SUFFIX,volts.shopping.naver.com
 DOMAIN-SUFFIX,voluumtlkrnarketing.com
 DOMAIN-SUFFIX,volvelle.tech
 DOMAIN-SUFFIX,volvo.tt.omtrdc.net
