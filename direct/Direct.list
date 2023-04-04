@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-04 05:42:17
-# DOMAIN-SUFFIX: 4109
-# TOTAL: 4109
+# UPDATED: 2023-04-05 05:31:34
+# DOMAIN-SUFFIX: 4105
+# TOTAL: 4105
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,4kfilm.online
 DOMAIN-SUFFIX,4klinks.site
 DOMAIN-SUFFIX,4mirrorlink.com
 DOMAIN-SUFFIX,4players.de
+DOMAIN-SUFFIX,4spaces.org
 DOMAIN-SUFFIX,519.best
 DOMAIN-SUFFIX,51sec.org
 DOMAIN-SUFFIX,520call.me
@@ -401,7 +402,6 @@ DOMAIN-SUFFIX,a.sellpoint.net
 DOMAIN-SUFFIX,asiaflix.app
 DOMAIN-SUFFIX,asianovel.com
 DOMAIN-SUFFIX,ask4movie.*
-DOMAIN-SUFFIX,ask4movie.io
 DOMAIN-SUFFIX,askpets.website
 DOMAIN-SUFFIX,askquds.com
 DOMAIN-SUFFIX,aspdotnet-suresh.com
@@ -1778,7 +1778,6 @@ DOMAIN-SUFFIX,inforge.net
 DOMAIN-SUFFIX,informatikamu.id
 DOMAIN-SUFFIX,informaxonline.com
 DOMAIN-SUFFIX,informazionefiscale.it
-DOMAIN-SUFFIX,informer.com
 DOMAIN-SUFFIX,inforum.com
 DOMAIN-SUFFIX,infosehatku.club
 DOMAIN-SUFFIX,ingame.de
@@ -1790,7 +1789,6 @@ DOMAIN-SUFFIX,inside-digital.de
 DOMAIN-SUFFIX,instasave.xyz
 DOMAIN-SUFFIX,insurancequotestip.com
 DOMAIN-SUFFIX,insurances.tips
-DOMAIN-SUFFIX,insurglobal.xyz
 DOMAIN-SUFFIX,intaa.net
 DOMAIN-SUFFIX,integralrechner.de
 DOMAIN-SUFFIX,intercelestial.com
@@ -2087,6 +2085,7 @@ DOMAIN-SUFFIX,link.technics-goods.info
 DOMAIN-SUFFIX,link-to.net
 DOMAIN-SUFFIX,linku.us
 DOMAIN-SUFFIX,linkvertise.com
+DOMAIN-SUFFIX,linkvertise.download
 DOMAIN-SUFFIX,linnk.info
 DOMAIN-SUFFIX,linternaute.com
 DOMAIN-SUFFIX,linux-community.de
@@ -2199,7 +2198,6 @@ DOMAIN-SUFFIX,mangaorigin.com
 DOMAIN-SUFFIX,mangarock.com
 DOMAIN-SUFFIX,mangaromance.eu
 DOMAIN-SUFFIX,mangarow.com
-DOMAIN-SUFFIX,manhwaid.org
 DOMAIN-SUFFIX,manjaro.pl
 DOMAIN-SUFFIX,manta.com
 DOMAIN-SUFFIX,manualdamulher.net
@@ -2906,7 +2904,6 @@ DOMAIN-SUFFIX,publicananker.com
 DOMAIN-SUFFIX,public-cis.exponea.com
 DOMAIN-SUFFIX,publico.pt
 DOMAIN-SUFFIX,publicwww.com
-DOMAIN-SUFFIX,publisher.adservice.com
 DOMAIN-SUFFIX,publishers.adsterra.com
 DOMAIN-SUFFIX,pudelek.pl
 DOMAIN-SUFFIX,pulsemens.com
@@ -2974,7 +2971,7 @@ DOMAIN-SUFFIX,realtime-chart.info
 DOMAIN-SUFFIX,receitasabores.com
 DOMAIN-SUFFIX,receitasdamamae.online
 DOMAIN-SUFFIX,receitastops.ga
-DOMAIN-SUFFIX,receive-a-sms.com
+DOMAIN-SUFFIX,receiveasms.com
 DOMAIN-SUFFIX,receivesms.cc
 DOMAIN-SUFFIX,record-video-online.com
 DOMAIN-SUFFIX,recreatisse.com
@@ -3037,7 +3034,6 @@ DOMAIN-SUFFIX,rocketnews24.com
 DOMAIN-SUFFIX,rockfile.co
 DOMAIN-SUFFIX,rocku.space
 DOMAIN-SUFFIX,rodjulian.com
-DOMAIN-SUFFIX,rojadirecta.me
 DOMAIN-SUFFIX,roland-gazeta.pl
 DOMAIN-SUFFIX,rollingstone.de
 DOMAIN-SUFFIX,romadd.com
@@ -4045,7 +4041,7 @@ DOMAIN-SUFFIX,xidian.edu.cn
 DOMAIN-SUFFIX,xiuren.org
 DOMAIN-SUFFIX,xmod.in
 DOMAIN-SUFFIX,xmpp.disk.yandex.net
-DOMAIN-SUFFIX,xn--mgba7fjn.cc
+DOMAIN-SUFFIX,xn--mgba7fjn.*
 DOMAIN-SUFFIX,xpickle.club
 DOMAIN-SUFFIX,xpicture.ru
 DOMAIN-SUFFIX,xploit.ink

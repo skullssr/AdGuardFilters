@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-04 05:33:07
-# DOMAIN-SUFFIX: 3200
-# TOTAL: 3200
+# UPDATED: 2023-04-05 05:22:41
+# DOMAIN-SUFFIX: 3195
+# TOTAL: 3195
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -307,7 +307,6 @@ DOMAIN-SUFFIX,arubedo.blogspot.com
 DOMAIN-SUFFIX,asiaflix.app
 DOMAIN-SUFFIX,asianovel.com
 DOMAIN-SUFFIX,ask4movie.*
-DOMAIN-SUFFIX,ask4movie.io
 DOMAIN-SUFFIX,askpets.website
 DOMAIN-SUFFIX,askquds.com
 DOMAIN-SUFFIX,aspdotnet-suresh.com
@@ -1373,7 +1372,6 @@ DOMAIN-SUFFIX,inforge.net
 DOMAIN-SUFFIX,informatikamu.id
 DOMAIN-SUFFIX,informaxonline.com
 DOMAIN-SUFFIX,informazionefiscale.it
-DOMAIN-SUFFIX,informer.com
 DOMAIN-SUFFIX,infosehatku.club
 DOMAIN-SUFFIX,in.gr
 DOMAIN-SUFFIX,inmigrantesenmadrid.com
@@ -1381,7 +1379,6 @@ DOMAIN-SUFFIX,innpoland.pl
 DOMAIN-SUFFIX,inside-digital.de
 DOMAIN-SUFFIX,instasave.xyz
 DOMAIN-SUFFIX,insurancequotestip.com
-DOMAIN-SUFFIX,insurglobal.xyz
 DOMAIN-SUFFIX,intercelestial.com
 DOMAIN-SUFFIX,intersinema.com
 DOMAIN-SUFFIX,interssh.com
@@ -1614,6 +1611,7 @@ DOMAIN-SUFFIX,link.technics-goods.info
 DOMAIN-SUFFIX,link-to.net
 DOMAIN-SUFFIX,linku.us
 DOMAIN-SUFFIX,linkvertise.com
+DOMAIN-SUFFIX,linkvertise.download
 DOMAIN-SUFFIX,linnk.info
 DOMAIN-SUFFIX,linuxuprising.com
 DOMAIN-SUFFIX,liodonwloads.blogspot.com
@@ -1695,7 +1693,6 @@ DOMAIN-SUFFIX,mangaorigin.com
 DOMAIN-SUFFIX,mangarock.com
 DOMAIN-SUFFIX,mangaromance.eu
 DOMAIN-SUFFIX,mangarow.com
-DOMAIN-SUFFIX,manhwaid.org
 DOMAIN-SUFFIX,manjaro.pl
 DOMAIN-SUFFIX,manta.com
 DOMAIN-SUFFIX,manualdamulher.net
@@ -2246,7 +2243,6 @@ DOMAIN-SUFFIX,prz.pw
 DOMAIN-SUFFIX,psypost.org
 DOMAIN-SUFFIX,publicananker.com
 DOMAIN-SUFFIX,publicwww.com
-DOMAIN-SUFFIX,publisher.adservice.com
 DOMAIN-SUFFIX,pudelek.pl
 DOMAIN-SUFFIX,pulsemens.com
 DOMAIN-SUFFIX,puma.112.2o7.net
@@ -2300,7 +2296,7 @@ DOMAIN-SUFFIX,realses.com
 DOMAIN-SUFFIX,receitasabores.com
 DOMAIN-SUFFIX,receitasdamamae.online
 DOMAIN-SUFFIX,receitastops.ga
-DOMAIN-SUFFIX,receive-a-sms.com
+DOMAIN-SUFFIX,receiveasms.com
 DOMAIN-SUFFIX,receivesms.cc
 DOMAIN-SUFFIX,record-video-online.com
 DOMAIN-SUFFIX,redirect.disqus.com
@@ -2344,7 +2340,6 @@ DOMAIN-SUFFIX,robuxgen.online
 DOMAIN-SUFFIX,rockfile.co
 DOMAIN-SUFFIX,rocku.space
 DOMAIN-SUFFIX,rodjulian.com
-DOMAIN-SUFFIX,rojadirecta.me
 DOMAIN-SUFFIX,roland-gazeta.pl
 DOMAIN-SUFFIX,romadd.com
 DOMAIN-SUFFIX,romsforever.co
@@ -3150,7 +3145,7 @@ DOMAIN-SUFFIX,xiaomifirmwareupdater.com
 DOMAIN-SUFFIX,xiaomitools.com
 DOMAIN-SUFFIX,xmod.in
 DOMAIN-SUFFIX,xmpp.disk.yandex.net
-DOMAIN-SUFFIX,xn--mgba7fjn.cc
+DOMAIN-SUFFIX,xn--mgba7fjn.*
 DOMAIN-SUFFIX,xpickle.club
 DOMAIN-SUFFIX,xpicture.ru
 DOMAIN-SUFFIX,xploit.ink
