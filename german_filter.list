@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-03-23 05:18:35
-# DOMAIN-SUFFIX: 427
-# TOTAL: 427
+# UPDATED: 2023-04-07 05:32:50
+# DOMAIN-SUFFIX: 428
+# TOTAL: 428
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,connects.ch
 DOMAIN-SUFFIX,content.acc-hd.de
 DOMAIN-SUFFIX,contentfeed.net
 DOMAIN-SUFFIX,cowana-adserver.de
+DOMAIN-SUFFIX,cpdsrv.de
 DOMAIN-SUFFIX,c-points.de
 DOMAIN-SUFFIX,crmpilot.it
 DOMAIN-SUFFIX,cuiron.de
