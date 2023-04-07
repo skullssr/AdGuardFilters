@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-07 05:31:02
-# DOMAIN-SUFFIX: 28216
-# TOTAL: 28216
+# UPDATED: 2023-04-08 05:32:30
+# DOMAIN-SUFFIX: 28217
+# TOTAL: 28217
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -2394,6 +2394,7 @@ DOMAIN-SUFFIX,adrta.com
 DOMAIN-SUFFIX,adsaccount.appcpi.net
 DOMAIN-SUFFIX,ads.anese.co
 DOMAIN-SUFFIX,ad-score.com
+DOMAIN-SUFFIX,ads-dmp-collect.*.karrotmarket.com
 DOMAIN-SUFFIX,ads.dreamjobcompany.com
 DOMAIN-SUFFIX,adsensedetective.com
 DOMAIN-SUFFIX,adserver.snapads.com
@@ -3029,6 +3030,7 @@ DOMAIN-SUFFIX,a.munters.com.mx
 DOMAIN-SUFFIX,a.munters.es
 DOMAIN-SUFFIX,a.munters.jp
 DOMAIN-SUFFIX,amunx.de
+DOMAIN-SUFFIX,amusedbucket.com
 DOMAIN-SUFFIX,amusementmorning.com
 DOMAIN-SUFFIX,amwatch.tns-gallup.dk
 DOMAIN-SUFFIX,a.mx.carte-gr.total.fr
@@ -3111,6 +3113,7 @@ DOMAIN-SUFFIX,analytics.avis.lu
 DOMAIN-SUFFIX,analytics.aweber.com
 DOMAIN-SUFFIX,analytics.banksneveraskthat.com
 DOMAIN-SUFFIX,analytics.basistheory.com
+DOMAIN-SUFFIX,analytics.bauermedia.sk
 DOMAIN-SUFFIX,analytics.betterplaces.nl
 DOMAIN-SUFFIX,analytics.bgr.com
 DOMAIN-SUFFIX,analytics.bi.encuentra24.com
@@ -5437,7 +5440,6 @@ DOMAIN-SUFFIX,cdn-adn.rayjump.com
 DOMAIN-SUFFIX,cdn.adsquirrel.ai
 DOMAIN-SUFFIX,cdn.adt567.net
 DOMAIN-SUFFIX,cdnappicons.appsflyer.com
-DOMAIN-SUFFIX,cdn.appsflyer.com
 DOMAIN-SUFFIX,cdn.arcstudiopro.com
 DOMAIN-SUFFIX,cdn.attkdmg.xyz
 DOMAIN-SUFFIX,cdn.c-i.as
@@ -11688,7 +11690,6 @@ DOMAIN-SUFFIX,hedgehog.fightforthefuture.org
 DOMAIN-SUFFIX,hedgehog.impira.com
 DOMAIN-SUFFIX,heise.met.vgwort.de
 DOMAIN-SUFFIX,hej.henriksommerfeld.se
-DOMAIN-SUFFIX,hellay.net
 DOMAIN-SUFFIX,hell.duttak.com
 DOMAIN-SUFFIX,hello.bpost.be
 DOMAIN-SUFFIX,hello.effervescents.com
