@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-11 05:26:49
+# UPDATED: 2023-04-12 05:13:19
 # DOMAIN-SUFFIX: 28045
 # TOTAL: 28045
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -6047,7 +6047,6 @@ DOMAIN-SUFFIX,collector1.afreecatv.com
 DOMAIN-SUFFIX,collector1.xhamster.com
 DOMAIN-SUFFIX,collector-analytics.efigence.com
 DOMAIN-SUFFIX,collector.apester.com
-DOMAIN-SUFFIX,collector.appconsent.io
 DOMAIN-SUFFIX,collector-axa.cloud.ca.com
 DOMAIN-SUFFIX,collector.brandify.com
 DOMAIN-SUFFIX,collector.bunchbox.co
@@ -27259,6 +27258,7 @@ DOMAIN-SUFFIX,weblog.coupang.com
 DOMAIN-SUFFIX,weblog.dema.mil.kr
 DOMAIN-SUFFIX,weblog.e-himart.co.kr
 DOMAIN-SUFFIX,weblog.hankookilbo.com
+DOMAIN-SUFFIX,weblog.woowa.in
 DOMAIN-SUFFIX,weblog.zdnet.co.kr
 DOMAIN-SUFFIX,weblytics.io
 DOMAIN-SUFFIX,web.mailing.storz-bickel.com
