@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-10 05:17:12
-# DOMAIN-SUFFIX: 3197
-# TOTAL: 3197
+# UPDATED: 2023-04-13 05:11:52
+# DOMAIN-SUFFIX: 3198
+# TOTAL: 3198
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2737,6 +2737,7 @@ DOMAIN-SUFFIX,theatlantic.com
 DOMAIN-SUFFIX,thebeastnews.com
 DOMAIN-SUFFIX,thebookee.net
 DOMAIN-SUFFIX,thechive.com
+DOMAIN-SUFFIX,thecubexguide.com
 DOMAIN-SUFFIX,thefightingcock.co.uk
 DOMAIN-SUFFIX,thefoodstorydotcom.wpcomstaging.com
 DOMAIN-SUFFIX,thefreedictionary.com

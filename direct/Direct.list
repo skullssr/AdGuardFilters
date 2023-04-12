@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-10 05:26:16
-# DOMAIN-SUFFIX: 4108
-# TOTAL: 4108
+# UPDATED: 2023-04-13 05:20:35
+# DOMAIN-SUFFIX: 4110
+# TOTAL: 4110
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -366,6 +366,7 @@ DOMAIN-SUFFIX,appdrop.net
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,applosungen.com
 DOMAIN-SUFFIX,appluseis.com
+DOMAIN-SUFFIX,app.message.sonicwall.com
 DOMAIN-SUFFIX,appnee.com
 DOMAIN-SUFFIX,apps2app.com
 DOMAIN-SUFFIX,appsfullversion.com
@@ -3527,6 +3528,7 @@ DOMAIN-SUFFIX,theatlantic.com
 DOMAIN-SUFFIX,thebeastnews.com
 DOMAIN-SUFFIX,thebookee.net
 DOMAIN-SUFFIX,thechive.com
+DOMAIN-SUFFIX,thecubexguide.com
 DOMAIN-SUFFIX,thefightingcock.co.uk
 DOMAIN-SUFFIX,thefoodstorydotcom.wpcomstaging.com
 DOMAIN-SUFFIX,thefreedictionary.com
