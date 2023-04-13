@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-13 05:16:16
-# DOMAIN-SUFFIX: 28053
-# TOTAL: 28053
+# UPDATED: 2023-04-14 05:29:07
+# DOMAIN-SUFFIX: 28057
+# TOTAL: 28057
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -11439,6 +11439,7 @@ DOMAIN-SUFFIX,grouse.ultimateballistics.com
 DOMAIN-SUFFIX,growingio.com
 DOMAIN-SUFFIX,grow.powerstep.com
 DOMAIN-SUFFIX,growthrx.in
+DOMAIN-SUFFIX,grs.hicloud.com
 DOMAIN-SUFFIX,grtmpr.vertbaudet.fr
 DOMAIN-SUFFIX,grundfosholdingas.tt.omtrdc.net
 DOMAIN-SUFFIX,grxsaq.tagheuer.com
@@ -12603,6 +12604,8 @@ DOMAIN-SUFFIX,iol.io
 DOMAIN-SUFFIX,io.narrative.io
 DOMAIN-SUFFIX,iooecb.bergzeit.de
 DOMAIN-SUFFIX,ios.bugly.qq.com
+DOMAIN-SUFFIX,iot-eu-logser.realme.com
+DOMAIN-SUFFIX,iot-logser.realme.com
 DOMAIN-SUFFIX,ip2c.landscape.co.jp
 DOMAIN-SUFFIX,ip2map.com
 DOMAIN-SUFFIX,ip2phrase.com
@@ -13325,6 +13328,7 @@ DOMAIN-SUFFIX,log.appdriver.jp
 DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
 DOMAIN-SUFFIX,log.avlyun.com
 DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
+DOMAIN-SUFFIX,logbak.hicloud.com
 DOMAIN-SUFFIX,log.bandi.so
 DOMAIN-SUFFIX,log.baomoi.com
 DOMAIN-SUFFIX,logbor.com
