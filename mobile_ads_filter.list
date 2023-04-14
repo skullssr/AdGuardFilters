@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-14 05:33:37
+# UPDATED: 2023-04-15 05:28:05
 # DOMAIN-SUFFIX: 916
 # TOTAL: 916
 DOMAIN-SUFFIX,023hysj.com
@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,ads.appsgeyser.com
 DOMAIN-SUFFIX,ads.aws.viber.com
 DOMAIN-SUFFIX,ads-bidder-api.twitter.com
 DOMAIN-SUFFIX,ads.bulldogcpi.com
+DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,ads-chunks.prod.ihrhls.com
 DOMAIN-SUFFIX,ads-cloud.rovio.com
 DOMAIN-SUFFIX,adsdk.vrvm.com
@@ -857,7 +858,6 @@ DOMAIN-SUFFIX,trk.glispa.com
 DOMAIN-SUFFIX,ts166.net
 DOMAIN-SUFFIX,t.singular.net
 DOMAIN-SUFFIX,tubemogul.com
-DOMAIN-SUFFIX,turbo.adsbynimbus.com
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tveta.naver.net
 DOMAIN-SUFFIX,tw-api.vpon.com
