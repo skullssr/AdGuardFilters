@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-15 05:28:07
-# DOMAIN-SUFFIX: 4112
-# TOTAL: 4112
+# UPDATED: 2023-04-19 05:44:05
+# DOMAIN-SUFFIX: 4114
+# TOTAL: 4114
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -3647,6 +3647,7 @@ DOMAIN-SUFFIX,toutes-les-solutions.fr
 DOMAIN-SUFFIX,tpaste.net
 DOMAIN-SUFFIX,tqanime.com
 DOMAIN-SUFFIX,tr3fit.xyz
+DOMAIN-SUFFIX,trace.playwright.dev
 DOMAIN-SUFFIX,track2.royalmail.com
 DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,track.rutarget.ru
@@ -3873,6 +3874,7 @@ DOMAIN-SUFFIX,vivotvhd.com
 DOMAIN-SUFFIX,vmc.org.pl
 DOMAIN-SUFFIX,vnhax.com
 DOMAIN-SUFFIX,vodafonelimited.tt.omtrdc.net
+DOMAIN-SUFFIX,vod.tvp.pl
 DOMAIN-SUFFIX,voipsipclient.blogspot.com
 DOMAIN-SUFFIX,voipsipclient.blogspot.nl
 DOMAIN-SUFFIX,voirseries.co

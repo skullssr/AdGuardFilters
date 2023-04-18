@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-18 05:05:27
-# DOMAIN-SUFFIX: 31790
-# TOTAL: 31790
+# UPDATED: 2023-04-19 05:39:35
+# DOMAIN-SUFFIX: 31793
+# TOTAL: 31793
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -6331,6 +6331,7 @@ DOMAIN-SUFFIX,code.acstat.com
 DOMAIN-SUFFIX,code.lockbot.net
 DOMAIN-SUFFIX,code.randomhouse.com
 DOMAIN-SUFFIX,codes.royalad.pl
+DOMAIN-SUFFIX,code.usergram.info
 DOMAIN-SUFFIX,co.dewrain.life
 DOMAIN-SUFFIX,cod.fotis.xyz
 DOMAIN-SUFFIX,cod.onemanandhisblog.com
@@ -14477,6 +14478,7 @@ DOMAIN-SUFFIX,l.ffx.io
 DOMAIN-SUFFIX,lfmhcb.sefamerve.com
 DOMAIN-SUFFIX,lfov.net
 DOMAIN-SUFFIX,lfpfpl.andar.co.kr
+DOMAIN-SUFFIX,l.francetvinfo.fr
 DOMAIN-SUFFIX,lgadamericas.tt.omtrdc.net
 DOMAIN-SUFFIX,lgbdxo.azazie.com
 DOMAIN-SUFFIX,lgelectronics.tt.omtrdc.net
@@ -29746,6 +29748,7 @@ DOMAIN-SUFFIX,tr.urfk07j.espmp-nifr.net
 DOMAIN-SUFFIX,tr.urfk07s.espmp-nifr.net
 DOMAIN-SUFFIX,tr.urfk080.espmp-agfr.net
 DOMAIN-SUFFIX,tr.urfk08c.espmp-cufr.net
+DOMAIN-SUFFIX,tr.usergram.info
 DOMAIN-SUFFIX,trusted-collector-bk.tmocce.com
 DOMAIN-SUFFIX,trust.mitutoyo.com
 DOMAIN-SUFFIX,trust.titanhq.com
