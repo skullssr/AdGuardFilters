@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-19 05:39:35
+# UPDATED: 2023-04-20 05:11:18
 # DOMAIN-SUFFIX: 31793
 # TOTAL: 31793
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -13197,6 +13197,7 @@ DOMAIN-SUFFIX,imhd.io
 DOMAIN-SUFFIX,imjsfy.allbeauty.com
 DOMAIN-SUFFIX,immanalytics.com
 DOMAIN-SUFFIX,immensehoney.com
+DOMAIN-SUFFIX,i.moshimo.com
 DOMAIN-SUFFIX,impala.misexpedientes.cloud
 DOMAIN-SUFFIX,impala.vnv.nl
 DOMAIN-SUFFIX,imp.apprevolve.com
@@ -17168,7 +17169,6 @@ DOMAIN-SUFFIX,mormont.gamer-network.net
 DOMAIN-SUFFIX,mortgage.equifax.com
 DOMAIN-SUFFIX,mortgagefamily.actonservice.com
 DOMAIN-SUFFIX,mortgage.inform.equifax.com
-DOMAIN-SUFFIX,moshimo.com
 DOMAIN-SUFFIX,mosquito.iamamandaperez.com
 DOMAIN-SUFFIX,mosvnx.livup.com.br
 DOMAIN-SUFFIX,moth.artsmia.org
