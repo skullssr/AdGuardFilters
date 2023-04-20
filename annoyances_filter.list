@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-18 05:06:02
-# DOMAIN-SUFFIX: 960
-# TOTAL: 960
+# UPDATED: 2023-04-21 05:34:41
+# DOMAIN-SUFFIX: 962
+# TOTAL: 962
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -391,6 +391,7 @@ DOMAIN-SUFFIX,getpush.net
 DOMAIN-SUFFIX,getpush.org
 DOMAIN-SUFFIX,getresponse.com
 DOMAIN-SUFFIX,gewrh.com
+DOMAIN-SUFFIX,gipahetus.com
 DOMAIN-SUFFIX,girnarsoft.com
 DOMAIN-SUFFIX,glisteningguide.com
 DOMAIN-SUFFIX,goadopt.io
@@ -724,6 +725,7 @@ DOMAIN-SUFFIX,rokettsaince.com
 DOMAIN-SUFFIX,rssfetcher.blogsys.jp
 DOMAIN-SUFFIX,rss-loader.com
 DOMAIN-SUFFIX,rssrank.net
+DOMAIN-SUFFIX,rss.tc
 DOMAIN-SUFFIX,rushhips.com
 DOMAIN-SUFFIX,salesiq.zoho.in
 DOMAIN-SUFFIX,salesmanago.com
