@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-19 05:43:29
-# DOMAIN-SUFFIX: 369
-# TOTAL: 369
+# UPDATED: 2023-04-23 05:33:15
+# DOMAIN-SUFFIX: 373
+# TOTAL: 373
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,appollo.jp
 DOMAIN-SUFFIX,apserver.net
 DOMAIN-SUFFIX,arms.livedoor.net
 DOMAIN-SUFFIX,asia-northeast1-affiliate-pr.cloudfunctions.net
+DOMAIN-SUFFIX,askfollow.us
 DOMAIN-SUFFIX,assoc-amazon.jp
 DOMAIN-SUFFIX,astrsk.net
 DOMAIN-SUFFIX,asumi.shinobi.jp
@@ -197,6 +198,7 @@ DOMAIN-SUFFIX,fivecdm.com
 DOMAIN-SUFFIX,flux-g.com
 DOMAIN-SUFFIX,focas.jp
 DOMAIN-SUFFIX,fout.jp
+DOMAIN-SUFFIX,freeadd.me
 DOMAIN-SUFFIX,freebaitar.com
 DOMAIN-SUFFIX,fxprime-popular.com
 DOMAIN-SUFFIX,genieedmp.com
@@ -344,6 +346,8 @@ DOMAIN-SUFFIX,trigraff.com
 DOMAIN-SUFFIX,trigs-sockets.com
 DOMAIN-SUFFIX,trustclick.ne.jp
 DOMAIN-SUFFIX,tumabeni.com
+DOMAIN-SUFFIX,twitob.com
+DOMAIN-SUFFIX,twitterfollowers.site
 DOMAIN-SUFFIX,ueuodgnrhb.com
 DOMAIN-SUFFIX,uh.nakanohito.jp
 DOMAIN-SUFFIX,v2st.shinobi.jp
