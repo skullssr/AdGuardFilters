@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-26 05:30:47
-# DOMAIN-SUFFIX: 32107
-# TOTAL: 32107
+# UPDATED: 2023-04-27 04:51:12
+# DOMAIN-SUFFIX: 32110
+# TOTAL: 32110
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -5453,7 +5453,6 @@ DOMAIN-SUFFIX,broker.datazoom.io
 DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,brotherinternational.tt.omtrdc.net
 DOMAIN-SUFFIX,brothersbucket.com
-DOMAIN-SUFFIX,browser.events.data.microsoft.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
@@ -5865,6 +5864,7 @@ DOMAIN-SUFFIX,cdn.dsspn.com
 DOMAIN-SUFFIX,cdn.experience.globalsources.com
 DOMAIN-SUFFIX,cdn.glassboxcdn.com
 DOMAIN-SUFFIX,cdn.kaizenplatform.net
+DOMAIN-SUFFIX,cdn.logrocket.com
 DOMAIN-SUFFIX,cdn.mavi.digital
 DOMAIN-SUFFIX,cdn.mediatradecraft.com
 DOMAIN-SUFFIX,cdn.memo.co
@@ -11154,6 +11154,7 @@ DOMAIN-SUFFIX,events.whisk.com
 DOMAIN-SUFFIX,event.syndigo.cloud
 DOMAIN-SUFFIX,event.togothermany.com
 DOMAIN-SUFFIX,eventtracker.elitedaily.com
+DOMAIN-SUFFIX,event-tracking.deliverr.com
 DOMAIN-SUFFIX,eventtracking.hubapi.com
 DOMAIN-SUFFIX,event.trove.com
 DOMAIN-SUFFIX,event.webcollage.net
@@ -11914,6 +11915,7 @@ DOMAIN-SUFFIX,getfreebacklinks.com
 DOMAIN-SUFFIX,getfreebl.com
 DOMAIN-SUFFIX,get.incisive.com
 DOMAIN-SUFFIX,getinfo.fullsail.edu
+DOMAIN-SUFFIX,getlasso.co
 DOMAIN-SUFFIX,getmygeo.com
 DOMAIN-SUFFIX,get.now.airielle.de
 DOMAIN-SUFFIX,get.sage.com
@@ -14817,7 +14819,6 @@ DOMAIN-SUFFIX,log.qvb.qcloud.com
 DOMAIN-SUFFIX,log.radiko.jp
 DOMAIN-SUFFIX,log.reformal.ru
 DOMAIN-SUFFIX,log.rhythmtowers.com
-DOMAIN-SUFFIX,logrocket.com
 DOMAIN-SUFFIX,log.rutube.ru
 DOMAIN-SUFFIX,logs1257.at.pagesjaunes.fr
 DOMAIN-SUFFIX,logs1407.xiti.com
@@ -21707,6 +21708,7 @@ DOMAIN-SUFFIX,shopback.net
 DOMAIN-SUFFIX,shopbreakfast.com
 DOMAIN-SUFFIX,shopclues.tt.omtrdc.net
 DOMAIN-SUFFIX,shopconvert.com.br
+DOMAIN-SUFFIX,shopify-fast-tags.deliverr.com
 DOMAIN-SUFFIX,shop.iwantclips.com
 DOMAIN-SUFFIX,shoplytics.com
 DOMAIN-SUFFIX,shopnetic.com
@@ -28028,7 +28030,6 @@ DOMAIN-SUFFIX,tracker.downdetector.com
 DOMAIN-SUFFIX,tracker.durasite.net
 DOMAIN-SUFFIX,tracker.eft.com
 DOMAIN-SUFFIX,tracker.fengkongcloud.com
-DOMAIN-SUFFIX,tracker.files.fm
 DOMAIN-SUFFIX,tracker.giftd.ru
 DOMAIN-SUFFIX,tracker.gleanview.com
 DOMAIN-SUFFIX,tracker.hdtvcloud.com
@@ -30718,6 +30719,7 @@ DOMAIN-SUFFIX,view.nucorbuildingsystems.com
 DOMAIN-SUFFIX,views.2222.ro
 DOMAIN-SUFFIX,views.romaniatv.net
 DOMAIN-SUFFIX,vihtori-analytics.fi
+DOMAIN-SUFFIX,vik-analytics.moonactive.net
 DOMAIN-SUFFIX,vineyardvines.tt.omtrdc.net
 DOMAIN-SUFFIX,vinlens.com
 DOMAIN-SUFFIX,vinsight.de
@@ -31351,6 +31353,7 @@ DOMAIN-SUFFIX,wiar9wff0ma9.ping.t3.gg
 DOMAIN-SUFFIX,widerplanet.com
 DOMAIN-SUFFIX,widget.mb-srv.com
 DOMAIN-SUFFIX,widget.perfectmarket.com
+DOMAIN-SUFFIX,widget.sparrow.ru
 DOMAIN-SUFFIX,wigglygeese.com
 DOMAIN-SUFFIX,wigglyindustry.com
 DOMAIN-SUFFIX,wikia-beacon.com

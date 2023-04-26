@@ -1,9 +1,9 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-18 05:06:51
-# DOMAIN-SUFFIX: 3941
-# TOTAL: 3941
+# UPDATED: 2023-04-27 04:52:42
+# DOMAIN-SUFFIX: 3943
+# TOTAL: 3943
 DOMAIN-SUFFIX,0001.best
 DOMAIN-SUFFIX,0427d7.se
 DOMAIN-SUFFIX,0483bm4mlow8.xyz
@@ -920,6 +920,7 @@ DOMAIN-SUFFIX,coinsup.com
 DOMAIN-SUFFIX,colimavdar.ru
 DOMAIN-SUFFIX,com495.ru
 DOMAIN-SUFFIX,comin.co
+DOMAIN-SUFFIX,coml.be
 DOMAIN-SUFFIX,compare.meteoservice.ru
 DOMAIN-SUFFIX,contactreserve.com
 DOMAIN-SUFFIX,contactsin.com
@@ -2306,6 +2307,7 @@ DOMAIN-SUFFIX,newseek.org
 DOMAIN-SUFFIX,newsfeed.net.ua
 DOMAIN-SUFFIX,news.govorjat.ru
 DOMAIN-SUFFIX,news.mirtesen.ru
+DOMAIN-SUFFIX,news-molixo.cc
 DOMAIN-SUFFIX,news.nest.msk.ru
 DOMAIN-SUFFIX,news-network.ru
 DOMAIN-SUFFIX,news.newinform.com
