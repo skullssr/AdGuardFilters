@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-27 04:51:12
-# DOMAIN-SUFFIX: 32110
-# TOTAL: 32110
+# UPDATED: 2023-04-28 05:25:42
+# DOMAIN-SUFFIX: 32113
+# TOTAL: 32113
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -2650,6 +2650,7 @@ DOMAIN-SUFFIX,adtd.douglas.pl
 DOMAIN-SUFFIX,adtelligence.de
 DOMAIN-SUFFIX,ad.tempstaff.co.jp
 DOMAIN-SUFFIX,ad.theatreacademy.jp
+DOMAIN-SUFFIX,adtima-media.zascdn.me
 DOMAIN-SUFFIX,adtima-static.zadn.vn
 DOMAIN-SUFFIX,adtlgc.com
 DOMAIN-SUFFIX,adtm.chip.de
@@ -6435,6 +6436,7 @@ DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector.puhutv.com
 DOMAIN-SUFFIX,collector-*.px-cdn.net
 DOMAIN-SUFFIX,collector-*.pxchk.net
+DOMAIN-SUFFIX,collector-*.px-cloud.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
@@ -19871,6 +19873,7 @@ DOMAIN-SUFFIX,pwkrakanmet.met.gov.my
 DOMAIN-SUFFIX,p.wren.co
 DOMAIN-SUFFIX,pwrlkyotm.com
 DOMAIN-SUFFIX,pxaction.com
+DOMAIN-SUFFIX,px.dmp.zaloapp.com
 DOMAIN-SUFFIX,px.dynamicyield.com
 DOMAIN-SUFFIX,px.gfycat.com
 DOMAIN-SUFFIX,pxhqoy.clothingshoponline.com

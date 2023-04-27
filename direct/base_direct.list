@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-27 04:46:03
-# DOMAIN-SUFFIX: 3201
-# TOTAL: 3201
+# UPDATED: 2023-04-28 05:20:47
+# DOMAIN-SUFFIX: 3200
+# TOTAL: 3200
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1745,7 +1745,6 @@ DOMAIN-SUFFIX,megafilmestorrents.net
 DOMAIN-SUFFIX,mega-infonews1a.club
 DOMAIN-SUFFIX,meganews.tech
 DOMAIN-SUFFIX,mega-p2p.net
-DOMAIN-SUFFIX,megapeer.org
 DOMAIN-SUFFIX,megasubtitles.com
 DOMAIN-SUFFIX,megatv.com
 DOMAIN-SUFFIX,megaup.net
