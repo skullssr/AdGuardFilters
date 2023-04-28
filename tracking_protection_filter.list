@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-28 05:25:42
-# DOMAIN-SUFFIX: 32113
-# TOTAL: 32113
+# UPDATED: 2023-04-29 05:13:38
+# DOMAIN-SUFFIX: 32112
+# TOTAL: 32112
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -6436,7 +6436,6 @@ DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector.puhutv.com
 DOMAIN-SUFFIX,collector-*.px-cdn.net
 DOMAIN-SUFFIX,collector-*.pxchk.net
-DOMAIN-SUFFIX,collector-*.px-cloud.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
@@ -14096,7 +14095,6 @@ DOMAIN-SUFFIX,jshkyh.29cm.co.kr
 DOMAIN-SUFFIX,js.hsadspixel.net
 DOMAIN-SUFFIX,js.medi-8.net
 DOMAIN-SUFFIX,js.monetize-ssp.com
-DOMAIN-SUFFIX,jsonip.com
 DOMAIN-SUFFIX,js.passaro-de-fogo.biz
 DOMAIN-SUFFIX,js.ptengine.jp
 DOMAIN-SUFFIX,js.rush-member.com
@@ -31011,6 +31009,7 @@ DOMAIN-SUFFIX,wa.wdr.de
 DOMAIN-SUFFIX,wa.wdrmaus.de
 DOMAIN-SUFFIX,wa.web.de
 DOMAIN-SUFFIX,way2traffic.com
+DOMAIN-SUFFIX,wayfinderanalytics.servicebus.windows.net
 DOMAIN-SUFFIX,wayyaj8t094u.www.kodalia.com
 DOMAIN-SUFFIX,wazimo.com
 DOMAIN-SUFFIX,waz.met.vgwort.de
