@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-01 05:38:47
-# DOMAIN-SUFFIX: 4107
-# TOTAL: 4107
+# UPDATED: 2023-05-02 05:08:39
+# DOMAIN-SUFFIX: 4102
+# TOTAL: 4102
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -342,7 +342,6 @@ DOMAIN-SUFFIX,aphim.co
 DOMAIN-SUFFIX,api.ads.tvb.com
 DOMAIN-SUFFIX,api.docodoco.jp
 DOMAIN-SUFFIX,api.kinomoov.org
-DOMAIN-SUFFIX,api-merchants.skimlinks.com
 DOMAIN-SUFFIX,api.opensubtitles.org
 DOMAIN-SUFFIX,api-secure.solvemedia.com
 DOMAIN-SUFFIX,api-video.khl.ru
@@ -356,7 +355,6 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apnetv.me
 DOMAIN-SUFFIX,apnetv.tv
-DOMAIN-SUFFIX,app.adroll.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
 DOMAIN-SUFFIX,app-cdn.minepi.com
@@ -419,7 +417,6 @@ DOMAIN-SUFFIX,auburnpub.com
 DOMAIN-SUFFIX,audiobookcup.com
 DOMAIN-SUFFIX,audiotools.in
 DOMAIN-SUFFIX,ausbt.com.au
-DOMAIN-SUFFIX,authentication-api.skimlinks.com
 DOMAIN-SUFFIX,auth.tbn.ru
 DOMAIN-SUFFIX,autobild.de
 DOMAIN-SUFFIX,autocentrum.pl
@@ -439,7 +436,6 @@ DOMAIN-SUFFIX,av-jamak.com
 DOMAIN-SUFFIX,avjamak.net
 DOMAIN-SUFFIX,awamiweb.com
 DOMAIN-SUFFIX,awin1.com
-DOMAIN-SUFFIX,awlinks.site
 DOMAIN-SUFFIX,ayefiles.com
 DOMAIN-SUFFIX,azdictionary.com
 DOMAIN-SUFFIX,azfinans.ru
@@ -2859,7 +2855,6 @@ DOMAIN-SUFFIX,pravda.ru
 DOMAIN-SUFFIX,praxis-jugendarbeit.de
 DOMAIN-SUFFIX,prdnews.com
 DOMAIN-SUFFIX,premiumchronicle.com
-DOMAIN-SUFFIX,premiumleecher.com
 DOMAIN-SUFFIX,premium-link.ninja
 DOMAIN-SUFFIX,premiumtoss.com
 DOMAIN-SUFFIX,pressgazette.co.uk
