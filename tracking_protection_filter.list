@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-03 05:13:36
-# DOMAIN-SUFFIX: 32463
-# TOTAL: 32463
+# UPDATED: 2023-05-04 05:24:47
+# DOMAIN-SUFFIX: 32469
+# TOTAL: 32469
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -2674,6 +2674,7 @@ DOMAIN-SUFFIX,adtracker.oilpainting.colorbynumber.veraxen.com
 DOMAIN-SUFFIX,adtracking.smartmediarep.com
 DOMAIN-SUFFIX,adtrack.loracle.jp
 DOMAIN-SUFFIX,ad-track.paravi.jp
+DOMAIN-SUFFIX,adtrack.xiaojukeji.com
 DOMAIN-SUFFIX,adtraction.com
 DOMAIN-SUFFIX,adtraxx.de
 DOMAIN-SUFFIX,adtriba.com
@@ -7290,6 +7291,7 @@ DOMAIN-SUFFIX,cwcdmm.zennioptical.com
 DOMAIN-SUFFIX,cwnlia.parfumdo.com
 DOMAIN-SUFFIX,c.wort-suche.com
 DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,cws-hulu.conviva.com
 DOMAIN-SUFFIX,cwt.citywire.info
 DOMAIN-SUFFIX,cxasci.sprzedajemy.pl
 DOMAIN-SUFFIX,cxense.com
@@ -19473,6 +19475,7 @@ DOMAIN-SUFFIX,pixel.parsely.com
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.playbuzz.com
 DOMAIN-SUFFIX,pixelpop.co
+DOMAIN-SUFFIX,pixel*.production-public.tubi.io
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.quantserve.com
 DOMAIN-SUFFIX,pixel.randi.adswizz.com
@@ -20750,6 +20753,7 @@ DOMAIN-SUFFIX,rsvpgenius.com
 DOMAIN-SUFFIX,rta2.metro.co.uk
 DOMAIN-SUFFIX,rta2.newzit.com
 DOMAIN-SUFFIX,rta.dailymail.co.uk
+DOMAIN-SUFFIX,rtag.farmers.com
 DOMAIN-SUFFIX,rt.applovin.com
 DOMAIN-SUFFIX,rt.applvn.com
 DOMAIN-SUFFIX,rtax.criteo.com
@@ -24719,6 +24723,7 @@ DOMAIN-SUFFIX,spirebaboon.com
 DOMAIN-SUFFIX,spisbedre.tns-gallup.dk
 DOMAIN-SUFFIX,sp.ithacajournal.com
 DOMAIN-SUFFIX,spixel.socy.es
+DOMAIN-SUFFIX,s.pixsrvcs.com
 DOMAIN-SUFFIX,sp.jacksonsun.com
 DOMAIN-SUFFIX,sp.jconline.com
 DOMAIN-SUFFIX,sp.jrklein.com
@@ -30793,6 +30798,7 @@ DOMAIN-SUFFIX,uhm26jyr11zv.www.freecodecamp.org
 DOMAIN-SUFFIX,uhn9.up-france.fr
 DOMAIN-SUFFIX,uh.nakanohito.jp
 DOMAIN-SUFFIX,uicjnk.gumtree.co.za
+DOMAIN-SUFFIX,uid.mavencoalition.io
 DOMAIN-SUFFIX,uie.data.cbc.ca
 DOMAIN-SUFFIX,uijciz.gunze.jp
 DOMAIN-SUFFIX,uim.tifbs.net

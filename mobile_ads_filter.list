@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-22 05:22:14
-# DOMAIN-SUFFIX: 920
-# TOTAL: 920
+# UPDATED: 2023-05-04 05:28:57
+# DOMAIN-SUFFIX: 923
+# TOTAL: 923
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,adserver.*.yahoodns.net
 DOMAIN-SUFFIX,adservice.tohsoft.com
 DOMAIN-SUFFIX,ads.feelingtouch.com
 DOMAIN-SUFFIX,ads.fotoable.com
+DOMAIN-SUFFIX,adsfs.oppomobile.com
 DOMAIN-SUFFIX,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,adsgard.aprod.scopely.io
 DOMAIN-SUFFIX,ads-gdl.imovideo.ru
@@ -169,6 +170,7 @@ DOMAIN-SUFFIX,ad.snaptube.app
 DOMAIN-SUFFIX,adsniper.ru
 DOMAIN-SUFFIX,ads.n-ws.org
 DOMAIN-SUFFIX,ads.ookla.com
+DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN-SUFFIX,ads.pdbarea.com
 DOMAIN-SUFFIX,ads.pinger.com
 DOMAIN-SUFFIX,ad-splash.hktvmall.com
@@ -308,6 +310,7 @@ DOMAIN-SUFFIX,bannerwall.s3.appcnt.com
 DOMAIN-SUFFIX,bayctrk.com
 DOMAIN-SUFFIX,bcfads.com
 DOMAIN-SUFFIX,b.cpiera.com
+DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
 DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
 DOMAIN-SUFFIX,bdvwidxfiextwof.ru
 DOMAIN-SUFFIX,begun.ru
