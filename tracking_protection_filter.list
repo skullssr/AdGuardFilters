@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-04 05:24:47
-# DOMAIN-SUFFIX: 32469
-# TOTAL: 32469
+# UPDATED: 2023-05-05 05:52:47
+# DOMAIN-SUFFIX: 32475
+# TOTAL: 32475
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3839,6 +3839,7 @@ DOMAIN-SUFFIX,analytics.tbshumorstudy.com
 DOMAIN-SUFFIX,analytics.tbs.tv
 DOMAIN-SUFFIX,analytics.tbsuperperks.com
 DOMAIN-SUFFIX,analytics.tcm.com
+DOMAIN-SUFFIX,analytics-tcp.mintegral.net
 DOMAIN-SUFFIX,analytics.teamcovenant.com
 DOMAIN-SUFFIX,analytics.tebilisim.com
 DOMAIN-SUFFIX,analytics.techem.com
@@ -3959,6 +3960,7 @@ DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,analytics.zagg.com
 DOMAIN-SUFFIX,analytics.zeekit.co
 DOMAIN-SUFFIX,analytics.zevvle.com
+DOMAIN-SUFFIX,analytics.zg-api.com
 DOMAIN-SUFFIX,analytics.zoomit.ir
 DOMAIN-SUFFIX,analytic.underarmour.com
 DOMAIN-SUFFIX,analytik.xyz
@@ -7114,6 +7116,7 @@ DOMAIN-SUFFIX,crayoncompetition.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,create.encoreglobal.com
 DOMAIN-SUFFIX,creative.adcreative.cloud
+DOMAIN-SUFFIX,creative.bidease.com
 DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,creditkarmainc.tt.omtrdc.net
 DOMAIN-SUFFIX,creditone.tt.omtrdc.net
@@ -13826,6 +13829,7 @@ DOMAIN-SUFFIX,init.blackcrow.ai
 DOMAIN-SUFFIX,inlog01.hket.com
 DOMAIN-SUFFIX,innocentinvention.com
 DOMAIN-SUFFIX,innocentwax.com
+DOMAIN-SUFFIX,innovads-server.poster.appsinnova.com
 DOMAIN-SUFFIX,innovateads.com
 DOMAIN-SUFFIX,innovate.bionix.com
 DOMAIN-SUFFIX,innovation.leeind.com
@@ -29129,6 +29133,7 @@ DOMAIN-SUFFIX,track.redtrack.link
 DOMAIN-SUFFIX,track.relievestoday.com
 DOMAIN-SUFFIX,track.remotemode.com
 DOMAIN-SUFFIX,track.repairmaxhelp.com
+DOMAIN-SUFFIX,track-resource.bidease.com
 DOMAIN-SUFFIX,track.restorationgrowth.com
 DOMAIN-SUFFIX,track.resultslead.com
 DOMAIN-SUFFIX,track.rheinpfalz.de
@@ -29210,6 +29215,7 @@ DOMAIN-SUFFIX,trackuity.com
 DOMAIN-SUFFIX,track.ultimate-guitar.com
 DOMAIN-SUFFIX,track.unidata.ai
 DOMAIN-SUFFIX,track.usasjbtracking.com
+DOMAIN-SUFFIX,track-us.bidease.com
 DOMAIN-SUFFIX,track.useverydayhealth.com
 DOMAIN-SUFFIX,track-v4.ipadpresence.com
 DOMAIN-SUFFIX,track.vbet10.com

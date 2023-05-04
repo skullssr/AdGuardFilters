@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-04 05:28:57
-# DOMAIN-SUFFIX: 923
-# TOTAL: 923
+# UPDATED: 2023-05-05 05:57:09
+# DOMAIN-SUFFIX: 927
+# TOTAL: 927
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -116,6 +116,7 @@ DOMAIN-SUFFIX,ads.aitype.net
 DOMAIN-SUFFIX,adsapi.manhuaren.com
 DOMAIN-SUFFIX,adsapi.snapchat.com
 DOMAIN-SUFFIX,ads.appsgeyser.com
+DOMAIN-SUFFIX,adsassets.waze.com
 DOMAIN-SUFFIX,ads.aws.viber.com
 DOMAIN-SUFFIX,ads-bidder-api.twitter.com
 DOMAIN-SUFFIX,ads.bulldogcpi.com
@@ -145,6 +146,7 @@ DOMAIN-SUFFIX,ads.go2reach.com
 DOMAIN-SUFFIX,adshost2.com
 DOMAIN-SUFFIX,ads.imbc.com
 DOMAIN-SUFFIX,ads.imovideo.ru
+DOMAIN-SUFFIX,ad.simpledesign.ltd
 DOMAIN-SUFFIX,ads-interfaces.sc-cdn.net
 DOMAIN-SUFFIX,ads.iosappsworld.com
 DOMAIN-SUFFIX,ads.jianchiapp.com
@@ -176,10 +178,12 @@ DOMAIN-SUFFIX,ads.pinger.com
 DOMAIN-SUFFIX,ad-splash.hktvmall.com
 DOMAIN-SUFFIX,ad-splash-tracking.hktvmall.com
 DOMAIN-SUFFIX,adspot.tfgapps.com
+DOMAIN-SUFFIX,ads-resources.waze.com
 DOMAIN-SUFFIX,ads.reward.rakuten.jp
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adsrvr.io
 DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,ads-sdk.mattel163.com
 DOMAIN-SUFFIX,ads-server.mxplay.com
 DOMAIN-SUFFIX,ads.taptapnetworks.com
 DOMAIN-SUFFIX,ad-stir.com
