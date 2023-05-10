@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-09 05:18:58
-# DOMAIN-SUFFIX: 32644
-# TOTAL: 32644
+# UPDATED: 2023-05-11 05:27:04
+# DOMAIN-SUFFIX: 32649
+# TOTAL: 32649
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3762,6 +3762,7 @@ DOMAIN-SUFFIX,analytics.ratemymeeting.co
 DOMAIN-SUFFIX,analytics.ratioform.ch
 DOMAIN-SUFFIX,analytics.ratioform.de
 DOMAIN-SUFFIX,analytics.ratopanda.com
+DOMAIN-SUFFIX,analytics.ravanallc.com
 DOMAIN-SUFFIX,analytics.rayjump.com
 DOMAIN-SUFFIX,analytics.recamov.com
 DOMAIN-SUFFIX,analytics.rechtslupe.org
@@ -6624,6 +6625,7 @@ DOMAIN-SUFFIX,conferences.cigna.com
 DOMAIN-SUFFIX,conff.dc.oppomobile.com
 DOMAIN-SUFFIX,confiaen.legalitas.com
 DOMAIN-SUFFIX,config2.mparticle.com
+DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
 DOMAIN-SUFFIX,config.jpush.cn
 DOMAIN-SUFFIX,config.safedk.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
@@ -20995,6 +20997,7 @@ DOMAIN-SUFFIX,rum*.a.trbcdn.net
 DOMAIN-SUFFIX,rum*.cdnvideo.ru
 DOMAIN-SUFFIX,rum.conde.io
 DOMAIN-SUFFIX,rum.condenastdigital.com
+DOMAIN-SUFFIX,rum-metrics.bunny.net
 DOMAIN-SUFFIX,rumstat.cdnvideo.ru
 DOMAIN-SUFFIX,rum.uptime.com
 DOMAIN-SUFFIX,runtimecollective.tt.omtrdc.net
@@ -22176,6 +22179,7 @@ DOMAIN-SUFFIX,shtrack.kingsoft.jp
 DOMAIN-SUFFIX,shutseashore.com
 DOMAIN-SUFFIX,shutterflycom.tt.omtrdc.net
 DOMAIN-SUFFIX,shyseed.com
+DOMAIN-SUFFIX,sia.internet.apps.samsung.com
 DOMAIN-SUFFIX,siamcommercialbank.tt.omtrdc.net
 DOMAIN-SUFFIX,sibautomation.com
 DOMAIN-SUFFIX,sibulla.com
@@ -27834,6 +27838,7 @@ DOMAIN-SUFFIX,teraes.hgreg.com
 DOMAIN-SUFFIX,teralog.techhub.co.kr
 DOMAIN-SUFFIX,terdzl.ohmyglasses.jp
 DOMAIN-SUFFIX,t.erivedge.com
+DOMAIN-SUFFIX,terms.internet.apps.samsung.com
 DOMAIN-SUFFIX,terra.fp.oix.net
 DOMAIN-SUFFIX,terriblethumb.com
 DOMAIN-SUFFIX,terrificgoose.com

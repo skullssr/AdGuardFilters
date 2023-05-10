@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-09 05:23:37
+# UPDATED: 2023-05-11 05:31:48
 # DOMAIN-SUFFIX: 4102
 # TOTAL: 4102
 DOMAIN-SUFFIX,0123movies.com
@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,aachener-zeitung.de
 DOMAIN-SUFFIX,a.adwolf.ru
 DOMAIN-SUFFIX,aamulehti.fi
 DOMAIN-SUFFIX,aatfal.com
-DOMAIN-SUFFIX,abc.es
 DOMAIN-SUFFIX,abczdrowie.pl
 DOMAIN-SUFFIX,abendblatt.de
 DOMAIN-SUFFIX,abendzeitung-muenchen.de
@@ -702,6 +701,7 @@ DOMAIN-SUFFIX,cle0desktop.blogspot.com
 DOMAIN-SUFFIX,cleverbot.com
 DOMAIN-SUFFIX,clever-tanken.de
 DOMAIN-SUFFIX,click.appcast.io
+DOMAIN-SUFFIX,clickattr.wayup.com
 DOMAIN-SUFFIX,clickhouse.xyz
 DOMAIN-SUFFIX,clickscoin.com
 DOMAIN-SUFFIX,click.simba.taobao.com
