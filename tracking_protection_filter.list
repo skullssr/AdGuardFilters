@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-11 05:27:04
-# DOMAIN-SUFFIX: 32649
-# TOTAL: 32649
+# UPDATED: 2023-05-12 05:45:11
+# DOMAIN-SUFFIX: 32650
+# TOTAL: 32650
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -2229,7 +2229,6 @@ DOMAIN-SUFFIX,acridtwist.com
 DOMAIN-SUFFIX,acrotg.regatta.com
 DOMAIN-SUFFIX,acs86.com
 DOMAIN-SUFFIX,acsam-relay.agof.de
-DOMAIN-SUFFIX,acs.m.taobao.com
 DOMAIN-SUFFIX,act.boxerproperty.com
 DOMAIN-SUFFIX,a.ctd.ai
 DOMAIN-SUFFIX,act.firstdata.com
@@ -3766,6 +3765,7 @@ DOMAIN-SUFFIX,analytics.ravanallc.com
 DOMAIN-SUFFIX,analytics.rayjump.com
 DOMAIN-SUFFIX,analytics.recamov.com
 DOMAIN-SUFFIX,analytics.rechtslupe.org
+DOMAIN-SUFFIX,analytics.recruitics.com
 DOMAIN-SUFFIX,analytics.redbubble.com
 DOMAIN-SUFFIX,analytics.regex101.com
 DOMAIN-SUFFIX,analytics.reliant.com
@@ -5499,6 +5499,7 @@ DOMAIN-SUFFIX,brotherinternational.tt.omtrdc.net
 DOMAIN-SUFFIX,brothersbucket.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,browser-intake-*-datadoghq.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-statistik.de
 DOMAIN-SUFFIX,browser-update.org
@@ -20547,7 +20548,6 @@ DOMAIN-SUFFIX,receptivereaction.com
 DOMAIN-SUFFIX,reconditerake.com
 DOMAIN-SUFFIX,recoset.com
 DOMAIN-SUFFIX,recreationalequipmen.tt.omtrdc.net
-DOMAIN-SUFFIX,recruitics.com
 DOMAIN-SUFFIX,recruiting.dukekunshan.edu.cn
 DOMAIN-SUFFIX,recs.atgsvcs.com
 DOMAIN-SUFFIX,recs.richrelevance.com
@@ -26708,6 +26708,7 @@ DOMAIN-SUFFIX,stats.songbox.rocks
 DOMAIN-SUFFIX,stats.soundbite.so
 DOMAIN-SUFFIX,stats.sparkloop.app
 DOMAIN-SUFFIX,stats.spreadtheworld.net
+DOMAIN-SUFFIX,stats.sprocketrocket.co
 DOMAIN-SUFFIX,stats.sqlteam.com
 DOMAIN-SUFFIX,stats-ssl.mdanderson.org
 DOMAIN-SUFFIX,stats.ssl.postescanada-canadapost.ca
