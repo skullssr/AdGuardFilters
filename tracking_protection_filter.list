@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-17 05:34:41
-# DOMAIN-SUFFIX: 33466
-# TOTAL: 33466
+# UPDATED: 2023-05-18 05:11:49
+# DOMAIN-SUFFIX: 33475
+# TOTAL: 33475
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,1freecounter.com
 DOMAIN-SUFFIX,1hb4jkt1u2d.probemas.com
 DOMAIN-SUFFIX,1kpv4njzilv.community.intersystems.com
 DOMAIN-SUFFIX,1l-hit.mail.ru
+DOMAIN-SUFFIX,1l-hit.vkplay.ru
+DOMAIN-SUFFIX,1l-view.my.games
 DOMAIN-SUFFIX,1op1je6zs97.www.emanualonline.com
 DOMAIN-SUFFIX,1pel.com
 DOMAIN-SUFFIX,1.rntgo.pro
@@ -6475,6 +6477,7 @@ DOMAIN-SUFFIX,cockroach.shellstartupengine.live
 DOMAIN-SUFFIX,codata.ru
 DOMAIN-SUFFIX,code.acstat.com
 DOMAIN-SUFFIX,code.lockbot.net
+DOMAIN-SUFFIX,code.r5hsid.ru
 DOMAIN-SUFFIX,code.randomhouse.com
 DOMAIN-SUFFIX,codes.royalad.pl
 DOMAIN-SUFFIX,code.usergram.info
@@ -15327,6 +15330,8 @@ DOMAIN-SUFFIX,log.musical.ly
 DOMAIN-SUFFIX,log-music-data.line-apps.com
 DOMAIN-SUFFIX,log.newsbreak.jp
 DOMAIN-SUFFIX,log.newsvine.com
+DOMAIN-SUFFIX,log.nexon.io
+DOMAIN-SUFFIX,log.ngsm.nexon.com
 DOMAIN-SUFFIX,lognormal.net
 DOMAIN-SUFFIX,log.ohou.se
 DOMAIN-SUFFIX,log.olark.com
@@ -17517,6 +17522,7 @@ DOMAIN-SUFFIX,metrics.oclc.org
 DOMAIN-SUFFIX,metrics.ocrelizumabinfo.com
 DOMAIN-SUFFIX,metrics.octanner.com
 DOMAIN-SUFFIX,metrics.omniture.com
+DOMAIN-SUFFIX,metrics.onewegg.com
 DOMAIN-SUFFIX,metrics.opensource.com
 DOMAIN-SUFFIX,metrics.optum.com
 DOMAIN-SUFFIX,metrics.oreilly.com
@@ -21028,6 +21034,7 @@ DOMAIN-SUFFIX,rebelsubway.com
 DOMAIN-SUFFIX,rec.banggood.com
 DOMAIN-SUFFIX,rec.detik.com
 DOMAIN-SUFFIX,receiver.eigene.io
+DOMAIN-SUFFIX,receiver.habby.mobi
 DOMAIN-SUFFIX,receiver-metis.infeng.site
 DOMAIN-SUFFIX,receiver.pravoved.org
 DOMAIN-SUFFIX,receptivebranch.com
@@ -26540,6 +26547,7 @@ DOMAIN-SUFFIX,stateofil.tt.omtrdc.net
 DOMAIN-SUFFIX,state.sml2.ru
 DOMAIN-SUFFIX,statetc.nate.com
 DOMAIN-SUFFIX,stat-feedot.ru
+DOMAIN-SUFFIX,stat.gc.my.games
 DOMAIN-SUFFIX,stat.gspaceteam.com
 DOMAIN-SUFFIX,stat.guiasjuridicas.es
 DOMAIN-SUFFIX,stathat.com
@@ -32424,6 +32432,7 @@ DOMAIN-SUFFIX,wcbnl.adultpages.nl
 DOMAIN-SUFFIX,wcfbc.net
 DOMAIN-SUFFIX,wchjfv.apartmenttherapy.com
 DOMAIN-SUFFIX,wcsbck.ecareer.ne.jp
+DOMAIN-SUFFIX,wct-2.com
 DOMAIN-SUFFIX,wdfl.co
 DOMAIN-SUFFIX,wealth.informabi.com
 DOMAIN-SUFFIX,wearbasin.com
