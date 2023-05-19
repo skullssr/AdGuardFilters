@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-19 05:49:05
+# UPDATED: 2023-05-20 05:19:37
 # DOMAIN-SUFFIX: 33476
 # TOTAL: 33476
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -4990,6 +4990,7 @@ DOMAIN-SUFFIX,b2c.com
 DOMAIN-SUFFIX,b536mpmxoqxa.www.themoneytizer.com
 DOMAIN-SUFFIX,b5j6itccyluq.nofluffjobs.com
 DOMAIN-SUFFIX,b90.yahoo.co.jp
+DOMAIN-SUFFIX,b91.yahoo.co.jp
 DOMAIN-SUFFIX,b92.yahoo.co.jp
 DOMAIN-SUFFIX,b94.yahoo.co.jp
 DOMAIN-SUFFIX,b97.yahoo.co.jp
@@ -11399,7 +11400,6 @@ DOMAIN-SUFFIX,events.mapbox.com
 DOMAIN-SUFFIX,events.mcgladrey.com
 DOMAIN-SUFFIX,events.mercadolibre.com
 DOMAIN-SUFFIX,events.mikescerealshack.co
-DOMAIN-SUFFIX,events.mobile.optimizely.com
 DOMAIN-SUFFIX,events.mywd.com
 DOMAIN-SUFFIX,events.mz.unity3d.com
 DOMAIN-SUFFIX,events.newsroom.bi
@@ -15330,8 +15330,6 @@ DOMAIN-SUFFIX,log.musical.ly
 DOMAIN-SUFFIX,log-music-data.line-apps.com
 DOMAIN-SUFFIX,log.newsbreak.jp
 DOMAIN-SUFFIX,log.newsvine.com
-DOMAIN-SUFFIX,log.nexon.io
-DOMAIN-SUFFIX,log.ngsm.nexon.com
 DOMAIN-SUFFIX,lognormal.net
 DOMAIN-SUFFIX,log.ohou.se
 DOMAIN-SUFFIX,log.olark.com
@@ -17682,6 +17680,7 @@ DOMAIN-SUFFIX,metrics.supercuts.com
 DOMAIN-SUFFIX,metrics.superiorhealthplan.com
 DOMAIN-SUFFIX,metrics.superpages.com
 DOMAIN-SUFFIX,metrics.suunto.com
+DOMAIN-SUFFIX,metrics.svc.conholdate.cloud
 DOMAIN-SUFFIX,metrics.svd.se
 DOMAIN-SUFFIX,metrics.swinburne.edu.au
 DOMAIN-SUFFIX,metrics.swisslife-select.de
@@ -22602,6 +22601,7 @@ DOMAIN-SUFFIX,serviceo.xfinity.com
 DOMAIN-SUFFIX,servicesandsolutions.promo.skf.com
 DOMAIN-SUFFIX,services.bdc.ca
 DOMAIN-SUFFIX,services.bionika-digital.ru
+DOMAIN-SUFFIX,services.brightline.tv
 DOMAIN-SUFFIX,services.cmacgm-group.com
 DOMAIN-SUFFIX,services.princes-trust.org.uk
 DOMAIN-SUFFIX,services.sdiapi.com
