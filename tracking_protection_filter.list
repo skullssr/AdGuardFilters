@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-20 05:19:37
-# DOMAIN-SUFFIX: 33476
-# TOTAL: 33476
+# UPDATED: 2023-05-22 05:08:13
+# DOMAIN-SUFFIX: 33477
+# TOTAL: 33477
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3587,6 +3587,7 @@ DOMAIN-SUFFIX,analytics-egain.com
 DOMAIN-SUFFIX,analytics.egernsund.com
 DOMAIN-SUFFIX,analytics.eikko.ai
 DOMAIN-SUFFIX,analytics.electro-com.ru
+DOMAIN-SUFFIX,analytics.elegela.net
 DOMAIN-SUFFIX,analytics-engine.net
 DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
 DOMAIN-SUFFIX,analytics.enjoymobiserver.com

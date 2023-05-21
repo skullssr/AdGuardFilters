@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-16 05:27:59
-# DOMAIN-SUFFIX: 372
-# TOTAL: 372
+# UPDATED: 2023-05-22 05:12:19
+# DOMAIN-SUFFIX: 374
+# TOTAL: 374
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,cdn.mixx-ad.net
 DOMAIN-SUFFIX,click-count.info
 DOMAIN-SUFFIX,clickmedias.info
 DOMAIN-SUFFIX,c.nakanohito.jp
+DOMAIN-SUFFIX,cnt.affiliate.fc2.com
 DOMAIN-SUFFIX,colossal.jp
 DOMAIN-SUFFIX,congrab.com
 DOMAIN-SUFFIX,connead.net
@@ -241,6 +242,7 @@ DOMAIN-SUFFIX,ladsp.jp
 DOMAIN-SUFFIX,lamp-shade.net
 DOMAIN-SUFFIX,link-ag.net
 DOMAIN-SUFFIX,link-a.net
+DOMAIN-SUFFIX,link-medias.com
 DOMAIN-SUFFIX,link-trade.net
 DOMAIN-SUFFIX,livead.jp
 DOMAIN-SUFFIX,liveads.jp
