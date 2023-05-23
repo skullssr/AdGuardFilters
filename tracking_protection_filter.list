@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-23 05:31:28
-# DOMAIN-SUFFIX: 33746
-# TOTAL: 33746
+# UPDATED: 2023-05-24 05:35:23
+# DOMAIN-SUFFIX: 33749
+# TOTAL: 33749
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -15431,6 +15431,7 @@ DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
+DOMAIN-SUFFIX,logservice1.dbankcloud.cn
 DOMAIN-SUFFIX,logservice1.hicloud.com
 DOMAIN-SUFFIX,logservice.hicloud.com
 DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
@@ -26599,6 +26600,7 @@ DOMAIN-SUFFIX,sswmetrics.omanair.com
 DOMAIN-SUFFIX,sswmetrics.sabre.com
 DOMAIN-SUFFIX,ssy7.destinia.com.ua
 DOMAIN-SUFFIX,st1.lg.avendrealouer.fr
+DOMAIN-SUFFIX,st-5cva8vttppvjafpc7jvj.kodik.biz
 DOMAIN-SUFFIX,stack-sonar.com
 DOMAIN-SUFFIX,stage.www.data.srf.ch
 DOMAIN-SUFFIX,stags.bluekai.com
@@ -29992,6 +29994,7 @@ DOMAIN-SUFFIX,tracking.opentable.com
 DOMAIN-SUFFIX,tracking.oppd.com
 DOMAIN-SUFFIX,tracking.oui.sncf
 DOMAIN-SUFFIX,tracking.outsetmedical.com
+DOMAIN-SUFFIX,tracking.overwolf.com
 DOMAIN-SUFFIX,tracking.parte.com
 DOMAIN-SUFFIX,tracking.particuliers.engie.fr
 DOMAIN-SUFFIX,tracking.pdc.wisc.edu
