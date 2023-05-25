@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-25 05:16:00
-# DOMAIN-SUFFIX: 33751
-# TOTAL: 33751
+# UPDATED: 2023-05-26 05:16:57
+# DOMAIN-SUFFIX: 33753
+# TOTAL: 33753
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -3913,6 +3913,7 @@ DOMAIN-SUFFIX,analytics-ssl.allconnect.com
 DOMAIN-SUFFIX,analytics-ssl.bradyid.com
 DOMAIN-SUFFIX,analyticsssl.forcepoint.com
 DOMAIN-SUFFIX,analytics.stanby.com
+DOMAIN-SUFFIX,analytics.starlink.com
 DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
 DOMAIN-SUFFIX,analytics-static.unister-gmbh.de
 DOMAIN-SUFFIX,analytics.studiodesignapp.com
@@ -7278,6 +7279,7 @@ DOMAIN-SUFFIX,crossees.com
 DOMAIN-SUFFIX,crosspixel.net
 DOMAIN-SUFFIX,crosswalkmail.com
 DOMAIN-SUFFIX,crow.claudiakeil.de
+DOMAIN-SUFFIX,crowdedmass.com
 DOMAIN-SUFFIX,crowdscience.com
 DOMAIN-SUFFIX,crowdskout.com
 DOMAIN-SUFFIX,crow.voracious.dev
