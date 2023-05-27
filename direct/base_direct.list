@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-26 05:12:29
-# DOMAIN-SUFFIX: 3109
-# TOTAL: 3109
+# UPDATED: 2023-05-28 05:23:33
+# DOMAIN-SUFFIX: 3111
+# TOTAL: 3111
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2416,6 +2416,7 @@ DOMAIN-SUFFIX,shorteet.com
 DOMAIN-SUFFIX,shorterall.com
 DOMAIN-SUFFIX,shortiks.com
 DOMAIN-SUFFIX,shortlink.prz.pw
+DOMAIN-SUFFIX,shortlinks.tech
 DOMAIN-SUFFIX,shortx.net
 DOMAIN-SUFFIX,short-zero.com
 DOMAIN-SUFFIX,shortzon.com
@@ -3080,6 +3081,7 @@ DOMAIN-SUFFIX,yibada.com
 DOMAIN-SUFFIX,yilmaztv.com
 DOMAIN-SUFFIX,yoemigro.com
 DOMAIN-SUFFIX,yogurk.com
+DOMAIN-SUFFIX,yoima.hatenadiary.com
 DOMAIN-SUFFIX,yomasti.co
 DOMAIN-SUFFIX,yoshare.net
 DOMAIN-SUFFIX,youbamangablog.ga
