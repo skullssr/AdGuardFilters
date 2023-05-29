@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-28 05:32:35
-# DOMAIN-SUFFIX: 4022
-# TOTAL: 4022
+# UPDATED: 2023-05-30 05:13:50
+# DOMAIN-SUFFIX: 4023
+# TOTAL: 4023
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2203,6 +2203,7 @@ DOMAIN-SUFFIX,mcoc-guide.blogspot.com
 DOMAIN-SUFFIX,mcoc-guide.blogspot.co.uk
 DOMAIN-SUFFIX,mcoc-guide.blogspot.in
 DOMAIN-SUFFIX,mc-premium.org
+DOMAIN-SUFFIX,mealcold.com
 DOMAIN-SUFFIX,med1.de
 DOMAIN-SUFFIX,medcpu.com
 DOMAIN-SUFFIX,medevel.com
