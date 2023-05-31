@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-31 05:34:00
-# DOMAIN-SUFFIX: 34781
-# TOTAL: 34781
+# UPDATED: 2023-06-01 05:25:42
+# DOMAIN-SUFFIX: 34779
+# TOTAL: 34779
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -4331,7 +4331,6 @@ DOMAIN-SUFFIX,api.gimbal.com
 DOMAIN-SUFFIX,api.imqtyik.com
 DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.intg.osp.one.tt.omtrdc.net
-DOMAIN-SUFFIX,api.ipdata.co
 DOMAIN-SUFFIX,api.iterative.ly
 DOMAIN-SUFFIX,a.pikabu.ru
 DOMAIN-SUFFIX,api.krg01.us-east-1.pe.tt.omtrdc.net
@@ -11140,6 +11139,7 @@ DOMAIN-SUFFIX,email-match.com
 DOMAIN-SUFFIX,email.participaction.com
 DOMAIN-SUFFIX,email-reflex.com
 DOMAIN-SUFFIX,emailretargeting.com
+DOMAIN-SUFFIX,email.social.qualtrics.com
 DOMAIN-SUFFIX,email-tw.americanexpress.com
 DOMAIN-SUFFIX,emarketing.landisgyr.com
 DOMAIN-SUFFIX,embeddedanalytics.com
@@ -21617,7 +21617,6 @@ DOMAIN-SUFFIX,quadran.eu
 DOMAIN-SUFFIX,quail.efix.uk
 DOMAIN-SUFFIX,quaintcan.com
 DOMAIN-SUFFIX,qualcomm.tt.omtrdc.net
-DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,quantablos.tt.omtrdc.net
 DOMAIN-SUFFIX,quantcount.com
 DOMAIN-SUFFIX,quant.jp
@@ -23674,7 +23673,6 @@ DOMAIN-SUFFIX,site.firstnet.com
 DOMAIN-SUFFIX,siteimproveanalytics.com
 DOMAIN-SUFFIX,siteimprove.com
 DOMAIN-SUFFIX,site.infosysbpm.com
-DOMAIN-SUFFIX,siteintercept*.qualtrics.com
 DOMAIN-SUFFIX,site.johnlewis.com
 DOMAIN-SUFFIX,site.johnlewis-insurance.com
 DOMAIN-SUFFIX,site-kaiseki-tool.com
