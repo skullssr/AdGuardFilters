@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-01 05:26:18
-# DOMAIN-SUFFIX: 978
-# TOTAL: 978
+# UPDATED: 2023-06-02 05:44:00
+# DOMAIN-SUFFIX: 979
+# TOTAL: 979
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -896,6 +896,7 @@ DOMAIN-SUFFIX,wat.atms.at
 DOMAIN-SUFFIX,wat.chatwat.xyz
 DOMAIN-SUFFIX,wb.whatsbroadcast.com
 DOMAIN-SUFFIX,wearbasin.com
+DOMAIN-SUFFIX,webchat.birdeye.com
 DOMAIN-SUFFIX,webchat.cmcplanet.com
 DOMAIN-SUFFIX,web-client-02.livetex.ru
 DOMAIN-SUFFIX,web-client.livetex.ru

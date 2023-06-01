@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-01 05:25:42
-# DOMAIN-SUFFIX: 34779
-# TOTAL: 34779
+# UPDATED: 2023-06-02 05:43:20
+# DOMAIN-SUFFIX: 34781
+# TOTAL: 34781
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
@@ -17962,6 +17962,7 @@ DOMAIN-SUFFIX,metrics.maxizoo.fr
 DOMAIN-SUFFIX,metrics.maxizoo.ie
 DOMAIN-SUFFIX,metrics.maxizoo.pl
 DOMAIN-SUFFIX,metrics.mcafee.com
+DOMAIN-SUFFIX,metrics.mdstrm.com
 DOMAIN-SUFFIX,metrics.medical.roche.de
 DOMAIN-SUFFIX,metrics.mei.co.jp
 DOMAIN-SUFFIX,metrics.meiers-weltreisen.de
@@ -33851,6 +33852,7 @@ DOMAIN-SUFFIX,webtracking.acams.org
 DOMAIN-SUFFIX,webtracking.aucmed.edu
 DOMAIN-SUFFIX,webtracking.becker.com
 DOMAIN-SUFFIX,webtracking.chamberlain.edu
+DOMAIN-SUFFIX,webtracking.fe.union-investment.de
 DOMAIN-SUFFIX,webtracking.medical.rossu.edu
 DOMAIN-SUFFIX,webtracking.moneylaundering.com
 DOMAIN-SUFFIX,webtracking.oncourselearning.com
