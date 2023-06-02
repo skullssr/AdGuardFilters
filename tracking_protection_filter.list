@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-02 05:43:20
+# UPDATED: 2023-06-03 06:33:35
 # DOMAIN-SUFFIX: 34781
 # TOTAL: 34781
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
@@ -13214,7 +13214,6 @@ DOMAIN-SUFFIX,hello.emergeinteractive.com
 DOMAIN-SUFFIX,hello.ops.bpost.be
 DOMAIN-SUFFIX,hello.postuler.bpost.be
 DOMAIN-SUFFIX,hellosherpa.com
-DOMAIN-SUFFIX,hellosmpl.com
 DOMAIN-SUFFIX,hello.solliciteren.bpost.be
 DOMAIN-SUFFIX,hello.stbpost.be
 DOMAIN-SUFFIX,help.3g.tt.omtrdc.net
@@ -15729,6 +15728,7 @@ DOMAIN-SUFFIX,logger.dailymotion.com
 DOMAIN-SUFFIX,logger.eigene.io
 DOMAIN-SUFFIX,logger.goeuro.com
 DOMAIN-SUFFIX,logger.growstarry.com
+DOMAIN-SUFFIX,logger*.kma.go.kr
 DOMAIN-SUFFIX,logger.nerdwallet.com
 DOMAIN-SUFFIX,logger.ntracecloud.com
 DOMAIN-SUFFIX,logger.pw
