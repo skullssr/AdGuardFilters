@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-03 06:37:58
-# DOMAIN-SUFFIX: 4010
-# TOTAL: 4010
+# UPDATED: 2023-06-04 05:09:13
+# DOMAIN-SUFFIX: 4011
+# TOTAL: 4011
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1534,6 +1534,7 @@ DOMAIN-SUFFIX,gocoo.co
 DOMAIN-SUFFIX,godisagamer.org
 DOMAIN-SUFFIX,go-ez.net
 DOMAIN-SUFFIX,gofobo.com
+DOMAIN-SUFFIX,go.freetrx.fun
 DOMAIN-SUFFIX,gogoanime.cool
 DOMAIN-SUFFIX,golangnote.com
 DOMAIN-SUFFIX,goldenmangas.online
