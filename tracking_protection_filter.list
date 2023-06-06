@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-06 04:52:48
-# DOMAIN-SUFFIX: 36206
-# TOTAL: 36206
+# UPDATED: 2023-06-07 04:54:08
+# DOMAIN-SUFFIX: 36209
+# TOTAL: 36209
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -28040,6 +28040,7 @@ DOMAIN-SUFFIX,ssa.scrippsnetworksinteractive.com
 DOMAIN-SUFFIX,ssa.tlc.com
 DOMAIN-SUFFIX,s.saucisson-rebellion.fr
 DOMAIN-SUFFIX,s.save.ca
+DOMAIN-SUFFIX,ss.azuremagazine.com
 DOMAIN-SUFFIX,ssc.alhurra.com
 DOMAIN-SUFFIX,ssc.amerikaninsesi.org
 DOMAIN-SUFFIX,ssc.amerikaovozi.com
@@ -29421,6 +29422,7 @@ DOMAIN-SUFFIX,stats.oldtinroof.com
 DOMAIN-SUFFIX,stats.oliveoil.pro
 DOMAIN-SUFFIX,stats.onepagelove.com
 DOMAIN-SUFFIX,stats.onetime.com
+DOMAIN-SUFFIX,stats.online-convert.com
 DOMAIN-SUFFIX,stats.opengatechurch.ca
 DOMAIN-SUFFIX,stats.opoloo.de
 DOMAIN-SUFFIX,stats.orbitalhealth.co
@@ -32288,6 +32290,7 @@ DOMAIN-SUFFIX,tracking.tidalhifi.com
 DOMAIN-SUFFIX,tracking.times247.com
 DOMAIN-SUFFIX,tracking.tomshardware.co.uk
 DOMAIN-SUFFIX,tracking.trinet.com
+DOMAIN-SUFFIX,tracking-*.trnox.com
 DOMAIN-SUFFIX,tracking.trnox.com
 DOMAIN-SUFFIX,tracking.twocommagrowth.com
 DOMAIN-SUFFIX,tracking-uat.veritas.com
