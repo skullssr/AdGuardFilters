@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-07 04:54:08
-# DOMAIN-SUFFIX: 36209
-# TOTAL: 36209
+# UPDATED: 2023-06-08 05:07:40
+# DOMAIN-SUFFIX: 36210
+# TOTAL: 36210
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -12937,6 +12937,7 @@ DOMAIN-SUFFIX,ga-analytics.com
 DOMAIN-SUFFIX,ga-bq-py-1.appspot.com
 DOMAIN-SUFFIX,gacela.eu
 DOMAIN-SUFFIX,ga.clearbit.com
+DOMAIN-SUFFIX,gae2-spclient.spotify.com
 DOMAIN-SUFFIX,gae.karte.io
 DOMAIN-SUFFIX,gaffa.tns-gallup.dk
 DOMAIN-SUFFIX,gagysn.floward.com

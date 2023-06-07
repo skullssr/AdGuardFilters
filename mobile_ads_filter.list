@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-04 05:09:11
-# DOMAIN-SUFFIX: 934
-# TOTAL: 934
+# UPDATED: 2023-06-08 05:12:13
+# DOMAIN-SUFFIX: 907
+# TOTAL: 907
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,a2pub.com
 DOMAIN-SUFFIX,a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 DOMAIN-SUFFIX,a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 DOMAIN-SUFFIX,a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
-DOMAIN-SUFFIX,a.76674bdad304297eda3d325f449f6f49.com
 DOMAIN-SUFFIX,aag.yahooapis.jp
 DOMAIN-SUFFIX,a.applvn.com
 DOMAIN-SUFFIX,abbott.vo.llnwd.net
@@ -131,7 +130,6 @@ DOMAIN-SUFFIX,ads.edadeal.ru
 DOMAIN-SUFFIX,adsee.jp
 DOMAIN-SUFFIX,adserver.goforandroid.com
 DOMAIN-SUFFIX,adserver.kimia.es
-DOMAIN-SUFFIX,adserver.mobillex.com
 DOMAIN-SUFFIX,adserver.pandora.com
 DOMAIN-SUFFIX,adserver.shadow.snapads.com
 DOMAIN-SUFFIX,adserver.ubiyoo.com
@@ -218,7 +216,6 @@ DOMAIN-SUFFIX,ad.vrvm.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,ad.weplayer.cc
 DOMAIN-SUFFIX,adwhirl.com
-DOMAIN-SUFFIX,adwired.mobi
 DOMAIN-SUFFIX,adwods.com
 DOMAIN-SUFFIX,ad.wynk.in
 DOMAIN-SUFFIX,adxcorp.kr
@@ -231,7 +228,6 @@ DOMAIN-SUFFIX,adywind.com
 DOMAIN-SUFFIX,adzerk.net
 DOMAIN-SUFFIX,adz.mobi
 DOMAIN-SUFFIX,adzmobi.com
-DOMAIN-SUFFIX,adzworld.in
 DOMAIN-SUFFIX,afreeca-tag.ad-mapps.com
 DOMAIN-SUFFIX,agent.tamedia.com.tw
 DOMAIN-SUFFIX,ajdivotdelbloab24.jio.com
@@ -291,7 +287,6 @@ DOMAIN-SUFFIX,appserver-cp.com
 DOMAIN-SUFFIX,appshelf.ttpsdk.info
 DOMAIN-SUFFIX,app.ssp.yahoo.com
 DOMAIN-SUFFIX,apptornado.com
-DOMAIN-SUFFIX,app-trackings.com
 DOMAIN-SUFFIX,appwall.tv2phone.cn
 DOMAIN-SUFFIX,ap.smardroid.com
 DOMAIN-SUFFIX,apxadtracking.net
@@ -357,7 +352,6 @@ DOMAIN-SUFFIX,casino-ad-mediation.me2zengame.com
 DOMAIN-SUFFIX,castplatform.com
 DOMAIN-SUFFIX,cdn2.auditude.com
 DOMAIN-SUFFIX,cdn.88-f.net
-DOMAIN-SUFFIX,cdn.adbert.info
 DOMAIN-SUFFIX,cdn-adn-*.rayjump.com
 DOMAIN-SUFFIX,cdn-adn.rayjump.com
 DOMAIN-SUFFIX,cdn.ads.fotoable.net
@@ -411,16 +405,12 @@ DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,ctl.buyt.in
 DOMAIN-SUFFIX,c.vrvm.com
 DOMAIN-SUFFIX,d19xf4taj229i8.cloudfront.net
-DOMAIN-SUFFIX,d1zkodo2u3p4pe.cloudfront.net
 DOMAIN-SUFFIX,d239g0z67jcted.cloudfront.net
-DOMAIN-SUFFIX,d27tpsznug51gz.cloudfront.net
 DOMAIN-SUFFIX,d2nrdy2pg3k168.cloudfront.net
 DOMAIN-SUFFIX,d32z5ni8t5127x.cloudfront.net
 DOMAIN-SUFFIX,d3hdbjtb1686tn.cloudfront.net
-DOMAIN-SUFFIX,d60y8cj1tje2a.cloudfront.net
 DOMAIN-SUFFIX,d830x8j3o1b2k.cloudfront.net
 DOMAIN-SUFFIX,dad-api.dcard.tw
-DOMAIN-SUFFIX,dante2007.com
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,daxuetong.zone
@@ -438,7 +428,6 @@ DOMAIN-SUFFIX,dumedia.ru
 DOMAIN-SUFFIX,dzpu6za66svjl.cloudfront.net
 DOMAIN-SUFFIX,e.apsalar.com
 DOMAIN-SUFFIX,edwlifes.vo.llnwd.net
-DOMAIN-SUFFIX,ektezis.ru
 DOMAIN-SUFFIX,eltrafiko.com
 DOMAIN-SUFFIX,emediate.eu
 DOMAIN-SUFFIX,emediate.se
@@ -505,7 +494,6 @@ DOMAIN-SUFFIX,hostgrater.com
 DOMAIN-SUFFIX,hotapi-va.isnssdk.com
 DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
 DOMAIN-SUFFIX,houseads.ttpsdk.info
-DOMAIN-SUFFIX,hqsjc.com
 DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,huntmad.com
 DOMAIN-SUFFIX,hybird.rayjump.com
@@ -551,7 +539,6 @@ DOMAIN-SUFFIX,itdsmr.com
 DOMAIN-SUFFIX,i-vengo.com
 DOMAIN-SUFFIX,iyes.youku.com
 DOMAIN-SUFFIX,javacript.gq
-DOMAIN-SUFFIX,jfduv7.com
 DOMAIN-SUFFIX,jioads.akamaized.net
 DOMAIN-SUFFIX,jmp9.com
 DOMAIN-SUFFIX,jssdk.rayjump.com
@@ -638,7 +625,6 @@ DOMAIN-SUFFIX,mojiva.com
 DOMAIN-SUFFIX,monitor.adcaffe.com
 DOMAIN-SUFFIX,mopub-win-us-east.bksn.se
 DOMAIN-SUFFIX,mp.huangye.miui.com
-DOMAIN-SUFFIX,mprezchc.com
 DOMAIN-SUFFIX,ms.applvn.com
 DOMAIN-SUFFIX,msg.ettoday.net
 DOMAIN-SUFFIX,mtag.mman.kr
@@ -649,7 +635,6 @@ DOMAIN-SUFFIX,mxaserver.mxplay.com
 DOMAIN-SUFFIX,mxttrf.com
 DOMAIN-SUFFIX,mxvp-ad-config-prod-1.zenmxapps.com
 DOMAIN-SUFFIX,mxvp-feature-toggle-prod-1.zenmxapps.com
-DOMAIN-SUFFIX,m.yanglaopt.net
 DOMAIN-SUFFIX,mydas.mobi
 DOMAIN-SUFFIX,n152adserv.com
 DOMAIN-SUFFIX,n4403ad.doubleclick.net
@@ -670,7 +655,6 @@ DOMAIN-SUFFIX,newad.ifeng.com
 DOMAIN-SUFFIX,newfeatureview.perfectionholic.com
 DOMAIN-SUFFIX,newsnet.in.ua
 DOMAIN-SUFFIX,nexac.com
-DOMAIN-SUFFIX,nfiuerwtftasnuk.com
 DOMAIN-SUFFIX,nickhel.com
 DOMAIN-SUFFIX,njs.manhuahome.com
 DOMAIN-SUFFIX,nkis.nikkei.com
@@ -692,7 +676,6 @@ DOMAIN-SUFFIX,os.scmpacdn.com
 DOMAIN-SUFFIX,otcdn2.auditude.com
 DOMAIN-SUFFIX,other.appcpi.net
 DOMAIN-SUFFIX,owap.su
-DOMAIN-SUFFIX,pa.afreecatv.com
 DOMAIN-SUFFIX,pagead46.l.doubleclick.net
 DOMAIN-SUFFIX,pagefair.net
 DOMAIN-SUFFIX,painsko.com
@@ -706,13 +689,11 @@ DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,pflexads.com
 DOMAIN-SUFFIX,phluant.com
 DOMAIN-SUFFIX,pixel.admobclick.com
-DOMAIN-SUFFIX,pl.263gmail.org
 DOMAIN-SUFFIX,playhaven.com
 DOMAIN-SUFFIX,plugin.mediavoice.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,polymorphicads.jp
 DOMAIN-SUFFIX,pontiflex.com
-DOMAIN-SUFFIX,popander.mobi
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,postitial.com
 DOMAIN-SUFFIX,postut.cn
@@ -736,12 +717,9 @@ DOMAIN-SUFFIX,pubnative.net
 DOMAIN-SUFFIX,pushad.metajoy.services
 DOMAIN-SUFFIX,pw.lpsxssm.com
 DOMAIN-SUFFIX,px.adhigh.net
-DOMAIN-SUFFIX,qgss8.com
 DOMAIN-SUFFIX,qist.me
-DOMAIN-SUFFIX,qoisocrldvnesni.ru
 DOMAIN-SUFFIX,questionmarket.com
 DOMAIN-SUFFIX,r2d2.aotter.net
-DOMAIN-SUFFIX,r7mediar.com
 DOMAIN-SUFFIX,recreativ.ru
 DOMAIN-SUFFIX,redtram.com
 DOMAIN-SUFFIX,rek.mobi
@@ -782,7 +760,6 @@ DOMAIN-SUFFIX,sexpennyauctions.com
 DOMAIN-SUFFIX,shareasale.com
 DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,s.hisp.in
-DOMAIN-SUFFIX,show.niqiu99.org
 DOMAIN-SUFFIX,silvermob.com
 DOMAIN-SUFFIX,sitemaji.com
 DOMAIN-SUFFIX,sitescout.com
@@ -889,7 +866,6 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,update.sdk.batmobi.net
 DOMAIN-SUFFIX,upsight-api.com
 DOMAIN-SUFFIX,upsight.com
-DOMAIN-SUFFIX,us.3zs0.date
 DOMAIN-SUFFIX,usekahuna.com
 DOMAIN-SUFFIX,usp1.baidu.com
 DOMAIN-SUFFIX,valshara.com
@@ -911,10 +887,8 @@ DOMAIN-SUFFIX,wapstart.ru
 DOMAIN-SUFFIX,wbn.su
 DOMAIN-SUFFIX,wd.adcolony.xyz
 DOMAIN-SUFFIX,wdig.vo.llnwd.net
-DOMAIN-SUFFIX,weboohost.com
 DOMAIN-SUFFIX,west.bidtellect.com
 DOMAIN-SUFFIX,widespace.com
-DOMAIN-SUFFIX,wmhlch.com
 DOMAIN-SUFFIX,wordego.com
 DOMAIN-SUFFIX,wtraff.com
 DOMAIN-SUFFIX,www.adbert.com.tw
@@ -928,7 +902,6 @@ DOMAIN-SUFFIX,xjnwqdospderqtk.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yc-ads.s3.amazonaws.com
 DOMAIN-SUFFIX,yemonisoni.com
-DOMAIN-SUFFIX,yhdichan.com
 DOMAIN-SUFFIX,yieldkit.com
 DOMAIN-SUFFIX,yieldmo.com
 DOMAIN-SUFFIX,yllix.com
