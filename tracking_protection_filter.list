@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-08 05:07:40
-# DOMAIN-SUFFIX: 36210
-# TOTAL: 36210
+# UPDATED: 2023-06-09 05:03:47
+# DOMAIN-SUFFIX: 36208
+# TOTAL: 36208
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -12937,7 +12937,6 @@ DOMAIN-SUFFIX,ga-analytics.com
 DOMAIN-SUFFIX,ga-bq-py-1.appspot.com
 DOMAIN-SUFFIX,gacela.eu
 DOMAIN-SUFFIX,ga.clearbit.com
-DOMAIN-SUFFIX,gae2-spclient.spotify.com
 DOMAIN-SUFFIX,gae.karte.io
 DOMAIN-SUFFIX,gaffa.tns-gallup.dk
 DOMAIN-SUFFIX,gagysn.floward.com
@@ -28827,7 +28826,6 @@ DOMAIN-SUFFIX,statistics.mailerlite.com
 DOMAIN-SUFFIX,statistics.news1.kr
 DOMAIN-SUFFIX,statistics.ro
 DOMAIN-SUFFIX,statistics.tuv.com
-DOMAIN-SUFFIX,statistics.videofarm.daum.net
 DOMAIN-SUFFIX,statistiek.rijksoverheid.nl
 DOMAIN-SUFFIX,statistika.lv
 DOMAIN-SUFFIX,statistik.apartments-tirolerhaus.at
