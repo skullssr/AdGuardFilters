@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-09 05:08:18
-# DOMAIN-SUFFIX: 892
-# TOTAL: 892
+# UPDATED: 2023-06-10 05:13:26
+# DOMAIN-SUFFIX: 883
+# TOTAL: 883
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
 DOMAIN-SUFFIX,abtest.swrve.com
 DOMAIN-SUFFIX,a.cookpad-ads.com
 DOMAIN-SUFFIX,activity.browser.intl.miui.com
-DOMAIN-SUFFIX,ad132m.com
 DOMAIN-SUFFIX,ad6media.fr
 DOMAIN-SUFFIX,adadvisor.net
 DOMAIN-SUFFIX,ad-api.ehawk.com
@@ -32,6 +31,7 @@ DOMAIN-SUFFIX,ad.apps.fm
 DOMAIN-SUFFIX,ad.apsalar.com
 DOMAIN-SUFFIX,ad.auditude.com
 DOMAIN-SUFFIX,adback.tango.me
+DOMAIN-SUFFIX,adballoon.afreecatv.com
 DOMAIN-SUFFIX,adblade.com
 DOMAIN-SUFFIX,adbrau.com
 DOMAIN-SUFFIX,ad-brix.com
@@ -103,7 +103,6 @@ DOMAIN-SUFFIX,adpies.com
 DOMAIN-SUFFIX,adplatform.vrtcal.com
 DOMAIN-SUFFIX,adplex.co.kr
 DOMAIN-SUFFIX,adpopcorn.com
-DOMAIN-SUFFIX,ad.prismamediadigital.com
 DOMAIN-SUFFIX,adpriv.nikkei.com
 DOMAIN-SUFFIX,adprotected.com
 DOMAIN-SUFFIX,adproxy.tf1.fr
@@ -227,7 +226,6 @@ DOMAIN-SUFFIX,adx-tk.rayjump.com
 DOMAIN-SUFFIX,adzerk.net
 DOMAIN-SUFFIX,adz.mobi
 DOMAIN-SUFFIX,adzmobi.com
-DOMAIN-SUFFIX,afreeca-tag.ad-mapps.com
 DOMAIN-SUFFIX,agent.tamedia.com.tw
 DOMAIN-SUFFIX,ajdivotdelbloab24.jio.com
 DOMAIN-SUFFIX,alt-ad.mail.ru
@@ -248,7 +246,6 @@ DOMAIN-SUFFIX,api.ads.newsdigest.jp
 DOMAIN-SUFFIX,api.ads.watchabc.go.com
 DOMAIN-SUFFIX,api.ampiri.com
 DOMAIN-SUFFIX,api-a.op-mobile.opera.com
-DOMAIN-SUFFIX,api.appfireworks.com
 DOMAIN-SUFFIX,api.applovefrom.com
 DOMAIN-SUFFIX,api.appnxt.net
 DOMAIN-SUFFIX,api*.batmobil.net
@@ -258,7 +255,6 @@ DOMAIN-SUFFIX,api.brs.intl.miui.com
 DOMAIN-SUFFIX,api.cloudmobi.net
 DOMAIN-SUFFIX,api.fusepowered.com
 DOMAIN-SUFFIX,api.itpub.cloud
-DOMAIN-SUFFIX,api.kiip.me
 DOMAIN-SUFFIX,api.mediation.amberweather.com
 DOMAIN-SUFFIX,api.mobula.ds.duapps.com
 DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
@@ -308,7 +304,6 @@ DOMAIN-SUFFIX,bannerwall.herewetest.com
 DOMAIN-SUFFIX,bannerwall.s3.appcnt.com
 DOMAIN-SUFFIX,bayctrk.com
 DOMAIN-SUFFIX,bcfads.com
-DOMAIN-SUFFIX,b.cpiera.com
 DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
 DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
 DOMAIN-SUFFIX,begun.ru
@@ -355,7 +350,6 @@ DOMAIN-SUFFIX,cdn.appnext.com
 DOMAIN-SUFFIX,cdn.auditude.com
 DOMAIN-SUFFIX,cdn.batmobi.net
 DOMAIN-SUFFIX,cdn-cf.postitial.com
-DOMAIN-SUFFIX,cdn.cpiera.com
 DOMAIN-SUFFIX,cdn-image.com
 DOMAIN-SUFFIX,cdn.jampp.com
 DOMAIN-SUFFIX,cdn-ketchapp.akamaized.net
@@ -376,7 +370,6 @@ DOMAIN-SUFFIX,clkfeed.com
 DOMAIN-SUFFIX,clk.taptica.com
 DOMAIN-SUFFIX,cloudads-a.akamaihd.net
 DOMAIN-SUFFIX,cls.vrvm.com
-DOMAIN-SUFFIX,cntcash.ru
 DOMAIN-SUFFIX,common.duapps.com
 DOMAIN-SUFFIX,comscore.com
 DOMAIN-SUFFIX,config.88-f.net
@@ -409,6 +402,7 @@ DOMAIN-SUFFIX,dad-api.dcard.tw
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,daxuetong.zone
+DOMAIN-SUFFIX,deapi.afreecatv.com
 DOMAIN-SUFFIX,debojuagug1sf.cloudfront.net
 DOMAIN-SUFFIX,delivery-cdn-cf.adswizz.com
 DOMAIN-SUFFIX,deliveryengine.adswizz.com
@@ -459,7 +453,6 @@ DOMAIN-SUFFIX,gdn.bigfishgames.com
 DOMAIN-SUFFIX,g.doubleclick.net
 DOMAIN-SUFFIX,geede.info
 DOMAIN-SUFFIX,geoloc.yospace.com
-DOMAIN-SUFFIX,gigamega.su
 DOMAIN-SUFFIX,global.appnext.com
 DOMAIN-SUFFIX,go.admost.com
 DOMAIN-SUFFIX,go.mobstitialtag.com
@@ -468,7 +461,6 @@ DOMAIN-SUFFIX,gop1.co
 DOMAIN-SUFFIX,goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,go.vrvm.com
 DOMAIN-SUFFIX,goyetteconnelly.bid
-DOMAIN-SUFFIX,gsmtop.net
 DOMAIN-SUFFIX,gts-ads.twistbox.com
 DOMAIN-SUFFIX,gumgum.com
 DOMAIN-SUFFIX,gwrtdp-tn690BFAdt.tclclouds.com
@@ -659,7 +651,6 @@ DOMAIN-SUFFIX,oconner.biz
 DOMAIN-SUFFIX,offerwall-adnative.com
 DOMAIN-SUFFIX,offerwall.yandex.net
 DOMAIN-SUFFIX,onlineapi.youappi.com
-DOMAIN-SUFFIX,online-prod.zenmxapps.com
 DOMAIN-SUFFIX,open.isnssdk.com
 DOMAIN-SUFFIX,opt8.co
 DOMAIN-SUFFIX,os.scmpacdn.com
@@ -713,6 +704,7 @@ DOMAIN-SUFFIX,r2d2.aotter.net
 DOMAIN-SUFFIX,recreativ.ru
 DOMAIN-SUFFIX,redtram.com
 DOMAIN-SUFFIX,rek.mobi
+DOMAIN-SUFFIX,reqde.afreecatv.com
 DOMAIN-SUFFIX,restartad.com
 DOMAIN-SUFFIX,revcontent.com
 DOMAIN-SUFFIX,rg.yottos.com
@@ -753,7 +745,6 @@ DOMAIN-SUFFIX,s.hisp.in
 DOMAIN-SUFFIX,silvermob.com
 DOMAIN-SUFFIX,sitemaji.com
 DOMAIN-SUFFIX,sitescout.com
-DOMAIN-SUFFIX,sitewithg.me
 DOMAIN-SUFFIX,skadnetwork.singular.net
 DOMAIN-SUFFIX,skadsdk.appsflyer.com
 DOMAIN-SUFFIX,skt-asum.com

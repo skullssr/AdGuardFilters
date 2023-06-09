@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-09 05:03:47
-# DOMAIN-SUFFIX: 36208
-# TOTAL: 36208
+# UPDATED: 2023-06-10 05:08:56
+# DOMAIN-SUFFIX: 36211
+# TOTAL: 36211
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -4015,6 +4015,7 @@ DOMAIN-SUFFIX,analytics.fs-bdash.com
 DOMAIN-SUFFIX,analytics.futuro360.com
 DOMAIN-SUFFIX,analytics.gamedatacrunch.com
 DOMAIN-SUFFIX,analytics.gate.co.id
+DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
 DOMAIN-SUFFIX,analytics.geappliancesstore.com
 DOMAIN-SUFFIX,analytics.geastore.com
 DOMAIN-SUFFIX,analytics.geekyminds.net
@@ -4374,7 +4375,6 @@ DOMAIN-SUFFIX,analytics.trust.page
 DOMAIN-SUFFIX,analytics.trutv.com
 DOMAIN-SUFFIX,analytics.turnersouth.com
 DOMAIN-SUFFIX,analytics.tver.jp
-DOMAIN-SUFFIX,analytics.twitter.com
 DOMAIN-SUFFIX,analytics.ubports.com
 DOMAIN-SUFFIX,analytics.ubs.com
 DOMAIN-SUFFIX,analytics-udg.netdna-ssl.com
@@ -12156,6 +12156,7 @@ DOMAIN-SUFFIX,events.appsflyer.com
 DOMAIN-SUFFIX,events.artirix.com
 DOMAIN-SUFFIX,events.askjdhaa.com
 DOMAIN-SUFFIX,events.audioplace.me
+DOMAIN-SUFFIX,events.betterhelp.com
 DOMAIN-SUFFIX,events.blackboard.com
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,events.busuu.com
@@ -12196,6 +12197,7 @@ DOMAIN-SUFFIX,events.niit-mts.com
 DOMAIN-SUFFIX,events.ocdn.eu
 DOMAIN-SUFFIX,events.oddo-bhf.com
 DOMAIN-SUFFIX,events.popinfo.jp
+DOMAIN-SUFFIX,events.prd.api.discomax.com
 DOMAIN-SUFFIX,events.privy.com
 DOMAIN-SUFFIX,events.reclamefolder.nl
 DOMAIN-SUFFIX,events.reddit.com
@@ -16425,6 +16427,7 @@ DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
 DOMAIN-SUFFIX,logbak.hicloud.com
 DOMAIN-SUFFIX,log.bandi.so
 DOMAIN-SUFFIX,log.baomoi.com
+DOMAIN-SUFFIX,log.bloodsugars.live
 DOMAIN-SUFFIX,logbor.com
 DOMAIN-SUFFIX,log*.byteoversea.com
 DOMAIN-SUFFIX,log.ca.gov.vn

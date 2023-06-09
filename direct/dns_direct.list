@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-19 05:35:28
-# DOMAIN-SUFFIX: 134
-# TOTAL: 134
+# UPDATED: 2023-06-10 04:55:29
+# DOMAIN-SUFFIX: 131
+# TOTAL: 131
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,brm-core-*.brsrvr.com
 DOMAIN-SUFFIX,buyad.bi-xenon.cn
 DOMAIN-SUFFIX,captcha.su.baidu.com
 DOMAIN-SUFFIX,catchup.thisisdax.com
-DOMAIN-SUFFIX,cdnbc-wup.hsbc.com.hk
 DOMAIN-SUFFIX,cdn.duurzaam.greenchoice.nl
 DOMAIN-SUFFIX,cdn.rozetka.com.ua
 DOMAIN-SUFFIX,chathamdailynews.remembering.ca
@@ -59,7 +58,6 @@ DOMAIN-SUFFIX,cloud.notification-naviextras.com
 DOMAIN-SUFFIX,cm-beacon.nakanohito.jp
 DOMAIN-SUFFIX,cm-widget.nakanohito.jp
 DOMAIN-SUFFIX,c.office.com
-DOMAIN-SUFFIX,contents*.00110.citi.com
 DOMAIN-SUFFIX,core.crazyegg.com
 DOMAIN-SUFFIX,crm-cdn.peek-cloppenburg.com
 DOMAIN-SUFFIX,cs.silverpop.com
@@ -135,6 +133,5 @@ DOMAIN-SUFFIX,torimochi.line-apps.com
 DOMAIN-SUFFIX,track.rutarget.ru
 DOMAIN-SUFFIX,validate.perfdrive.com
 DOMAIN-SUFFIX,vcentry3.valuecommerce.ne.jp
-DOMAIN-SUFFIX,wup-7b4df495.santander.cl
 DOMAIN-SUFFIX,www.googleadservices.com
 DOMAIN-SUFFIX,www.jdoqocy.com
