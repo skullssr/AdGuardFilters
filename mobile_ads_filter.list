@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-13 04:56:50
-# DOMAIN-SUFFIX: 869
-# TOTAL: 869
+# UPDATED: 2023-06-14 04:57:44
+# DOMAIN-SUFFIX: 851
+# TOTAL: 851
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -75,7 +75,6 @@ DOMAIN-SUFFIX,ad.leadboltapps.net
 DOMAIN-SUFFIX,adleads.com
 DOMAIN-SUFFIX,ad.leap.app
 DOMAIN-SUFFIX,adlibr.com
-DOMAIN-SUFFIX,ad.madvertise.de
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,adman.gr
 DOMAIN-SUFFIX,admarketing.yahoo.net
@@ -83,7 +82,6 @@ DOMAIN-SUFFIX,admarvel.com
 DOMAIN-SUFFIX,admarvel.s3.amazonaws.com
 DOMAIN-SUFFIX,admedia.com
 DOMAIN-SUFFIX,admicro1.vcmedia.vn
-DOMAIN-SUFFIX,admicro2.vcmedia.vn
 DOMAIN-SUFFIX,admin.appnext.com
 DOMAIN-SUFFIX,admixer.co.kr
 DOMAIN-SUFFIX,admixer.net
@@ -108,7 +106,6 @@ DOMAIN-SUFFIX,adpublisher.s3.amazonaws.com
 DOMAIN-SUFFIX,adpush.goforandroid.com
 DOMAIN-SUFFIX,adquota.com
 DOMAIN-SUFFIX,ads.ad2iction.com
-DOMAIN-SUFFIX,ads.admoda.com
 DOMAIN-SUFFIX,ads.aerserv.com
 DOMAIN-SUFFIX,ads.aitype.net
 DOMAIN-SUFFIX,adsapi.manhuaren.com
@@ -133,7 +130,6 @@ DOMAIN-SUFFIX,adserver.ubiyoo.com
 DOMAIN-SUFFIX,adserver.*.yahoodns.net
 DOMAIN-SUFFIX,adservice.tohsoft.com
 DOMAIN-SUFFIX,ads.feelingtouch.com
-DOMAIN-SUFFIX,ads.fotoable.com
 DOMAIN-SUFFIX,adsfs.oppomobile.com
 DOMAIN-SUFFIX,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,adsgard.aprod.scopely.io
@@ -163,7 +159,6 @@ DOMAIN-SUFFIX,adsmrapi.imbc.com
 DOMAIN-SUFFIX,ad.snappea.com
 DOMAIN-SUFFIX,ad.snaptube.app
 DOMAIN-SUFFIX,adsniper.ru
-DOMAIN-SUFFIX,ads.ookla.com
 DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN-SUFFIX,ads.pdbarea.com
 DOMAIN-SUFFIX,ads.pinger.com
@@ -171,7 +166,6 @@ DOMAIN-SUFFIX,ad-splash.hktvmall.com
 DOMAIN-SUFFIX,ad-splash-tracking.hktvmall.com
 DOMAIN-SUFFIX,adspot.tfgapps.com
 DOMAIN-SUFFIX,ads-resources.waze.com
-DOMAIN-SUFFIX,ads.reward.rakuten.jp
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adsrvr.io
 DOMAIN-SUFFIX,adsrvr.org
@@ -554,7 +548,6 @@ DOMAIN-SUFFIX,mcoreads.com
 DOMAIN-SUFFIX,mdotm.com
 DOMAIN-SUFFIX,med-api.admost.com
 DOMAIN-SUFFIX,medialand.ru
-DOMAIN-SUFFIX,media.motrixi.com
 DOMAIN-SUFFIX,mediate-ios-*.hyprmx.com
 DOMAIN-SUFFIX,meendocash.com
 DOMAIN-SUFFIX,metamx.com
@@ -565,21 +558,17 @@ DOMAIN-SUFFIX,mimicromax.com
 DOMAIN-SUFFIX,mintegral.com
 DOMAIN-SUFFIX,mixadvert.com
 DOMAIN-SUFFIX,mixmarket.biz
-DOMAIN-SUFFIX,mmnetwork.mobi
 DOMAIN-SUFFIX,mmp001.scalemonk.com
 DOMAIN-SUFFIX,moatads.com.edgekey.net
 DOMAIN-SUFFIX,moba8.net
-DOMAIN-SUFFIX,mobad.ijinshan.com
 DOMAIN-SUFFIX,mobads4app.com
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobfox.com
-DOMAIN-SUFFIX,mob.huimee.net
 DOMAIN-SUFFIX,mobiads.ru
 DOMAIN-SUFFIX,mobiadvert.livesportmedia.eu
 DOMAIN-SUFFIX,mobidriven.com
 DOMAIN-SUFFIX,mobile333.com
-DOMAIN-SUFFIX,mobileads.msn.com
 DOMAIN-SUFFIX,mobilebanner.ru
 DOMAIN-SUFFIX,mobile-campaigns.avast.com
 DOMAIN-SUFFIX,mobile-click.biz
@@ -697,7 +686,6 @@ DOMAIN-SUFFIX,rek.mobi
 DOMAIN-SUFFIX,reqde.afreecatv.com
 DOMAIN-SUFFIX,restartad.com
 DOMAIN-SUFFIX,revcontent.com
-DOMAIN-SUFFIX,rg.yottos.com
 DOMAIN-SUFFIX,richpays.com
 DOMAIN-SUFFIX,rossoad.com
 DOMAIN-SUFFIX,rotaban.ru
@@ -705,7 +693,6 @@ DOMAIN-SUFFIX,rqmob.com
 DOMAIN-SUFFIX,rtapi.abbi.io
 DOMAIN-SUFFIX,rtb.appbid.com
 DOMAIN-SUFFIX,rtbimp-loadbalancer-*.amazonaws.com
-DOMAIN-SUFFIX,rtb.platform.glispa.com
 DOMAIN-SUFFIX,s3.ttpsdk.info
 DOMAIN-SUFFIX,s.adx.opera.com
 DOMAIN-SUFFIX,s-adx.op-mobile.opera.com
@@ -735,7 +722,6 @@ DOMAIN-SUFFIX,sitescout.com
 DOMAIN-SUFFIX,skadnetwork.singular.net
 DOMAIN-SUFFIX,skadsdk.appsflyer.com
 DOMAIN-SUFFIX,skt-asum.com
-DOMAIN-SUFFIX,slb.gedawang.com
 DOMAIN-SUFFIX,smaclick.com
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smilered.com
@@ -806,7 +792,6 @@ DOMAIN-SUFFIX,toponadss.com
 DOMAIN-SUFFIX,tpbid.com
 DOMAIN-SUFFIX,tpc.googlesyndication.com
 DOMAIN-SUFFIX,trackimpression.com
-DOMAIN-SUFFIX,tracking.acekoala.com
 DOMAIN-SUFFIX,tracking.applift.com
 DOMAIN-SUFFIX,tradeadexchange.com
 DOMAIN-SUFFIX,tradplusad.com
@@ -817,7 +802,6 @@ DOMAIN-SUFFIX,traktum.com
 DOMAIN-SUFFIX,trc.taboola.com
 DOMAIN-SUFFIX,trk.glispa.com
 DOMAIN-SUFFIX,ts166.net
-DOMAIN-SUFFIX,t.singular.net
 DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tveta.naver.net
@@ -829,7 +813,6 @@ DOMAIN-SUFFIX,ultraadserver.com
 DOMAIN-SUFFIX,umbel.com
 DOMAIN-SUFFIX,unicume.com
 DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,update.sdk.batmobi.net
 DOMAIN-SUFFIX,upsight-api.com
 DOMAIN-SUFFIX,upsight.com
 DOMAIN-SUFFIX,usekahuna.com
@@ -839,7 +822,6 @@ DOMAIN-SUFFIX,velti.com
 DOMAIN-SUFFIX,videoads-cloud.rovio.com
 DOMAIN-SUFFIX,videoplus.vo.llnwd.net
 DOMAIN-SUFFIX,vidout.net
-DOMAIN-SUFFIX,view-prod.ad.singular.net
 DOMAIN-SUFFIX,vm5apis.com
 DOMAIN-SUFFIX,vmap.v.ad-generation.jp
 DOMAIN-SUFFIX,vrizead.com

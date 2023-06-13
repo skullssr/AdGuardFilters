@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-13 04:52:38
-# DOMAIN-SUFFIX: 37367
-# TOTAL: 37367
+# UPDATED: 2023-06-14 04:53:34
+# DOMAIN-SUFFIX: 37371
+# TOTAL: 37371
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -2788,6 +2788,7 @@ DOMAIN-SUFFIX,acv.softbank-hikaricollabo.com
 DOMAIN-SUFFIX,acv.xn--dckf5a1e821s9i7b.com
 DOMAIN-SUFFIX,acxiom-online.com
 DOMAIN-SUFFIX,ad1.tone.ne.jp
+DOMAIN-SUFFIX,ad2iction.com
 DOMAIN-SUFFIX,ad3.cross-a.net
 DOMAIN-SUFFIX,ad4m.at
 DOMAIN-SUFFIX,ada8.ampleur.jp
@@ -4287,7 +4288,6 @@ DOMAIN-SUFFIX,analytics.pgatour.com
 DOMAIN-SUFFIX,analytics.pgncs.notion.so
 DOMAIN-SUFFIX,analytics.phn.com
 DOMAIN-SUFFIX,analytics.picknrg.com
-DOMAIN-SUFFIX,analytics.pinterest.com
 DOMAIN-SUFFIX,analytics.pipelife.at
 DOMAIN-SUFFIX,analytics.pipelife.ba
 DOMAIN-SUFFIX,analytics.pipelife.com
@@ -7313,6 +7313,7 @@ DOMAIN-SUFFIX,col.idealista.pt
 DOMAIN-SUFFIX,collaborate.blackboard.com
 DOMAIN-SUFFIX,collarity.com
 DOMAIN-SUFFIX,collect.albacross.com
+DOMAIN-SUFFIX,collect.alipay.com
 DOMAIN-SUFFIX,collect.allianz.ch
 DOMAIN-SUFFIX,collect.allianzcinema.ch
 DOMAIN-SUFFIX,collect.allianzdriveincinema.ch
@@ -14184,6 +14185,7 @@ DOMAIN-SUFFIX,health.healthyinnovativepeople.com
 DOMAIN-SUFFIX,health.hillcrest.com
 DOMAIN-SUFFIX,health.interamerican.gr
 DOMAIN-SUFFIX,health.manishspk.com
+DOMAIN-SUFFIX,health-metrics-api.setapp.com
 DOMAIN-SUFFIX,healthpay24.actonservice.com
 DOMAIN-SUFFIX,health.powerinsideyoublog.com
 DOMAIN-SUFFIX,health.powerinside-you.com
@@ -14291,6 +14293,7 @@ DOMAIN-SUFFIX,hit2map.com
 DOMAIN-SUFFIX,hitachi.tt.omtrdc.net
 DOMAIN-SUFFIX,hit.acstat.com
 DOMAIN-SUFFIX,hitapi.pulpoar.com
+DOMAIN-SUFFIX,hit.api.useinsider.com
 DOMAIN-SUFFIX,hitbox.com
 DOMAIN-SUFFIX,hit.c97.org
 DOMAIN-SUFFIX,hit.copesa.cl
@@ -16870,6 +16873,7 @@ DOMAIN-SUFFIX,log*.aliyuncs.com
 DOMAIN-SUFFIX,log-api.aillis.net
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,logapi.tv.naver.com
+DOMAIN-SUFFIX,log.api.useinsider.com
 DOMAIN-SUFFIX,log.api.zaloapp.com
 DOMAIN-SUFFIX,logapi.zhipin.com
 DOMAIN-SUFFIX,log.apkomega.com
@@ -23473,6 +23477,7 @@ DOMAIN-SUFFIX,realytics.io
 DOMAIN-SUFFIX,realytics.net
 DOMAIN-SUFFIX,realzeit.io
 DOMAIN-SUFFIX,rebelsubway.com
+DOMAIN-SUFFIX,rebelswing.com
 DOMAIN-SUFFIX,rec.banggood.com
 DOMAIN-SUFFIX,rec.detik.com
 DOMAIN-SUFFIX,receiver.eigene.io
@@ -33399,7 +33404,6 @@ DOMAIN-SUFFIX,track.leadhit.ru
 DOMAIN-SUFFIX,track.leadsgorillaoffer.com
 DOMAIN-SUFFIX,track.lesmills.com
 DOMAIN-SUFFIX,track.levelsleadgen.xyz
-DOMAIN-SUFFIX,track.lexico.com
 DOMAIN-SUFFIX,track.libii.cn
 DOMAIN-SUFFIX,track.lifeimprovementsolution.com
 DOMAIN-SUFFIX,track.lifestorytoday.com
