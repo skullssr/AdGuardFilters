@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-14 04:53:34
-# DOMAIN-SUFFIX: 37371
-# TOTAL: 37371
+# UPDATED: 2023-06-15 05:19:25
+# DOMAIN-SUFFIX: 37382
+# TOTAL: 37382
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -6714,6 +6714,7 @@ DOMAIN-SUFFIX,cdn.mavi.digital
 DOMAIN-SUFFIX,cdn.mediatradecraft.com
 DOMAIN-SUFFIX,cdn.memo.co
 DOMAIN-SUFFIX,cdn.odoscope.cloud
+DOMAIN-SUFFIX,cdn.p.analitik.bik.gov.tr
 DOMAIN-SUFFIX,cdn.pranmcpkx.com
 DOMAIN-SUFFIX,cdn.preciso.net
 DOMAIN-SUFFIX,cdn.raekdata.com
@@ -6734,6 +6735,7 @@ DOMAIN-SUFFIX,cdn.teleportapi.com
 DOMAIN-SUFFIX,cdn.topmind.io
 DOMAIN-SUFFIX,cdn.trackclicks.info
 DOMAIN-SUFFIX,cdn.usefathom.com
+DOMAIN-SUFFIX,cdn.userleap.com
 DOMAIN-SUFFIX,cdn.wgchrrammzv.com
 DOMAIN-SUFFIX,cdn.zx-adnet.com
 DOMAIN-SUFFIX,cdp.cifinancial.com
@@ -11128,6 +11130,7 @@ DOMAIN-SUFFIX,dmtracking2.alibaba.com
 DOMAIN-SUFFIX,dmtry.com
 DOMAIN-SUFFIX,dmxalb.winni.in
 DOMAIN-SUFFIX,dmzls.safe-installation.com
+DOMAIN-SUFFIX,dna8twue3dlxq.cloudfront.net
 DOMAIN-SUFFIX,dnbbankasa.tt.omtrdc.net
 DOMAIN-SUFFIX,dnews.alfaromeo.it
 DOMAIN-SUFFIX,d.newssuite.sony.net
@@ -12501,6 +12504,7 @@ DOMAIN-SUFFIX,events.newsroom.bi
 DOMAIN-SUFFIX,events.niit-mts.com
 DOMAIN-SUFFIX,events.ocdn.eu
 DOMAIN-SUFFIX,events.oddo-bhf.com
+DOMAIN-SUFFIX,events.paramount.tech
 DOMAIN-SUFFIX,events.popinfo.jp
 DOMAIN-SUFFIX,events.prd.api.discomax.com
 DOMAIN-SUFFIX,events.privy.com
@@ -12551,6 +12555,7 @@ DOMAIN-SUFFIX,evolent.actonservice.com
 DOMAIN-SUFFIX,evrget.nikkan-gendai.com
 DOMAIN-SUFFIX,evs.data.ciceksepeti.com
 DOMAIN-SUFFIX,evs.proxy.analytics.shutterstock.com
+DOMAIN-SUFFIX,evs.sgmt.loom.com
 DOMAIN-SUFFIX,evt.houzz.com
 DOMAIN-SUFFIX,evt.mxplay.com
 DOMAIN-SUFFIX,ev.tpocdm.com
@@ -17014,6 +17019,7 @@ DOMAIN-SUFFIX,log.radiko.jp
 DOMAIN-SUFFIX,log.reformal.ru
 DOMAIN-SUFFIX,logrhythmcommunity.tt.omtrdc.net
 DOMAIN-SUFFIX,log.rhythmtowers.com
+DOMAIN-SUFFIX,log.rmp.rakuten.co.jp
 DOMAIN-SUFFIX,log.rutube.ru
 DOMAIN-SUFFIX,logs1257.at.pagesjaunes.fr
 DOMAIN-SUFFIX,logs1407.xiti.com
@@ -23092,6 +23098,7 @@ DOMAIN-SUFFIX,publicidad.davivienda.com.pa
 DOMAIN-SUFFIX,publicidad.daviviendaintl.com
 DOMAIN-SUFFIX,publicidad.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,publicidees.com
+DOMAIN-SUFFIX,public.profitwell.com
 DOMAIN-SUFFIX,publicschoolworks.actonservice.com
 DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
@@ -30185,6 +30192,7 @@ DOMAIN-SUFFIX,stats.ifiwasgame.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stats.igassmann.me
 DOMAIN-SUFFIX,stats.igor4stir.com
+DOMAIN-SUFFIX,stats.img2go.com
 DOMAIN-SUFFIX,stats.increasinglyfunctional.com
 DOMAIN-SUFFIX,stats.indyhall.org
 DOMAIN-SUFFIX,stats.infoboard.de
@@ -30428,6 +30436,7 @@ DOMAIN-SUFFIX,stats.radiostreamlive.com
 DOMAIN-SUFFIX,stats.radley.co.uk
 DOMAIN-SUFFIX,stats.radleylondon.com
 DOMAIN-SUFFIX,stats.rasulkireev.com
+DOMAIN-SUFFIX,stats.rbc.ua
 DOMAIN-SUFFIX,stats.rcinet.ca
 DOMAIN-SUFFIX,stats.reactician.com
 DOMAIN-SUFFIX,stats.reactshowcase.com
@@ -36367,6 +36376,7 @@ DOMAIN-SUFFIX,webstats.indigo-net.com
 DOMAIN-SUFFIX,webstats.pixcell.ch
 DOMAIN-SUFFIX,webstats.vodafone.com
 DOMAIN-SUFFIX,webstat.vodafone.com
+DOMAIN-SUFFIX,webstat.ws.126.net
 DOMAIN-SUFFIX,web-t.9gag.com
 DOMAIN-SUFFIX,web.tamaris.com
 DOMAIN-SUFFIX,webt.aqipa.com
@@ -37297,6 +37307,7 @@ DOMAIN-SUFFIX,zfhlsg.repassa.com.br
 DOMAIN-SUFFIX,zftrez.unisportstore.no
 DOMAIN-SUFFIX,zgsdk.zhugeio.com
 DOMAIN-SUFFIX,zgumwv.stepstone.de
+DOMAIN-SUFFIX,zhanzhang.toutiao.com
 DOMAIN-SUFFIX,zhcmli.ayakkabidunyasi.com.tr
 DOMAIN-SUFFIX,zhcxvk.qvc.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

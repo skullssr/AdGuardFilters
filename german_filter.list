@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-01 05:27:23
-# DOMAIN-SUFFIX: 440
-# TOTAL: 440
+# UPDATED: 2023-06-15 05:21:15
+# DOMAIN-SUFFIX: 445
+# TOTAL: 445
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,bsheute.de
 DOMAIN-SUFFIX,buywords.de
 DOMAIN-SUFFIX,bwads24.com
 DOMAIN-SUFFIX,cashdorado.de
+DOMAIN-SUFFIX,cdu-offline.de
 DOMAIN-SUFFIX,cduspenden.de
 DOMAIN-SUFFIX,ced.sascdn.com
 DOMAIN-SUFFIX,cgames.de
@@ -192,6 +193,8 @@ DOMAIN-SUFFIX,gamigoads.com
 DOMAIN-SUFFIX,gayads.biz
 DOMAIN-SUFFIX,gbucket.ch
 DOMAIN-SUFFIX,geldcounter.de
+DOMAIN-SUFFIX,gema-online.de
+DOMAIN-SUFFIX,gg-bet.de
 DOMAIN-SUFFIX,gigapromo.de
 DOMAIN-SUFFIX,goldbach.com
 DOMAIN-SUFFIX,gonamic.de
@@ -202,6 +205,7 @@ DOMAIN-SUFFIX,h5v.eu
 DOMAIN-SUFFIX,handy-ads.de
 DOMAIN-SUFFIX,heias.com
 DOMAIN-SUFFIX,highad.de
+DOMAIN-SUFFIX,holyjesus.de
 DOMAIN-SUFFIX,hot59.de
 DOMAIN-SUFFIX,hovg.de
 DOMAIN-SUFFIX,hybrid-prd.ad-prd.s.joyn.de
@@ -361,6 +365,7 @@ DOMAIN-SUFFIX,solads.media
 DOMAIN-SUFFIX,spaceeditors.com
 DOMAIN-SUFFIX,sparkads.ws
 DOMAIN-SUFFIX,sparkassen-partner.de
+DOMAIN-SUFFIX,spd-spenden.de
 DOMAIN-SUFFIX,special-sponsor.de
 DOMAIN-SUFFIX,sponsortown.de
 DOMAIN-SUFFIX,spoods.io

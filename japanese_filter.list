@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-14 04:57:12
-# DOMAIN-SUFFIX: 380
-# TOTAL: 380
+# UPDATED: 2023-06-15 05:23:14
+# DOMAIN-SUFFIX: 381
+# TOTAL: 381
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -307,6 +307,7 @@ DOMAIN-SUFFIX,relaido.jp
 DOMAIN-SUFFIX,rentracks.jp
 DOMAIN-SUFFIX,resad.mediaid.click
 DOMAIN-SUFFIX,roselip-fetish.com
+DOMAIN-SUFFIX,s-ad.rmp.rakuten.co.jp
 DOMAIN-SUFFIX,safemy-ios.com
 DOMAIN-SUFFIX,saltwortokra.com
 DOMAIN-SUFFIX,samuraiclick.com
