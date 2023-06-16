@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-16 04:56:36
-# DOMAIN-SUFFIX: 37382
-# TOTAL: 37382
+# UPDATED: 2023-06-17 05:20:05
+# DOMAIN-SUFFIX: 37386
+# TOTAL: 37386
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -6732,6 +6732,7 @@ DOMAIN-SUFFIX,cdnstats-a.akamaihd.net
 DOMAIN-SUFFIX,cdn.stat-track.com
 DOMAIN-SUFFIX,cdnstr.com
 DOMAIN-SUFFIX,cdn.teleportapi.com
+DOMAIN-SUFFIX,cdn.tercept.com
 DOMAIN-SUFFIX,cdn.topmind.io
 DOMAIN-SUFFIX,cdn.trackclicks.info
 DOMAIN-SUFFIX,cdn.usefathom.com
@@ -11612,6 +11613,7 @@ DOMAIN-SUFFIX,ebs.viosalon.com
 DOMAIN-SUFFIX,eb.trbas.com
 DOMAIN-SUFFIX,ebtrk1.com
 DOMAIN-SUFFIX,ebwupu.superbrightleds.com
+DOMAIN-SUFFIX,ec.adadapted.com
 DOMAIN-SUFFIX,ecceivetrk.com
 DOMAIN-SUFFIX,ec-concier.com
 DOMAIN-SUFFIX,ecctjf.leroymerlin.com.br
@@ -22178,6 +22180,7 @@ DOMAIN-SUFFIX,pa.travelwhiz.app
 DOMAIN-SUFFIX,patriot.cs.pp.cn
 DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,paydashboard.actonservice.com
+DOMAIN-SUFFIX,payload.adadapted.com
 DOMAIN-SUFFIX,paynewest.actonservice.com
 DOMAIN-SUFFIX,payqjd.subito.it
 DOMAIN-SUFFIX,paz.dida-world.com
@@ -33351,6 +33354,7 @@ DOMAIN-SUFFIX,tracking.venture-net.co.jp
 DOMAIN-SUFFIX,tracking.venturify.at
 DOMAIN-SUFFIX,tracking.veritas.com
 DOMAIN-SUFFIX,tracking.vertiv.com
+DOMAIN-SUFFIX,tracking.viewlift.com
 DOMAIN-SUFFIX,tracking.viewster.com
 DOMAIN-SUFFIX,tracking.virtus.com
 DOMAIN-SUFFIX,tracking.visitdubai.com
