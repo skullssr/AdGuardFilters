@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-17 05:20:05
-# DOMAIN-SUFFIX: 37386
-# TOTAL: 37386
+# UPDATED: 2023-06-18 06:13:53
+# DOMAIN-SUFFIX: 37388
+# TOTAL: 37388
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -3118,6 +3118,7 @@ DOMAIN-SUFFIX,ad-plus.com.tr
 DOMAIN-SUFFIX,adplus.io
 DOMAIN-SUFFIX,adpromo.peppynet.com
 DOMAIN-SUFFIX,adprotraffic.com
+DOMAIN-SUFFIX,adrange.net
 DOMAIN-SUFFIX,adrank24.de
 DOMAIN-SUFFIX,ad.rejichoice.jp
 DOMAIN-SUFFIX,adrevenue.appsflyer.com
@@ -11124,6 +11125,7 @@ DOMAIN-SUFFIX,dmp.sbermarketing.ru
 DOMAIN-SUFFIX,dm.pstatp.com
 DOMAIN-SUFFIX,dmpxs.com
 DOMAIN-SUFFIX,dmqykw.thirtymall.com
+DOMAIN-SUFFIX,dmtag.jp
 DOMAIN-SUFFIX,dm-target.fishersci.com
 DOMAIN-SUFFIX,dm-target.thermofisher.com
 DOMAIN-SUFFIX,dmtracker.com

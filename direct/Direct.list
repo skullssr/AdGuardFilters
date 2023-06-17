@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-17 05:24:24
-# DOMAIN-SUFFIX: 4014
-# TOTAL: 4014
+# UPDATED: 2023-06-18 06:18:14
+# DOMAIN-SUFFIX: 4015
+# TOTAL: 4015
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1246,6 +1246,7 @@ DOMAIN-SUFFIX,fid-gesundheitswissen.de
 DOMAIN-SUFFIX,fifakitcreator.com
 DOMAIN-SUFFIX,fifermods.com
 DOMAIN-SUFFIX,fightnews.info
+DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,fildo.net
 DOMAIN-SUFFIX,file4go.biz
 DOMAIN-SUFFIX,filedown.org
