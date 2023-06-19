@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-17 05:24:22
-# DOMAIN-SUFFIX: 855
-# TOTAL: 855
+# UPDATED: 2023-06-20 05:53:59
+# DOMAIN-SUFFIX: 843
+# TOTAL: 843
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,883.engine.mobileapptracking.com
 DOMAIN-SUFFIX,a2dfp.net
 DOMAIN-SUFFIX,a2pub.com
 DOMAIN-SUFFIX,a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
-DOMAIN-SUFFIX,a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
-DOMAIN-SUFFIX,a.4b10e98c641a81c5b43bf484d3d77057505e8229a71e12b491d30c9b.com
 DOMAIN-SUFFIX,aag.yahooapis.jp
 DOMAIN-SUFFIX,a.applvn.com
 DOMAIN-SUFFIX,abbott.vo.llnwd.net
@@ -97,7 +95,6 @@ DOMAIN-SUFFIX,adpies.com
 DOMAIN-SUFFIX,adplatform.vrtcal.com
 DOMAIN-SUFFIX,adplex.co.kr
 DOMAIN-SUFFIX,adpopcorn.com
-DOMAIN-SUFFIX,adpriv.nikkei.com
 DOMAIN-SUFFIX,adprotected.com
 DOMAIN-SUFFIX,adproxy.tf1.fr
 DOMAIN-SUFFIX,adpublisher.s3.amazonaws.com
@@ -111,7 +108,6 @@ DOMAIN-SUFFIX,adsapi.manhuaren.com
 DOMAIN-SUFFIX,adsapi.snapchat.com
 DOMAIN-SUFFIX,ads.appsgeyser.com
 DOMAIN-SUFFIX,adsassets.waze.com
-DOMAIN-SUFFIX,ads.aws.viber.com
 DOMAIN-SUFFIX,ads-bidder-api.twitter.com
 DOMAIN-SUFFIX,ads.bulldogcpi.com
 DOMAIN-SUFFIX,adsbynimbus.com
@@ -156,9 +152,7 @@ DOMAIN-SUFFIX,ads.mopub.com
 DOMAIN-SUFFIX,adsmo.ru
 DOMAIN-SUFFIX,adsmrapi.imbc.com
 DOMAIN-SUFFIX,ad.snappea.com
-DOMAIN-SUFFIX,ad.snaptube.app
 DOMAIN-SUFFIX,adsniper.ru
-DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN-SUFFIX,ads.pdbarea.com
 DOMAIN-SUFFIX,ads.pinger.com
 DOMAIN-SUFFIX,ad-splash.hktvmall.com
@@ -227,7 +221,6 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,api-ad-adapter.wps.com
 DOMAIN-SUFFIX,api-ad-callback.mobiuspace.net
 DOMAIN-SUFFIX,api.ad-locus.com
-DOMAIN-SUFFIX,api.adnet.mob.com
 DOMAIN-SUFFIX,api.ads.newsdigest.jp
 DOMAIN-SUFFIX,api.ads.watchabc.go.com
 DOMAIN-SUFFIX,api.ampiri.com
@@ -327,7 +320,6 @@ DOMAIN-SUFFIX,cashprom.ru
 DOMAIN-SUFFIX,casino-ad-mediation.me2zengame.com
 DOMAIN-SUFFIX,castplatform.com
 DOMAIN-SUFFIX,cdn2.auditude.com
-DOMAIN-SUFFIX,cdn.88-f.net
 DOMAIN-SUFFIX,cdn-adn-*.rayjump.com
 DOMAIN-SUFFIX,cdn-adn.rayjump.com
 DOMAIN-SUFFIX,cdn-api.admost.com
@@ -356,7 +348,6 @@ DOMAIN-SUFFIX,cloudads-a.akamaihd.net
 DOMAIN-SUFFIX,cls.vrvm.com
 DOMAIN-SUFFIX,common.duapps.com
 DOMAIN-SUFFIX,comscore.com
-DOMAIN-SUFFIX,config.88-f.net
 DOMAIN-SUFFIX,config.appjolt.com
 DOMAIN-SUFFIX,config.tremorhub.com
 DOMAIN-SUFFIX,configuration.ttpsdk.info
@@ -449,7 +440,6 @@ DOMAIN-SUFFIX,gumgum.com
 DOMAIN-SUFFIX,gwrtdp-tn690BFAdt.tclclouds.com
 DOMAIN-SUFFIX,gynax.com
 DOMAIN-SUFFIX,h5.isnssdk.com
-DOMAIN-SUFFIX,h5.wannaplay.cn
 DOMAIN-SUFFIX,ha-api.pushwoosh.com
 DOMAIN-SUFFIX,hb.rayjump.com
 DOMAIN-SUFFIX,hellay.net
@@ -585,7 +575,6 @@ DOMAIN-SUFFIX,mo.freeindoapp.com
 DOMAIN-SUFFIX,mojiva.com
 DOMAIN-SUFFIX,monitor.adcaffe.com
 DOMAIN-SUFFIX,mopub-win-us-east.bksn.se
-DOMAIN-SUFFIX,mp.huangye.miui.com
 DOMAIN-SUFFIX,ms.applvn.com
 DOMAIN-SUFFIX,msg.ettoday.net
 DOMAIN-SUFFIX,mtag.mman.kr
@@ -705,7 +694,6 @@ DOMAIN-SUFFIX,sdk.starbolt.io
 DOMAIN-SUFFIX,sdkv2.imaginationunwired.com
 DOMAIN-SUFFIX,search.adcaffe.com
 DOMAIN-SUFFIX,sensors.larkplayerapp.com
-DOMAIN-SUFFIX,sensors.snaptubeapp.com
 DOMAIN-SUFFIX,servebom.com
 DOMAIN-SUFFIX,servedby.o2.co.uk
 DOMAIN-SUFFIX,serve-sys.com

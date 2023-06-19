@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-18 06:13:53
-# DOMAIN-SUFFIX: 37388
-# TOTAL: 37388
+# UPDATED: 2023-06-20 05:49:54
+# DOMAIN-SUFFIX: 37390
+# TOTAL: 37390
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000scripps.hb.omtrdc.net
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -7200,6 +7200,7 @@ DOMAIN-SUFFIX,cm.oneidentity.com
 DOMAIN-SUFFIX,cmp.audi.be
 DOMAIN-SUFFIX,cmp-cdn.ghostery.com
 DOMAIN-SUFFIX,cmp.cupra.be
+DOMAIN-SUFFIX,cmp.datasign.co
 DOMAIN-SUFFIX,cmp.dieteren.be
 DOMAIN-SUFFIX,cmp.dieterengroup.com
 DOMAIN-SUFFIX,cmplay.did.ijinshan.com
@@ -10570,7 +10571,6 @@ DOMAIN-SUFFIX,data.service.colonialfirststate.com.au
 DOMAIN-SUFFIX,data.servicing.key.com
 DOMAIN-SUFFIX,data.shirtmaster.com
 DOMAIN-SUFFIX,data.shop.williamsf1.com
-DOMAIN-SUFFIX,datasign.co
 DOMAIN-SUFFIX,data.socio.realmadrid.net
 DOMAIN-SUFFIX,data.solucious.be
 DOMAIN-SUFFIX,data.srf.ch
@@ -15933,6 +15933,7 @@ DOMAIN-SUFFIX,iplogger.info
 DOMAIN-SUFFIX,iplogger.org
 DOMAIN-SUFFIX,iplogger.ru
 DOMAIN-SUFFIX,ipmeta.io
+DOMAIN-SUFFIX,ip.momentummedia.com.au
 DOMAIN-SUFFIX,ip.prvtx.net
 DOMAIN-SUFFIX,ipro.com
 DOMAIN-SUFFIX,ipstat.com
@@ -32726,6 +32727,7 @@ DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
 DOMAIN-SUFFIX,tracker.citicsinfo.com
 DOMAIN-SUFFIX,tracker.convead.io
 DOMAIN-SUFFIX,tracker.cpapath.com
+DOMAIN-SUFFIX,tracker.dalso.org
 DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.departapp.com
 DOMAIN-SUFFIX,tracker.digitalcamp.co.kr
