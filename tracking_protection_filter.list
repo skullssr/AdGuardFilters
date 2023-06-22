@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-22 05:57:02
-# DOMAIN-SUFFIX: 62634
-# TOTAL: 62634
+# UPDATED: 2023-06-23 05:06:36
+# DOMAIN-SUFFIX: 62637
+# TOTAL: 62637
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -4235,6 +4235,7 @@ DOMAIN-SUFFIX,ade.hirose-fx.co.jp
 DOMAIN-SUFFIX,adelixir.com
 DOMAIN-SUFFIX,ad*.ettoday.net
 DOMAIN-SUFFIX,a.deutschehospitality.com
+DOMAIN-SUFFIX,adeventtrackermonitoring.spotify.com
 DOMAIN-SUFFIX,adeventtracker.spotify.com
 DOMAIN-SUFFIX,a.devlog.games
 DOMAIN-SUFFIX,adex.kintetsu-re.co.jp
@@ -18246,6 +18247,7 @@ DOMAIN-SUFFIX,d-log.asahi.co.jp
 DOMAIN-SUFFIX,d-log.bs-asahi.tv
 DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
 DOMAIN-SUFFIX,dlo-it.vle.tt.omtrdc.net
+DOMAIN-SUFFIX,dl.reg.163.com
 DOMAIN-SUFFIX,dls2s.appsflyer.com
 DOMAIN-SUFFIX,dl.sync2.tt.omtrdc.net
 DOMAIN-SUFFIX,dltest7.psb.tt.omtrdc.net
@@ -53167,6 +53169,7 @@ DOMAIN-SUFFIX,tags.bluekai.com
 DOMAIN-SUFFIX,tags.chip.de
 DOMAIN-SUFFIX,tags.clickagy.com
 DOMAIN-SUFFIX,tags.creditkarma.com
+DOMAIN-SUFFIX,tags.dxmdp.com
 DOMAIN-SUFFIX,tag.search.sensefuel.live
 DOMAIN-SUFFIX,tags.esri.com
 DOMAIN-SUFFIX,tags.experian.co.uk
