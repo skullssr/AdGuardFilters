@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-23 05:10:57
+# UPDATED: 2023-06-24 05:24:48
 # DOMAIN-SUFFIX: 4016
 # TOTAL: 4016
 DOMAIN-SUFFIX,0123movies.com
@@ -3266,7 +3266,6 @@ DOMAIN-SUFFIX,sportbild.bild.de
 DOMAIN-SUFFIX,sport.de
 DOMAIN-SUFFIX,sports24.icu
 DOMAIN-SUFFIX,sportsio.xyz
-DOMAIN-SUFFIX,sports.ru
 DOMAIN-SUFFIX,sportsvideo.net
 DOMAIN-SUFFIX,spox.com
 DOMAIN-SUFFIX,squidssh.com
@@ -3990,6 +3989,7 @@ DOMAIN-SUFFIX,yourdictionary.com
 DOMAIN-SUFFIX,yourlifeupdated.net
 DOMAIN-SUFFIX,yoursavegames.com
 DOMAIN-SUFFIX,yoututosjeff.es
+DOMAIN-SUFFIX,youwatch-serie.com
 DOMAIN-SUFFIX,yuklesene.org
 DOMAIN-SUFFIX,yupptv.in
 DOMAIN-SUFFIX,yygsz.com
