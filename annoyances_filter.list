@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-20 05:50:31
-# DOMAIN-SUFFIX: 984
-# TOTAL: 984
+# UPDATED: 2023-06-27 05:00:37
+# DOMAIN-SUFFIX: 985
+# TOTAL: 985
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -247,7 +247,6 @@ DOMAIN-SUFFIX,confirmic.com
 DOMAIN-SUFFIX,consent.a24films.com
 DOMAIN-SUFFIX,consent.boerse-online.de
 DOMAIN-SUFFIX,consent.cmp.oath.com
-DOMAIN-SUFFIX,consent.cookiefirst.com
 DOMAIN-SUFFIX,consent.dropbox.com
 DOMAIN-SUFFIX,consent.dumont.de
 DOMAIN-SUFFIX,consent.economist.com
@@ -264,6 +263,7 @@ DOMAIN-SUFFIX,consultsystems.ru
 DOMAIN-SUFFIX,continual.ly
 DOMAIN-SUFFIX,contributions.guardianapis.com
 DOMAIN-SUFFIX,controlcookies.com
+DOMAIN-SUFFIX,cookiefirst.com
 DOMAIN-SUFFIX,cookieform.pl
 DOMAIN-SUFFIX,cookiehub.net
 DOMAIN-SUFFIX,cookieinfoscript.com
@@ -411,6 +411,7 @@ DOMAIN-SUFFIX,greysummergo.biz
 DOMAIN-SUFFIX,groovyornament.com
 DOMAIN-SUFFIX,gtlead.ru
 DOMAIN-SUFFIX,gu7socdn.txxx.com
+DOMAIN-SUFFIX,guardeddirection.com
 DOMAIN-SUFFIX,gubagootracking.com
 DOMAIN-SUFFIX,gudros.site
 DOMAIN-SUFFIX,guideforwindows.top

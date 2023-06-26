@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-24 05:20:29
-# DOMAIN-SUFFIX: 62639
-# TOTAL: 62639
+# UPDATED: 2023-06-27 04:59:55
+# DOMAIN-SUFFIX: 62637
+# TOTAL: 62637
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -5953,6 +5953,7 @@ DOMAIN-SUFFIX,analytics-coletor-site.ojc.com.br
 DOMAIN-SUFFIX,analytics.concorsicartoonito.it
 DOMAIN-SUFFIX,analytics.contentexchange.me
 DOMAIN-SUFFIX,analytics.contents.by-fw.jp
+DOMAIN-SUFFIX,analytics.cookiefirst.dev
 DOMAIN-SUFFIX,analytics.core.retell.cc
 DOMAIN-SUFFIX,analytics.corusent.com
 DOMAIN-SUFFIX,analytics.crea.ca
@@ -13088,6 +13089,7 @@ DOMAIN-SUFFIX,colombini-pc-sito.tt.omtrdc.net
 DOMAIN-SUFFIX,colorfulafterthought.com
 DOMAIN-SUFFIX,colossalchance.com
 DOMAIN-SUFFIX,colossalcoat.com
+DOMAIN-SUFFIX,colossusssp.com
 DOMAIN-SUFFIX,colprdapp4.tt.omtrdc.net
 DOMAIN-SUFFIX,col-psm3.service.service.tt.omtrdc.net
 DOMAIN-SUFFIX,colruytbusinessservi.tt.omtrdc.net
@@ -14678,20 +14680,14 @@ DOMAIN-SUFFIX,d-176-oslo.tt.omtrdc.net
 DOMAIN-SUFFIX,d17tqr44y57o31.cloudfront.net
 DOMAIN-SUFFIX,d18p8z0ptb8qab.cloudfront.net
 DOMAIN-SUFFIX,d1cdnlzf6usiff.cloudfront.net
-DOMAIN-SUFFIX,d1cerpgff739r9.cloudfront.net
 DOMAIN-SUFFIX,d1clfvuu2240eh.cloudfront.net
-DOMAIN-SUFFIX,d1clufhfw8sswh.cloudfront.net
-DOMAIN-SUFFIX,d1daeonbqcq0oh.cloudfront.net
 DOMAIN-SUFFIX,d1fc8wv8zag5ca.cloudfront.net
 DOMAIN-SUFFIX,d1gp8joe0evc8s.cloudfront.net
 DOMAIN-SUFFIX,d1gwclp1pmzk26.cloudfront.net
 DOMAIN-SUFFIX,d1l6p2sc9645hc.cloudfront.net
-DOMAIN-SUFFIX,d1lm7kd3bd3yo9.cloudfront.net
 DOMAIN-SUFFIX,d1m6l9dfulcyw7.cloudfront.net
-DOMAIN-SUFFIX,d1mdhw23tj9j17.cloudfront.net
 DOMAIN-SUFFIX,d1miwkthq39xj8.cloudfront.net
 DOMAIN-SUFFIX,d1n00d49gkbray.cloudfront.net
-DOMAIN-SUFFIX,d1nh2vjpqpfnin.cloudfront.net
 DOMAIN-SUFFIX,d1-np.signupa.tt.omtrdc.net
 DOMAIN-SUFFIX,d1qpxk1wfeh8v1.cloudfront.net
 DOMAIN-SUFFIX,d1r27qvpjiaqj3.cloudfront.net
@@ -14699,7 +14695,7 @@ DOMAIN-SUFFIX,d1rgnfh960lz2b.cloudfront.net
 DOMAIN-SUFFIX,d1ros97qkrwjf5.cloudfront.net
 DOMAIN-SUFFIX,d1rszqblq924lq.cloudfront.net
 DOMAIN-SUFFIX,d1snv67wdds0p2.cloudfront.net
-DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront
+DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront.net
 DOMAIN-SUFFIX,d1tracker.ru
 DOMAIN-SUFFIX,d1uy7uzra011au.cloudfront.net
 DOMAIN-SUFFIX,d1xfq2052q7thw.cloudfront.net
@@ -20966,6 +20962,7 @@ DOMAIN-SUFFIX,events.splash-screen.net
 DOMAIN-SUFFIX,events.splunk.com
 DOMAIN-SUFFIX,events-stream-svc.cordial.com
 DOMAIN-SUFFIX,events-stream-svc.usw2.cordial.com
+DOMAIN-SUFFIX,events.swishapps.ai
 DOMAIN-SUFFIX,events.tafensw.edu.au
 DOMAIN-SUFFIX,events.talentsearch.tt.omtrdc.net
 DOMAIN-SUFFIX,events.textme-app.com
@@ -23921,6 +23918,7 @@ DOMAIN-SUFFIX,guan.elfenkueche.at
 DOMAIN-SUFFIX,guan.lathamcommunications.com
 DOMAIN-SUFFIX,guanoo.net
 DOMAIN-SUFFIX,guaranteelamp.com
+DOMAIN-SUFFIX,guardeddirection.com
 DOMAIN-SUFFIX,guardedschool.com
 DOMAIN-SUFFIX,guardiancu.actonservice.com
 DOMAIN-SUFFIX,guardiandf-icfi.tt.omtrdc.net
@@ -53788,7 +53786,7 @@ DOMAIN-SUFFIX,telemetry.stryker.com
 DOMAIN-SUFFIX,telemetry.swe.quicinc.com
 DOMAIN-SUFFIX,telemetry.swiftkey.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
-DOMAIN-SUFFIX,telemetry.transcend.io
+DOMAIN-SUFFIX,telemetry*.transcend.io
 DOMAIN-SUFFIX,telemetry.voxeet.com
 DOMAIN-SUFFIX,tele-mid-prod7-res.campaign.tt.omtrdc.net
 DOMAIN-SUFFIX,tele-miniprogram.lpcm.tt.omtrdc.net
@@ -54613,6 +54611,7 @@ DOMAIN-SUFFIX,tm.zedo.com
 DOMAIN-SUFFIX,tnative.ru
 DOMAIN-SUFFIX,t.navysports.com
 DOMAIN-SUFFIX,tnc15-platform-alisga.tt.omtrdc.net
+DOMAIN-SUFFIX,tnc16-*.byteoversea.com
 DOMAIN-SUFFIX,tncot-hilti.tt.omtrdc.net
 DOMAIN-SUFFIX,tnc-useast-useast2.tt.omtrdc.net
 DOMAIN-SUFFIX,t.neatkarigais.lv
@@ -58598,7 +58597,6 @@ DOMAIN-SUFFIX,uicjnk.gumtree.co.za
 DOMAIN-SUFFIX,uid03.tt.omtrdc.net
 DOMAIN-SUFFIX,uid4.dmp.tt.omtrdc.net
 DOMAIN-SUFFIX,uid8-www.tt.omtrdc.net
-DOMAIN-SUFFIX,uid.mavencoalition.io
 DOMAIN-SUFFIX,uie.data.cbc.ca
 DOMAIN-SUFFIX,uiga01.test.tt.omtrdc.net
 DOMAIN-SUFFIX,uiia3-test.tt.omtrdc.net
