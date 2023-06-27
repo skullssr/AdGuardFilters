@@ -1,7 +1,7 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-15 05:23:14
+# UPDATED: 2023-06-28 05:18:37
 # DOMAIN-SUFFIX: 381
 # TOTAL: 381
 DOMAIN-SUFFIX,6ms.biz
@@ -185,7 +185,6 @@ DOMAIN-SUFFIX,dep.tc
 DOMAIN-SUFFIX,deqwas.net
 DOMAIN-SUFFIX,design01.top
 DOMAIN-SUFFIX,devo.jp
-DOMAIN-SUFFIX,dis.hogei.info
 DOMAIN-SUFFIX,divscripty.net
 DOMAIN-SUFFIX,d-markets.net
 DOMAIN-SUFFIX,dmm-rank.com
@@ -222,6 +221,7 @@ DOMAIN-SUFFIX,hananokai.tv
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,hbb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,hitgraph.jp
+DOMAIN-SUFFIX,hogei.info
 DOMAIN-SUFFIX,hydrangeao.com
 DOMAIN-SUFFIX,i2ad.jp
 DOMAIN-SUFFIX,i2idata.com
