@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-28 05:14:42
-# DOMAIN-SUFFIX: 54342
-# TOTAL: 54342
+# UPDATED: 2023-06-29 05:09:53
+# DOMAIN-SUFFIX: 54344
+# TOTAL: 54344
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -12863,6 +12863,7 @@ DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
 DOMAIN-SUFFIX,collector.roistat.com
 DOMAIN-SUFFIX,collector.schibsted.io
+DOMAIN-SUFFIX,collector.scopely.io
 DOMAIN-SUFFIX,collector.shopstream.co
 DOMAIN-SUFFIX,collector.shorte.st
 DOMAIN-SUFFIX,collector.snplow.net
@@ -20505,7 +20506,6 @@ DOMAIN-SUFFIX,ferret.jesper.hk
 DOMAIN-SUFFIX,ferret.linksoftwarellc.com
 DOMAIN-SUFFIX,ferret.siloam.ch
 DOMAIN-SUFFIX,ferret.tailgraph.com
-DOMAIN-SUFFIX,fetchback.com
 DOMAIN-SUFFIX,ffr.actonservice.com
 DOMAIN-SUFFIX,ffrmwn.musinsa.com
 DOMAIN-SUFFIX,ffuodj.lanebryant.com
@@ -21200,7 +21200,6 @@ DOMAIN-SUFFIX,geoip.viamichelin.com
 DOMAIN-SUFFIX,geo.kaloo.ga
 DOMAIN-SUFFIX,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-SUFFIX,geolocation.performgroup.com
-DOMAIN-SUFFIX,geolocation.stroeerdp.de
 DOMAIN-SUFFIX,geoloc*.geo20120530.com
 DOMAIN-SUFFIX,geoloc*.geostats.ovh
 DOMAIN-SUFFIX,geoloc*.geovisite.ovh
@@ -34535,6 +34534,7 @@ DOMAIN-SUFFIX,preview.b2b-analytics.tt.omtrdc.net
 DOMAIN-SUFFIX,preview-beta.iad.tt.omtrdc.net
 DOMAIN-SUFFIX,preview-ca.blog.tt.omtrdc.net
 DOMAIN-SUFFIX,preview-cloudanalytics-connection.tt.omtrdc.net
+DOMAIN-SUFFIX,preview-collector.scopely.io
 DOMAIN-SUFFIX,preview-engage.st.tt.omtrdc.net
 DOMAIN-SUFFIX,preview-everify.9qmsbr-idp.tt.omtrdc.net
 DOMAIN-SUFFIX,preview.idp9qm8-idp.tt.omtrdc.net
@@ -35438,6 +35438,7 @@ DOMAIN-SUFFIX,real-user-monitoring.a.autoscout24.com
 DOMAIN-SUFFIX,realytics.io
 DOMAIN-SUFFIX,realytics.net
 DOMAIN-SUFFIX,realzeit.io
+DOMAIN-SUFFIX,rebelhen.com
 DOMAIN-SUFFIX,rebelsubway.com
 DOMAIN-SUFFIX,rebelswing.com
 DOMAIN-SUFFIX,rec.banggood.com
@@ -45525,6 +45526,7 @@ DOMAIN-SUFFIX,tagman.waitrose.com
 DOMAIN-SUFFIX,tagmgr20.ingenieur.tt.omtrdc.net
 DOMAIN-SUFFIX,tag.nifty.com
 DOMAIN-SUFFIX,tag.pprl.io
+DOMAIN-SUFFIX,tag.rmp.rakuten.com
 DOMAIN-SUFFIX,tags.aljazeera.com
 DOMAIN-SUFFIX,tags.aljazeera.net
 DOMAIN-SUFFIX,tags.aumago.com
@@ -46100,7 +46102,6 @@ DOMAIN-SUFFIX,telemetry.navispherecarrier.com
 DOMAIN-SUFFIX,telemetry.soundcloud.com
 DOMAIN-SUFFIX,telemetry.stryker.com
 DOMAIN-SUFFIX,telemetry.swe.quicinc.com
-DOMAIN-SUFFIX,telemetry.swiftkey.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry*.transcend.io
 DOMAIN-SUFFIX,telemetry.voxeet.com
@@ -48198,6 +48199,7 @@ DOMAIN-SUFFIX,trackkas.com
 DOMAIN-SUFFIX,track.kerakera.xyz
 DOMAIN-SUFFIX,track.kiomi.com
 DOMAIN-SUFFIX,track.kitup.net
+DOMAIN-SUFFIX,track.ktplay.com
 DOMAIN-SUFFIX,track.kueez.com
 DOMAIN-SUFFIX,track.languageeducationhub.com
 DOMAIN-SUFFIX,track.laptopaffordablespace.com

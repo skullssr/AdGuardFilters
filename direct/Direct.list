@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-28 05:19:13
-# DOMAIN-SUFFIX: 4017
-# TOTAL: 4017
+# UPDATED: 2023-06-29 05:14:37
+# DOMAIN-SUFFIX: 4019
+# TOTAL: 4019
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -857,6 +857,7 @@ DOMAIN-SUFFIX,darmowa-tv.xyz
 DOMAIN-SUFFIX,dasgelbeblatt.de
 DOMAIN-SUFFIX,dashboard.mgid.com
 DOMAIN-SUFFIX,dataf.pro
+DOMAIN-SUFFIX,data-*.herz-fuer-tiere.de
 DOMAIN-SUFFIX,datphanmem.com
 DOMAIN-SUFFIX,david-forum.de
 DOMAIN-SUFFIX,davidgalaxia.com
@@ -3431,6 +3432,7 @@ DOMAIN-SUFFIX,tempatak.blogspot.com
 DOMAIN-SUFFIX,tempmail.ninja
 DOMAIN-SUFFIX,tempmailpro.net
 DOMAIN-SUFFIX,temp-phone-number.com
+DOMAIN-SUFFIX,terabox.fun
 DOMAIN-SUFFIX,tercihiniyap.net
 DOMAIN-SUFFIX,terrarium.com.pl
 DOMAIN-SUFFIX,testedich.de
