@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-29 05:09:53
-# DOMAIN-SUFFIX: 54344
-# TOTAL: 54344
+# UPDATED: 2023-06-30 04:58:15
+# DOMAIN-SUFFIX: 54310
+# TOTAL: 54310
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -5983,6 +5983,7 @@ DOMAIN-SUFFIX,analytics.grape.media
 DOMAIN-SUFFIX,analytics.greenmountain.com
 DOMAIN-SUFFIX,analytics.greenmountainenergy.com
 DOMAIN-SUFFIX,analytics.growthphysics.com
+DOMAIN-SUFFIX,analytics.gtflixtv.com
 DOMAIN-SUFFIX,analytics.hambleden-capital.com
 DOMAIN-SUFFIX,analytics.hashnode.com
 DOMAIN-SUFFIX,analytics.haworth.com
@@ -14466,7 +14467,6 @@ DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront.net
 DOMAIN-SUFFIX,d1tracker.ru
 DOMAIN-SUFFIX,d1uy7uzra011au.cloudfront.net
 DOMAIN-SUFFIX,d1xfq2052q7thw.cloudfront.net
-DOMAIN-SUFFIX,d1yu5hbtu8mng9.cloudfront.net
 DOMAIN-SUFFIX,d1yu67rmchodpo.cloudfront.net
 DOMAIN-SUFFIX,d1z2jf7jlzjs58.cloudfront.net
 DOMAIN-SUFFIX,d1zxg9iar5y3ur.cloudfront.net
@@ -14483,27 +14483,19 @@ DOMAIN-SUFFIX,d2c.ne.jp
 DOMAIN-SUFFIX,d2dq2ahtl5zl1z.cloudfront.net
 DOMAIN-SUFFIX,d2e0sxz09bo7k2.cloudfront.net
 DOMAIN-SUFFIX,d2ezz24t9nm0vu.cloudfront.net
-DOMAIN-SUFFIX,d2gfdmu30u15x7.cloudfront.net
-DOMAIN-SUFFIX,d2gfi8ctn6kki7.cloudfront.net
 DOMAIN-SUFFIX,d2hrivdxn8ekm8.cloudfront.net
 DOMAIN-SUFFIX,d2ibu2ug0mt5qp.cloudfront.net
 DOMAIN-SUFFIX,d2ieqaiwehnqqp.cloudfront.net
 DOMAIN-SUFFIX,d2iseprhq100a0.tt.omtrdc.net
 DOMAIN-SUFFIX,d2iseprhq110a.tt.omtrdc.net
-DOMAIN-SUFFIX,d2j3te7y7s8xxp.cloudfront.net
-DOMAIN-SUFFIX,d2kmrmwhq7wkvs.cloudfront.net
-DOMAIN-SUFFIX,d2lv4zbk7v5f93.cloudfront.net
 DOMAIN-SUFFIX,d2nxi61n77zqpl.cloudfront.net
 DOMAIN-SUFFIX,d2o5idwacg3gyw.cloudfront.net
 DOMAIN-SUFFIX,d2oh4tlt9mrke9.cloudfront.net
 DOMAIN-SUFFIX,d2pdcsmmta01v9.tt.omtrdc.net
 DOMAIN-SUFFIX,d2pdcsmmtapv21.tt.omtrdc.net
-DOMAIN-SUFFIX,d2pxb4n3f9klsc.cloudfront.net
-DOMAIN-SUFFIX,d2q7mvwub8tmwf.cloudfront.net
 DOMAIN-SUFFIX,d2qmp7jjpd79k7.cloudfront.net
 DOMAIN-SUFFIX,d2r1yp2w7bby2u.cloudfront.net
 DOMAIN-SUFFIX,d2ry9vue95px0b.cloudfront.net
-DOMAIN-SUFFIX,d2so4705rl485y.cloudfront.net
 DOMAIN-SUFFIX,d2tbbacweb004v.tt.omtrdc.net
 DOMAIN-SUFFIX,d2tbbisrpt004av.tt.omtrdc.net
 DOMAIN-SUFFIX,d2tbbisrpt02.tt.omtrdc.net
@@ -14512,55 +14504,34 @@ DOMAIN-SUFFIX,d2tvs3piq1b5fcch.sparta.members.tt.omtrdc.net
 DOMAIN-SUFFIX,d2u1npnnqecmpq.cloudfront.net
 DOMAIN-SUFFIX,d2u.dauphinquebec.com
 DOMAIN-SUFFIX,d2uhnetoehh304.cloudfront.net
-DOMAIN-SUFFIX,d2wlwbnaa4keje.cloudfront.net
 DOMAIN-SUFFIX,d2wu036mkcz52n.cloudfront.net
-DOMAIN-SUFFIX,d2xgf76oeu9pbh.cloudfront.net
 DOMAIN-SUFFIX,d2yh8t8mdj4l9x.cloudfront.net
 DOMAIN-SUFFIX,d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
-DOMAIN-SUFFIX,d3135glefggiep.cloudfront.net
 DOMAIN-SUFFIX,d31bfnnwekbny6.cloudfront.net
-DOMAIN-SUFFIX,d31j93rd8oukbv.cloudfront.net
-DOMAIN-SUFFIX,d31qbv1cthcecs.cloudfront.net
-DOMAIN-SUFFIX,d33im0067v833a.cloudfront.net
 DOMAIN-SUFFIX,d34ko97cxuv4p7.cloudfront.net
 DOMAIN-SUFFIX,d35u1vg1q28b3w.cloudfront.net
-DOMAIN-SUFFIX,d36lvucg9kzous.cloudfront.net
-DOMAIN-SUFFIX,d36wtdrdo22bqa.cloudfront.net
-DOMAIN-SUFFIX,d3a2okcloueqyx.cloudfront.net
-DOMAIN-SUFFIX,d3alqb8vzo7fun.cloudfront.net
-DOMAIN-SUFFIX,d3avqv6zaxegeu.cloudfront.net
 DOMAIN-SUFFIX,d3c3cq33003psk.cloudfront.net
 DOMAIN-SUFFIX,d3cxv97fi8q177.cloudfront.net
-DOMAIN-SUFFIX,d3eyd961wi10bl.cloudfront.net
-DOMAIN-SUFFIX,d3h1v5cflrhzi4.cloudfront.net
-DOMAIN-SUFFIX,d3hr5gm0wlxm5h.cloudfront.net
 DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
 DOMAIN-SUFFIX,d3j1weegxvu8ns.cloudfront.net
 DOMAIN-SUFFIX,d3kyk5bao1crtw.cloudfront.net
 DOMAIN-SUFFIX,d3l3lkinz3f56t.cloudfront.net
 DOMAIN-SUFFIX,d3nq5jrakcyw1w.cloudfront.net
-DOMAIN-SUFFIX,d3ojzyhbolvoi5.cloudfront.net
 DOMAIN-SUFFIX,d3p8zr0ffa9t17.cloudfront.net
-DOMAIN-SUFFIX,d3phbp7p78bdk9.cloudfront.net
 DOMAIN-SUFFIX,d3pkntwtp2ukl5.cloudfront.net
 DOMAIN-SUFFIX,d3plfjw9uod7ab.cloudfront.net
-DOMAIN-SUFFIX,d3qxwzhswv93jk.cloudfront.net
 DOMAIN-SUFFIX,d3r7h55ola878c.cloudfront.net
 DOMAIN-SUFFIX,d3s7ggfq1s6jlj.cloudfront.net
 DOMAIN-SUFFIX,d3-umami.up.railway.app
 DOMAIN-SUFFIX,d41.co
 DOMAIN-SUFFIX,d4ax0r5detcsu.cloudfront.net
 DOMAIN-SUFFIX,d4.cool.tt.omtrdc.net
-DOMAIN-SUFFIX,d5etv3akk3gsa.cloudfront.net
 DOMAIN-SUFFIX,d5i9o0tpq9sa1.cloudfront.net
 DOMAIN-SUFFIX,d5.ie.tt.omtrdc.net
-DOMAIN-SUFFIX,d5nxst8fruw4z.cloudfront.net
-DOMAIN-SUFFIX,d6jkenny8w8yo.cloudfront.net
 DOMAIN-SUFFIX,d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 DOMAIN-SUFFIX,d810.mysanantonio.com
 DOMAIN-SUFFIX,d81mfvml8p5ml.cloudfront.net
 DOMAIN-SUFFIX,d90z5o386dhs7.cloudfront.net
-DOMAIN-SUFFIX,d9lq0o81skkdj.cloudfront.net
 DOMAIN-SUFFIX,da204.insight.tt.omtrdc.net
 DOMAIN-SUFFIX,da206.insight.tt.omtrdc.net
 DOMAIN-SUFFIX,da2990011108195.tt.omtrdc.net
@@ -17937,7 +17908,6 @@ DOMAIN-SUFFIX,dkdm0613psn.tt.omtrdc.net
 DOMAIN-SUFFIX,dk.e.tt.omtrdc.net
 DOMAIN-SUFFIX,dkfaq.a.tt.omtrdc.net
 DOMAIN-SUFFIX,dk-go.experian.com
-DOMAIN-SUFFIX,dkhywqapojyk7.cloudfront.net
 DOMAIN-SUFFIX,d-kint.d-kintetsu.co.jp
 DOMAIN-SUFFIX,dk-nl-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,dkotrack.com
@@ -21979,6 +21949,7 @@ DOMAIN-SUFFIX,guelvp.1111.com.tw
 DOMAIN-SUFFIX,guest.vistage.com
 DOMAIN-SUFFIX,gugmlj.sherrilltree.com
 DOMAIN-SUFFIX,guhyqz.hawesko.de
+DOMAIN-SUFFIX,guidecent.com
 DOMAIN-SUFFIX,guideposts.actonservice.com
 DOMAIN-SUFFIX,guiltlessbasketball.com
 DOMAIN-SUFFIX,guineapig.espressive.com
@@ -28376,7 +28347,6 @@ DOMAIN-SUFFIX,media.gotham.com
 DOMAIN-SUFFIX,media.ignitium.com
 DOMAIN-SUFFIX,medialb-vip-vip01011-19-19.chi.tt.omtrdc.net
 DOMAIN-SUFFIX,media-limg-z5-staging-n.tt.omtrdc.net
-DOMAIN-SUFFIX,medialogger.ru
 DOMAIN-SUFFIX,medialog.smartmediarep.com
 DOMAIN-SUFFIX,mediamarkt-haus.tt.omtrdc.net
 DOMAIN-SUFFIX,mediametrics.ru
@@ -34701,7 +34671,6 @@ DOMAIN-SUFFIX,promo.skf.com
 DOMAIN-SUFFIX,promo.smskouc.cz
 DOMAIN-SUFFIX,promos.sanmarcanada.com
 DOMAIN-SUFFIX,promo-sso.nv.tt.omtrdc.net
-DOMAIN-SUFFIX,promostats.ru
 DOMAIN-SUFFIX,promos.thermofisher.com
 DOMAIN-SUFFIX,promos.thermoscientific.com
 DOMAIN-SUFFIX,promos.trustedtours.com
@@ -35464,7 +35433,6 @@ DOMAIN-SUFFIX,rectrack.optimum-performance.de
 DOMAIN-SUFFIX,recv-entry.tbs.co.jp
 DOMAIN-SUFFIX,recv-jnn.tbs.co.jp
 DOMAIN-SUFFIX,red.aff-tracker.com
-DOMAIN-SUFFIX,redatastore.ru
 DOMAIN-SUFFIX,red.bollsen.co.uk
 DOMAIN-SUFFIX,red.bollsen-gehoerschutz.de
 DOMAIN-SUFFIX,red.bollsen-hearingprotection.com
@@ -43639,7 +43607,6 @@ DOMAIN-SUFFIX,stat.lamyetudiant.fr
 DOMAIN-SUFFIX,stat.landingpro.pl
 DOMAIN-SUFFIX,stat.legalintelligence.com
 DOMAIN-SUFFIX,stat.lex.pl
-DOMAIN-SUFFIX,statlife.ru
 DOMAIN-SUFFIX,stat.liteforex.eu
 DOMAIN-SUFFIX,stat.livesportbar.net
 DOMAIN-SUFFIX,stat.m.360.cn
@@ -46962,7 +46929,6 @@ DOMAIN-SUFFIX,tonys.production.tt.omtrdc.net
 DOMAIN-SUFFIX,tool3g-01.tt.omtrdc.net
 DOMAIN-SUFFIX,toolboxadobe.inter-ikea.com
 DOMAIN-SUFFIX,toolbox.toolbox-stg.tt.omtrdc.net
-DOMAIN-SUFFIX,toolcount.ru
 DOMAIN-SUFFIX,toolipservices.tt.omtrdc.net
 DOMAIN-SUFFIX,toolkit.dev.eu.tt.omtrdc.net
 DOMAIN-SUFFIX,tools.emilms.msc.tt.omtrdc.net
