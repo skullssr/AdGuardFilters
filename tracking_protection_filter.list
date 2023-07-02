@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-01 05:09:52
-# DOMAIN-SUFFIX: 54273
-# TOTAL: 54273
+# UPDATED: 2023-07-03 05:14:36
+# DOMAIN-SUFFIX: 54274
+# TOTAL: 54274
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -29326,6 +29326,7 @@ DOMAIN-SUFFIX,metric.yp.com
 DOMAIN-SUFFIX,metrigo.zalan.do
 DOMAIN-SUFFIX,metrika-informer.com
 DOMAIN-SUFFIX,metrika.kontur.ru
+DOMAIN-SUFFIX,metrika.lookmovie2.to
 DOMAIN-SUFFIX,metrika.myseldon.com
 DOMAIN-SUFFIX,metriweb.be
 DOMAIN-SUFFIX,metrix.publix.com
