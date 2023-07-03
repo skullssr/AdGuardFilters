@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-02 05:02:38
-# DOMAIN-SUFFIX: 3100
-# TOTAL: 3100
+# UPDATED: 2023-07-04 04:51:37
+# DOMAIN-SUFFIX: 3102
+# TOTAL: 3102
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -191,6 +191,7 @@ DOMAIN-SUFFIX,amyscans.com
 DOMAIN-SUFFIX,an1me.nl
 DOMAIN-SUFFIX,andek.com.pl
 DOMAIN-SUFFIX,androidaba.com
+DOMAIN-SUFFIX,androidadult.com
 DOMAIN-SUFFIX,androidcrush.com
 DOMAIN-SUFFIX,androidemulator.in
 DOMAIN-SUFFIX,androidescomplicado.blogspot.com
@@ -1219,6 +1220,7 @@ DOMAIN-SUFFIX,g-status.com
 DOMAIN-SUFFIX,gtoys.blog.fc2.com
 DOMAIN-SUFFIX,gvmp.de
 DOMAIN-SUFFIX,gymhuntr.com
+DOMAIN-SUFFIX,haafedk2.com
 DOMAIN-SUFFIX,haaretz.com
 DOMAIN-SUFFIX,haberbucuk.com
 DOMAIN-SUFFIX,haberconnect.net
