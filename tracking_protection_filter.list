@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-04 04:59:11
-# DOMAIN-SUFFIX: 52841
-# TOTAL: 52841
+# UPDATED: 2023-07-05 05:08:42
+# DOMAIN-SUFFIX: 52838
+# TOTAL: 52838
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -6949,7 +6949,6 @@ DOMAIN-SUFFIX,api-ca4.central.tt.omtrdc.net
 DOMAIN-SUFFIX,api.calculator.tt.omtrdc.net
 DOMAIN-SUFFIX,api.call.tt.omtrdc.net
 DOMAIN-SUFFIX,api.calq.io
-DOMAIN-SUFFIX,api.carrottrack.io
 DOMAIN-SUFFIX,api.cazamba.com
 DOMAIN-SUFFIX,api.cc3.infra4.tt.omtrdc.net
 DOMAIN-SUFFIX,api-ccv-a.cp.tt.omtrdc.net
@@ -7152,7 +7151,6 @@ DOMAIN-SUFFIX,api.rm1003.stage.tt.omtrdc.net
 DOMAIN-SUFFIX,api-rp-info-sandbox.dev.sandbox.tt.omtrdc.net
 DOMAIN-SUFFIX,api.rse.global.tt.omtrdc.net
 DOMAIN-SUFFIX,apirss3.dyn.tt.omtrdc.net
-DOMAIN-SUFFIX,api.rubic.com.tr
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
 DOMAIN-SUFFIX,api.safedk.com
@@ -12446,7 +12444,6 @@ DOMAIN-SUFFIX,clk.themajorsaver.com
 DOMAIN-SUFFIX,clk.topamericacenter.com
 DOMAIN-SUFFIX,clk.toptipsfor.me
 DOMAIN-SUFFIX,clk.track-ad.com
-DOMAIN-SUFFIX,clktrk.display.io
 DOMAIN-SUFFIX,clk.trynewsolar.com
 DOMAIN-SUFFIX,clk.ubi.com
 DOMAIN-SUFFIX,clk.violetsamuraihealth.com
@@ -13726,7 +13723,6 @@ DOMAIN-SUFFIX,counter-gratis.com
 DOMAIN-SUFFIX,counter.jdi5.com
 DOMAIN-SUFFIX,counter.joins.com
 DOMAIN-SUFFIX,counter.kikibobo.top
-DOMAIN-SUFFIX,counter.kingsoft.com
 DOMAIN-SUFFIX,counter-kostenlos.info
 DOMAIN-SUFFIX,counter-kostenlos.net
 DOMAIN-SUFFIX,counterland.com
@@ -14085,6 +14081,7 @@ DOMAIN-SUFFIX,cs-demo.tt.omtrdc.net
 DOMAIN-SUFFIX,csdle.lex.tt.omtrdc.net
 DOMAIN-SUFFIX,csds-api-stg.tt.omtrdc.net
 DOMAIN-SUFFIX,cse3.chausport.com
+DOMAIN-SUFFIX,c.security.org
 DOMAIN-SUFFIX,csefel.tt.omtrdc.net
 DOMAIN-SUFFIX,cse.femadex.tt.omtrdc.net
 DOMAIN-SUFFIX,cseltzer26.tt.omtrdc.net
@@ -19619,7 +19616,6 @@ DOMAIN-SUFFIX,epssapbi-po-01p.cable.tt.omtrdc.net
 DOMAIN-SUFFIX,eptco27power.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,eptica2.town.blog.tt.omtrdc.net
 DOMAIN-SUFFIX,epwa.europarl.europa.eu
-DOMAIN-SUFFIX,ep.xone.com
 DOMAIN-SUFFIX,e-qa.uat.tt.omtrdc.net
 DOMAIN-SUFFIX,eq-beacon.stream.co.jp
 DOMAIN-SUFFIX,eqclicks.movember.com
@@ -28155,7 +28151,6 @@ DOMAIN-SUFFIX,metrics.bankwest.com.au
 DOMAIN-SUFFIX,metrics.barclaycardus.com
 DOMAIN-SUFFIX,metrics.bcbsnc.com
 DOMAIN-SUFFIX,metrics.becomeanex.org
-DOMAIN-SUFFIX,metrics.bestbuy.com
 DOMAIN-SUFFIX,metrics.bestoforlando.com
 DOMAIN-SUFFIX,metrics.bestrecipes.com.au
 DOMAIN-SUFFIX,metrics.beveragedaily.com
@@ -28486,7 +28481,7 @@ DOMAIN-SUFFIX,metrics.lumina-intelligence.com
 DOMAIN-SUFFIX,metrics.lww.com
 DOMAIN-SUFFIX,metrics.machinedesign.com
 DOMAIN-SUFFIX,metrics.macquarie.com.au
-DOMAIN-SUFFIX,metrics.macys.net
+DOMAIN-SUFFIX,metrics.macys.com
 DOMAIN-SUFFIX,metrics.madeformums.com
 DOMAIN-SUFFIX,metrics.madewell.com
 DOMAIN-SUFFIX,metrics.makemytrip.com
@@ -36477,6 +36472,7 @@ DOMAIN-SUFFIX,serfingest5you.tt.omtrdc.net
 DOMAIN-SUFFIX,sergiohenriquepereira.tt.omtrdc.net
 DOMAIN-SUFFIX,s.ergotherapieblog.de
 DOMAIN-SUFFIX,serious-partners.com
+DOMAIN-SUFFIX,serpentshampoo.com
 DOMAIN-SUFFIX,serp-seave2.erc.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,serp-seave-qa.erc.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,serv51.tt.omtrdc.net
@@ -46139,6 +46135,7 @@ DOMAIN-SUFFIX,tracking.care.salinasvalleyhealth.com
 DOMAIN-SUFFIX,tracking.carprices.com
 DOMAIN-SUFFIX,tracking.carsales.com.au
 DOMAIN-SUFFIX,tracking.cengage.com
+DOMAIN-SUFFIX,tracking.centerfield.com
 DOMAIN-SUFFIX,tracking.chacha.com
 DOMAIN-SUFFIX,tracking.changehealthcare.com
 DOMAIN-SUFFIX,tracking.channelsight.com
