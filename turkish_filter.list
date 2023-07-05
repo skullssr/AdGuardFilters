@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-21 05:04:47
-# DOMAIN-SUFFIX: 359
-# TOTAL: 359
+# UPDATED: 2023-07-06 05:19:25
+# DOMAIN-SUFFIX: 360
+# TOTAL: 360
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,mackolikftp.tuttur.com
 DOMAIN-SUFFIX,makroads.net
 DOMAIN-SUFFIX,makroo.com
 DOMAIN-SUFFIX,mediapeartree.com
+DOMAIN-SUFFIX,medyanative.com
 DOMAIN-SUFFIX,metrics34.com
 DOMAIN-SUFFIX,minireklam.com
 DOMAIN-SUFFIX,mkazanc.com

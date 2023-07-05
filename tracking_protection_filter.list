@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-05 05:08:42
-# DOMAIN-SUFFIX: 52838
-# TOTAL: 52838
+# UPDATED: 2023-07-06 05:15:13
+# DOMAIN-SUFFIX: 52840
+# TOTAL: 52840
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -4068,6 +4068,7 @@ DOMAIN-SUFFIX,adamm-aks.tt.omtrdc.net
 DOMAIN-SUFFIX,adamm-minio-6node.dev.azure.tt.omtrdc.net
 DOMAIN-SUFFIX,adamski76.tt.omtrdc.net
 DOMAIN-SUFFIX,ad-analytics-bootstrap.metaps.com
+DOMAIN-SUFFIX,ad-api-log.colopl.jp
 DOMAIN-SUFFIX,adappolarizingtrk.com
 DOMAIN-SUFFIX,adaptaciya.tt.omtrdc.net
 DOMAIN-SUFFIX,adaptlogo-a-cool.sites.tt.omtrdc.net
@@ -25607,6 +25608,7 @@ DOMAIN-SUFFIX,logistics.dbschenker.com
 DOMAIN-SUFFIX,logistics.osmworldwide.com
 DOMAIN-SUFFIX,logitech.tt.omtrdc.net
 DOMAIN-SUFFIX,log.iyunmai.com
+DOMAIN-SUFFIX,log.klook.com
 DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,loglady.publicbroadcasting.net
 DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
@@ -25646,6 +25648,7 @@ DOMAIN-SUFFIX,logql.yahoo.co.jp
 DOMAIN-SUFFIX,log.quora.com
 DOMAIN-SUFFIX,log.qvb.qcloud.com
 DOMAIN-SUFFIX,log.radiko.jp
+DOMAIN-SUFFIX,log.recommend.nicovideo.jp
 DOMAIN-SUFFIX,log.reformal.ru
 DOMAIN-SUFFIX,log.rhythmtowers.com
 DOMAIN-SUFFIX,log.rmp.rakuten.co.jp
@@ -52418,7 +52421,6 @@ DOMAIN-SUFFIX,y900.greenwichtime.com
 DOMAIN-SUFFIX,yaching1985.tt.omtrdc.net
 DOMAIN-SUFFIX,ya-counter.ru
 DOMAIN-SUFFIX,yada-beta.stage.tt.omtrdc.net
-DOMAIN-SUFFIX,ya.domain-vip.net
 DOMAIN-SUFFIX,yadropro.ru
 DOMAIN-SUFFIX,yadro.ru
 DOMAIN-SUFFIX,yadtbk.blacks.co.uk

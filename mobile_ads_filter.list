@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-06-29 05:14:35
+# UPDATED: 2023-07-06 05:19:38
 # DOMAIN-SUFFIX: 848
 # TOTAL: 848
 DOMAIN-SUFFIX,023hysj.com
@@ -492,6 +492,7 @@ DOMAIN-SUFFIX,intermarkets.net
 DOMAIN-SUFFIX,intowow.com
 DOMAIN-SUFFIX,investingchannel.com
 DOMAIN-SUFFIX,iqzone.com
+DOMAIN-SUFFIX,ir-new-cdn-eu-west-*-hb.rayjump.com
 DOMAIN-SUFFIX,i.singular.net
 DOMAIN-SUFFIX,i.skimresources.com
 DOMAIN-SUFFIX,itdsmr.com
@@ -703,7 +704,6 @@ DOMAIN-SUFFIX,serve-sys.com
 DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,setting.rayjump.com
 DOMAIN-SUFFIX,sexpennyauctions.com
-DOMAIN-SUFFIX,sf16-scmcdn-sg.ibytedtos.com
 DOMAIN-SUFFIX,shareasale.com
 DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,s.hisp.in
