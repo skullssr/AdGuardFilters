@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-06 05:15:13
-# DOMAIN-SUFFIX: 52840
-# TOTAL: 52840
+# UPDATED: 2023-07-07 05:08:57
+# DOMAIN-SUFFIX: 52822
+# TOTAL: 52822
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -5985,7 +5985,6 @@ DOMAIN-SUFFIX,analytics.concorsicartoonito.it
 DOMAIN-SUFFIX,analytics.contentexchange.me
 DOMAIN-SUFFIX,analytics.contents.by-fw.jp
 DOMAIN-SUFFIX,analytics.cookiefirst.dev
-DOMAIN-SUFFIX,analytics.core.retell.cc
 DOMAIN-SUFFIX,analytics.corusent.com
 DOMAIN-SUFFIX,analytics.crea.ca
 DOMAIN-SUFFIX,analytics.cycleworld.com
@@ -6183,7 +6182,6 @@ DOMAIN-SUFFIX,analytics.mobilegamestats.com
 DOMAIN-SUFFIX,analytics.mobile.walmart.com
 DOMAIN-SUFFIX,analytics.mobile.yandex.net
 DOMAIN-SUFFIX,analytics.mondotv.jp
-DOMAIN-SUFFIX,analytics.monetiza.co
 DOMAIN-SUFFIX,analytics.move.ru
 DOMAIN-SUFFIX,analytics.msnbc.msn.com
 DOMAIN-SUFFIX,analytics.myapstore.com
@@ -10722,6 +10720,7 @@ DOMAIN-SUFFIX,bsd7.tt.omtrdc.net
 DOMAIN-SUFFIX,bsd85.idmapper.api.api.tt.omtrdc.net
 DOMAIN-SUFFIX,bsdwww-7.tt.omtrdc.net
 DOMAIN-SUFFIX,b.secrets.tt.omtrdc.net
+DOMAIN-SUFFIX,bshr.ezodn.com
 DOMAIN-SUFFIX,b.simonandschuster.com
 DOMAIN-SUFFIX,b.simyo.de
 DOMAIN-SUFFIX,b-sit-cmsit.tt.omtrdc.net
@@ -11884,6 +11883,7 @@ DOMAIN-SUFFIX,c.gazetevatan.com
 DOMAIN-SUFFIX,cgb8big3c01hnsmr0l50w68936kqisuge.tt.omtrdc.net
 DOMAIN-SUFFIX,cgc102-12han.tt.omtrdc.net
 DOMAIN-SUFFIX,cgi0-demo.tt.omtrdc.net
+DOMAIN-SUFFIX,cgicol.amap.com
 DOMAIN-SUFFIX,cgi.tt.omtrdc.net
 DOMAIN-SUFFIX,cgmitalia45ai.tt.omtrdc.net
 DOMAIN-SUFFIX,cgoqrmyzaj.22foxnews.hb.tt.omtrdc.net
@@ -13389,7 +13389,6 @@ DOMAIN-SUFFIX,content52.tt.omtrdc.net
 DOMAIN-SUFFIX,content5.tt.omtrdc.net
 DOMAIN-SUFFIX,content.accelalpha.com
 DOMAIN-SUFFIX,content.actionbenefits.com
-DOMAIN-SUFFIX,content.ad
 DOMAIN-SUFFIX,content.aew.com
 DOMAIN-SUFFIX,content.bazaarvoice.com
 DOMAIN-SUFFIX,content.bondbrothers.com
@@ -16955,7 +16954,6 @@ DOMAIN-SUFFIX,d-collector.jennifersoft.com
 DOMAIN-SUFFIX,dc.plussizetech.com
 DOMAIN-SUFFIX,dcp-poc-api.tt.omtrdc.net
 DOMAIN-SUFFIX,dcp-prod-prod.goorange.orange.tt.omtrdc.net
-DOMAIN-SUFFIX,dcpub.cuberoot.co
 DOMAIN-SUFFIX,dcqr-xnat.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,dcra-voip-2-e.tt.omtrdc.net
 DOMAIN-SUFFIX,dc.realmadrid.com
@@ -18220,6 +18218,7 @@ DOMAIN-SUFFIX,dtscout.com
 DOMAIN-SUFFIX,dttrk.com
 DOMAIN-SUFFIX,d.tv-asahi.co.jp
 DOMAIN-SUFFIX,dtxtngytz5im1.cloudfront.net
+DOMAIN-SUFFIX,dualstack-cgicol.amap.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,dub9dma-s.tt.omtrdc.net
 DOMAIN-SUFFIX,dub9-ssoqa-01901.tt.omtrdc.net
@@ -19701,7 +19700,6 @@ DOMAIN-SUFFIX,es-stg.hotfix-3-6a-d.k8s-prod.getaws.tt.omtrdc.net
 DOMAIN-SUFFIX,es-stg.notifs-test.k8s-prod.getaws.tt.omtrdc.net
 DOMAIN-SUFFIX,es-stg.rma-prod.k8s-stg.getaws.tt.omtrdc.net
 DOMAIN-SUFFIX,estadisticasgratis.com
-DOMAIN-SUFFIX,estadisticasgratis.es
 DOMAIN-SUFFIX,estara.com
 DOMAIN-SUFFIX,estat.com
 DOMAIN-SUFFIX,estatcounter.co.uk
@@ -20548,7 +20546,6 @@ DOMAIN-SUFFIX,freestats.biz
 DOMAIN-SUFFIX,freestats.com
 DOMAIN-SUFFIX,freestats.net
 DOMAIN-SUFFIX,freestats.org
-DOMAIN-SUFFIX,freestats.tk
 DOMAIN-SUFFIX,freestats.tv
 DOMAIN-SUFFIX,freestats.ws
 DOMAIN-SUFFIX,freestat.ws
@@ -20989,6 +20986,7 @@ DOMAIN-SUFFIX,geygin.bonprix.ch
 DOMAIN-SUFFIX,gezaehlt.de
 DOMAIN-SUFFIX,gezinti.com
 DOMAIN-SUFFIX,gez.io
+DOMAIN-SUFFIX,g.ezodn.com
 DOMAIN-SUFFIX,gfa.fr.tt.omtrdc.net
 DOMAIN-SUFFIX,gfedcbadchain-isp-1-494.prod.ftl.prod.ftl.tt.omtrdc.net
 DOMAIN-SUFFIX,gfgcwf.vidaxl.lv
@@ -22060,7 +22058,6 @@ DOMAIN-SUFFIX,hit-parade.com
 DOMAIN-SUFFIX,hit-pool.upscore.io
 DOMAIN-SUFFIX,hits2u.com
 DOMAIN-SUFFIX,hits.dealer.com
-DOMAIN-SUFFIX,hits.e.cl
 DOMAIN-SUFFIX,hits-i.iubenda.com
 DOMAIN-SUFFIX,hits.io
 DOMAIN-SUFFIX,hitslink.com
@@ -29310,7 +29307,6 @@ DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com
 DOMAIN-SUFFIX,monitoring-use-aps1a.tt.omtrdc.net
 DOMAIN-SUFFIX,monitoring.youronlinechoices.com
 DOMAIN-SUFFIX,monitor.music.qq.com
-DOMAIN-SUFFIX,monitor.phorm.com
 DOMAIN-SUFFIX,monitor-targeting-failures.sqrt-5041.de
 DOMAIN-SUFFIX,monitus.net
 DOMAIN-SUFFIX,monkey.colinjohnston.com
@@ -30610,7 +30606,6 @@ DOMAIN-SUFFIX,oimg.nbcuni.com
 DOMAIN-SUFFIX,oimg.universalorlandovacations.com
 DOMAIN-SUFFIX,oit4.destinia.com.br
 DOMAIN-SUFFIX,oix.com
-DOMAIN-SUFFIX,oix.phorm.com
 DOMAIN-SUFFIX,oj.brothercloud.com
 DOMAIN-SUFFIX,o.jim.expert
 DOMAIN-SUFFIX,ojm4.palladiumhotelgroup.com
@@ -31988,7 +31983,6 @@ DOMAIN-SUFFIX,pd7ix.tt.omtrdc.net
 DOMAIN-SUFFIX,p.data.cctv.com
 DOMAIN-SUFFIX,pd.bppeloqua.com
 DOMAIN-SUFFIX,pdc1sp003.tt.omtrdc.net
-DOMAIN-SUFFIX,pdc.dmleonyc.com
 DOMAIN-SUFFIX,pdcuvapcpp0sp-wew004.tt.omtrdc.net
 DOMAIN-SUFFIX,pdf-o.tt.omtrdc.net
 DOMAIN-SUFFIX,pdftfe.thekooples.com
@@ -33330,7 +33324,6 @@ DOMAIN-SUFFIX,p.viennaandbailey.co.nz
 DOMAIN-SUFFIX,pv.kuaizhan.com
 DOMAIN-SUFFIX,pvoheg.bubbleroom.se
 DOMAIN-SUFFIX,pv.partenaires-verisure.fr
-DOMAIN-SUFFIX,pv.pjtsu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,pvtag.yahoo.co.jp
 DOMAIN-SUFFIX,pvt.grayconstruction.tt.omtrdc.net
@@ -37139,6 +37132,7 @@ DOMAIN-SUFFIX,sirplusdrx.tt.omtrdc.net
 DOMAIN-SUFFIX,sis8.premieremoisson.com
 DOMAIN-SUFFIX,sisplc.tt.omtrdc.net
 DOMAIN-SUFFIX,site24x7rum.com
+DOMAIN-SUFFIX,site24x7rum.in
 DOMAIN-SUFFIX,site2.emarketer.com
 DOMAIN-SUFFIX,sitealyse.de
 DOMAIN-SUFFIX,siteapps.com
@@ -40327,7 +40321,6 @@ DOMAIN-SUFFIX,sonar-metrics.tt.omtrdc.net
 DOMAIN-SUFFIX,sonar.semantiqo.com
 DOMAIN-SUFFIX,s-onetag.com
 DOMAIN-SUFFIX,soneticscorp.actonservice.com
-DOMAIN-SUFFIX,sonet-rp.swaxis.com
 DOMAIN-SUFFIX,sonholindo8a.tt.omtrdc.net
 DOMAIN-SUFFIX,s.onlineornot.com
 DOMAIN-SUFFIX,sonsuzsiirler.tt.omtrdc.net
@@ -40893,7 +40886,6 @@ DOMAIN-SUFFIX,srv13ma.ddns.tt.omtrdc.net
 DOMAIN-SUFFIX,srv15.atlassian-app.eu.cdn.tt.omtrdc.net
 DOMAIN-SUFFIX,srv15.atlassian.cdn.eu.tt.omtrdc.net
 DOMAIN-SUFFIX,srv.btata.click
-DOMAIN-SUFFIX,srv.dc-1.net
 DOMAIN-SUFFIX,srv-dc-20150.data.microsoft.tt.omtrdc.net
 DOMAIN-SUFFIX,srv.ellams.pro
 DOMAIN-SUFFIX,srv.net.tt.omtrdc.net
@@ -42027,7 +42019,6 @@ DOMAIN-SUFFIX,stat.landingpro.pl
 DOMAIN-SUFFIX,stat.legalintelligence.com
 DOMAIN-SUFFIX,stat.lex.pl
 DOMAIN-SUFFIX,stat.liteforex.eu
-DOMAIN-SUFFIX,stat.livesportbar.net
 DOMAIN-SUFFIX,stat.m.360.cn
 DOMAIN-SUFFIX,stat.magazines.com
 DOMAIN-SUFFIX,stat.media
@@ -43464,7 +43455,6 @@ DOMAIN-SUFFIX,supersale-direct.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,supersalesaleadayme.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,superstat.info
 DOMAIN-SUFFIX,superstats.com
-DOMAIN-SUFFIX,supert.ag
 DOMAIN-SUFFIX,supervisegoldfish.com
 DOMAIN-SUFFIX,supp10.vpn.tt.omtrdc.net
 DOMAIN-SUFFIX,supplier2-test.cps.tt.omtrdc.net
@@ -45562,7 +45552,6 @@ DOMAIN-SUFFIX,track1122.malayluck.com
 DOMAIN-SUFFIX,track.17goforward.com
 DOMAIN-SUFFIX,track1.avplayer.com
 DOMAIN-SUFFIX,track.24monetize.com
-DOMAIN-SUFFIX,track2.me
 DOMAIN-SUFFIX,track2.myklovr.com
 DOMAIN-SUFFIX,track2.trbo.com
 DOMAIN-SUFFIX,track.91app.io
@@ -47229,7 +47218,6 @@ DOMAIN-SUFFIX,tr.com.sfr.fr
 DOMAIN-SUFFIX,tr.comunicacao.younited-credit.com
 DOMAIN-SUFFIX,tr.comunicazione.younited-credit.com
 DOMAIN-SUFFIX,tr.com-web.sfr.fr
-DOMAIN-SUFFIX,tr.connatix.com
 DOMAIN-SUFFIX,tr.contact.astuceco.fr
 DOMAIN-SUFFIX,tr.contact.canalplay.com
 DOMAIN-SUFFIX,tr.contact.canalplus.fr
@@ -47689,7 +47677,6 @@ DOMAIN-SUFFIX,trk.cloud-bytes.net
 DOMAIN-SUFFIX,trk.coattermlertrk.com
 DOMAIN-SUFFIX,trk.comforttyyny.fi
 DOMAIN-SUFFIX,trk.concisegroup.com
-DOMAIN-SUFFIX,trk.connatix.com
 DOMAIN-SUFFIX,trk.consumerlifestylereports.com
 DOMAIN-SUFFIX,trk.consumptionusdaily.com
 DOMAIN-SUFFIX,trk.contact.umpquabank.com
@@ -48634,7 +48621,6 @@ DOMAIN-SUFFIX,tstcdrweb201.cps.cps.tt.omtrdc.net
 DOMAIN-SUFFIX,tst.core.yi.tt.omtrdc.net
 DOMAIN-SUFFIX,tstecsap1.gslb.tt.omtrdc.net
 DOMAIN-SUFFIX,tstkubhal8-hal.padm.tt.omtrdc.net
-DOMAIN-SUFFIX,tstlabs.co.uk
 DOMAIN-SUFFIX,t-s.tnkase.com
 DOMAIN-SUFFIX,ts.tradetracker.net
 DOMAIN-SUFFIX,t.strokeawareness.com
@@ -49272,7 +49258,6 @@ DOMAIN-SUFFIX,units.knotch.it
 DOMAIN-SUFFIX,unity-xeion.tt.omtrdc.net
 DOMAIN-SUFFIX,universalbackground.actonservice.com
 DOMAIN-SUFFIX,universalcitydevelop.tt.omtrdc.net
-DOMAIN-SUFFIX,universaltrackingcontainer.com
 DOMAIN-SUFFIX,universityofcanberra.tt.omtrdc.net
 DOMAIN-SUFFIX,universityofnewsouth.tt.omtrdc.net
 DOMAIN-SUFFIX,unknowncrate.com
@@ -51032,7 +51017,6 @@ DOMAIN-SUFFIX,welp2.cmhqa1.k8s.tt.omtrdc.net
 DOMAIN-SUFFIX,welp2.cmhqa2.k8s.tt.omtrdc.net
 DOMAIN-SUFFIX,welt-der-links.de
 DOMAIN-SUFFIX,welt.met.vgwort.de
-DOMAIN-SUFFIX,wemfbox.ch
 DOMAIN-SUFFIX,wenku4go.hackme.tt.omtrdc.net
 DOMAIN-SUFFIX,wenku5.pngww.tt.omtrdc.net
 DOMAIN-SUFFIX,wentratomantrk.com
@@ -52135,7 +52119,6 @@ DOMAIN-SUFFIX,www.tom3.com.tt.omtrdc.net
 DOMAIN-SUFFIX,www.toponlinecasinoer.club
 DOMAIN-SUFFIX,www.tracking.adp.ch
 DOMAIN-SUFFIX,www.tracking.alabamapower.com
-DOMAIN-SUFFIX,www.trading24.io
 DOMAIN-SUFFIX,www.transportationtest.tt.omtrdc.net
 DOMAIN-SUFFIX,www.tr.bfc-mp.caisse-epargne.fr
 DOMAIN-SUFFIX,www.trglm.com
@@ -52533,7 +52516,6 @@ DOMAIN-SUFFIX,yottlyscript.com
 DOMAIN-SUFFIX,you64love.tt.omtrdc.net
 DOMAIN-SUFFIX,youborafds01.com
 DOMAIN-SUFFIX,youcanoptout.com
-DOMAIN-SUFFIX,youmetrix.co.uk
 DOMAIN-SUFFIX,youngmarble.com
 DOMAIN-SUFFIX,youramigo.com
 DOMAIN-SUFFIX,yourblocksite.com

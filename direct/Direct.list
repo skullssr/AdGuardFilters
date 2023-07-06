@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-04 05:03:34
-# DOMAIN-SUFFIX: 4015
-# TOTAL: 4015
+# UPDATED: 2023-07-07 05:13:22
+# DOMAIN-SUFFIX: 4017
+# TOTAL: 4017
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -158,6 +158,7 @@ DOMAIN-SUFFIX,adsterra.com
 DOMAIN-SUFFIX,ads-ti9ni4.blogspot.com
 DOMAIN-SUFFIX,ads.tiktok.com
 DOMAIN-SUFFIX,adstop.org
+DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN-SUFFIX,ads.vk.com
 DOMAIN-SUFFIX,adsy.pw
 DOMAIN-SUFFIX,adturl.com
@@ -1193,6 +1194,7 @@ DOMAIN-SUFFIX,eyalo.com
 DOMAIN-SUFFIX,ez3c.tw
 DOMAIN-SUFFIX,ezbit.co.in
 DOMAIN-SUFFIX,ezimg.co
+DOMAIN-SUFFIX,ezodn.com
 DOMAIN-SUFFIX,f1countdown.com
 DOMAIN-SUFFIX,f1fanklub.pl
 DOMAIN-SUFFIX,f1-gate.com
@@ -2215,6 +2217,7 @@ DOMAIN-SUFFIX,media.polsatnews.pl
 DOMAIN-SUFFIX,medicalopium.blogspot.com.br
 DOMAIN-SUFFIX,megacuriosidades.pw
 DOMAIN-SUFFIX,mega-debrit.com
+DOMAIN-SUFFIX,megadrive-emulator.com
 DOMAIN-SUFFIX,megafilmestorrenthd.net
 DOMAIN-SUFFIX,megafilmestorrents.net
 DOMAIN-SUFFIX,megagames.com
@@ -3559,7 +3562,6 @@ DOMAIN-SUFFIX,toutes-les-solutions.fr
 DOMAIN-SUFFIX,tpaste.net
 DOMAIN-SUFFIX,tqanime.com
 DOMAIN-SUFFIX,tr3fit.xyz
-DOMAIN-SUFFIX,trace.playwright.dev
 DOMAIN-SUFFIX,track2.royalmail.com
 DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,track.rutarget.ru
