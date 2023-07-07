@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-07 05:08:57
-# DOMAIN-SUFFIX: 52822
-# TOTAL: 52822
+# UPDATED: 2023-07-08 05:06:45
+# DOMAIN-SUFFIX: 52824
+# TOTAL: 52824
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -20916,6 +20916,7 @@ DOMAIN-SUFFIX,geo.perezhilton.com
 DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geoplugin.net
 DOMAIN-SUFFIX,georiot.com
+DOMAIN-SUFFIX,geo-service.adtelligent.com
 DOMAIN-SUFFIX,geoservice.curse.com
 DOMAIN-SUFFIX,geosvc.globalmailer.com
 DOMAIN-SUFFIX,geo.theawesomer.com
@@ -29717,6 +29718,7 @@ DOMAIN-SUFFIX,musiccounter.ru
 DOMAIN-SUFFIX,musicplayer.tt.omtrdc.net
 DOMAIN-SUFFIX,muskox.appital.io
 DOMAIN-SUFFIX,mutanpoloan.tt.omtrdc.net
+DOMAIN-SUFFIX,muteknife.com
 DOMAIN-SUFFIX,mutinycdn.com
 DOMAIN-SUFFIX,mutli-motor.tt.omtrdc.net
 DOMAIN-SUFFIX,mutua.tt.omtrdc.net
