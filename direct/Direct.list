@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-08 05:10:47
-# DOMAIN-SUFFIX: 4019
-# TOTAL: 4019
+# UPDATED: 2023-07-11 05:49:32
+# DOMAIN-SUFFIX: 4020
+# TOTAL: 4020
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -3376,6 +3376,7 @@ DOMAIN-SUFFIX,tamiltunes.network
 DOMAIN-SUFFIX,tamilyogi.eu
 DOMAIN-SUFFIX,tamilyogi.nu
 DOMAIN-SUFFIX,tamilyogi.vip
+DOMAIN-SUFFIX,tapewithadblock.org
 DOMAIN-SUFFIX,tatuajestatu.com
 DOMAIN-SUFFIX,tboost.xyz
 DOMAIN-SUFFIX,teachertube.com
