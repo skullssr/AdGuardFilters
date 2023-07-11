@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-06 05:19:25
-# DOMAIN-SUFFIX: 360
-# TOTAL: 360
+# UPDATED: 2023-07-12 05:48:01
+# DOMAIN-SUFFIX: 361
+# TOTAL: 361
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -205,6 +205,7 @@ DOMAIN-SUFFIX,jigolobasvuru.xyz
 DOMAIN-SUFFIX,kalitereklam.com
 DOMAIN-SUFFIX,kingads.mobi
 DOMAIN-SUFFIX,kingadsvip.club
+DOMAIN-SUFFIX,kingdepo.com
 DOMAIN-SUFFIX,knkyeterla.cc
 DOMAIN-SUFFIX,konyasohbetodalari.net
 DOMAIN-SUFFIX,kos.interseek.si

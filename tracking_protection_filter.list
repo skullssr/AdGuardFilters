@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-11 05:45:06
-# DOMAIN-SUFFIX: 55663
-# TOTAL: 55663
+# UPDATED: 2023-07-12 05:43:51
+# DOMAIN-SUFFIX: 55667
+# TOTAL: 55667
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -11397,6 +11397,7 @@ DOMAIN-SUFFIX,borseniam.tns-gallup.dk
 DOMAIN-SUFFIX,bos31.tt.omtrdc.net
 DOMAIN-SUFFIX,bosan25-api.tt.omtrdc.net
 DOMAIN-SUFFIX,bose.tt.omtrdc.net
+DOMAIN-SUFFIX,bos.hubty.network
 DOMAIN-SUFFIX,boshuncover.uncover.tt.omtrdc.net
 DOMAIN-SUFFIX,bo.sp-int.tt.omtrdc.net
 DOMAIN-SUFFIX,boss1234.tt.omtrdc.net
@@ -26893,6 +26894,7 @@ DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
 DOMAIN-SUFFIX,logcol.kyobobook.co.kr
 DOMAIN-SUFFIX,log.collectaction.com
+DOMAIN-SUFFIX,logcollector.note.com
 DOMAIN-SUFFIX,logcollector.viewster.com
 DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
 DOMAIN-SUFFIX,logconfig.polarisoffice.com
@@ -32940,6 +32942,8 @@ DOMAIN-SUFFIX,openhit.com
 DOMAIN-SUFFIX,openinternetexchange.com
 DOMAIN-SUFFIX,openinternetexchange.net
 DOMAIN-SUFFIX,openjurist.tt.omtrdc.net
+DOMAIN-SUFFIX,openmonitor.alipay.com
+DOMAIN-SUFFIX,openmonitor.alipay-eco.com
 DOMAIN-SUFFIX,open.oneplus.net
 DOMAIN-SUFFIX,opensearch-tops2.tt.omtrdc.net
 DOMAIN-SUFFIX,opensource.awscmhqa3.ks.tt.omtrdc.net
