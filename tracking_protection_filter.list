@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-13 05:41:03
-# DOMAIN-SUFFIX: 55658
-# TOTAL: 55658
+# UPDATED: 2023-07-14 05:06:06
+# DOMAIN-SUFFIX: 55661
+# TOTAL: 55661
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7181,6 +7181,7 @@ DOMAIN-SUFFIX,analytics.teamcovenant.com
 DOMAIN-SUFFIX,analytics.tebilisim.com
 DOMAIN-SUFFIX,analytics.techem.com
 DOMAIN-SUFFIX,analytics.techem.de
+DOMAIN-SUFFIX,analytics.tedium.co
 DOMAIN-SUFFIX,analytics.teespring.com
 DOMAIN-SUFFIX,analyticstest.amica.com
 DOMAIN-SUFFIX,analytics.test.cheggnet.com
@@ -26948,6 +26949,9 @@ DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
 DOMAIN-SUFFIX,log.gomlab.com
 DOMAIN-SUFFIX,log.gs3.goo.ne.jp
+DOMAIN-SUFFIX,loggw.alipay.com
+DOMAIN-SUFFIX,loggw.alipay.com.cn
+DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,loggychops.paulsmith.site
 DOMAIN-SUFFIX,log.haberturk.com
 DOMAIN-SUFFIX,log.happyapkdown.com
@@ -34424,7 +34428,6 @@ DOMAIN-SUFFIX,pinniped.quarantinecup.live
 DOMAIN-SUFFIX,pino.tt.omtrdc.net
 DOMAIN-SUFFIX,pinptg.milleni.com.tr
 DOMAIN-SUFFIX,pio.wir-sehen-uns-im-juni.de
-DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,pipe-collect.ebu.io
 DOMAIN-SUFFIX,pipedream.wistia.com
 DOMAIN-SUFFIX,pipelinemetrics-b.a-prf.a.tt.omtrdc.net
