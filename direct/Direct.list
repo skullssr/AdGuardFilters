@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-16 05:11:37
-# DOMAIN-SUFFIX: 4022
-# TOTAL: 4022
+# UPDATED: 2023-07-17 05:03:42
+# DOMAIN-SUFFIX: 4023
+# TOTAL: 4023
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1784,6 +1784,7 @@ DOMAIN-SUFFIX,iptvcanales.com
 DOMAIN-SUFFIX,iptvliste.com
 DOMAIN-SUFFIX,iptvnow.top
 DOMAIN-SUFFIX,iptvvall.com
+DOMAIN-SUFFIX,irasutoya.blogspot.com
 DOMAIN-SUFFIX,ireez.com
 DOMAIN-SUFFIX,irisbuddies.ml
 DOMAIN-SUFFIX,isekaisubs.web.id
