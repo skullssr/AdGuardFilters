@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-14 05:06:49
-# DOMAIN-SUFFIX: 994
-# TOTAL: 994
+# UPDATED: 2023-07-18 05:05:40
+# DOMAIN-SUFFIX: 995
+# TOTAL: 995
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,cherriescare.com
 DOMAIN-SUFFIX,chesterstandard-gb.chesterstandard.co.uk
 DOMAIN-SUFFIX,chgilks.com
 DOMAIN-SUFFIX,childlikecrowd.com
+DOMAIN-SUFFIX,childlikeexample.com
 DOMAIN-SUFFIX,childlikeform.com
 DOMAIN-SUFFIX,choices.consentframework.com
 DOMAIN-SUFFIX,chubbycreature.com

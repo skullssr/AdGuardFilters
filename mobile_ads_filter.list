@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-12 05:48:14
-# DOMAIN-SUFFIX: 851
-# TOTAL: 851
+# UPDATED: 2023-07-18 05:09:42
+# DOMAIN-SUFFIX: 852
+# TOTAL: 852
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -418,6 +418,7 @@ DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,flygo.ru
 DOMAIN-SUFFIX,focas.jp
 DOMAIN-SUFFIX,friendlyduck.com
+DOMAIN-SUFFIX,frontman.tmobiapi.com
 DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,gameanalysis.appcpi.net
 DOMAIN-SUFFIX,gateway.ttpsdk.info
