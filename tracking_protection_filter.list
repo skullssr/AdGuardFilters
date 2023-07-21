@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-21 05:51:31
-# DOMAIN-SUFFIX: 55385
-# TOTAL: 55385
+# UPDATED: 2023-07-22 05:00:51
+# DOMAIN-SUFFIX: 55384
+# TOTAL: 55384
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -6660,6 +6660,7 @@ DOMAIN-SUFFIX,amwifi.cap3.tt.omtrdc.net
 DOMAIN-SUFFIX,a.mx.carte-gr.total.fr
 DOMAIN-SUFFIX,amx-chroscicki.tt.omtrdc.net
 DOMAIN-SUFFIX,a.mx.information.maileva.com
+DOMAIN-SUFFIX,am.yahoo.co.jp
 DOMAIN-SUFFIX,a.myfidevs.io
 DOMAIN-SUFFIX,a.mygreatrelief.com
 DOMAIN-SUFFIX,ana.bandi.so
@@ -10126,6 +10127,7 @@ DOMAIN-SUFFIX,b91.yahoo.co.jp
 DOMAIN-SUFFIX,b92.yahoo.co.jp
 DOMAIN-SUFFIX,b94.yahoo.co.jp
 DOMAIN-SUFFIX,b97.yahoo.co.jp
+DOMAIN-SUFFIX,b99.yahoo.co.jp
 DOMAIN-SUFFIX,ba-1c-4.idmapper.api.api.tt.omtrdc.net
 DOMAIN-SUFFIX,ba98.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,ba9isd7v72.coxnet.hb.tt.omtrdc.net
@@ -15111,7 +15113,6 @@ DOMAIN-SUFFIX,ctc.wolterskluwer.com
 DOMAIN-SUFFIX,c.telemetry.tt.omtrdc.net
 DOMAIN-SUFFIX,ctf-contry-eventrol-ds-jenkins.tt.omtrdc.net
 DOMAIN-SUFFIX,ctg3a.tt.omtrdc.net
-DOMAIN-SUFFIX,c.tgknt.com
 DOMAIN-SUFFIX,cthbrm.bridgeimoveis.com.br
 DOMAIN-SUFFIX,ctie.vle-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,ctiimage.actonservice.com
@@ -19550,7 +19551,6 @@ DOMAIN-SUFFIX,ea.voyage-prive.it
 DOMAIN-SUFFIX,ea.warnerbros.fr
 DOMAIN-SUFFIX,eayrqn.eufylife.com
 DOMAIN-SUFFIX,ea.zgeneration.com
-DOMAIN-SUFFIX,eba-amadeus.netdna-ssl.com
 DOMAIN-SUFFIX,eb.bewithyou.jp
 DOMAIN-SUFFIX,ebc1.capifrance.fr
 DOMAIN-SUFFIX,ebgagg.pink.rs
@@ -26793,7 +26793,6 @@ DOMAIN-SUFFIX,log.baomoi.com
 DOMAIN-SUFFIX,log.bloodsugars.live
 DOMAIN-SUFFIX,logbor.com
 DOMAIN-SUFFIX,log*.byteoversea.com
-DOMAIN-SUFFIX,log.ca.gov.vn
 DOMAIN-SUFFIX,log.cinematoday.jp
 DOMAIN-SUFFIX,log.cloud.sbs.co.kr
 DOMAIN-SUFFIX,log.codemarketing.cloud
@@ -34888,7 +34887,6 @@ DOMAIN-SUFFIX,prodm2i3d.lbbp.tt.omtrdc.net
 DOMAIN-SUFFIX,prodm3cf.lbbp.tt.omtrdc.net
 DOMAIN-SUFFIX,prodmp.ru
 DOMAIN-SUFFIX,prod.nitrosniffer.ottogroup.io
-DOMAIN-SUFFIX,prod-plague-bacon.miniclippt.com
 DOMAIN-SUFFIX,prod.sapglobalmarketingin.tt.omtrdc.net
 DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
 DOMAIN-SUFFIX,prodtest.esoa.tt.omtrdc.net
@@ -35606,6 +35604,7 @@ DOMAIN-SUFFIX,raintwig.com
 DOMAIN-SUFFIX,rainyhand.com
 DOMAIN-SUFFIX,rainystretch.com
 DOMAIN-SUFFIX,rake.11st.co.kr
+DOMAIN-SUFFIX,rake.tmap.co.kr
 DOMAIN-SUFFIX,rakuten.actonservice.com
 DOMAIN-SUFFIX,rakutenbooks.tt.omtrdc.net
 DOMAIN-SUFFIX,rakutenhensei.tt.omtrdc.net
