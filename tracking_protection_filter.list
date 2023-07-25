@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-25 04:59:02
-# DOMAIN-SUFFIX: 55652
-# TOTAL: 55652
+# UPDATED: 2023-07-26 05:36:45
+# DOMAIN-SUFFIX: 55636
+# TOTAL: 55636
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7125,14 +7125,12 @@ DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,analyse.hinemos.info
 DOMAIN-SUFFIX,analysis.afreecatv.com
 DOMAIN-SUFFIX,analysis.fi
-DOMAIN-SUFFIX,analysis.focalprice.com
 DOMAIN-SUFFIX,analysis.polarisoffice.com
 DOMAIN-SUFFIX,analysts.tt.omtrdc.net
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,analytic20.detik.com
 DOMAIN-SUFFIX,analytic.ae.com
 DOMAIN-SUFFIX,analytic.americanfunds.com
-DOMAIN-SUFFIX,analyticapi.piri.net
 DOMAIN-SUFFIX,analytic.buoyweather.com
 DOMAIN-SUFFIX,analytic.cibc.com
 DOMAIN-SUFFIX,analytic-client.cuntempire.com
@@ -7141,14 +7139,12 @@ DOMAIN-SUFFIX,analytic.fishtrack.com
 DOMAIN-SUFFIX,analytic.hawaii.aaa.com
 DOMAIN-SUFFIX,analytic.hotelclub.com
 DOMAIN-SUFFIX,analytic.imlive.com
-DOMAIN-SUFFIX,analytic.piri.net
 DOMAIN-SUFFIX,analytic.pnc.com
 DOMAIN-SUFFIX,analytic.press
 DOMAIN-SUFFIX,analytic.rocks
 DOMAIN-SUFFIX,analytics-03-submit.tt.omtrdc.net
 DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,analytics1.dillards.com
-DOMAIN-SUFFIX,analytics.247sports.com
 DOMAIN-SUFFIX,analytics2.awsli.com.br
 DOMAIN-SUFFIX,analytics2.tvreport.co.kr
 DOMAIN-SUFFIX,analytics.300624.com
@@ -7185,7 +7181,6 @@ DOMAIN-SUFFIX,analytics.appservice.tech
 DOMAIN-SUFFIX,analytics.architectum.com
 DOMAIN-SUFFIX,analytics.archive.org
 DOMAIN-SUFFIX,analytics.argeton.com
-DOMAIN-SUFFIX,analytics.artirix.com
 DOMAIN-SUFFIX,analytics.arunraghavan.net
 DOMAIN-SUFFIX,analytics.asml.com
 DOMAIN-SUFFIX,analytics.athome.com
@@ -7238,7 +7233,6 @@ DOMAIN-SUFFIX,analytics-cdiscount.com
 DOMAIN-SUFFIX,analytics.cdn.live
 DOMAIN-SUFFIX,analytics.ceneo.pl
 DOMAIN-SUFFIX,analytics.certifriedit.com
-DOMAIN-SUFFIX,analytics.cervellio.com
 DOMAIN-SUFFIX,analytics.chase.com
 DOMAIN-SUFFIX,analytics.chattarize.de
 DOMAIN-SUFFIX,analytics.chilevision.cl
@@ -7315,7 +7309,6 @@ DOMAIN-SUFFIX,analytics-events.inshorts.com
 DOMAIN-SUFFIX,analytics.evo.co.uk
 DOMAIN-SUFFIX,analytics.ewz.ch
 DOMAIN-SUFFIX,analytics.faceitanalytics.com
-DOMAIN-SUFFIX,analytics.fairfax.com.au
 DOMAIN-SUFFIX,analytics.fatmedia.io
 DOMAIN-SUFFIX,analytics.ferguson.com
 DOMAIN-SUFFIX,analytics.ff.avast.com
@@ -7344,7 +7337,6 @@ DOMAIN-SUFFIX,analytics.geoutletstore.com
 DOMAIN-SUFFIX,analytics.gestore.com
 DOMAIN-SUFFIX,analytics.getshogun.com
 DOMAIN-SUFFIX,analytics.gewaterheater.com
-DOMAIN-SUFFIX,analytics.go.com
 DOMAIN-SUFFIX,analytics.gokwik.co
 DOMAIN-SUFFIX,analytics.gooogol.com
 DOMAIN-SUFFIX,analytics.gorillanation.com
@@ -7593,7 +7585,6 @@ DOMAIN-SUFFIX,analytics-secure.dollargeneral.com
 DOMAIN-SUFFIX,analytics.seekxr.com
 DOMAIN-SUFFIX,analytics.send.cm
 DOMAIN-SUFFIX,analytics-server.gimbal.com
-DOMAIN-SUFFIX,analytics.services.distractify.com
 DOMAIN-SUFFIX,analytics.servogram.io
 DOMAIN-SUFFIX,analytics.sgnapps.com
 DOMAIN-SUFFIX,analytics-sg.tiktok.com
@@ -7682,7 +7673,6 @@ DOMAIN-SUFFIX,analytics.thehartford.com
 DOMAIN-SUFFIX,analytics.theinstitutes.org
 DOMAIN-SUFFIX,analytics.thenest.com
 DOMAIN-SUFFIX,analytics.thenewslens.com
-DOMAIN-SUFFIX,analytics.thetab.com
 DOMAIN-SUFFIX,analytics.thingx.tv
 DOMAIN-SUFFIX,analytics.tiendaenoferta.com
 DOMAIN-SUFFIX,analytics.tiktok.com
@@ -7718,7 +7708,6 @@ DOMAIN-SUFFIX,analytics.turnertv.com
 DOMAIN-SUFFIX,analytics.tver.jp
 DOMAIN-SUFFIX,analytics.ubports.com
 DOMAIN-SUFFIX,analytics.ubs.com
-DOMAIN-SUFFIX,analytics-udg.netdna-ssl.com
 DOMAIN-SUFFIX,analytics.uhhospitals.org
 DOMAIN-SUFFIX,analytics.unand.ac.id
 DOMAIN-SUFFIX,analytics.underarmour.com
@@ -7741,8 +7730,6 @@ DOMAIN-SUFFIX,analytics.virginaustralia.com
 DOMAIN-SUFFIX,analytics.virginmobileusa.com
 DOMAIN-SUFFIX,analytics.visible.com
 DOMAIN-SUFFIX,analytics.vodgc.net
-DOMAIN-SUFFIX,analytics.volvocars.com
-DOMAIN-SUFFIX,analytics.vooxe.com
 DOMAIN-SUFFIX,analytics.vpplayer.tech
 DOMAIN-SUFFIX,analytics.waterskimag.com
 DOMAIN-SUFFIX,analytics.wayland.app
@@ -7751,8 +7738,6 @@ DOMAIN-SUFFIX,analytics.webads.eu
 DOMAIN-SUFFIX,analytics.webflow.com
 DOMAIN-SUFFIX,analytics.webgains.io
 DOMAIN-SUFFIX,analytics.weldonowen.com
-DOMAIN-SUFFIX,analytics.wetpaint.me
-DOMAIN-SUFFIX,analytics.whatculture.com
 DOMAIN-SUFFIX,analytics.whostheboss.co.uk
 DOMAIN-SUFFIX,analytics.whotargets.me
 DOMAIN-SUFFIX,analytics.wienerberger.al
@@ -7789,10 +7774,8 @@ DOMAIN-SUFFIX,analytics.wondershare.cc
 DOMAIN-SUFFIX,analytics.wrc.nic.in
 DOMAIN-SUFFIX,analytics.xiloc.net
 DOMAIN-SUFFIX,analytics.xoomenergy.com
-DOMAIN-SUFFIX,analytics.xyscdn.com
 DOMAIN-SUFFIX,analytics.yahoo.com
 DOMAIN-SUFFIX,analytics.zagg.com
-DOMAIN-SUFFIX,analytics.zeekit.co
 DOMAIN-SUFFIX,analytics.zevvle.com
 DOMAIN-SUFFIX,analytics.zg-api.com
 DOMAIN-SUFFIX,analytics.zoomit.ir
@@ -8270,7 +8253,6 @@ DOMAIN-SUFFIX,api.c3-pmgt.tt.omtrdc.net
 DOMAIN-SUFFIX,api-ca4.central.tt.omtrdc.net
 DOMAIN-SUFFIX,api.calculator.tt.omtrdc.net
 DOMAIN-SUFFIX,api.call.tt.omtrdc.net
-DOMAIN-SUFFIX,api.calq.io
 DOMAIN-SUFFIX,api.cazamba.com
 DOMAIN-SUFFIX,api.cc3.infra4.tt.omtrdc.net
 DOMAIN-SUFFIX,api-ccv-a.cp.tt.omtrdc.net
@@ -8408,7 +8390,6 @@ DOMAIN-SUFFIX,api.limbik.com
 DOMAIN-SUFFIX,api.loadbalancer-debug.tt.omtrdc.net
 DOMAIN-SUFFIX,api.localhostapi.tt.omtrdc.net
 DOMAIN-SUFFIX,api-log-incident-rp-preprod.mym.tt.omtrdc.net
-DOMAIN-SUFFIX,api.logmatic.io
 DOMAIN-SUFFIX,api-lp-www.tt.omtrdc.net
 DOMAIN-SUFFIX,api-lvb.h2-pqa.tt.omtrdc.net
 DOMAIN-SUFFIX,api.manager.poc2.tt.omtrdc.net
@@ -26911,7 +26892,9 @@ DOMAIN-SUFFIX,log.gomlab.com
 DOMAIN-SUFFIX,log.gs3.goo.ne.jp
 DOMAIN-SUFFIX,loggw.alipay.com
 DOMAIN-SUFFIX,loggw.alipay.com.cn
+DOMAIN-SUFFIX,loggw.alipaydns.com
 DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,loggw-exsdk.alipay.com
 DOMAIN-SUFFIX,loggychops.paulsmith.site
 DOMAIN-SUFFIX,log.haberturk.com
 DOMAIN-SUFFIX,log.happyapkdown.com
@@ -48235,6 +48218,7 @@ DOMAIN-SUFFIX,track.furniturevisioncenter.com
 DOMAIN-SUFFIX,track.futebolesportesjack.online
 DOMAIN-SUFFIX,track.futureshop.ca
 DOMAIN-SUFFIX,track.fxstreet.com
+DOMAIN-SUFFIX,track.gaconnector.com
 DOMAIN-SUFFIX,track.gamingchairsforyou.com
 DOMAIN-SUFFIX,track.gamingchairsspace.com
 DOMAIN-SUFFIX,track.garagemaxspace.com
