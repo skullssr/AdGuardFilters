@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-26 05:27:28
-# DOMAIN-SUFFIX: 3094
-# TOTAL: 3094
+# UPDATED: 2023-07-28 05:22:34
+# DOMAIN-SUFFIX: 3096
+# TOTAL: 3096
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -384,6 +384,7 @@ DOMAIN-SUFFIX,bitfun.co
 DOMAIN-SUFFIX,bitsilver.io
 DOMAIN-SUFFIX,bits.re
 DOMAIN-SUFFIX,bituniverse.net
+DOMAIN-SUFFIX,bitview.cloud
 DOMAIN-SUFFIX,bizimgezegenimiz.com
 DOMAIN-SUFFIX,blackclovermanga2.com
 DOMAIN-SUFFIX,blackclovermanga.com
@@ -2722,6 +2723,7 @@ DOMAIN-SUFFIX,topnaturaltips.com
 DOMAIN-SUFFIX,topperpoint.com
 DOMAIN-SUFFIX,toppng.com
 DOMAIN-SUFFIX,topsport.bg
+DOMAIN-SUFFIX,topsporter.net
 DOMAIN-SUFFIX,toptv.cloud
 DOMAIN-SUFFIX,topvideosgay.com
 DOMAIN-SUFFIX,topwebsitelists.com

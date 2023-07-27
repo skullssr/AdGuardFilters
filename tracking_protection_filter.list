@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-27 05:42:52
-# DOMAIN-SUFFIX: 55629
-# TOTAL: 55629
+# UPDATED: 2023-07-28 05:30:44
+# DOMAIN-SUFFIX: 55612
+# TOTAL: 55612
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -14031,7 +14031,6 @@ DOMAIN-SUFFIX,collector.mediator.media
 DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.prod.expedia.com
-DOMAIN-SUFFIX,collector.puhutv.com
 DOMAIN-SUFFIX,collector-*.px-cdn.net
 DOMAIN-SUFFIX,collector-*.pxchk.net
 DOMAIN-SUFFIX,collector-*.px-cloud.net
@@ -14041,13 +14040,10 @@ DOMAIN-SUFFIX,collector.rn.de
 DOMAIN-SUFFIX,collector.roistat.com
 DOMAIN-SUFFIX,collector.schibsted.io
 DOMAIN-SUFFIX,collector.scopely.io
-DOMAIN-SUFFIX,collector.shopstream.co
-DOMAIN-SUFFIX,collector.shorte.st
 DOMAIN-SUFFIX,collector-statistics.nhn-commerce.com
 DOMAIN-SUFFIX,collector.statowl.com
 DOMAIN-SUFFIX,collector.szlcsc.com
 DOMAIN-SUFFIX,collector.taxes.taxes1.tt.omtrdc.net
-DOMAIN-SUFFIX,collector.tescocompare.com
 DOMAIN-SUFFIX,collector.trendmd.com
 DOMAIN-SUFFIX,collector.tt.omtrdc.net
 DOMAIN-SUFFIX,collector-*.tvsquared.com
@@ -14059,7 +14055,6 @@ DOMAIN-SUFFIX,collector.xhwide1.com
 DOMAIN-SUFFIX,collector.xhwide8.com
 DOMAIN-SUFFIX,collect.rtl.lu
 DOMAIN-SUFFIX,collect.serious.li
-DOMAIN-SUFFIX,collect.tianya.cn
 DOMAIN-SUFFIX,collect.usefathom.com
 DOMAIN-SUFFIX,collect-v*.51.la
 DOMAIN-SUFFIX,collect.vans.com.cn
@@ -14098,7 +14093,6 @@ DOMAIN-SUFFIX,comenityservicing.tt.omtrdc.net
 DOMAIN-SUFFIX,comerciodigitalbf.tt.omtrdc.net
 DOMAIN-SUFFIX,comeresaprensasl.tt.omtrdc.net
 DOMAIN-SUFFIX,cometlytrack.com
-DOMAIN-SUFFIX,comet.sputniknews.com
 DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,comfluvaccines-cloud.vaccines.tt.omtrdc.net
 DOMAIN-SUFFIX,comfluvaccinesscm4.vaccines.tt.omtrdc.net
@@ -14724,7 +14718,6 @@ DOMAIN-SUFFIX,counter1.fc2.com
 DOMAIN-SUFFIX,counter.1gb.ru
 DOMAIN-SUFFIX,counter.24log.es
 DOMAIN-SUFFIX,counter24.luxnet.ua
-DOMAIN-SUFFIX,counter.24smi.info
 DOMAIN-SUFFIX,counter27.ch
 DOMAIN-SUFFIX,counter2.blog.livedoor.com
 DOMAIN-SUFFIX,counter.adguard.com
@@ -14762,7 +14755,6 @@ DOMAIN-SUFFIX,counter.nn.ru
 DOMAIN-SUFFIX,counter.nv.ua
 DOMAIN-SUFFIX,counter.ok.ee
 DOMAIN-SUFFIX,counteronline.de
-DOMAIN-SUFFIX,counter.opinion.com.ua
 DOMAIN-SUFFIX,counter.pixplug.in
 DOMAIN-SUFFIX,counter.pr-cy.ru
 DOMAIN-SUFFIX,counter.promodeejay.net
@@ -14772,7 +14764,6 @@ DOMAIN-SUFFIX,counter.rian.ru
 DOMAIN-SUFFIX,counters4u.com
 DOMAIN-SUFFIX,counter.sberbank.ru
 DOMAIN-SUFFIX,counter.scribblelive.com
-DOMAIN-SUFFIX,counter.scribblelive.net
 DOMAIN-SUFFIX,counterseite.de
 DOMAIN-SUFFIX,counterserver.de
 DOMAIN-SUFFIX,countersforlife.com
@@ -14788,7 +14779,6 @@ DOMAIN-SUFFIX,counter.theconversation.edu.au
 DOMAIN-SUFFIX,counter.tianjimedia.com
 DOMAIN-SUFFIX,counter.top.ge
 DOMAIN-SUFFIX,counter.top.kg
-DOMAIN-SUFFIX,counter.tovarro.com
 DOMAIN-SUFFIX,countertracker.com
 DOMAIN-SUFFIX,counter-treff.de
 DOMAIN-SUFFIX,counter.ukr.net
@@ -14818,7 +14808,6 @@ DOMAIN-SUFFIX,count.nuanyuehanxing.com
 DOMAIN-SUFFIX,counto.de
 DOMAIN-SUFFIX,countok.de
 DOMAIN-SUFFIX,countomat.com
-DOMAIN-SUFFIX,count.prx.org
 DOMAIN-SUFFIX,count.rin.ru
 DOMAIN-SUFFIX,count.rtl.de
 DOMAIN-SUFFIX,countus.fr
@@ -15005,7 +14994,6 @@ DOMAIN-SUFFIX,crmmetrixwris.com
 DOMAIN-SUFFIX,crmonline.actonservice.com
 DOMAIN-SUFFIX,crmtest283test.tt.omtrdc.net
 DOMAIN-SUFFIX,crm.toyotago.com.ec
-DOMAIN-SUFFIX,crm.zenguard.biz
 DOMAIN-SUFFIX,crocetta.viessmann.it
 DOMAIN-SUFFIX,cromaretail.tt.omtrdc.net
 DOMAIN-SUFFIX,cronjobs-web.co.stores.tt.omtrdc.net
@@ -21850,14 +21838,12 @@ DOMAIN-SUFFIX,geometry-dash.de.tt.omtrdc.net
 DOMAIN-SUFFIX,geo.met.vgwort.de
 DOMAIN-SUFFIX,geo.mozilla.org
 DOMAIN-SUFFIX,geonetric.actonservice.com
-DOMAIN-SUFFIX,geo.perezhilton.com
 DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geoplugin.net
 DOMAIN-SUFFIX,georiot.com
 DOMAIN-SUFFIX,geo-service.adtelligent.com
 DOMAIN-SUFFIX,geoservice.curse.com
 DOMAIN-SUFFIX,geosvc.globalmailer.com
-DOMAIN-SUFFIX,geo.theawesomer.com
 DOMAIN-SUFFIX,geo.xcel.io
 DOMAIN-SUFFIX,geo.yahoo.com
 DOMAIN-SUFFIX,gepbjahkey.18.0.20dupont.hb.tt.omtrdc.net
@@ -21908,6 +21894,7 @@ DOMAIN-SUFFIX,getstatistics.se
 DOMAIN-SUFFIX,getstat.net
 DOMAIN-SUFFIX,getstats.org
 DOMAIN-SUFFIX,get-supreme-greens-capsules.vitasupreme.com
+DOMAIN-SUFFIX,getter.cfd
 DOMAIN-SUFFIX,getter.tt.omtrdc.net
 DOMAIN-SUFFIX,gettoeic900.tt.omtrdc.net
 DOMAIN-SUFFIX,gettoknow.skookum.com
@@ -34302,6 +34289,7 @@ DOMAIN-SUFFIX,plausible.haltakov.net
 DOMAIN-SUFFIX,plausible.help.exploreandcreate.com
 DOMAIN-SUFFIX,plausible.holderbaum-academy.de
 DOMAIN-SUFFIX,plausible.hopecanebay.com
+DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,plausible.jeroenvandenboorn.nl
 DOMAIN-SUFFIX,plausible.joinself.com
 DOMAIN-SUFFIX,plausible.k6sbw.net
@@ -48684,11 +48672,9 @@ DOMAIN-SUFFIX,tracking.petrelocation.com
 DOMAIN-SUFFIX,tracking.pgi.com
 DOMAIN-SUFFIX,tracking.pioneer.com
 DOMAIN-SUFFIX,tracking.pirelli.com
-DOMAIN-SUFFIX,tracking.pixelfederation.com
 DOMAIN-SUFFIX,tracking.plascoid.com
 DOMAIN-SUFFIX,tracking.playfairmarketing.com
 DOMAIN-SUFFIX,tracking.porndoelabs.com
-DOMAIN-SUFFIX,tracking.pornhd.com
 DOMAIN-SUFFIX,tracking.positivesparks.com
 DOMAIN-SUFFIX,tracking.powrmedia.com
 DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
@@ -48698,7 +48684,6 @@ DOMAIN-SUFFIX,tracking.predtrk.com
 DOMAIN-SUFFIX,tracking.prodesa.com
 DOMAIN-SUFFIX,tracking.prodiga.no
 DOMAIN-SUFFIX,tracking.pro.engie.fr
-DOMAIN-SUFFIX,tracking.propelmedia.com
 DOMAIN-SUFFIX,tracking.prophet.com
 DOMAIN-SUFFIX,tracking.prophix.com
 DOMAIN-SUFFIX,tracking.protective.com
@@ -48711,7 +48696,6 @@ DOMAIN-SUFFIX,tracking.quadient.com
 DOMAIN-SUFFIX,tracking-rce.veeseo.com
 DOMAIN-SUFFIX,tracking.rce.veeseo.com
 DOMAIN-SUFFIX,tracking.realestate.bnpparibas
-DOMAIN-SUFFIX,tracking.realtor.com
 DOMAIN-SUFFIX,tracking-receiver.prod-general.stocard-backend.com
 DOMAIN-SUFFIX,tracking.redbutton.de
 DOMAIN-SUFFIX,tracking.regus.com
@@ -48748,7 +48732,6 @@ DOMAIN-SUFFIX,tracking.shopback.com
 DOMAIN-SUFFIX,tracking.shopstyle.co.uk
 DOMAIN-SUFFIX,tracking.shoptogether.buy.com
 DOMAIN-SUFFIX,tracking.silverfernbrand.com
-DOMAIN-SUFFIX,tracking.sim-technik.de
 DOMAIN-SUFFIX,tracking.singlestore.com
 DOMAIN-SUFFIX,tracking.siriusdecisions.com
 DOMAIN-SUFFIX,tracking.skyword.com
@@ -48844,7 +48827,6 @@ DOMAIN-SUFFIX,tracking.visma.net
 DOMAIN-SUFFIX,tracking.visma.no
 DOMAIN-SUFFIX,tracking.vismaraet.nl
 DOMAIN-SUFFIX,tracking.visma.se
-DOMAIN-SUFFIX,tracking.vitringez.com
 DOMAIN-SUFFIX,tracking.vodafone.com
 DOMAIN-SUFFIX,tracking.vodafone.co.uk
 DOMAIN-SUFFIX,tracking.wao-corp.com
@@ -51104,6 +51086,7 @@ DOMAIN-SUFFIX,tsw0.com
 DOMAIN-SUFFIX,tsweb.dcx.tt.omtrdc.net
 DOMAIN-SUFFIX,t-s.xolairhcp.com
 DOMAIN-SUFFIX,t-s.xpansions.com
+DOMAIN-SUFFIX,t.syosetu.org
 DOMAIN-SUFFIX,tsys3.tt.omtrdc.net
 DOMAIN-SUFFIX,t-s.zelboraf.com
 DOMAIN-SUFFIX,tt1.tt-qe6.omtrdc.net
