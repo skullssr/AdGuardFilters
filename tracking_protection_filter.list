@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-01 05:12:59
-# DOMAIN-SUFFIX: 54657
-# TOTAL: 54657
+# UPDATED: 2023-08-02 05:05:21
+# DOMAIN-SUFFIX: 54656
+# TOTAL: 54656
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -47568,7 +47568,6 @@ DOMAIN-SUFFIX,tracker-rec.smart-bdash.com
 DOMAIN-SUFFIX,tracker.relaido.jp
 DOMAIN-SUFFIX,tracker.remp-beam.golem.de
 DOMAIN-SUFFIX,tracker.remp.sme.sk
-DOMAIN-SUFFIX,tracker.rqmob.com
 DOMAIN-SUFFIX,trackers.adtarget.me
 DOMAIN-SUFFIX,tracker.samplicio.us
 DOMAIN-SUFFIX,trackersdk.bdash-cloud.com
@@ -51308,7 +51307,6 @@ DOMAIN-SUFFIX,ut.o2.pl
 DOMAIN-SUFFIX,utop.umengcloud.com
 DOMAIN-SUFFIX,utp02.cps.tt.omtrdc.net
 DOMAIN-SUFFIX,uts.auction.co.kr
-DOMAIN-SUFFIX,uts-front.line-apps.com
 DOMAIN-SUFFIX,utsssl.auction.co.kr
 DOMAIN-SUFFIX,utt99.tt.omtrdc.net
 DOMAIN-SUFFIX,uttermosthobbies.com
@@ -53024,6 +53022,7 @@ DOMAIN-SUFFIX,wirecomic.com
 DOMAIN-SUFFIX,wiredminds.de
 DOMAIN-SUFFIX,wirjoi.meetsmore.com
 DOMAIN-SUFFIX,wisedialogbankspa.tt.omtrdc.net
+DOMAIN-SUFFIX,wiseref.com
 DOMAIN-SUFFIX,wisetrack.net
 DOMAIN-SUFFIX,wishloop.com
 DOMAIN-SUFFIX,wissen.sage.de
