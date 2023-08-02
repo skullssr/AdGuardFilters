@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-02 05:05:21
-# DOMAIN-SUFFIX: 54656
-# TOTAL: 54656
+# UPDATED: 2023-08-03 05:36:56
+# DOMAIN-SUFFIX: 54640
+# TOTAL: 54640
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -2145,7 +2145,6 @@ DOMAIN-SUFFIX,a1c4bf1b4119440ee08fad19d9e32ed0.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,a1.cba-digital.tt.omtrdc.net
 DOMAIN-SUFFIX,a1fsfznwgnva2n7j.sparta.members.tt.omtrdc.net
 DOMAIN-SUFFIX,a1.hb-fa-stage.tt.omtrdc.net
-DOMAIN-SUFFIX,a1.huiqituan.com
 DOMAIN-SUFFIX,a1i281.tt.omtrdc.net
 DOMAIN-SUFFIX,a1i326.tt.omtrdc.net
 DOMAIN-SUFFIX,a1i798.tt.omtrdc.net
@@ -8059,7 +8058,6 @@ DOMAIN-SUFFIX,aoa-ws-direct.mobiledirect.tt.omtrdc.net
 DOMAIN-SUFFIX,aod4.societegenerale.fr
 DOMAIN-SUFFIX,aoelfb.nanouniverse.jp
 DOMAIN-SUFFIX,aoes-va-bar.cloud.cloud.tt.omtrdc.net
-DOMAIN-SUFFIX,a.oix.net
 DOMAIN-SUFFIX,aoki.tt.omtrdc.net
 DOMAIN-SUFFIX,aok.tns-gallup.dk
 DOMAIN-SUFFIX,aol4.access.tt.omtrdc.net
@@ -10979,7 +10977,6 @@ DOMAIN-SUFFIX,bgiamericas.actonservice.com
 DOMAIN-SUFFIX,bglgrouplimited.tt.omtrdc.net
 DOMAIN-SUFFIX,b.gondola-night.tt.omtrdc.net
 DOMAIN-SUFFIX,bg.promo.skf.com
-DOMAIN-SUFFIX,b.grvcdn.com
 DOMAIN-SUFFIX,bgupcq.westfalia.de
 DOMAIN-SUFFIX,bhcumsc.com
 DOMAIN-SUFFIX,bhg.tt.omtrdc.net
@@ -13228,7 +13225,6 @@ DOMAIN-SUFFIX,clickinc.com
 DOMAIN-SUFFIX,click.jasmin.com
 DOMAIN-SUFFIX,click.jctrkg.com
 DOMAIN-SUFFIX,click.linksaude.club
-DOMAIN-SUFFIX,click.livejasmin.com
 DOMAIN-SUFFIX,click.lmbcustomersupport.com
 DOMAIN-SUFFIX,clickmanage.com
 DOMAIN-SUFFIX,clickmap.ch
@@ -13483,7 +13479,6 @@ DOMAIN-SUFFIX,cl.qualaroo.com
 DOMAIN-SUFFIX,clrmgt.k8s-stg.getaws.tt.omtrdc.net
 DOMAIN-SUFFIX,cl-routes.tt.omtrdc.net
 DOMAIN-SUFFIX,cls7.theushuaiaexperience.com
-DOMAIN-SUFFIX,cls.ichotelsgroup.com
 DOMAIN-SUFFIX,cls-po-02.tt.omtrdc.net
 DOMAIN-SUFFIX,cl.t3n.de
 DOMAIN-SUFFIX,clt.banggood.com
@@ -13548,7 +13543,6 @@ DOMAIN-SUFFIX,cmstrendslog.indiatimes.com
 DOMAIN-SUFFIX,cmstrendslog.timesnow.tv
 DOMAIN-SUFFIX,cms.tt.omtrdc.net
 DOMAIN-SUFFIX,cm-tier4-prod.tt.omtrdc.net
-DOMAIN-SUFFIX,cmt.setrowid.com
 DOMAIN-SUFFIX,cmttvv.bonprix.se
 DOMAIN-SUFFIX,cn.adpinfo.com
 DOMAIN-SUFFIX,c.nakanohito.jp
@@ -13609,11 +13603,7 @@ DOMAIN-SUFFIX,cnsecurity.actonservice.com
 DOMAIN-SUFFIX,cns-service.actonservice.com
 DOMAIN-SUFFIX,cnstats.ru
 DOMAIN-SUFFIX,cnt1.net
-DOMAIN-SUFFIX,cnt2.stroeerdp.de
 DOMAIN-SUFFIX,cnt.alawar.com
-DOMAIN-SUFFIX,cnt.cerber.rambler.ru
-DOMAIN-SUFFIX,cntcerber.rambler.ru
-DOMAIN-SUFFIX,cnt.inforotor.net
 DOMAIN-SUFFIX,cnt.logoslovo.ru
 DOMAIN-SUFFIX,cnt.nicemix.com
 DOMAIN-SUFFIX,cnt.nov.ru
@@ -13660,7 +13650,6 @@ DOMAIN-SUFFIX,code.cpe.tt.omtrdc.net
 DOMAIN-SUFFIX,code-demo.ext.tt.omtrdc.net
 DOMAIN-SUFFIX,codegen-v3-sft.link.raven.sci.tt.omtrdc.net
 DOMAIN-SUFFIX,code.lobby.tt.omtrdc.net
-DOMAIN-SUFFIX,code.lockbot.net
 DOMAIN-SUFFIX,codemic0-rds.erc.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,code-mobile-i.tt.omtrdc.net
 DOMAIN-SUFFIX,coder2.email.tt.omtrdc.net
@@ -18444,7 +18433,6 @@ DOMAIN-SUFFIX,django-dev-elasticbeanstalk.cotherm.tt.omtrdc.net
 DOMAIN-SUFFIX,djbvwtvuzl.att.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,djbztw.marimekko.com
 DOMAIN-SUFFIX,djers.com
-DOMAIN-SUFFIX,djibeacon.dowjoneson.com
 DOMAIN-SUFFIX,djnqoe.rani.com.tr
 DOMAIN-SUFFIX,djoglobalinc.tt.omtrdc.net
 DOMAIN-SUFFIX,djurslandpizza.pronto.tt.omtrdc.net
@@ -26738,7 +26726,6 @@ DOMAIN-SUFFIX,ltecrf.dhgate.com
 DOMAIN-SUFFIX,l.tenkomori.tv
 DOMAIN-SUFFIX,lthbdc.become.co.jp
 DOMAIN-SUFFIX,l.ti-da.net
-DOMAIN-SUFFIX,lt.logly.co.jp
 DOMAIN-SUFFIX,ltm6.destinia.se
 DOMAIN-SUFFIX,ltnico.fnac.com
 DOMAIN-SUFFIX,ltqpej.vidaxl.ie
@@ -29677,7 +29664,6 @@ DOMAIN-SUFFIX,metrics.petsmart.com
 DOMAIN-SUFFIX,metrics.pfizer.com
 DOMAIN-SUFFIX,metrics.pico.tools
 DOMAIN-SUFFIX,metrics.pinkribbonbottle.com
-DOMAIN-SUFFIX,metrics.plaid.com
 DOMAIN-SUFFIX,metrics.plusrewards.com.au
 DOMAIN-SUFFIX,metrics.politico.com
 DOMAIN-SUFFIX,metrics.politico.eu
@@ -31374,7 +31360,6 @@ DOMAIN-SUFFIX,nfl.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,nflxjp.residences-immobilier.com
 DOMAIN-SUFFIX,nfused.eobuv.com.ua
 DOMAIN-SUFFIX,ngacm.com
-DOMAIN-SUFFIX,ngagement-engine.mobify.com
 DOMAIN-SUFFIX,ngastatic.com
 DOMAIN-SUFFIX,ngazee.novostroy-m.ru
 DOMAIN-SUFFIX,ngghll.me.co.kr
@@ -31555,10 +31540,8 @@ DOMAIN-SUFFIX,nrjcur.pomelofashion.com
 DOMAIN-SUFFIX,nrljxvaxcj.182mtv.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,nrstxi.envieshoes.gr
 DOMAIN-SUFFIX,ns12.tt.omtrdc.net
-DOMAIN-SUFFIX,ns1.phorm.com
 DOMAIN-SUFFIX,ns1p.net
 DOMAIN-SUFFIX,ns1.tt.omtrdc.net
-DOMAIN-SUFFIX,ns2.phorm.com
 DOMAIN-SUFFIX,ns2.tt.omtrdc.net
 DOMAIN-SUFFIX,ns336739.ip-37-187-249.eu
 DOMAIN-SUFFIX,ns.access-online.com.au
@@ -48315,6 +48298,7 @@ DOMAIN-SUFFIX,track.lavaart.com
 DOMAIN-SUFFIX,track.leadhit.io
 DOMAIN-SUFFIX,track.leadhit.ru
 DOMAIN-SUFFIX,track.leadsgorillaoffer.com
+DOMAIN-SUFFIX,track.lemmatechnologies.com
 DOMAIN-SUFFIX,track.lesmills.com
 DOMAIN-SUFFIX,track.levelsleadgen.xyz
 DOMAIN-SUFFIX,track.libii.cn

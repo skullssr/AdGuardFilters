@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-02 05:10:09
-# DOMAIN-SUFFIX: 3974
-# TOTAL: 3974
+# UPDATED: 2023-08-03 05:41:27
+# DOMAIN-SUFFIX: 3975
+# TOTAL: 3975
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,androidemulator.in
 DOMAIN-SUFFIX,androidescomplicado.blogspot.com
 DOMAIN-SUFFIX,android-hilfe-down.blogspot.com
 DOMAIN-SUFFIX,androidmakale.com
+DOMAIN-SUFFIX,androidowy.pl
 DOMAIN-SUFFIX,androidrepublic.org
 DOMAIN-SUFFIX,androidsage.com
 DOMAIN-SUFFIX,androidtunado.com.br
@@ -982,6 +983,7 @@ DOMAIN-SUFFIX,downloaderzone.com
 DOMAIN-SUFFIX,downloadgeral.com
 DOMAIN-SUFFIX,download.pixelexperience.org
 DOMAIN-SUFFIX,downloads.descendant.me
+DOMAIN-SUFFIX,downloadtanku.org
 DOMAIN-SUFFIX,down.mdiaload.com
 DOMAIN-SUFFIX,dphotoworld.net
 DOMAIN-SUFFIX,dqmsl-search.net
@@ -3598,7 +3600,6 @@ DOMAIN-SUFFIX,tvdigital.de
 DOMAIN-SUFFIX,tvfree.me
 DOMAIN-SUFFIX,tv-media.at
 DOMAIN-SUFFIX,tvn24.pl
-DOMAIN-SUFFIX,tvnow.de
 DOMAIN-SUFFIX,tvnturbo.pl
 DOMAIN-SUFFIX,tv-onlinehd.com
 DOMAIN-SUFFIX,tvpoland.ml
