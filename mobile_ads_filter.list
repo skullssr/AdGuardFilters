@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-05 05:37:22
-# DOMAIN-SUFFIX: 853
-# TOTAL: 853
+# UPDATED: 2023-08-08 04:59:22
+# DOMAIN-SUFFIX: 854
+# TOTAL: 854
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -740,6 +740,7 @@ DOMAIN-SUFFIX,static.doubleclick.net
 DOMAIN-SUFFIX,static.hyprmx.com
 DOMAIN-SUFFIX,static.jampp.com
 DOMAIN-SUFFIX,stat.kika-backend.com
+DOMAIN-SUFFIX,stream.spongead.com
 DOMAIN-SUFFIX,sumatoad.com
 DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
 DOMAIN-SUFFIX,supersonicads.com
