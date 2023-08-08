@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-08 04:54:52
-# DOMAIN-SUFFIX: 51442
-# TOTAL: 51442
+# UPDATED: 2023-08-09 05:06:43
+# DOMAIN-SUFFIX: 51434
+# TOTAL: 51434
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -26206,7 +26206,6 @@ DOMAIN-SUFFIX,lcs.loginfra.com
 DOMAIN-SUFFIX,lcs.modoo.at
 DOMAIN-SUFFIX,lcs.naver.com
 DOMAIN-SUFFIX,lcsopa.onamae.com
-DOMAIN-SUFFIX,lct.salesforce.com
 DOMAIN-SUFFIX,_ldap-admin._tcp.hb-fa-stage.tt.omtrdc.net
 DOMAIN-SUFFIX,_ldap._tcp.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,_ldap._tcp.hb.tt.omtrdc.net
@@ -26476,7 +26475,6 @@ DOMAIN-SUFFIX,livecounter.dk
 DOMAIN-SUFFIX,livecounter.theyosh.nl
 DOMAIN-SUFFIX,livecount.fr
 DOMAIN-SUFFIX,live-d.cdn.tt.omtrdc.net
-DOMAIN-SUFFIX,live.ec2.cxo.name
 DOMAIN-SUFFIX,livelumber.com
 DOMAIN-SUFFIX,lively-collect-elb-*.amazonaws.com
 DOMAIN-SUFFIX,livelylaugh.com
@@ -26620,7 +26618,6 @@ DOMAIN-SUFFIX,log.baomoi.com
 DOMAIN-SUFFIX,log.bloodsugars.live
 DOMAIN-SUFFIX,logbor.com
 DOMAIN-SUFFIX,log*.byteoversea.com
-DOMAIN-SUFFIX,log.cinematoday.jp
 DOMAIN-SUFFIX,log.cloud.sbs.co.kr
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
@@ -26633,7 +26630,6 @@ DOMAIN-SUFFIX,logconfig.polarisoffice.com
 DOMAIN-SUFFIX,logcounter.com
 DOMAIN-SUFFIX,log.data.disney.com
 DOMAIN-SUFFIX,log.dav.edu.vn
-DOMAIN-SUFFIX,log.deutschegrammophon.com
 DOMAIN-SUFFIX,log.down61.com
 DOMAIN-SUFFIX,log.droid4x.cn
 DOMAIN-SUFFIX,logdy.com
@@ -26714,7 +26710,6 @@ DOMAIN-SUFFIX,log.klook.com
 DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,loglady.publicbroadcasting.net
 DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
-DOMAIN-SUFFIX,log-live.direct.ly
 DOMAIN-SUFFIX,log.liverail.com
 DOMAIN-SUFFIX,log.ma-jin.jp
 DOMAIN-SUFFIX,log.make50.com
@@ -28874,7 +28869,6 @@ DOMAIN-SUFFIX,mc.webvisor.org
 DOMAIN-SUFFIX,mc.yandex.com
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mc-ya.ru
-DOMAIN-SUFFIX,m.czbiw.com
 DOMAIN-SUFFIX,mczpco.darty.com
 DOMAIN-SUFFIX,mdalab-east-2.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,mdanderson.tt.omtrdc.net
@@ -28907,7 +28901,6 @@ DOMAIN-SUFFIX,mds.ricoh.co.za
 DOMAIN-SUFFIX,mds.ricoh.es
 DOMAIN-SUFFIX,mds.ricoh-europe.com
 DOMAIN-SUFFIX,mds.ricoh.ie
-DOMAIN-SUFFIX,m.dubcm.com
 DOMAIN-SUFFIX,mdugiz.jdsports.de
 DOMAIN-SUFFIX,mdws.1stchoicesavings.ca
 DOMAIN-SUFFIX,mdws.advancesavings.ca
@@ -33624,7 +33617,6 @@ DOMAIN-SUFFIX,piclick.kr
 DOMAIN-SUFFIX,picshost.pics
 DOMAIN-SUFFIX,pictetasset.tt.omtrdc.net
 DOMAIN-SUFFIX,pictet.tt.omtrdc.net
-DOMAIN-SUFFIX,pictures.zooplus.com
 DOMAIN-SUFFIX,piddme.buyma.com
 DOMAIN-SUFFIX,pietexture.com
 DOMAIN-SUFFIX,pig.civicplatform.org
@@ -33661,7 +33653,6 @@ DOMAIN-SUFFIX,ping.resoluteoil.com
 DOMAIN-SUFFIX,pings.conviva.com
 DOMAIN-SUFFIX,ping.smyte.com
 DOMAIN-SUFFIX,pingtas.qq.com
-DOMAIN-SUFFIX,ping.tvmaze.com
 DOMAIN-SUFFIX,ping.xlmc.sandai.net
 DOMAIN-SUFFIX,pinniped.gardenofficeguide.co.uk
 DOMAIN-SUFFIX,pinniped.quarantinecup.live
@@ -40304,7 +40295,6 @@ DOMAIN-SUFFIX,sp.jsonline.com
 DOMAIN-SUFFIX,spjysa.only.com
 DOMAIN-SUFFIX,sp.kitsapsun.com
 DOMAIN-SUFFIX,sp.knoxnews.com
-DOMAIN-SUFFIX,spkrth.scw.systems
 DOMAIN-SUFFIX,sp.lancastereaglegazette.com
 DOMAIN-SUFFIX,sp.lansingstatejournal.com
 DOMAIN-SUFFIX,sp.ldnews.com
@@ -42794,6 +42784,7 @@ DOMAIN-SUFFIX,survicate.com
 DOMAIN-SUFFIX,s.useeffectbyexample.com
 DOMAIN-SUFFIX,s.usenix.org
 DOMAIN-SUFFIX,sushant-do-1.dev.do.tt.omtrdc.net
+DOMAIN-SUFFIX,suspectmark.com
 DOMAIN-SUFFIX,suspendseed.com
 DOMAIN-SUFFIX,susqhrjgfhxi1.tt.omtrdc.net
 DOMAIN-SUFFIX,sustainability.ricoh.ch
@@ -46508,6 +46499,7 @@ DOMAIN-SUFFIX,trckr.beatconnect.com
 DOMAIN-SUFFIX,trckr.contextualadv.com
 DOMAIN-SUFFIX,trck.repesta.com
 DOMAIN-SUFFIX,trck.rework-s.com
+DOMAIN-SUFFIX,trcksp.cordial.io
 DOMAIN-SUFFIX,trck.spoteffects.net
 DOMAIN-SUFFIX,trck.stefany.co.jp
 DOMAIN-SUFFIX,trck.trcknotifs.com
