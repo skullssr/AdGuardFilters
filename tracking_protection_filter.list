@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-09 05:06:43
-# DOMAIN-SUFFIX: 51434
-# TOTAL: 51434
+# UPDATED: 2023-08-10 05:17:21
+# DOMAIN-SUFFIX: 51427
+# TOTAL: 51427
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -17870,7 +17870,6 @@ DOMAIN-SUFFIX,dc-storm.com
 DOMAIN-SUFFIX,dc-tag.jp
 DOMAIN-SUFFIX,dct.mango-office.ru
 DOMAIN-SUFFIX,dctmextservices-tstl-services.services.tt.omtrdc.net
-DOMAIN-SUFFIX,dc.tremormedia.com
 DOMAIN-SUFFIX,dc.tt.omtrdc.net
 DOMAIN-SUFFIX,dc.volkswagen.com
 DOMAIN-SUFFIX,dc.webtrends.com
@@ -18194,7 +18193,6 @@ DOMAIN-SUFFIX,de.verintsystemsinc.com
 DOMAIN-SUFFIX,dev.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,device2128364-e4b45a52-local.tt.omtrdc.net
 DOMAIN-SUFFIX,device9.com
-DOMAIN-SUFFIX,device-analytics.rollout.io
 DOMAIN-SUFFIX,device-metrics-*.amazon.com
 DOMAIN-SUFFIX,device-metrics-us*.amazon.com
 DOMAIN-SUFFIX,dev-interactives.blog.prod.tt.omtrdc.net
@@ -32862,6 +32860,7 @@ DOMAIN-SUFFIX,parcelos-de-130-sp.dc.tt.omtrdc.net
 DOMAIN-SUFFIX,parchedangle.com
 DOMAIN-SUFFIX,parchedsofa.com
 DOMAIN-SUFFIX,pardko.pricerunner.com
+DOMAIN-SUFFIX,parentpicture.com
 DOMAIN-SUFFIX,parentsapi-wishlists.tt.omtrdc.net
 DOMAIN-SUFFIX,parikh1.test.tt.omtrdc.net
 DOMAIN-SUFFIX,parkdomainreal*.site
@@ -42066,7 +42065,6 @@ DOMAIN-SUFFIX,stats.qovery.com
 DOMAIN-SUFFIX,stats.quicksilvercre.com
 DOMAIN-SUFFIX,stats.radicaldata.org
 DOMAIN-SUFFIX,stats.radio-canada.ca
-DOMAIN-SUFFIX,stats.radiostreamlive.com
 DOMAIN-SUFFIX,stats.radley.co.uk
 DOMAIN-SUFFIX,stats.radleylondon.com
 DOMAIN-SUFFIX,stats.rasulkireev.com
@@ -42097,7 +42095,6 @@ DOMAIN-SUFFIX,stats.ruhrfestspiele.de
 DOMAIN-SUFFIX,stats.rushilperera.me
 DOMAIN-SUFFIX,stats.russellstover.com
 DOMAIN-SUFFIX,stats.rustica.fr
-DOMAIN-SUFFIX,stats.rutracker.ga
 DOMAIN-SUFFIX,stats.rymawby.com
 DOMAIN-SUFFIX,stats.safeway.com
 DOMAIN-SUFFIX,stats.sahpa.co.za
@@ -42115,7 +42112,6 @@ DOMAIN-SUFFIX,stats.screen-play.app
 DOMAIN-SUFFIX,stats.screenwavemedia.com
 DOMAIN-SUFFIX,stats.searchftps.net
 DOMAIN-SUFFIX,stats.searchftps.org
-DOMAIN-SUFFIX,stats.searchsight.com
 DOMAIN-SUFFIX,stats.seat-auto.pl
 DOMAIN-SUFFIX,stats.seat.be
 DOMAIN-SUFFIX,stats.seat.com.tr
@@ -42144,17 +42140,14 @@ DOMAIN-SUFFIX,statssheet.com
 DOMAIN-SUFFIX,stats.shepherd.com
 DOMAIN-SUFFIX,stats.shiftx.com
 DOMAIN-SUFFIX,stats.shopify.com
-DOMAIN-SUFFIX,stats.shoppydoo.com
 DOMAIN-SUFFIX,stats.siedentop.dev
 DOMAIN-SUFFIX,stats.signups2.tt.omtrdc.net
 DOMAIN-SUFFIX,stats.sim.de
-DOMAIN-SUFFIX,stats.simply-hentai.com
 DOMAIN-SUFFIX,stats.simplytel.de
 DOMAIN-SUFFIX,stats.sirdata.com
 DOMAIN-SUFFIX,stats.sixseven.at
 DOMAIN-SUFFIX,stats.ski.com
 DOMAIN-SUFFIX,stat-ssl.akiba-souken.com
-DOMAIN-SUFFIX,stats.slashgear.com
 DOMAIN-SUFFIX,stat-ssl.autoway.jp
 DOMAIN-SUFFIX,stat-ssl.bushikaku.net
 DOMAIN-SUFFIX,stat-ssl.career-tasu.jp
