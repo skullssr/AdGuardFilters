@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-10 05:17:21
-# DOMAIN-SUFFIX: 51427
-# TOTAL: 51427
+# UPDATED: 2023-08-11 05:28:14
+# DOMAIN-SUFFIX: 51415
+# TOTAL: 51415
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7063,6 +7063,7 @@ DOMAIN-SUFFIX,ambitiousagreement.com
 DOMAIN-SUFFIX,ambitjaggi.tt.omtrdc.net
 DOMAIN-SUFFIX,ambrmxpod-d.tt.omtrdc.net
 DOMAIN-SUFFIX,amcgns.giesswein.com
+DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,amdcopen.m.taobao.com
 DOMAIN-SUFFIX,amds123.tt.omtrdc.net
@@ -40281,6 +40282,7 @@ DOMAIN-SUFFIX,spigte.shopee.tw
 DOMAIN-SUFFIX,sp.independentmail.com
 DOMAIN-SUFFIX,sp.indystar.com
 DOMAIN-SUFFIX,spinnakermgmt.actonservice.com
+DOMAIN-SUFFIX,spiny.ai
 DOMAIN-SUFFIX,sp.inyork.com
 DOMAIN-SUFFIX,spirebaboon.com
 DOMAIN-SUFFIX,spisbedre.tns-gallup.dk
@@ -44974,14 +44976,12 @@ DOMAIN-SUFFIX,tracker.adbinead.com
 DOMAIN-SUFFIX,tracker.adotmob.com
 DOMAIN-SUFFIX,tracker.affirm.com
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
-DOMAIN-SUFFIX,tracker.ampush.io
 DOMAIN-SUFFIX,tracker.anandtech.com
 DOMAIN-SUFFIX,tracker-api.my.com
 DOMAIN-SUFFIX,trackerapi.service.echobox.com
 DOMAIN-SUFFIX,tracker.arc.io
 DOMAIN-SUFFIX,tracker.azet.sk
 DOMAIN-SUFFIX,tracker.blutv.com
-DOMAIN-SUFFIX,tracker.brainsins.com
 DOMAIN-SUFFIX,tracker.bt.uol.com.br
 DOMAIN-SUFFIX,tracker.calameo.com
 DOMAIN-SUFFIX,tracker.cartprotector.com
@@ -44991,7 +44991,6 @@ DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
 DOMAIN-SUFFIX,tracker.chatbot.k.tt.omtrdc.net
 DOMAIN-SUFFIX,tracker.citicsinfo.com
 DOMAIN-SUFFIX,tracker.convead.io
-DOMAIN-SUFFIX,tracker.cpapath.com
 DOMAIN-SUFFIX,tracker.dalso.org
 DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.decomworld.com
@@ -45250,7 +45249,6 @@ DOMAIN-SUFFIX,tracking.analysis.hibu.com
 DOMAIN-SUFFIX,tracking.ancestry.com
 DOMAIN-SUFFIX,tracking.apac.business.samsung.com
 DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
-DOMAIN-SUFFIX,trackingapi.cloudapp.net
 DOMAIN-SUFFIX,tracking-api.hotmart.com
 DOMAIN-SUFFIX,trackingapi.kaufda.de
 DOMAIN-SUFFIX,trackingapi.meinprospekt.de
@@ -45311,7 +45309,6 @@ DOMAIN-SUFFIX,tracking.capterra.com
 DOMAIN-SUFFIX,trackingcareers.accenture.com
 DOMAIN-SUFFIX,tracking.care.muschealth.org
 DOMAIN-SUFFIX,tracking.care.salinasvalleyhealth.com
-DOMAIN-SUFFIX,tracking.carprices.com
 DOMAIN-SUFFIX,tracking.carsales.com.au
 DOMAIN-SUFFIX,tracking.cengage.com
 DOMAIN-SUFFIX,tracking.centerfield.com
@@ -45396,7 +45393,6 @@ DOMAIN-SUFFIX,tracking.game8.jp
 DOMAIN-SUFFIX,tracking.gartner.com
 DOMAIN-SUFFIX,tracking.gelia.com
 DOMAIN-SUFFIX,tracking.getapp.com
-DOMAIN-SUFFIX,tracking.gj-mobile-services.de
 DOMAIN-SUFFIX,tracking.global-demand02.nec.com
 DOMAIN-SUFFIX,tracking.gnavi.co.jp
 DOMAIN-SUFFIX,tracking.go.atcc.org
@@ -45462,11 +45458,9 @@ DOMAIN-SUFFIX,tracking.janssenmedicalcloud.sk
 DOMAIN-SUFFIX,tracking.janssenmed.sk
 DOMAIN-SUFFIX,tracking.janssenos.com
 DOMAIN-SUFFIX,tracking.kegerator.com
-DOMAIN-SUFFIX,tracking.koego.com
 DOMAIN-SUFFIX,tracking.komoot.de
 DOMAIN-SUFFIX,tracking.krone.at
 DOMAIN-SUFFIX,tracking.kubota.ca
-DOMAIN-SUFFIX,tracking.kurier.at
 DOMAIN-SUFFIX,tracking.kyobo.co.kr
 DOMAIN-SUFFIX,trackinglabs.com
 DOMAIN-SUFFIX,tracking.lailiveevents.com
@@ -45710,7 +45704,6 @@ DOMAIN-SUFFIX,tracking.univtec.com
 DOMAIN-SUFFIX,tracking.unrealengine.com
 DOMAIN-SUFFIX,tracking.usenext.com
 DOMAIN-SUFFIX,tracking.usj.es
-DOMAIN-SUFFIX,tracking.ustream.tv
 DOMAIN-SUFFIX,tracking.utas.edu.au
 DOMAIN-SUFFIX,tracking.valoans.tt.omtrdc.net
 DOMAIN-SUFFIX,tracking.ventingdirect.com
@@ -45902,7 +45895,6 @@ DOMAIN-SUFFIX,track.petheal.com
 DOMAIN-SUFFIX,track.phyllotexusatracking.com
 DOMAIN-SUFFIX,track.pingstart.com
 DOMAIN-SUFFIX,track.plovix.co
-DOMAIN-SUFFIX,trackpm.shop2market.com
 DOMAIN-SUFFIX,track.pnicnik.live
 DOMAIN-SUFFIX,track.pocketnewsusa.com
 DOMAIN-SUFFIX,track.pocketoption.asia
@@ -46218,7 +46210,6 @@ DOMAIN-SUFFIX,track.yourwisechoicetoday.com
 DOMAIN-SUFFIX,track.yourwisethinking.com
 DOMAIN-SUFFIX,track.zappdeal.com
 DOMAIN-SUFFIX,track.zappos.com
-DOMAIN-SUFFIX,track.zomato.com
 DOMAIN-SUFFIX,trac.oferting.com.mx
 DOMAIN-SUFFIX,trac.oferting.co.uk
 DOMAIN-SUFFIX,trac.oferting.es
@@ -46944,7 +46935,6 @@ DOMAIN-SUFFIX,trk01.informaconnect.com
 DOMAIN-SUFFIX,trk01.knect365.com
 DOMAIN-SUFFIX,trk02.knect365.com
 DOMAIN-SUFFIX,trk03.informatech.com
-DOMAIN-SUFFIX,trk.10ru.pt
 DOMAIN-SUFFIX,trk.2ndtrk.com
 DOMAIN-SUFFIX,trk2.pinterest.com
 DOMAIN-SUFFIX,trk2-wtb.swaven.com
@@ -48325,7 +48315,6 @@ DOMAIN-SUFFIX,uijciz.gunze.jp
 DOMAIN-SUFFIX,uilrp.awscmhdev.k8s.tt.omtrdc.net
 DOMAIN-SUFFIX,uim.tifbs.net
 DOMAIN-SUFFIX,uinpmz.iichi.com
-DOMAIN-SUFFIX,ui.oix.net
 DOMAIN-SUFFIX,uipathcdb.tt.omtrdc.net
 DOMAIN-SUFFIX,uip-micro-provider.cmhqa1.k8s.tt.omtrdc.net
 DOMAIN-SUFFIX,uitn6.olms.tt.omtrdc.net
@@ -49179,7 +49168,6 @@ DOMAIN-SUFFIX,vqipdr3p.nccr.tt.omtrdc.net
 DOMAIN-SUFFIX,vqjacf.mauriziocollectionstore.com
 DOMAIN-SUFFIX,vqp3.madeindesign.co.uk
 DOMAIN-SUFFIX,vqwckswxsf.meet.aem.hb.tt.omtrdc.net
-DOMAIN-SUFFIX,vra.outbrain.com
 DOMAIN-SUFFIX,vrasky-a-starnouci-plet.tt.omtrdc.net
 DOMAIN-SUFFIX,vrhesh.avocadogreenmattress.com
 DOMAIN-SUFFIX,vroclav.trekkeeee.fun
@@ -49188,7 +49176,6 @@ DOMAIN-SUFFIX,vrrp-91901.br01.365.corp.tt.omtrdc.net
 DOMAIN-SUFFIX,vrrp-91901.cs01.corp.tt.omtrdc.net
 DOMAIN-SUFFIX,vrsvcn.cartucho.es
 DOMAIN-SUFFIX,vrt-next-nat-next.tt.omtrdc.net
-DOMAIN-SUFFIX,vrt.outbrain.com
 DOMAIN-SUFFIX,vrvjwr.mobelaris.com
 DOMAIN-SUFFIX,vry9.destinia.com
 DOMAIN-SUFFIX,vrzmfy.fool.com
@@ -51124,6 +51111,7 @@ DOMAIN-SUFFIX,ysuckpvvya.242metlife.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,yt0blqw1vlv7.tt.omtrdc.net
 DOMAIN-SUFFIX,ytalarexkw.242discoverydp.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,y-test.old.atlassian-app.eu.tt.omtrdc.net
+DOMAIN-SUFFIX,ythingy.com
 DOMAIN-SUFFIX,ytouvy.arezzo.com.br
 DOMAIN-SUFFIX,y-track.com
 DOMAIN-SUFFIX,yueqal.glassesusa.com
