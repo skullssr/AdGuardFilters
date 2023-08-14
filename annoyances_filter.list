@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-10 05:18:01
-# DOMAIN-SUFFIX: 1010
-# TOTAL: 1010
+# UPDATED: 2023-08-15 05:26:13
+# DOMAIN-SUFFIX: 1012
+# TOTAL: 1012
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,apester.com
 DOMAIN-SUFFIX,api.autopilothq.com
 DOMAIN-SUFFIX,api.cazamba.com
 DOMAIN-SUFFIX,api.cloudleadia.com
+DOMAIN-SUFFIX,api.eu.usercentrics.eu
 DOMAIN-SUFFIX,api.infinario.com
 DOMAIN-SUFFIX,api.jeeng.com
 DOMAIN-SUFFIX,api.leadiacloud.com
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,bildirnet.com
 DOMAIN-SUFFIX,bildirt.com
 DOMAIN-SUFFIX,bitmakerz.biz
 DOMAIN-SUFFIX,blackbrake.com
+DOMAIN-SUFFIX,bleachscarecrow.com
 DOMAIN-SUFFIX,blinger.io
 DOMAIN-SUFFIX,blogroll.livedoor.net
 DOMAIN-SUFFIX,blogroll.matome-alpha.com
