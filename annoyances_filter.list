@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-15 05:26:13
-# DOMAIN-SUFFIX: 1012
-# TOTAL: 1012
+# UPDATED: 2023-08-17 05:01:46
+# DOMAIN-SUFFIX: 1013
+# TOTAL: 1013
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -199,6 +199,7 @@ DOMAIN-SUFFIX,chats.novait.com.ua
 DOMAIN-SUFFIX,chat.sociomile.com
 DOMAIN-SUFFIX,chatterpal.me
 DOMAIN-SUFFIX,chat.whatsappx.xyz
+DOMAIN-SUFFIX,chatwoot.hicity.vn
 DOMAIN-SUFFIX,checke.biz
 DOMAIN-SUFFIX,check-now.online
 DOMAIN-SUFFIX,checkpost.club

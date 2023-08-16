@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-15 05:25:28
-# DOMAIN-SUFFIX: 47453
-# TOTAL: 47453
+# UPDATED: 2023-08-17 05:01:02
+# DOMAIN-SUFFIX: 47452
+# TOTAL: 47452
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -13453,6 +13453,7 @@ DOMAIN-SUFFIX,cv.xn--bcktcvdzde3c.biz
 DOMAIN-SUFFIX,cv.xn--zbs202g.com
 DOMAIN-SUFFIX,cvzvun.vidaxl.de
 DOMAIN-SUFFIX,cwcdmm.zennioptical.com
+DOMAIN-SUFFIX,c.webengage.com
 DOMAIN-SUFFIX,c.wort-suche.com
 DOMAIN-SUFFIX,cws.airon.test.tt.omtrdc.net
 DOMAIN-SUFFIX,cws-australiasoutheast-release-a-b.tt.omtrdc.net
@@ -30380,18 +30381,15 @@ DOMAIN-SUFFIX,pixel.ionos.com
 DOMAIN-SUFFIX,pixel.ipinfo.io
 DOMAIN-SUFFIX,pixel.klout.com
 DOMAIN-SUFFIX,pixel.lilystyle.ai
-DOMAIN-SUFFIX,pixel.naij.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
 DOMAIN-SUFFIX,pixel.nur.kz
-DOMAIN-SUFFIX,pixel.parsely.com
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.playbuzz.com
 DOMAIN-SUFFIX,pixelpop.co
 DOMAIN-SUFFIX,pixel*.production-public.tubi.io
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.quantserve.com
-DOMAIN-SUFFIX,pixel.randi.adswizz.com
 DOMAIN-SUFFIX,pixel.reddit.com
 DOMAIN-SUFFIX,pixel.redditmedia.com
 DOMAIN-SUFFIX,pixelrevenue.com
@@ -30628,7 +30626,6 @@ DOMAIN-SUFFIX,plotparent.com
 DOMAIN-SUFFIX,plotrabbit.com
 DOMAIN-SUFFIX,plotzn.apmex.com
 DOMAIN-SUFFIX,ploy.batmobi.net
-DOMAIN-SUFFIX,ploz.mangadex.org
 DOMAIN-SUFFIX,pl.promo.skf.com
 DOMAIN-SUFFIX,pls.ambue.com
 DOMAIN-SUFFIX,plsbl.edison.se
@@ -32985,6 +32982,7 @@ DOMAIN-SUFFIX,sdk.appsflyer.com
 DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
 DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
 DOMAIN-SUFFIX,sdk.conscent.in
+DOMAIN-SUFFIX,sdk.fra-*.braze.eu
 DOMAIN-SUFFIX,sdk-log-inter.youdao.com
 DOMAIN-SUFFIX,sdklogs.avocarrot.com
 DOMAIN-SUFFIX,sdk-orion.appboy.com
@@ -37288,6 +37286,7 @@ DOMAIN-SUFFIX,ssl-waz.met.vgwort.de
 DOMAIN-SUFFIX,ssl-weeka-eavis.tns-gallup.dk
 DOMAIN-SUFFIX,ssl-weka.met.vgwort.de
 DOMAIN-SUFFIX,ssl-welt.met.vgwort.de
+DOMAIN-SUFFIX,ssl.widgets.webengage.com
 DOMAIN-SUFFIX,ssl-wolterskluwer.met.vgwort.de
 DOMAIN-SUFFIX,ssl-woman.tns-gallup.dk
 DOMAIN-SUFFIX,ssl-youseeandroidstream.tns-gallup.dk
@@ -45595,7 +45594,6 @@ DOMAIN-SUFFIX,web.email.theindependentpharmacy.co.uk
 DOMAIN-SUFFIX,web.email.turtlebay.co.uk
 DOMAIN-SUFFIX,web.email.umbro.co.uk
 DOMAIN-SUFFIX,web.email.zone3.com
-DOMAIN-SUFFIX,webengage.com
 DOMAIN-SUFFIX,web.e.panmacmillan.com
 DOMAIN-SUFFIX,web-errors.hyundai.tt.omtrdc.net
 DOMAIN-SUFFIX,webest.info
@@ -47444,6 +47442,7 @@ DOMAIN-SUFFIX,zvvpcz.puravita.ch
 DOMAIN-SUFFIX,zvvsvr.kettner-edelmetalle.de
 DOMAIN-SUFFIX,zwatgf.megaknihy.cz
 DOMAIN-SUFFIX,zweaukzijt.241lifeway.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,z.webengage.com
 DOMAIN-SUFFIX,zwinqi.spartoo.pt
 DOMAIN-SUFFIX,zwiucp.ohmynews.com
 DOMAIN-SUFFIX,zxrnfc.drinco.jp
