@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-18 05:10:36
-# DOMAIN-SUFFIX: 47457
-# TOTAL: 47457
+# UPDATED: 2023-08-19 05:35:53
+# DOMAIN-SUFFIX: 47458
+# TOTAL: 47458
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -8626,6 +8626,7 @@ DOMAIN-SUFFIX,app.small-loan.tt.omtrdc.net
 DOMAIN-SUFFIX,app.smart.vivint.com
 DOMAIN-SUFFIX,app.smumustangs.com
 DOMAIN-SUFFIX,app-sn146.tt.omtrdc.net
+DOMAIN-SUFFIX,apps.nhk.jp
 DOMAIN-SUFFIX,app.snowflake.staging.search.search.tt.omtrdc.net
 DOMAIN-SUFFIX,app.snssecure.mcafee.com
 DOMAIN-SUFFIX,app.soec.ca
