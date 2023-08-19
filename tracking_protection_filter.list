@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-19 05:35:53
-# DOMAIN-SUFFIX: 47458
-# TOTAL: 47458
+# UPDATED: 2023-08-20 05:24:58
+# DOMAIN-SUFFIX: 47459
+# TOTAL: 47459
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -45969,6 +45969,7 @@ DOMAIN-SUFFIX,westa-house.wgi.tt.omtrdc.net
 DOMAIN-SUFFIX,westa-lux.tt.omtrdc.net
 DOMAIN-SUFFIX,west-api.tt.omtrdc.net
 DOMAIN-SUFFIX,we-stats.com
+DOMAIN-SUFFIX,westats.dev
 DOMAIN-SUFFIX,westbayqatar.my.tt.omtrdc.net
 DOMAIN-SUFFIX,wester-carsauto.tt.omtrdc.net
 DOMAIN-SUFFIX,westerndigital.tt.omtrdc.net
