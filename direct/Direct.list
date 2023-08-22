@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-22 04:57:53
-# DOMAIN-SUFFIX: 3942
-# TOTAL: 3942
+# UPDATED: 2023-08-23 05:35:28
+# DOMAIN-SUFFIX: 3943
+# TOTAL: 3943
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1627,6 +1627,7 @@ DOMAIN-SUFFIX,heraldo.es
 DOMAIN-SUFFIX,heraldsun.com
 DOMAIN-SUFFIX,herexxx.com
 DOMAIN-SUFFIX,hesgoal.com
+DOMAIN-SUFFIX,hes-goal.net
 DOMAIN-SUFFIX,hexafile.net
 DOMAIN-SUFFIX,heyapakabar.com
 DOMAIN-SUFFIX,hgtv.ca

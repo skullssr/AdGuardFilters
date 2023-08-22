@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-22 04:53:45
-# DOMAIN-SUFFIX: 48304
-# TOTAL: 48304
+# UPDATED: 2023-08-23 05:31:20
+# DOMAIN-SUFFIX: 48284
+# TOTAL: 48284
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -4747,6 +4747,7 @@ DOMAIN-SUFFIX,ab.perfumesclub.com
 DOMAIN-SUFFIX,abpwqf.lolaflora.com.mx
 DOMAIN-SUFFIX,abqis8.tt.omtrdc.net
 DOMAIN-SUFFIX,abqis-menzt.ddns.tt.omtrdc.net
+DOMAIN-SUFFIX,a.brack.ch
 DOMAIN-SUFFIX,abracon.actonservice.com
 DOMAIN-SUFFIX,abrafarma-rss-uncover.uncover-uncover.tt.omtrdc.net
 DOMAIN-SUFFIX,abrantes-lisboa.loja.tt.omtrdc.net
@@ -19482,7 +19483,6 @@ DOMAIN-SUFFIX,gerbil.lost.design
 DOMAIN-SUFFIX,gerbil.recipe-ipsum.com
 DOMAIN-SUFFIX,gestiondocumentaire.ricoh.fr
 DOMAIN-SUFFIX,getaim.info
-DOMAIN-SUFFIX,getback.ch
 DOMAIN-SUFFIX,getbackstory.com
 DOMAIN-SUFFIX,getbeacon.io
 DOMAIN-SUFFIX,getclicky.com
@@ -19706,6 +19706,7 @@ DOMAIN-SUFFIX,gobest.news.tt.omtrdc.net
 DOMAIN-SUFFIX,go.betbonusbrasil.com
 DOMAIN-SUFFIX,gobeyond.superiorgroup.com
 DOMAIN-SUFFIX,go.bicho365.com
+DOMAIN-SUFFIX,go.bidfluence.com
 DOMAIN-SUFFIX,go.bil-jac.com
 DOMAIN-SUFFIX,go.bioscarco.com
 DOMAIN-SUFFIX,go.bitnami.com
@@ -27080,7 +27081,6 @@ DOMAIN-SUFFIX,metrics.examinebiosimilars.com
 DOMAIN-SUFFIX,metrics.explore.calvinklein.com
 DOMAIN-SUFFIX,metrics.extraespanol.warnerbros.com
 DOMAIN-SUFFIX,metrics.extratv.warnerbros.com
-DOMAIN-SUFFIX,metrics.extremetech.com
 DOMAIN-SUFFIX,metrics.faceipf.com
 DOMAIN-SUFFIX,metrics.familiaynutricion.com.co
 DOMAIN-SUFFIX,metrics.fancl.co.jp
@@ -38483,7 +38483,6 @@ DOMAIN-SUFFIX,stats.beanr.coffee
 DOMAIN-SUFFIX,stats.beatricew.com
 DOMAIN-SUFFIX,stats.beausimensen.com
 DOMAIN-SUFFIX,stats.beautility.makerkits.co
-DOMAIN-SUFFIX,stats.behance.net
 DOMAIN-SUFFIX,stats.belic.si
 DOMAIN-SUFFIX,stats.bentleymotors.com
 DOMAIN-SUFFIX,stats.benui.ca
@@ -38890,7 +38889,6 @@ DOMAIN-SUFFIX,stats.lumension.com
 DOMAIN-SUFFIX,stats.lussoveloce.com
 DOMAIN-SUFFIX,stats.m2m-mobil.de
 DOMAIN-SUFFIX,statsmachine.com
-DOMAIN-SUFFIX,stats.macmillanusa.com
 DOMAIN-SUFFIX,stats.macosicons.com
 DOMAIN-SUFFIX,stats.madeit.io
 DOMAIN-SUFFIX,stats.madethis.gallery
@@ -39190,7 +39188,6 @@ DOMAIN-SUFFIX,stats.stacks.org
 DOMAIN-SUFFIX,stats.staging.hex.pm
 DOMAIN-SUFFIX,stats.steepandcheap.com
 DOMAIN-SUFFIX,stats.steuer-soldaten.de
-DOMAIN-SUFFIX,stats.storify.com
 DOMAIN-SUFFIX,stats.strawberry.rocks
 DOMAIN-SUFFIX,stats.streamhub.io
 DOMAIN-SUFFIX,stats.studypages.com
@@ -39248,7 +39245,6 @@ DOMAIN-SUFFIX,stats.tork.fr
 DOMAIN-SUFFIX,stats.torquaypac.ca
 DOMAIN-SUFFIX,stats.tou.tv
 DOMAIN-SUFFIX,stats.townnews.com
-DOMAIN-SUFFIX,statstracker.celebrity-gossip.net
 DOMAIN-SUFFIX,stats.tradingacademy.com
 DOMAIN-SUFFIX,stats.training.fit
 DOMAIN-SUFFIX,stats.travelask.ru
@@ -39261,8 +39257,6 @@ DOMAIN-SUFFIX,stats.truistinsurance.com
 DOMAIN-SUFFIX,stats.trussed.dev
 DOMAIN-SUFFIX,stats.tsas.ca
 DOMAIN-SUFFIX,stats.tubecalculator.co.uk
-DOMAIN-SUFFIX,stats.tudou.com
-DOMAIN-SUFFIX,stats.tvmaze.com
 DOMAIN-SUFFIX,stats.twhl.xyz
 DOMAIN-SUFFIX,stats.ubiwiz.com
 DOMAIN-SUFFIX,stats.ucheba.ru
@@ -39273,7 +39267,6 @@ DOMAIN-SUFFIX,stats.urbanfinn.com
 DOMAIN-SUFFIX,stat.suresmile.dentsplysirona.com
 DOMAIN-SUFFIX,stats.urlaubsverwaltung.cloud
 DOMAIN-SUFFIX,stats.useeffect.dev
-DOMAIN-SUFFIX,stats.uswitch.com
 DOMAIN-SUFFIX,stats.uticorp.com
 DOMAIN-SUFFIX,stats.uxtools.co
 DOMAIN-SUFFIX,stats.v4.agirpourlenvironnement.org
@@ -39346,7 +39339,6 @@ DOMAIN-SUFFIX,stat.teleport.media
 DOMAIN-SUFFIX,stat.thestartmagazine.com
 DOMAIN-SUFFIX,stat.tildacdn.com
 DOMAIN-SUFFIX,stattooz.com
-DOMAIN-SUFFIX,stattrack.0catch.com
 DOMAIN-SUFFIX,stattrax.com
 DOMAIN-SUFFIX,stat.tvigle.ru
 DOMAIN-SUFFIX,stat.ucetni-roku.cz
@@ -39374,7 +39366,6 @@ DOMAIN-SUFFIX,stat.wolterskluwer.pt
 DOMAIN-SUFFIX,statwup.huya.com
 DOMAIN-SUFFIX,statwup.nimo.tv
 DOMAIN-SUFFIX,stat.www.fi
-DOMAIN-SUFFIX,stat.xhamsterpremium.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,statystyki.ekspertyzy-szkolenia.pl
@@ -39386,7 +39377,6 @@ DOMAIN-SUFFIX,st.bahnhof.de
 DOMAIN-SUFFIX,stbg.standardbank.com
 DOMAIN-SUFFIX,stbg.standardbank.co.za
 DOMAIN-SUFFIX,stbt.coupons.com
-DOMAIN-SUFFIX,stcollection.moneysupermarket.com
 DOMAIN-SUFFIX,stcounter.com
 DOMAIN-SUFFIX,stc.store.page.zaloapp.com
 DOMAIN-SUFFIX,st.der-kleine-ice.de
@@ -40083,7 +40073,6 @@ DOMAIN-SUFFIX,t0y.toyota.ca
 DOMAIN-SUFFIX,t.10er-tagesticket.de
 DOMAIN-SUFFIX,t.12thman.com
 DOMAIN-SUFFIX,t1.ask1.co
-DOMAIN-SUFFIX,t1.clipkit.com
 DOMAIN-SUFFIX,t1.musthird.com
 DOMAIN-SUFFIX,t.20-fahrten-bahn.de
 DOMAIN-SUFFIX,t2.hulu.com
@@ -40507,7 +40496,6 @@ DOMAIN-SUFFIX,t.baylorbears.com
 DOMAIN-SUFFIX,t.bceagles.com
 DOMAIN-SUFFIX,t.beop.io
 DOMAIN-SUFFIX,t.biooncology.com
-DOMAIN-SUFFIX,t.blinkist.com
 DOMAIN-SUFFIX,t.bluehens.com
 DOMAIN-SUFFIX,t.bucky.uwbadgers.com
 DOMAIN-SUFFIX,t.budweisergardens.com
@@ -40717,7 +40705,6 @@ DOMAIN-SUFFIX,telehq4.ddns.tt.omtrdc.net
 DOMAIN-SUFFIX,telemanmusicxreality.tt.omtrdc.net
 DOMAIN-SUFFIX,telemetric.dk
 DOMAIN-SUFFIX,telemetrics.klaviyo.com
-DOMAIN-SUFFIX,telemetry.allrecipes.com
 DOMAIN-SUFFIX,telemetry.api.swiftkey.com
 DOMAIN-SUFFIX,telemetry.api.wmcdp.io
 DOMAIN-SUFFIX,telemetry.art19.com
@@ -41852,7 +41839,6 @@ DOMAIN-SUFFIX,track.crystalintution.com
 DOMAIN-SUFFIX,track.cursosdegestionlogisticaenlinea.com
 DOMAIN-SUFFIX,track.cursosenfermeriahoy.com
 DOMAIN-SUFFIX,track.customer.io
-DOMAIN-SUFFIX,track.custora.com
 DOMAIN-SUFFIX,track.cyberpowercenter.com
 DOMAIN-SUFFIX,track.da2hit.com
 DOMAIN-SUFFIX,track.dailydrivepro.com
@@ -41924,7 +41910,6 @@ DOMAIN-SUFFIX,trackedlink.net
 DOMAIN-SUFFIX,track.edu-info.jp
 DOMAIN-SUFFIX,trackedweb.net
 DOMAIN-SUFFIX,track.effiliation.com
-DOMAIN-SUFFIX,track.effitarget.com
 DOMAIN-SUFFIX,track-e.infineon.com
 DOMAIN-SUFFIX,track-e.infineoncommunity.com
 DOMAIN-SUFFIX,track.electromastercenter.com
@@ -41942,7 +41927,6 @@ DOMAIN-SUFFIX,track.enjoythewood.com
 DOMAIN-SUFFIX,track.enlightenedchoicetoday.com
 DOMAIN-SUFFIX,track.enrollexperts.com
 DOMAIN-SUFFIX,tracker-101-uncover.uncover.tt.omtrdc.net
-DOMAIN-SUFFIX,tracker.77player.xyz
 DOMAIN-SUFFIX,tracker-aa.pafbetscore.lv
 DOMAIN-SUFFIX,tracker-aa.paf.es
 DOMAIN-SUFFIX,tracker.adbinead.com
@@ -42786,7 +42770,6 @@ DOMAIN-SUFFIX,track.livebettertodaycommunity.com
 DOMAIN-SUFFIX,track.livecamtracker.com
 DOMAIN-SUFFIX,track.livesimplelife.club
 DOMAIN-SUFFIX,track.livexsite.com
-DOMAIN-SUFFIX,track.lobi.co
 DOMAIN-SUFFIX,tracklog.58.com
 DOMAIN-SUFFIX,track.lookerpets.com
 DOMAIN-SUFFIX,track.louefroid.com
@@ -42868,7 +42851,6 @@ DOMAIN-SUFFIX,track.odinenergytx.com
 DOMAIN-SUFFIX,track.odinenergyut.com
 DOMAIN-SUFFIX,track.officialflexup.com
 DOMAIN-SUFFIX,track.ogrowthlabs.com
-DOMAIN-SUFFIX,track.omgpl.com
 DOMAIN-SUFFIX,track.onlineappdesigncourses.com
 DOMAIN-SUFFIX,track.openfixdeckco.com
 DOMAIN-SUFFIX,track.oricare.ro
@@ -42929,7 +42911,6 @@ DOMAIN-SUFFIX,track.purrheaven.com
 DOMAIN-SUFFIX,track.pursuittrustcorp.com
 DOMAIN-SUFFIX,track.push-ad.com
 DOMAIN-SUFFIX,track.pushbullet.com
-DOMAIN-SUFFIX,track.qcri.org
 DOMAIN-SUFFIX,track.quad.com
 DOMAIN-SUFFIX,track.quickestcoverage.com
 DOMAIN-SUFFIX,track.quize.tech
@@ -43071,7 +43052,6 @@ DOMAIN-SUFFIX,track.topflighttrack.com
 DOMAIN-SUFFIX,track.topplansforyou.cloud
 DOMAIN-SUFFIX,track.top-rated-deals.pro
 DOMAIN-SUFFIX,track.toptechnews.news
-DOMAIN-SUFFIX,track.toroadvertising.com
 DOMAIN-SUFFIX,track.tourotrilionario.com
 DOMAIN-SUFFIX,track.tproger.ru
 DOMAIN-SUFFIX,track.trackerop.com

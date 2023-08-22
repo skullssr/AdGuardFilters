@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-22 04:54:23
-# DOMAIN-SUFFIX: 1018
-# TOTAL: 1018
+# UPDATED: 2023-08-23 05:31:58
+# DOMAIN-SUFFIX: 1020
+# TOTAL: 1020
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -408,6 +408,7 @@ DOMAIN-SUFFIX,gdpr-legal-cookie.beeclever.app
 DOMAIN-SUFFIX,gdpr.privacymanager.io
 DOMAIN-SUFFIX,gdpr-wrapper.privacymanager.io
 DOMAIN-SUFFIX,gerdonarium.com
+DOMAIN-SUFFIX,getback.ch
 DOMAIN-SUFFIX,getbutton.io
 DOMAIN-SUFFIX,getpushmonkey.com
 DOMAIN-SUFFIX,getpush.net
@@ -565,6 +566,7 @@ DOMAIN-SUFFIX,mylivechat.com
 DOMAIN-SUFFIX,mypush.online
 DOMAIN-SUFFIX,mystatext.ru
 DOMAIN-SUFFIX,n1goserch.com
+DOMAIN-SUFFIX,nadajotum.com
 DOMAIN-SUFFIX,nappyattack.com
 DOMAIN-SUFFIX,nativesubscribe.pro
 DOMAIN-SUFFIX,navse.pukchpok.online
