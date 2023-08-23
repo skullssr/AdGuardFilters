@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-23 05:31:20
-# DOMAIN-SUFFIX: 48284
-# TOTAL: 48284
+# UPDATED: 2023-08-24 05:03:56
+# DOMAIN-SUFFIX: 48278
+# TOTAL: 48278
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7252,6 +7252,7 @@ DOMAIN-SUFFIX,analytics.cnfanart.com
 DOMAIN-SUFFIX,analytics.cnnchile.com
 DOMAIN-SUFFIX,analytics.cn.ru
 DOMAIN-SUFFIX,analytics.codeforscience.org
+DOMAIN-SUFFIX,analytics.code.illusion.jp
 DOMAIN-SUFFIX,analytics.codeskulptor.org
 DOMAIN-SUFFIX,analytics.codigo.se
 DOMAIN-SUFFIX,analytics.cognyte.com
@@ -7294,6 +7295,7 @@ DOMAIN-SUFFIX,analytics.egernsund.de
 DOMAIN-SUFFIX,analytics.eikko.ai
 DOMAIN-SUFFIX,analytics.electro-com.ru
 DOMAIN-SUFFIX,analytics.elegela.net
+DOMAIN-SUFFIX,analytics.elegela.us
 DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
 DOMAIN-SUFFIX,analytics.enjoymobiserver.com
 DOMAIN-SUFFIX,analytics.ensighten.com
@@ -29608,7 +29610,6 @@ DOMAIN-SUFFIX,optimisation.co-oplegalservices.co.uk
 DOMAIN-SUFFIX,optimisation.data.lloydsbankinggroup.com
 DOMAIN-SUFFIX,optimix.asia
 DOMAIN-SUFFIX,optimizely.com
-DOMAIN-SUFFIX,optimize-stats.voxmedia.com
 DOMAIN-SUFFIX,optimost.com
 DOMAIN-SUFFIX,optimum.tt.omtrdc.net
 DOMAIN-SUFFIX,optin-machine.com
@@ -29794,7 +29795,6 @@ DOMAIN-SUFFIX,overseer-staging-metadata.tt.omtrdc.net
 DOMAIN-SUFFIX,overstat.com
 DOMAIN-SUFFIX,overstock.tt.omtrdc.net
 DOMAIN-SUFFIX,ovhgmbtkzq.0.20dupont.hb.tt.omtrdc.net
-DOMAIN-SUFFIX,ovk.xceler8.io
 DOMAIN-SUFFIX,ovmrti.sassyclassy.de
 DOMAIN-SUFFIX,owa.any.run
 DOMAIN-SUFFIX,owayfamily.ecoorganicbeauty.cz
@@ -30459,7 +30459,6 @@ DOMAIN-SUFFIX,partnewjerse-newjers.dealer.build.tt.omtrdc.net
 DOMAIN-SUFFIX,partplanes.com
 DOMAIN-SUFFIX,partravelavisor.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,partridge.flooint.com
-DOMAIN-SUFFIX,part-time-job.biz
 DOMAIN-SUFFIX,partycitycorp.tt.omtrdc.net
 DOMAIN-SUFFIX,pasco.actonservice.com
 DOMAIN-SUFFIX,pass-1234.com
@@ -30800,7 +30799,6 @@ DOMAIN-SUFFIX,ping.naturadapt.com
 DOMAIN-SUFFIX,pingomatic.com
 DOMAIN-SUFFIX,ping.resoluteoil.com
 DOMAIN-SUFFIX,pings.conviva.com
-DOMAIN-SUFFIX,ping.smyte.com
 DOMAIN-SUFFIX,pingtas.qq.com
 DOMAIN-SUFFIX,ping.xlmc.sandai.net
 DOMAIN-SUFFIX,pinniped.gardenofficeguide.co.uk
@@ -32556,7 +32554,6 @@ DOMAIN-SUFFIX,rqyxdk.myanimelist.net
 DOMAIN-SUFFIX,rqz4.supdigital.fr
 DOMAIN-SUFFIX,r.razer.com
 DOMAIN-SUFFIX,r.rbc.ru
-DOMAIN-SUFFIX,r.remarketingpixel.com
 DOMAIN-SUFFIX,rrgiuy.jackroad.co.jp
 DOMAIN-SUFFIX,rrimpl.com
 DOMAIN-SUFFIX,rrincc.auto-doc.it
@@ -39048,7 +39045,6 @@ DOMAIN-SUFFIX,stats.pubfind.io
 DOMAIN-SUFFIX,stats.pusher.com
 DOMAIN-SUFFIX,stat.sputnik.ru
 DOMAIN-SUFFIX,stats.qawl.app
-DOMAIN-SUFFIX,stats.qmerce.com
 DOMAIN-SUFFIX,stats.qovery.com
 DOMAIN-SUFFIX,stats.quicksilvercre.com
 DOMAIN-SUFFIX,stats.radicaldata.org
@@ -40569,7 +40565,6 @@ DOMAIN-SUFFIX,t.csurams.com
 DOMAIN-SUFFIX,tctm.co
 DOMAIN-SUFFIX,tc.tradetracker.net
 DOMAIN-SUFFIX,t.cubuffs.com
-DOMAIN-SUFFIX,t.custora.com
 DOMAIN-SUFFIX,tcvseghrxk.133rtl.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,tcwkhywunj.251nbcstreaming.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,tczew2.chat.tt.omtrdc.net
@@ -41465,7 +41460,6 @@ DOMAIN-SUFFIX,top-bloggers.com
 DOMAIN-SUFFIX,topblogging.com
 DOMAIN-SUFFIX,topcarwroclaw-wroclawrzeszow.tt.omtrdc.net
 DOMAIN-SUFFIX,topdepo.com
-DOMAIN-SUFFIX,top.eomy.net
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,top.gigmir.net
 DOMAIN-SUFFIX,tophits4u.de
@@ -42055,7 +42049,6 @@ DOMAIN-SUFFIX,track.gaconnector.com
 DOMAIN-SUFFIX,track.gamingchairsforyou.com
 DOMAIN-SUFFIX,track.gamingchairsspace.com
 DOMAIN-SUFFIX,track.garagemaxspace.com
-DOMAIN-SUFFIX,track.gawker.com
 DOMAIN-SUFFIX,track.gestiondelaconstruccionhoy.com
 DOMAIN-SUFFIX,track.gestionempresarialgradoenlinea.com
 DOMAIN-SUFFIX,track.getcarra.com
@@ -42602,6 +42595,7 @@ DOMAIN-SUFFIX,tracking.siriusdecisions.com
 DOMAIN-SUFFIX,tracking.skyword.com
 DOMAIN-SUFFIX,tracking.smartbets.com
 DOMAIN-SUFFIX,tracking.smartselling.cz
+DOMAIN-SUFFIX,tracking.socketlabs.com
 DOMAIN-SUFFIX,tracking.softwareadvice.com
 DOMAIN-SUFFIX,tracking.softwareprojects.com
 DOMAIN-SUFFIX,tracking.solartrade-us.baywa-re.com

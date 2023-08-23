@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-23 05:35:28
-# DOMAIN-SUFFIX: 3943
-# TOTAL: 3943
+# UPDATED: 2023-08-24 05:08:06
+# DOMAIN-SUFFIX: 3944
+# TOTAL: 3944
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2577,6 +2577,7 @@ DOMAIN-SUFFIX,openpoint.com.tw
 DOMAIN-SUFFIX,open-sharing.com
 DOMAIN-SUFFIX,opensnow.com
 DOMAIN-SUFFIX,open.spotify.com
+DOMAIN-SUFFIX,optout.rlcdn.com
 DOMAIN-SUFFIX,order-order.com
 DOMAIN-SUFFIX,orduh.com
 DOMAIN-SUFFIX,organichealthcorner.com

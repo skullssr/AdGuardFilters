@@ -1,15 +1,16 @@
 # NAME: TrackingProtectionDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-04-13 05:16:27
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# UPDATED: 2023-08-24 05:04:08
+# DOMAIN-SUFFIX: 13
+# TOTAL: 13
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,app.message.sonicwall.com
 DOMAIN-SUFFIX,equifaxps.122.2o7.net
 DOMAIN-SUFFIX,kiplinger.112.2o7.net
 DOMAIN-SUFFIX,logging.apache.org
 DOMAIN-SUFFIX,metrics.torproject.org
+DOMAIN-SUFFIX,optout.rlcdn.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.net
 DOMAIN-SUFFIX,track2.royalmail.com
