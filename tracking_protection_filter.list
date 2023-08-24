@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-24 05:03:56
-# DOMAIN-SUFFIX: 48278
-# TOTAL: 48278
+# UPDATED: 2023-08-25 05:02:09
+# DOMAIN-SUFFIX: 48265
+# TOTAL: 48265
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -5895,6 +5895,7 @@ DOMAIN-SUFFIX,adwstats.com
 DOMAIN-SUFFIX,adx-03.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,adx14.tt.omtrdc.net
 DOMAIN-SUFFIX,adx.com.ru
+DOMAIN-SUFFIX,adx-in.ads.heytapmobile.com
 DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
 DOMAIN-SUFFIX,adxnna98.tt.omtrdc.net
 DOMAIN-SUFFIX,adxnnaalolaa.tt.omtrdc.net
@@ -7548,7 +7549,6 @@ DOMAIN-SUFFIX,analytics.sixt.jp
 DOMAIN-SUFFIX,analytics.sixtmiddleeast.com
 DOMAIN-SUFFIX,analytics.sixt.nl
 DOMAIN-SUFFIX,analytics.skinit.com
-DOMAIN-SUFFIX,analytics.skroutz.gr
 DOMAIN-SUFFIX,analytics.*.sky.com
 DOMAIN-SUFFIX,analytics.skyscanner.net
 DOMAIN-SUFFIX,analytics.slashdotmedia.com
@@ -12220,7 +12220,6 @@ DOMAIN-SUFFIX,click.securetracking.info
 DOMAIN-SUFFIX,clicksen.se
 DOMAIN-SUFFIX,clicks.h.hepsiburada.com
 DOMAIN-SUFFIX,clickshift.com
-DOMAIN-SUFFIX,clicks.hurriyet.com.tr
 DOMAIN-SUFFIX,clicks.tableau.com
 DOMAIN-SUFFIX,clickstream.cresendo.net
 DOMAIN-SUFFIX,clicks-us.frontend.tt.omtrdc.net
@@ -13486,7 +13485,6 @@ DOMAIN-SUFFIX,ct5m.citadium.com
 DOMAIN-SUFFIX,ctags.cn
 DOMAIN-SUFFIX,cta.onguard.com
 DOMAIN-SUFFIX,c.tbex.ru
-DOMAIN-SUFFIX,ct.buzzfeed.com
 DOMAIN-SUFFIX,ctc.wolterskluwer.com
 DOMAIN-SUFFIX,ctiimage.actonservice.com
 DOMAIN-SUFFIX,ctlayn.talbots.com
@@ -17099,6 +17097,7 @@ DOMAIN-SUFFIX,drabsize.com
 DOMAIN-SUFFIX,drackul.trekkww.fun
 DOMAIN-SUFFIX,draconiancurve.com
 DOMAIN-SUFFIX,dragate.dc.oppomobile.com
+DOMAIN-SUFFIX,dragate-in-dc.heytapmobile.com
 DOMAIN-SUFFIX,dragon.codemakes.art
 DOMAIN-SUFFIX,dragon.codequeen.io
 DOMAIN-SUFFIX,dragonfly.codebar.ch
@@ -20590,7 +20589,6 @@ DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,heyaxr.fashiondays.bg
 DOMAIN-SUFFIX,heymatic.com
 DOMAIN-SUFFIX,heystaks.com
-DOMAIN-SUFFIX,heytapmobile.com
 DOMAIN-SUFFIX,hfacfi.eimyistoire.com
 DOMAIN-SUFFIX,hfc195b.com
 DOMAIN-SUFFIX,hfd.bridgetowermedia.com
@@ -20874,6 +20872,7 @@ DOMAIN-SUFFIX,hswgqa.jmsc.co.jp
 DOMAIN-SUFFIX,hsxqhu.valostore.fi
 DOMAIN-SUFFIX,htmgrl.jollyroom.no
 DOMAIN-SUFFIX,htqfxh.vuch.cz
+DOMAIN-SUFFIX,httpdns-push.heytapmobile.com
 DOMAIN-SUFFIX,hubble.netease.com
 DOMAIN-SUFFIX,hub.firestonecompleteautocare.com
 DOMAIN-SUFFIX,hub.hubfinancial.com
@@ -22414,7 +22413,6 @@ DOMAIN-SUFFIX,info.zoomintel.com
 DOMAIN-SUFFIX,info.zuidema.nl
 DOMAIN-SUFFIX,ingdirectaustralia.tt.omtrdc.net
 DOMAIN-SUFFIX,ingdirectit.tt.omtrdc.net
-DOMAIN-SUFFIX,ingest.crittercism.com
 DOMAIN-SUFFIX,in-go.experian.com
 DOMAIN-SUFFIX,ingrammicro.tt.omtrdc.net
 DOMAIN-SUFFIX,ingredients.firmenich.com
@@ -23333,7 +23331,6 @@ DOMAIN-SUFFIX,kite.launchcdn.com
 DOMAIN-SUFFIX,kite.oakes.software
 DOMAIN-SUFFIX,kite.ofenbau-voppichler.at
 DOMAIN-SUFFIX,kitesquirrel.com
-DOMAIN-SUFFIX,kiupoo.stroeerdp.de
 DOMAIN-SUFFIX,kiwi.coreyodonnell.tech
 DOMAIN-SUFFIX,kiwi.emilkowal.ski
 DOMAIN-SUFFIX,kiwi.mcan.sh
@@ -24040,7 +24037,6 @@ DOMAIN-SUFFIX,logcollector.viewster.com
 DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
 DOMAIN-SUFFIX,logconfig.polarisoffice.com
 DOMAIN-SUFFIX,logcounter.com
-DOMAIN-SUFFIX,log.data.disney.com
 DOMAIN-SUFFIX,log.dav.edu.vn
 DOMAIN-SUFFIX,log.down61.com
 DOMAIN-SUFFIX,log.droid4x.cn
@@ -26675,7 +26671,6 @@ DOMAIN-SUFFIX,met.jasperforge.org
 DOMAIN-SUFFIX,metlifeglobal.tt.omtrdc.net
 DOMAIN-SUFFIX,metok.sys.miui.com
 DOMAIN-SUFFIX,metric.1035thearrow.com
-DOMAIN-SUFFIX,metric-agent.i10c.net
 DOMAIN-SUFFIX,metric.angieslist.com
 DOMAIN-SUFFIX,metric.armstrong.com
 DOMAIN-SUFFIX,metric.aruplab.com
@@ -26978,7 +26973,6 @@ DOMAIN-SUFFIX,metrics.css.ch
 DOMAIN-SUFFIX,metrics.csu.edu.au
 DOMAIN-SUFFIX,metrics.ctv.ca
 DOMAIN-SUFFIX,metrics.cvs.com
-DOMAIN-SUFFIX,metrics.dailymotion.com
 DOMAIN-SUFFIX,metrics.dailystrength.org
 DOMAIN-SUFFIX,metrics.dailytelegraph.com.au
 DOMAIN-SUFFIX,metrics.dairyreporter.com
@@ -27773,7 +27767,6 @@ DOMAIN-SUFFIX,metric.worldcat.org
 DOMAIN-SUFFIX,metric.yardhouse.com
 DOMAIN-SUFFIX,metric.yellowpages.com
 DOMAIN-SUFFIX,metric.yp.com
-DOMAIN-SUFFIX,metrigo.zalan.do
 DOMAIN-SUFFIX,metrika-informer.com
 DOMAIN-SUFFIX,metrika.kontur.ru
 DOMAIN-SUFFIX,metrika.lookmovie2.to
@@ -28368,7 +28361,6 @@ DOMAIN-SUFFIX,mtrack.nl
 DOMAIN-SUFFIX,m.transfix.io
 DOMAIN-SUFFIX,m.trb.com
 DOMAIN-SUFFIX,mtrcs.redhat.com
-DOMAIN-SUFFIX,mtrcs.samba.tv
 DOMAIN-SUFFIX,mtrs.cooecfluor.com
 DOMAIN-SUFFIX,mtrs.fluor.com
 DOMAIN-SUFFIX,mtrs.fluorconstructors.ca
@@ -28445,7 +28437,6 @@ DOMAIN-SUFFIX,mw-ind.actonservice.com
 DOMAIN-SUFFIX,mwtraf.mobi
 DOMAIN-SUFFIX,mw.tt.omtrdc.net
 DOMAIN-SUFFIX,mwxema.galerieslafayette.com
-DOMAIN-SUFFIX,mx03.phorm.com
 DOMAIN-SUFFIX,mx03.tt.omtrdc.net
 DOMAIN-SUFFIX,mx3.cbp.tt.omtrdc.net
 DOMAIN-SUFFIX,mx.carte-gr.total.fr
@@ -29349,6 +29340,7 @@ DOMAIN-SUFFIX,om.dowjoneson.com
 DOMAIN-SUFFIX,omeda.com
 DOMAIN-SUFFIX,o.medallia.com
 DOMAIN-SUFFIX,om.escapehomes.com
+DOMAIN-SUFFIX,omes-sec.heytapmobile.com
 DOMAIN-SUFFIX,omes.tt.omtrdc.net
 DOMAIN-SUFFIX,om.etnetera.cz
 DOMAIN-SUFFIX,ometria.com
@@ -30729,7 +30721,6 @@ DOMAIN-SUFFIX,pheasant.sonistaging.com
 DOMAIN-SUFFIX,pheasant.swinlead.com
 DOMAIN-SUFFIX,phen.fabricmedia.ru
 DOMAIN-SUFFIX,phgnxd.nike.com.br
-DOMAIN-SUFFIX,phiesi.stroeerdp.de
 DOMAIN-SUFFIX,philadelphia-content.cresa.com
 DOMAIN-SUFFIX,philipselectronicsne.tt.omtrdc.net
 DOMAIN-SUFFIX,philipslighting.tt.omtrdc.net
@@ -30838,7 +30829,6 @@ DOMAIN-SUFFIX,pixel.augsburger-allgemeine.de
 DOMAIN-SUFFIX,pixel.barion.com
 DOMAIN-SUFFIX,pixel.bridge.dooca.store
 DOMAIN-SUFFIX,pixel.bullion.media
-DOMAIN-SUFFIX,pixel.buzzfeed.com
 DOMAIN-SUFFIX,pixel.carambo.la
 DOMAIN-SUFFIX,pixel.cdnwidget.com
 DOMAIN-SUFFIX,pixel.condenastdigital.com
@@ -30882,7 +30872,6 @@ DOMAIN-SUFFIX,pixel.tatpek.com
 DOMAIN-SUFFIX,pixel.top10gadgets.shop
 DOMAIN-SUFFIX,pixel.trackverify.com
 DOMAIN-SUFFIX,pixel.watch
-DOMAIN-SUFFIX,pixel.welt.de
 DOMAIN-SUFFIX,pixel.wp.com
 DOMAIN-SUFFIX,pixel.yabidos.com
 DOMAIN-SUFFIX,pixelzirkus.gameforge.com
@@ -31758,7 +31747,6 @@ DOMAIN-SUFFIX,qnzczf.idc-otsuka.jp
 DOMAIN-SUFFIX,qoijertneio.com
 DOMAIN-SUFFIX,qonwdq.helmexpress.com
 DOMAIN-SUFFIX,qoopler.ru
-DOMAIN-SUFFIX,qos.video.yimg.com
 DOMAIN-SUFFIX,qouxkn.natuurhuisje.nl
 DOMAIN-SUFFIX,qoygsv.born2be.pl
 DOMAIN-SUFFIX,qpc4.visilab.ch
@@ -32268,7 +32256,6 @@ DOMAIN-SUFFIX,res.marianne.net
 DOMAIN-SUFFIX,resolutekey.com
 DOMAIN-SUFFIX,resolution.taxdefensenetwork.com
 DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
-DOMAIN-SUFFIX,resolver.msg.xiaomi.net
 DOMAIN-SUFFIX,reson8.com
 DOMAIN-SUFFIX,resonantbrush.com
 DOMAIN-SUFFIX,resonantrock.com
@@ -34123,7 +34110,6 @@ DOMAIN-SUFFIX,sinceresubstance.com
 DOMAIN-SUFFIX,sindala.tns-gallup.dk
 DOMAIN-SUFFIX,sinfo.awrostamani.com
 DOMAIN-SUFFIX,sinfo.dtcidev.co
-DOMAIN-SUFFIX,s.infogr.am
 DOMAIN-SUFFIX,s.infogram.com
 DOMAIN-SUFFIX,singaporetourismboar.tt.omtrdc.net
 DOMAIN-SUFFIX,singed.hb-api.tt.omtrdc.net
@@ -34240,6 +34226,7 @@ DOMAIN-SUFFIX,sk.inform.janssenpro.eu
 DOMAIN-SUFFIX,skink.asorman.io
 DOMAIN-SUFFIX,skink.madewithlove.com
 DOMAIN-SUFFIX,skipton.tt.omtrdc.net
+DOMAIN-SUFFIX,skroutza.skroutz.gr
 DOMAIN-SUFFIX,skydeutschlandag.tt.omtrdc.net
 DOMAIN-SUFFIX,skyglue.com
 DOMAIN-SUFFIX,skylog.kz
@@ -38392,7 +38379,6 @@ DOMAIN-SUFFIX,stat.novostimira.com
 DOMAIN-SUFFIX,statok.net
 DOMAIN-SUFFIX,stat.onemob.mobi
 DOMAIN-SUFFIX,statowl.com
-DOMAIN-SUFFIX,stat.php-d.com
 DOMAIN-SUFFIX,statpipe.ru
 DOMAIN-SUFFIX,stat.pl
 DOMAIN-SUFFIX,stat.prawo.pl
@@ -41969,6 +41955,7 @@ DOMAIN-SUFFIX,tracker.metricool.com
 DOMAIN-SUFFIX,tracker.mtrtb.com
 DOMAIN-SUFFIX,tracker.nbcuas.com
 DOMAIN-SUFFIX,tracker.neodatagroup.com
+DOMAIN-SUFFIX,tracker.p3a.net
 DOMAIN-SUFFIX,tracker.pinnaclesports.com
 DOMAIN-SUFFIX,tracker.plerdy.com
 DOMAIN-SUFFIX,tracker.pracuj.pl

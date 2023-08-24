@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-23 05:24:47
-# DOMAIN-SUFFIX: 3012
-# TOTAL: 3012
+# UPDATED: 2023-08-25 04:55:38
+# DOMAIN-SUFFIX: 3008
+# TOTAL: 3008
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -68,7 +68,6 @@ DOMAIN-SUFFIX,adload.ru
 DOMAIN-SUFFIX,adlpu.com
 DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,admin.mailchimp.com
-DOMAIN-SUFFIX,admin.mgid.com
 DOMAIN-SUFFIX,adnews.me
 DOMAIN-SUFFIX,adobeactivators.blogspot.com
 DOMAIN-SUFFIX,adobeid-*.services.adobe.com
@@ -81,15 +80,12 @@ DOMAIN-SUFFIX,adpps.com
 DOMAIN-SUFFIX,adrenalinagames.com
 DOMAIN-SUFFIX,adrianeboneck.com.br
 DOMAIN-SUFFIX,adrianoluis.net
-DOMAIN-SUFFIX,ads.amazon
-DOMAIN-SUFFIX,ads.askgamblers.com
-DOMAIN-SUFFIX,ads.com
 DOMAIN-SUFFIX,ads.doordash.com
 DOMAIN-SUFFIX,ads.elevateplatform.co.uk
 DOMAIN-SUFFIX,ads.finance
+DOMAIN-SUFFIX,ads.google.com
 DOMAIN-SUFFIX,adshnk.com
 DOMAIN-SUFFIX,adshrink.it
-DOMAIN-SUFFIX,ads.instacart.com
 DOMAIN-SUFFIX,ads.kazakh-zerno.net
 DOMAIN-SUFFIX,adslinkfly.online
 DOMAIN-SUFFIX,adslink.pw
@@ -102,7 +98,6 @@ DOMAIN-SUFFIX,adsrt.com
 DOMAIN-SUFFIX,ads.spotify.com
 DOMAIN-SUFFIX,ads.taboola.com
 DOMAIN-SUFFIX,ads-ti9ni4.blogspot.com
-DOMAIN-SUFFIX,ads.tiktok.com
 DOMAIN-SUFFIX,adstop.org
 DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN-SUFFIX,ads.vk.com
@@ -1340,6 +1335,7 @@ DOMAIN-SUFFIX,itopmusicx.com
 DOMAIN-SUFFIX,itsguider.com
 DOMAIN-SUFFIX,it-times.de
 DOMAIN-SUFFIX,iwatchtheoffice.com
+DOMAIN-SUFFIX,iwb.jp
 DOMAIN-SUFFIX,jackjones.com
 DOMAIN-SUFFIX,jagledam.co
 DOMAIN-SUFFIX,jagledam.com
