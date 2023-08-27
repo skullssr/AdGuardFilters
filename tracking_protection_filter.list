@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-26 05:26:38
-# DOMAIN-SUFFIX: 48245
-# TOTAL: 48245
+# UPDATED: 2023-08-28 05:10:23
+# DOMAIN-SUFFIX: 48246
+# TOTAL: 48246
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -23324,6 +23324,7 @@ DOMAIN-SUFFIX,kitesquirrel.com
 DOMAIN-SUFFIX,kiwi.coreyodonnell.tech
 DOMAIN-SUFFIX,kiwi.emilkowal.ski
 DOMAIN-SUFFIX,kiwi.mcan.sh
+DOMAIN-SUFFIX,kiwi.mdldb.net
 DOMAIN-SUFFIX,kiwi.railway.app
 DOMAIN-SUFFIX,kixfji.ymdy.co.jp
 DOMAIN-SUFFIX,kiynew.com
