@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-26 05:27:16
-# DOMAIN-SUFFIX: 1022
-# TOTAL: 1022
+# UPDATED: 2023-08-29 05:08:34
+# DOMAIN-SUFFIX: 1025
+# TOTAL: 1025
 DOMAIN-SUFFIX,2app.lk
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,cdn.siteswithcontent.com
 DOMAIN-SUFFIX,cdn.snigelweb.com
 DOMAIN-SUFFIX,cdn.subscribers.com
 DOMAIN-SUFFIX,cdn.swellrewards.com
+DOMAIN-SUFFIX,cdn.taxel.jp
 DOMAIN-SUFFIX,cdnt.netcoresmartech.com
 DOMAIN-SUFFIX,cdn.userdatatrust.com
 DOMAIN-SUFFIX,cdn.webpush.jp
@@ -689,6 +690,7 @@ DOMAIN-SUFFIX,pushassist.com
 DOMAIN-SUFFIX,push.autosaratov.ru
 DOMAIN-SUFFIX,pushaya.com
 DOMAIN-SUFFIX,pushbasitop.ru
+DOMAIN-SUFFIX,pushbaza.com
 DOMAIN-SUFFIX,pushbird.com
 DOMAIN-SUFFIX,push-centr.com
 DOMAIN-SUFFIX,pushcentr.com
@@ -996,6 +998,7 @@ DOMAIN-SUFFIX,widgets.mango-office.ru
 DOMAIN-SUFFIX,widgets.opinary.com
 DOMAIN-SUFFIX,widgets.sprinkletxt.com
 DOMAIN-SUFFIX,widget-static.com
+DOMAIN-SUFFIX,widgets.taxel.jp
 DOMAIN-SUFFIX,widgets.trustedshops.com
 DOMAIN-SUFFIX,widget.surveymonkey.com
 DOMAIN-SUFFIX,widget.teletype.app
