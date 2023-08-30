@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-30 05:16:14
-# DOMAIN-SUFFIX: 48033
-# TOTAL: 48033
+# UPDATED: 2023-08-31 05:13:12
+# DOMAIN-SUFFIX: 48018
+# TOTAL: 48018
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -5797,7 +5797,6 @@ DOMAIN-SUFFIX,adsettings.com
 DOMAIN-SUFFIX,ad.shinjuku-mens-chuoh.com
 DOMAIN-SUFFIX,ads-infineon.ge.tt.omtrdc.net
 DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
-DOMAIN-SUFFIX,adsmetadata.startappk8s.com
 DOMAIN-SUFFIX,adsn-da-00.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,adsoft.tt.omtrdc.net
 DOMAIN-SUFFIX,adsolutions.com
@@ -7586,7 +7585,6 @@ DOMAIN-SUFFIX,analyticsssl.forcepoint.com
 DOMAIN-SUFFIX,analytics.stanby.com
 DOMAIN-SUFFIX,analytics.starlink.com
 DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
-DOMAIN-SUFFIX,analytics-static.unister-gmbh.de
 DOMAIN-SUFFIX,analytics.studiodesignapp.com
 DOMAIN-SUFFIX,analytics.styria.hr
 DOMAIN-SUFFIX,analytics.superstation.com
@@ -7648,7 +7646,6 @@ DOMAIN-SUFFIX,analytics.ubs.com
 DOMAIN-SUFFIX,analytics.uhhospitals.org
 DOMAIN-SUFFIX,analytics.unand.ac.id
 DOMAIN-SUFFIX,analytics.underarmour.com
-DOMAIN-SUFFIX,analytics.unister-gmbh.de
 DOMAIN-SUFFIX,analytics.unive.nl
 DOMAIN-SUFFIX,analytics.upworthy.com
 DOMAIN-SUFFIX,analytics.us.archive.org
@@ -10478,7 +10475,6 @@ DOMAIN-SUFFIX,beacon.lycos.com
 DOMAIN-SUFFIX,beacon.netflix.com
 DOMAIN-SUFFIX,beacon.nuskin.com
 DOMAIN-SUFFIX,beacon.qq.com
-DOMAIN-SUFFIX,beacon.richrelevance.com
 DOMAIN-SUFFIX,beacon.riskified.com
 DOMAIN-SUFFIX,beacon.samsclub.com
 DOMAIN-SUFFIX,beacons*.gvt3.com
@@ -11337,7 +11333,6 @@ DOMAIN-SUFFIX,bs.nakanohito.jp
 DOMAIN-SUFFIX,b.snow.com
 DOMAIN-SUFFIX,b.socialdemokraterna.se
 DOMAIN-SUFFIX,bss-dev-observability-alb.bsstf.tt.omtrdc.net
-DOMAIN-SUFFIX,b-ssl.grvcdn.com
 DOMAIN-SUFFIX,bstn-14-ma.com
 DOMAIN-SUFFIX,bsvszgfboc._tcp.arkena.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,bsvszgfboc.tcp.arkena.hb.tt.omtrdc.net
@@ -12638,7 +12633,6 @@ DOMAIN-SUFFIX,comenityservicing.tt.omtrdc.net
 DOMAIN-SUFFIX,comeresaprensasl.tt.omtrdc.net
 DOMAIN-SUFFIX,comespn.hb.omtrdc.netespndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,cometlytrack.com
-DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,comfluvaccines-cloud.vaccines.tt.omtrdc.net
 DOMAIN-SUFFIX,comfluvaccinesscm4.vaccines.tt.omtrdc.net
 DOMAIN-SUFFIX,comfortablecheese.com
@@ -19443,7 +19437,6 @@ DOMAIN-SUFFIX,geoip.boredpanda.com
 DOMAIN-SUFFIX,geoip.cleveland.com
 DOMAIN-SUFFIX,geoip.fotoable.net
 DOMAIN-SUFFIX,geoip.gulflive.com
-DOMAIN-SUFFIX,geoip.herewetest.com
 DOMAIN-SUFFIX,geoip.ifunny.co
 DOMAIN-SUFFIX,geoip.inquirer.net
 DOMAIN-SUFFIX,geoip.lehighvalleylive.com
@@ -19459,7 +19452,6 @@ DOMAIN-SUFFIX,geoip.pennlive.com
 DOMAIN-SUFFIX,geoip.silive.com
 DOMAIN-SUFFIX,geoip.syracuse.com
 DOMAIN-SUFFIX,geoip.viamichelin.com
-DOMAIN-SUFFIX,geo.kaloo.ga
 DOMAIN-SUFFIX,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-SUFFIX,geoloc*.geo20120530.com
 DOMAIN-SUFFIX,geoloc*.geostats.ovh
@@ -19470,7 +19462,6 @@ DOMAIN-SUFFIX,geo.metronews.ca
 DOMAIN-SUFFIX,geo.met.vgwort.de
 DOMAIN-SUFFIX,geo.mozilla.org
 DOMAIN-SUFFIX,geonetric.actonservice.com
-DOMAIN-SUFFIX,geo.play.it
 DOMAIN-SUFFIX,geoplugin.net
 DOMAIN-SUFFIX,georgfischerag.tt.omtrdc.net
 DOMAIN-SUFFIX,georiot.com
@@ -23851,7 +23842,6 @@ DOMAIN-SUFFIX,livestat.com
 DOMAIN-SUFFIX,livestats.fr
 DOMAIN-SUFFIX,live.techit.co.il
 DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
-DOMAIN-SUFFIX,livetracker.rfe.pangea-cms.com
 DOMAIN-SUFFIX,livetrafficfeed.com
 DOMAIN-SUFFIX,livewebstats.dk
 DOMAIN-SUFFIX,lizard.juststeveking.uk
@@ -26452,7 +26442,6 @@ DOMAIN-SUFFIX,mediatek52.tt.omtrdc.net
 DOMAIN-SUFFIX,media.theartisansapproach.com
 DOMAIN-SUFFIX,mediation-tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,mediator.imgsmail.ru
-DOMAIN-SUFFIX,mediator.mail.ru
 DOMAIN-SUFFIX,media.trendoffset.com
 DOMAIN-SUFFIX,media.tt.omtrdc.net
 DOMAIN-SUFFIX,media.ubmamevents.com
@@ -31537,6 +31526,7 @@ DOMAIN-SUFFIX,pultegroup.tt.omtrdc.net
 DOMAIN-SUFFIX,puma.islingtonmecc.org.uk
 DOMAIN-SUFFIX,puma.strategyascode.com
 DOMAIN-SUFFIX,pumlmb.netcologne.de
+DOMAIN-SUFFIX,pumpedpancake.com
 DOMAIN-SUFFIX,pumpkin.abine.com
 DOMAIN-SUFFIX,pu.pretunique.fr
 DOMAIN-SUFFIX,pupses.com
@@ -32733,7 +32723,6 @@ DOMAIN-SUFFIX,saa.metacritic.com
 DOMAIN-SUFFIX,saametrics.aktia.fi
 DOMAIN-SUFFIX,saametrics.vaisala.com
 DOMAIN-SUFFIX,saam.gumtree.com.au
-DOMAIN-SUFFIX,sa.aol.com
 DOMAIN-SUFFIX,saa.pacificdentalservices.com
 DOMAIN-SUFFIX,saa.paramountplus.com
 DOMAIN-SUFFIX,saa.paramountpressexpress.com
@@ -32756,7 +32745,6 @@ DOMAIN-SUFFIX,saa.tvguide.com
 DOMAIN-SUFFIX,saa.viacomcbspressexpress.com
 DOMAIN-SUFFIX,saa.wowma.jp
 DOMAIN-SUFFIX,saa.zdnet.com
-DOMAIN-SUFFIX,sa.bbc.com
 DOMAIN-SUFFIX,sa.bbc.co.uk
 DOMAIN-SUFFIX,sa.bdoaustralia.bdo.com.au
 DOMAIN-SUFFIX,saber.srvcs.tumblr.com
@@ -37410,7 +37398,6 @@ DOMAIN-SUFFIX,sp.timesrecordnews.com
 DOMAIN-SUFFIX,sp.tinymce.com
 DOMAIN-SUFFIX,spt.performgroup.com
 DOMAIN-SUFFIX,sp-trk.com
-DOMAIN-SUFFIX,sp.udimg.com
 DOMAIN-SUFFIX,spuriousbase.com
 DOMAIN-SUFFIX,spurioussteam.com
 DOMAIN-SUFFIX,spuriousstranger.com
@@ -38347,7 +38334,6 @@ DOMAIN-SUFFIX,sta.tracedock.com
 DOMAIN-SUFFIX,stat.radar.imgsmail.ru
 DOMAIN-SUFFIX,stat.rare.ru
 DOMAIN-SUFFIX,stat.rizeniskoly.cz
-DOMAIN-SUFFIX,stat.ruvr.ru
 DOMAIN-SUFFIX,stats1.wpmudev.com
 DOMAIN-SUFFIX,stats21.com
 DOMAIN-SUFFIX,stats2.agilecrm.com
@@ -38646,7 +38632,6 @@ DOMAIN-SUFFIX,statsforever.com
 DOMAIN-SUFFIX,stats.frantic.im
 DOMAIN-SUFFIX,stats.frenlo.com
 DOMAIN-SUFFIX,stats.fs4c.org
-DOMAIN-SUFFIX,stats.ft.com
 DOMAIN-SUFFIX,stats.fullofwishes.co.uk
 DOMAIN-SUFFIX,stats.fundimmo.com
 DOMAIN-SUFFIX,stats.fwdkit.com

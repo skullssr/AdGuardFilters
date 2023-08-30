@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-07-07 05:10:49
-# DOMAIN-SUFFIX: 449
-# TOTAL: 449
+# UPDATED: 2023-08-31 05:14:58
+# DOMAIN-SUFFIX: 450
+# TOTAL: 450
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -343,6 +343,7 @@ DOMAIN-SUFFIX,publisher.outtra.com
 DOMAIN-SUFFIX,putenbrust.net
 DOMAIN-SUFFIX,qualigo.de
 DOMAIN-SUFFIX,quality-channel.de
+DOMAIN-SUFFIX,quartermedia-ad-service.net
 DOMAIN-SUFFIX,quartermedia.de
 DOMAIN-SUFFIX,quarterserver.de
 DOMAIN-SUFFIX,rapidads.de
