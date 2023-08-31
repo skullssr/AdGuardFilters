@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-31 05:13:12
-# DOMAIN-SUFFIX: 48018
-# TOTAL: 48018
+# UPDATED: 2023-09-01 06:04:59
+# DOMAIN-SUFFIX: 48021
+# TOTAL: 48021
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -11849,6 +11849,7 @@ DOMAIN-SUFFIX,cdn.dsspn.com
 DOMAIN-SUFFIX,cdn.easybenefitfinder.com
 DOMAIN-SUFFIX,cdn.experience.globalsources.com
 DOMAIN-SUFFIX,cdn.glassboxcdn.com
+DOMAIN-SUFFIX,cdn.granify.com
 DOMAIN-SUFFIX,cdn.kaizenplatform.net
 DOMAIN-SUFFIX,cdn.logrocket.com
 DOMAIN-SUFFIX,cdn.mavi.digital
@@ -12253,7 +12254,6 @@ DOMAIN-SUFFIX,client-code.tt.omtrdc.net
 DOMAIN-SUFFIX,clientcode.tt.omtrdc.net
 DOMAIN-SUFFIX,client-event-reporter.twitch.tv
 DOMAIN-SUFFIX,clientlog.midomi.com
-DOMAIN-SUFFIX,clientlog.portal.office.com
 DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,client-metrics.chess.com
 DOMAIN-SUFFIX,clientmetrics.kik.com
@@ -16957,6 +16957,7 @@ DOMAIN-SUFFIX,dmm.tt.omtrdc.net
 DOMAIN-SUFFIX,d.m-net.de
 DOMAIN-SUFFIX,dmp.citiservi.es
 DOMAIN-SUFFIX,dmpcloud.net
+DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it
 DOMAIN-SUFFIX,dmpprof.com
 DOMAIN-SUFFIX,dmp.sbermarketing.ru
 DOMAIN-SUFFIX,dm.pstatp.com
@@ -30797,7 +30798,6 @@ DOMAIN-SUFFIX,pixel*.production-public.tubi.io
 DOMAIN-SUFFIX,pixel.propublica.org
 DOMAIN-SUFFIX,pixel.quantserve.com
 DOMAIN-SUFFIX,pixel.reddit.com
-DOMAIN-SUFFIX,pixel.redditmedia.com
 DOMAIN-SUFFIX,pixelrevenue.com
 DOMAIN-SUFFIX,pixel.roymorgan.com
 DOMAIN-SUFFIX,pixel-*.rubiconproject.com
@@ -31932,7 +31932,6 @@ DOMAIN-SUFFIX,realsolutions.americanexpress.it
 DOMAIN-SUFFIX,realtimely.io
 DOMAIN-SUFFIX,realtimewebstats.net
 DOMAIN-SUFFIX,realtracker.com
-DOMAIN-SUFFIX,real-user-monitoring.a.autoscout24.com
 DOMAIN-SUFFIX,realytics.io
 DOMAIN-SUFFIX,realytics.net
 DOMAIN-SUFFIX,realzeit.io
@@ -33871,6 +33870,7 @@ DOMAIN-SUFFIX,sgali-mcs.byteoversea.com
 DOMAIN-SUFFIX,sgforex.americanexpress.com
 DOMAIN-SUFFIX,sg-go.experian.com
 DOMAIN-SUFFIX,s.glimesh.tv
+DOMAIN-SUFFIX,sg.log.ulivetv.net
 DOMAIN-SUFFIX,sg.lucanet.com
 DOMAIN-SUFFIX,sgms.greatschools.org
 DOMAIN-SUFFIX,sg.promo.skf.com
@@ -41836,6 +41836,7 @@ DOMAIN-SUFFIX,tracker.dalso.org
 DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.decomworld.com
 DOMAIN-SUFFIX,tracker.departapp.com
+DOMAIN-SUFFIX,tracker.dianshige.com
 DOMAIN-SUFFIX,tracker.digitalcamp.co.kr
 DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
 DOMAIN-SUFFIX,tracker.downdetector.com
@@ -41859,6 +41860,7 @@ DOMAIN-SUFFIX,tracker.metricool.com
 DOMAIN-SUFFIX,tracker.mtrtb.com
 DOMAIN-SUFFIX,tracker.nbcuas.com
 DOMAIN-SUFFIX,tracker.neodatagroup.com
+DOMAIN-SUFFIX,trackernew.ulivetv.net
 DOMAIN-SUFFIX,tracker.p3a.net
 DOMAIN-SUFFIX,tracker.pinnaclesports.com
 DOMAIN-SUFFIX,tracker.plerdy.com
@@ -41887,6 +41889,7 @@ DOMAIN-SUFFIX,track.ertha.io
 DOMAIN-SUFFIX,tracker.thinkermail.com
 DOMAIN-SUFFIX,tracker.thinkindot.com
 DOMAIN-SUFFIX,tracker.tubecj.com
+DOMAIN-SUFFIX,tracker.ulivetv.net
 DOMAIN-SUFFIX,tracker.unbxdapi.com
 DOMAIN-SUFFIX,tracker.uprinting.com
 DOMAIN-SUFFIX,tracker.wordstream.com
