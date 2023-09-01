@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-30 05:20:19
+# UPDATED: 2023-09-02 05:38:25
 # DOMAIN-SUFFIX: 3943
 # TOTAL: 3943
 DOMAIN-SUFFIX,0123movies.com
@@ -139,7 +139,6 @@ DOMAIN-SUFFIX,ads.kazakh-zerno.net
 DOMAIN-SUFFIX,adslinkfly.online
 DOMAIN-SUFFIX,adslink.pw
 DOMAIN-SUFFIX,ads.listonic.com
-DOMAIN-SUFFIX,ads.lollipod.de
 DOMAIN-SUFFIX,ads.microsoft.com
 DOMAIN-SUFFIX,ads.midwayusa.com
 DOMAIN-SUFFIX,ads.pinterest.com
@@ -1198,6 +1197,7 @@ DOMAIN-SUFFIX,fawrye.com
 DOMAIN-SUFFIX,fce365.info
 DOMAIN-SUFFIX,fc.lc
 DOMAIN-SUFFIX,fc-lc.com
+DOMAIN-SUFFIX,fc-lc.xyz
 DOMAIN-SUFFIX,feadrope.net
 DOMAIN-SUFFIX,fearonlineifsa.blogspot.com
 DOMAIN-SUFFIX,febbit.com
