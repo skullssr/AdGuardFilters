@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-05 05:10:57
-# DOMAIN-SUFFIX: 3941
-# TOTAL: 3941
+# UPDATED: 2023-09-06 05:02:39
+# DOMAIN-SUFFIX: 3942
+# TOTAL: 3942
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -3200,6 +3200,7 @@ DOMAIN-SUFFIX,spiele.bild.de
 DOMAIN-SUFFIX,spielen.de
 DOMAIN-SUFFIX,spieletipps.de
 DOMAIN-SUFFIX,spiele-umsonst.de
+DOMAIN-SUFFIX,sponsor.nitropay.com
 DOMAIN-SUFFIX,sport1.de
 DOMAIN-SUFFIX,sportal.de
 DOMAIN-SUFFIX,sportbikerider.us

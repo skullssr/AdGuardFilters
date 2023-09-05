@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-05 05:06:51
-# DOMAIN-SUFFIX: 48250
-# TOTAL: 48250
+# UPDATED: 2023-09-06 04:58:33
+# DOMAIN-SUFFIX: 48251
+# TOTAL: 48251
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -38477,6 +38477,7 @@ DOMAIN-SUFFIX,stat.gc.my.games
 DOMAIN-SUFFIX,stat.gomastercard.com.au
 DOMAIN-SUFFIX,stat.gspaceteam.com
 DOMAIN-SUFFIX,stat.guiasjuridicas.es
+DOMAIN-SUFFIX,statgw.devtodev.com
 DOMAIN-SUFFIX,stathat.com
 DOMAIN-SUFFIX,stat.his-j.com
 DOMAIN-SUFFIX,stathound.com
