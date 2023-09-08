@@ -1,9 +1,9 @@
 # NAME: DutchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-05-19 05:53:16
-# DOMAIN-SUFFIX: 47
-# TOTAL: 47
+# UPDATED: 2023-09-09 05:06:27
+# DOMAIN-SUFFIX: 48
+# TOTAL: 48
 DOMAIN-SUFFIX,aa.hwigroup.com
 DOMAIN-SUFFIX,aa.tweakers.nl
 DOMAIN-SUFFIX,ab.hwigroup.com
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,content2.pu.nl
 DOMAIN-SUFFIX,content2.wasmachines.nl
 DOMAIN-SUFFIX,content2.zoom.nl
 DOMAIN-SUFFIX,crnsgngrpj.nl
+DOMAIN-SUFFIX,cryptobeneluxbanner.care
 DOMAIN-SUFFIX,dntblckmpls.nl
 DOMAIN-SUFFIX,ds1.nl
 DOMAIN-SUFFIX,dt51.net
