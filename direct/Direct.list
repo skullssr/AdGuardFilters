@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-12 05:21:58
+# UPDATED: 2023-09-13 05:01:47
 # DOMAIN-SUFFIX: 3951
 # TOTAL: 3951
 DOMAIN-SUFFIX,0123movies.com
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,100count.net
 DOMAIN-SUFFIX,10-download.com
 DOMAIN-SUFFIX,11bit.co.in
 DOMAIN-SUFFIX,123link.biz
-DOMAIN-SUFFIX,123link.pro
 DOMAIN-SUFFIX,15min.lt
 DOMAIN-SUFFIX,199it.com
 DOMAIN-SUFFIX,1fichier.com
@@ -3753,6 +3752,7 @@ DOMAIN-SUFFIX,wakudan.seesaa.net
 DOMAIN-SUFFIX,walla.co.il
 DOMAIN-SUFFIX,wallpaperenginefree.com
 DOMAIN-SUFFIX,wallpaper-house.com
+DOMAIN-SUFFIX,wallpapershome.com
 DOMAIN-SUFFIX,wallpapers.ispazio.net
 DOMAIN-SUFFIX,wallpaperwaifu.com
 DOMAIN-SUFFIX,wallstreet-online.de

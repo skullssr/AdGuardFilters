@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-12 05:17:14
-# DOMAIN-SUFFIX: 48939
-# TOTAL: 48939
+# UPDATED: 2023-09-13 04:57:03
+# DOMAIN-SUFFIX: 48940
+# TOTAL: 48940
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7440,6 +7440,7 @@ DOMAIN-SUFFIX,analytics.geoutletstore.com
 DOMAIN-SUFFIX,analytics.gestore.com
 DOMAIN-SUFFIX,analytics.getshogun.com
 DOMAIN-SUFFIX,analytics.gewaterheater.com
+DOMAIN-SUFFIX,analytics.gnetworks.xyz
 DOMAIN-SUFFIX,analytics.gokwik.co
 DOMAIN-SUFFIX,analytics.gooogol.com
 DOMAIN-SUFFIX,analytics.gorillanation.com
