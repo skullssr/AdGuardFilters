@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-13 04:49:36
+# UPDATED: 2023-09-14 04:57:13
 # DOMAIN-SUFFIX: 3013
 # TOTAL: 3013
 DOMAIN-SUFFIX,0123movies.com
@@ -2215,7 +2215,6 @@ DOMAIN-SUFFIX,rockfile.co
 DOMAIN-SUFFIX,rocku.space
 DOMAIN-SUFFIX,rodjulian.com
 DOMAIN-SUFFIX,roland-gazeta.pl
-DOMAIN-SUFFIX,romadd.com
 DOMAIN-SUFFIX,romsforever.co
 DOMAIN-SUFFIX,rosefile.net
 DOMAIN-SUFFIX,royalkom.com
@@ -2330,6 +2329,7 @@ DOMAIN-SUFFIX,shinobijawi.id
 DOMAIN-SUFFIX,shinsori.com
 DOMAIN-SUFFIX,shipstation.com
 DOMAIN-SUFFIX,shoemoney.com
+DOMAIN-SUFFIX,shogaisha-techo.com
 DOMAIN-SUFFIX,shon.xyz
 DOMAIN-SUFFIX,shoot-yalla.tv
 DOMAIN-SUFFIX,shoppinglys.blogspot.com

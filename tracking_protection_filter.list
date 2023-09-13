@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-13 04:57:03
+# UPDATED: 2023-09-14 05:04:52
 # DOMAIN-SUFFIX: 48940
 # TOTAL: 48940
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -12197,7 +12197,6 @@ DOMAIN-SUFFIX,chui.tristes.mfisswger.com
 DOMAIN-SUFFIX,chunkycactus.com
 DOMAIN-SUFFIX,churro.noteapps.info
 DOMAIN-SUFFIX,c.i9.tt.omtrdc.net
-DOMAIN-SUFFIX,ci.asosservices.com
 DOMAIN-SUFFIX,cicada.escapethecorporatecult.com
 DOMAIN-SUFFIX,ciena.tt.omtrdc.net
 DOMAIN-SUFFIX,cigarsinternational.tt.omtrdc.net
@@ -29625,6 +29624,7 @@ DOMAIN-SUFFIX,nzmkzl.mytheresa.com
 DOMAIN-SUFFIX,nzmsgb.atu.de
 DOMAIN-SUFFIX,nzz.tt.omtrdc.net
 DOMAIN-SUFFIX,nzzvvf.goldengoose.com
+DOMAIN-SUFFIX,o1000929.ingest.sentry.io
 DOMAIN-SUFFIX,o2o.api.xiaomi.com
 DOMAIN-SUFFIX,o365diagtelemetry.trafficmanager.net
 DOMAIN-SUFFIX,o398.trumbulltimes.com
