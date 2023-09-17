@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-16 05:40:33
-# DOMAIN-SUFFIX: 3011
-# TOTAL: 3011
+# UPDATED: 2023-09-18 05:08:28
+# DOMAIN-SUFFIX: 3012
+# TOTAL: 3012
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2173,6 +2173,7 @@ DOMAIN-SUFFIX,receitasdamamae.online
 DOMAIN-SUFFIX,receiveasms.com
 DOMAIN-SUFFIX,receivesms.cc
 DOMAIN-SUFFIX,record-video-online.com
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redirect.disqus.com
 DOMAIN-SUFFIX,reifenrechner.at
 DOMAIN-SUFFIX,reit-tirement.com
