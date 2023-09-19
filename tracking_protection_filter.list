@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-19 05:43:04
-# DOMAIN-SUFFIX: 49150
-# TOTAL: 49150
+# UPDATED: 2023-09-20 05:21:07
+# DOMAIN-SUFFIX: 49152
+# TOTAL: 49152
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -9508,6 +9508,7 @@ DOMAIN-SUFFIX,asurioninsuranceserv.tt.omtrdc.net
 DOMAIN-SUFFIX,asustekcomputerinc.tt.omtrdc.net
 DOMAIN-SUFFIX,asutech2ywatch.tt.omtrdc.net
 DOMAIN-SUFFIX,a.svenskfast.se
+DOMAIN-SUFFIX,asv.transsion.com
 DOMAIN-SUFFIX,a.swamw.comverizonwireless.tt.omtrdc.net
 DOMAIN-SUFFIX,as-wc-055.cable.tt.omtrdc.net
 DOMAIN-SUFFIX,aswcat.allezloto.pl
@@ -42599,6 +42600,7 @@ DOMAIN-SUFFIX,tracelytics.com
 DOMAIN-SUFFIX,trace.popin.cc
 DOMAIN-SUFFIX,traceprof.com
 DOMAIN-SUFFIX,trace.qq.com
+DOMAIN-SUFFIX,trace.rememberapp.co.kr
 DOMAIN-SUFFIX,traces.sr.roku.com
 DOMAIN-SUFFIX,traceworks.com
 DOMAIN-SUFFIX,trace.zhiyan.tencent-cloud.net
