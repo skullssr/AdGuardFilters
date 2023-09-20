@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-14 05:09:39
-# DOMAIN-SUFFIX: 861
-# TOTAL: 861
+# UPDATED: 2023-09-21 05:09:54
+# DOMAIN-SUFFIX: 868
+# TOTAL: 868
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,adition.com
 DOMAIN-SUFFIX,ad.jorte.com
 DOMAIN-SUFFIX,adkernel.com
 DOMAIN-SUFFIX,adkmob.com
+DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,ad.leadboltapps.net
 DOMAIN-SUFFIX,adleads.com
 DOMAIN-SUFFIX,ad.leap.app
@@ -213,6 +214,7 @@ DOMAIN-SUFFIX,adz.mobi
 DOMAIN-SUFFIX,adzmobi.com
 DOMAIN-SUFFIX,agent.tamedia.com.tw
 DOMAIN-SUFFIX,ajdivotdelbloab24.jio.com
+DOMAIN-SUFFIX,ali-ad.a.yximgs.com
 DOMAIN-SUFFIX,alt-ad.mail.ru
 DOMAIN-SUFFIX,am15.net
 DOMAIN-SUFFIX,amanad.adtdp.com
@@ -460,6 +462,7 @@ DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
 DOMAIN-SUFFIX,houseads.ttpsdk.info
 DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,huntmad.com
+DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
 DOMAIN-SUFFIX,hybird.rayjump.com
 DOMAIN-SUFFIX,hybrid.ai
 DOMAIN-SUFFIX,hyperadx.com
@@ -519,6 +522,7 @@ DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,komoona.com
 DOMAIN-SUFFIX,krt.asycxtz.cn
 DOMAIN-SUFFIX,krutilka.net
+DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,l0-secure.videohub.tv
 DOMAIN-SUFFIX,l3op.info
 DOMAIN-SUFFIX,launcher.us.yeshen.com
@@ -811,6 +815,8 @@ DOMAIN-SUFFIX,turn.com
 DOMAIN-SUFFIX,tveta.naver.net
 DOMAIN-SUFFIX,tw-api.vpon.com
 DOMAIN-SUFFIX,tw.api.vpon.com
+DOMAIN-SUFFIX,tx-ad.a.yximgs.com
+DOMAIN-SUFFIX,tx-kmpaudio.pull.yximgs.com
 DOMAIN-SUFFIX,u-ad.info
 DOMAIN-SUFFIX,ufz.doesxyz.com
 DOMAIN-SUFFIX,ultraadserver.com
@@ -821,6 +827,7 @@ DOMAIN-SUFFIX,upsight-api.com
 DOMAIN-SUFFIX,upsight.com
 DOMAIN-SUFFIX,usekahuna.com
 DOMAIN-SUFFIX,usp1.baidu.com
+DOMAIN-SUFFIX,v*-ad.video.yximgs.com
 DOMAIN-SUFFIX,valshara.com
 DOMAIN-SUFFIX,velti.com
 DOMAIN-SUFFIX,veta.naver.com

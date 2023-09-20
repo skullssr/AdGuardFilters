@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-20 05:21:07
-# DOMAIN-SUFFIX: 49152
-# TOTAL: 49152
+# UPDATED: 2023-09-21 05:05:49
+# DOMAIN-SUFFIX: 49154
+# TOTAL: 49154
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -34572,6 +34572,7 @@ DOMAIN-SUFFIX,sensors.balluff.com
 DOMAIN-SUFFIX,sensorsdata.cn
 DOMAIN-SUFFIX,sensorsdata*.read.duokan.com
 DOMAIN-SUFFIX,sensors.ibreader.com
+DOMAIN-SUFFIX,sensors-log.dongqiudi.com
 DOMAIN-SUFFIX,sensors.snappea.com
 DOMAIN-SUFFIX,sensors.snaptube.app
 DOMAIN-SUFFIX,sentifi.com
@@ -39265,6 +39266,7 @@ DOMAIN-SUFFIX,statdb.pressflex.com
 DOMAIN-SUFFIX,stat.dbschenker.com
 DOMAIN-SUFFIX,stat.dealtime.com
 DOMAIN-SUFFIX,stat.detelefoongids.nl
+DOMAIN-SUFFIX,stat.dongqiudi.com
 DOMAIN-SUFFIX,stat.download.xunlei.com
 DOMAIN-SUFFIX,stat.duokanbox.com
 DOMAIN-SUFFIX,stat.eagleplatform.com
