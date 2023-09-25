@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-21 04:59:16
-# DOMAIN-SUFFIX: 3013
-# TOTAL: 3013
+# UPDATED: 2023-09-26 04:50:27
+# DOMAIN-SUFFIX: 3015
+# TOTAL: 3015
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -884,6 +884,7 @@ DOMAIN-SUFFIX,ezimg.co
 DOMAIN-SUFFIX,f1countdown.com
 DOMAIN-SUFFIX,f1fanklub.pl
 DOMAIN-SUFFIX,f1-gate.com
+DOMAIN-SUFFIX,f1ingenerale.com
 DOMAIN-SUFFIX,facepunch.io
 DOMAIN-SUFFIX,fakeporn.tv
 DOMAIN-SUFFIX,faktykaliskie.pl
@@ -1643,6 +1644,7 @@ DOMAIN-SUFFIX,mcoc-guide.blogspot.com
 DOMAIN-SUFFIX,mcoc-guide.blogspot.co.uk
 DOMAIN-SUFFIX,mcoc-guide.blogspot.in
 DOMAIN-SUFFIX,mc-premium.org
+DOMAIN-SUFFIX,mdpr.jp
 DOMAIN-SUFFIX,mealcold.com
 DOMAIN-SUFFIX,medcpu.com
 DOMAIN-SUFFIX,medevel.com

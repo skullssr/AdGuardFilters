@@ -1,14 +1,15 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-21 05:09:54
-# DOMAIN-SUFFIX: 868
-# TOTAL: 868
+# UPDATED: 2023-09-26 05:01:32
+# DOMAIN-SUFFIX: 876
+# TOTAL: 876
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
 DOMAIN-SUFFIX,360yield.com
 DOMAIN-SUFFIX,883.engine.mobileapptracking.com
+DOMAIN-SUFFIX,92by17snes4.cc
 DOMAIN-SUFFIX,a2dfp.net
 DOMAIN-SUFFIX,a2pub.com
 DOMAIN-SUFFIX,a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
@@ -157,6 +158,7 @@ DOMAIN-SUFFIX,adsmo.ru
 DOMAIN-SUFFIX,adsmrapi.imbc.com
 DOMAIN-SUFFIX,ad.snappea.com
 DOMAIN-SUFFIX,adsniper.ru
+DOMAIN-SUFFIX,ads*-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,ads.pdbarea.com
 DOMAIN-SUFFIX,ads.pinger.com
 DOMAIN-SUFFIX,ad-splash.hktvmall.com
@@ -210,6 +212,7 @@ DOMAIN-SUFFIX,adx-dre.op.hicloud.com
 DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-SUFFIX,adx-tk.rayjump.com
 DOMAIN-SUFFIX,adzerk.net
+DOMAIN-SUFFIX,ad.zijieapi.com
 DOMAIN-SUFFIX,adz.mobi
 DOMAIN-SUFFIX,adzmobi.com
 DOMAIN-SUFFIX,agent.tamedia.com.tw
@@ -633,7 +636,11 @@ DOMAIN-SUFFIX,oconner.biz
 DOMAIN-SUFFIX,offerwall-adnative.com
 DOMAIN-SUFFIX,offerwall.yandex.net
 DOMAIN-SUFFIX,onlineapi.youappi.com
+DOMAIN-SUFFIX,open.e.kuaishou.cn
+DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX,open.isnssdk.com
+DOMAIN-SUFFIX,open.kuaishouzt.com
+DOMAIN-SUFFIX,open.kwaizt.com
 DOMAIN-SUFFIX,opt8.co
 DOMAIN-SUFFIX,os.scmpacdn.com
 DOMAIN-SUFFIX,otcdn2.auditude.com
@@ -652,6 +659,7 @@ DOMAIN-SUFFIX,pasta.esfile.duapps.com
 DOMAIN-SUFFIX,p-behacdn.ksmobile.net
 DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,pflexads.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,phluant.com
 DOMAIN-SUFFIX,pixel.admobclick.com
 DOMAIN-SUFFIX,playhaven.com

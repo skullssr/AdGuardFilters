@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-31 05:14:58
-# DOMAIN-SUFFIX: 450
-# TOTAL: 450
+# UPDATED: 2023-09-26 04:59:12
+# DOMAIN-SUFFIX: 451
+# TOTAL: 451
 DOMAIN-SUFFIX,4adtf.com
 DOMAIN-SUFFIX,4adtf.com.
 DOMAIN-SUFFIX,4rm.de
@@ -242,6 +242,7 @@ DOMAIN-SUFFIX,linkedads.de
 DOMAIN-SUFFIX,linkstation.de
 DOMAIN-SUFFIX,localpagead.de
 DOMAIN-SUFFIX,localpoint.ch
+DOMAIN-SUFFIX,lokalwerben.t-online.de
 DOMAIN-SUFFIX,lose4admin.de
 DOMAIN-SUFFIX,love-money.de
 DOMAIN-SUFFIX,luxyad.com
