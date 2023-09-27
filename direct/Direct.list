@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-26 05:01:34
+# UPDATED: 2023-09-28 04:58:29
 # DOMAIN-SUFFIX: 3954
 # TOTAL: 3954
 DOMAIN-SUFFIX,0123movies.com
@@ -3375,6 +3375,7 @@ DOMAIN-SUFFIX,tellows.it
 DOMAIN-SUFFIX,tellygossips.net
 DOMAIN-SUFFIX,tellynews.us
 DOMAIN-SUFFIX,telolet.in
+DOMAIN-SUFFIX,teltarif.de
 DOMAIN-SUFFIX,teluguflix.lol
 DOMAIN-SUFFIX,telva.com
 DOMAIN-SUFFIX,tempatak.blogspot.com
@@ -3515,7 +3516,6 @@ DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,track.rutarget.ru
 DOMAIN-SUFFIX,traductionjeux.com
 DOMAIN-SUFFIX,traficodetorrents.com
-DOMAIN-SUFFIX,trangchu.news
 DOMAIN-SUFFIX,tranimeizle.*
 DOMAIN-SUFFIX,transfermarkt.at
 DOMAIN-SUFFIX,transfermarkt.de
