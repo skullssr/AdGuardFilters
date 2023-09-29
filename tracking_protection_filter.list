@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-29 05:03:18
-# DOMAIN-SUFFIX: 52789
-# TOTAL: 52789
+# UPDATED: 2023-09-30 05:05:46
+# DOMAIN-SUFFIX: 52790
+# TOTAL: 52790
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -30752,6 +30752,7 @@ DOMAIN-SUFFIX,mnrddc.journeys.com
 DOMAIN-SUFFIX,mntrequirment.tt.omtrdc.net
 DOMAIN-SUFFIX,mnwljk.ibagy.com.br
 DOMAIN-SUFFIX,moa-upload-online.coloros.com
+DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobalyzer.net
 DOMAIN-SUFFIX,mob.cpao.tt.omtrdc.net
 DOMAIN-SUFFIX,mobile1.booking.tt.omtrdc.net
