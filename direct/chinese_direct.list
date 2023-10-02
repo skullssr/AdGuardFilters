@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-09-17 04:47:47
-# DOMAIN-SUFFIX: 176
-# TOTAL: 176
+# UPDATED: 2023-10-03 04:40:09
+# DOMAIN-SUFFIX: 177
+# TOTAL: 177
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,fharr.com
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,game735.com
 DOMAIN-SUFFIX,gaus.ee
+DOMAIN-SUFFIX,gboku.com
 DOMAIN-SUFFIX,ggg50.pw
 DOMAIN-SUFFIX,golangnote.com
 DOMAIN-SUFFIX,gooogle.how
