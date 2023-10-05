@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-04 05:19:42
-# DOMAIN-SUFFIX: 3007
-# TOTAL: 3007
+# UPDATED: 2023-10-06 05:01:56
+# DOMAIN-SUFFIX: 3009
+# TOTAL: 3009
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2445,6 +2445,7 @@ DOMAIN-SUFFIX,sshagan.net
 DOMAIN-SUFFIX,sshconect.com.br
 DOMAIN-SUFFIX,sslproxies24.top
 DOMAIN-SUFFIX,staaker.com
+DOMAIN-SUFFIX,stablediffusionxl.com
 DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,stadionowioprawcy.net
 DOMAIN-SUFFIX,stadium-live.biz
@@ -2534,6 +2535,7 @@ DOMAIN-SUFFIX,tech-platform.info
 DOMAIN-SUFFIX,techposts.org
 DOMAIN-SUFFIX,techreviewpro.com
 DOMAIN-SUFFIX,techrrival.com
+DOMAIN-SUFFIX,techsbucket.com
 DOMAIN-SUFFIX,techsighter.com
 DOMAIN-SUFFIX,techtobo.com
 DOMAIN-SUFFIX,techtunes.com.bd

@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-05 04:57:45
-# DOMAIN-SUFFIX: 53634
-# TOTAL: 53634
+# UPDATED: 2023-10-06 05:09:02
+# DOMAIN-SUFFIX: 53637
+# TOTAL: 53637
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -7752,6 +7752,7 @@ DOMAIN-SUFFIX,anaconda.venturearc.io
 DOMAIN-SUFFIX,anaconda.webitizeicts.com
 DOMAIN-SUFFIX,anaconda.zephyrus.gg
 DOMAIN-SUFFIX,ana.gomtv.com
+DOMAIN-SUFFIX,ana*.inews24.com
 DOMAIN-SUFFIX,analitits.com
 DOMAIN-SUFFIX,analoganalytics.com
 DOMAIN-SUFFIX,analogdevicesinc.tt.omtrdc.net
@@ -8073,6 +8074,7 @@ DOMAIN-SUFFIX,analytics.multithread.studio
 DOMAIN-SUFFIX,analytics.myapstore.com
 DOMAIN-SUFFIX,analytics.mycater.fr
 DOMAIN-SUFFIX,analytics.myhermes.de
+DOMAIN-SUFFIX,analytics.myshoptago.com
 DOMAIN-SUFFIX,analytics.mystream.com
 DOMAIN-SUFFIX,analytics.mysynchrony.com
 DOMAIN-SUFFIX,analyticsnarc.ro.ing.net
@@ -51967,6 +51969,7 @@ DOMAIN-SUFFIX,wfadmin51.tt.omtrdc.net
 DOMAIN-SUFFIX,wfadmin-qa.dqa.tt.omtrdc.net
 DOMAIN-SUFFIX,wfhm-ox-test.tt.omtrdc.net
 DOMAIN-SUFFIX,wf.muwebapi.d3-np.tt.omtrdc.net
+DOMAIN-SUFFIX,wfthumty.pm
 DOMAIN-SUFFIX,wftp101.tt.omtrdc.net
 DOMAIN-SUFFIX,wfwpok.impressionen.de
 DOMAIN-SUFFIX,wgjemfwksx.32.17.182aem.hb.tt.omtrdc.net
