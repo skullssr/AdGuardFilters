@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-06 05:09:02
-# DOMAIN-SUFFIX: 53637
-# TOTAL: 53637
+# UPDATED: 2023-10-07 05:02:03
+# DOMAIN-SUFFIX: 53638
+# TOTAL: 53638
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -47525,6 +47525,7 @@ DOMAIN-SUFFIX,tracking.univtec.com
 DOMAIN-SUFFIX,tracking.unrealengine.com
 DOMAIN-SUFFIX,tracking.usj.es
 DOMAIN-SUFFIX,tracking.utas.edu.au
+DOMAIN-SUFFIX,tracking.utlservice.com
 DOMAIN-SUFFIX,tracking.ventingdirect.com
 DOMAIN-SUFFIX,tracking.ventingpipe.com
 DOMAIN-SUFFIX,tracking.venture-net.co.jp
