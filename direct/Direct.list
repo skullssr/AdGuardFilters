@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-10 05:22:05
-# DOMAIN-SUFFIX: 3931
-# TOTAL: 3931
+# UPDATED: 2023-10-11 05:17:23
+# DOMAIN-SUFFIX: 3932
+# TOTAL: 3932
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -830,6 +830,8 @@ DOMAIN-SUFFIX,darmowa-telewizja.online
 DOMAIN-SUFFIX,darmowa-tv.xyz
 DOMAIN-SUFFIX,dasgelbeblatt.de
 DOMAIN-SUFFIX,dashboard.mgid.com
+DOMAIN-SUFFIX,data.digital.costco.ca
+DOMAIN-SUFFIX,data.digital.costco.com
 DOMAIN-SUFFIX,dataf.pro
 DOMAIN-SUFFIX,data-*.herz-fuer-tiere.de
 DOMAIN-SUFFIX,datphanmem.com
@@ -2236,6 +2238,7 @@ DOMAIN-SUFFIX,midiextreme.blogspot.com
 DOMAIN-SUFFIX,midiextreme.com
 DOMAIN-SUFFIX,midnightchannel.net
 DOMAIN-SUFFIX,mifirmware.com
+DOMAIN-SUFFIX,milanreports.com
 DOMAIN-SUFFIX,milanworld.net
 DOMAIN-SUFFIX,milaulas.com
 DOMAIN-SUFFIX,mileyupdateuk.com
@@ -2960,7 +2963,6 @@ DOMAIN-SUFFIX,saglamindir.net
 DOMAIN-SUFFIX,saikoanimes.com
 DOMAIN-SUFFIX,saikocloud.ml
 DOMAIN-SUFFIX,sakaiplus.com
-DOMAIN-SUFFIX,salutbonjour.ca
 DOMAIN-SUFFIX,salzgitter-zeitung.de
 DOMAIN-SUFFIX,samapkstore.com
 DOMAIN-SUFFIX,samnaprawiam.com
@@ -3141,7 +3143,6 @@ DOMAIN-SUFFIX,smtcaw.com
 DOMAIN-SUFFIX,sna3talaflam.com
 DOMAIN-SUFFIX,snbc13.com
 DOMAIN-SUFFIX,sneakernews.com
-DOMAIN-SUFFIX,snopes.com
 DOMAIN-SUFFIX,sobootlogo.blogspot.com
 DOMAIN-SUFFIX,sobremascotas.info
 DOMAIN-SUFFIX,soccer24hd.com

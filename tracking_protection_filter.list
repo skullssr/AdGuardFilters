@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-10 05:17:56
-# DOMAIN-SUFFIX: 53687
-# TOTAL: 53687
+# UPDATED: 2023-10-11 05:13:13
+# DOMAIN-SUFFIX: 53689
+# TOTAL: 53689
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -14755,6 +14755,7 @@ DOMAIN-SUFFIX,csqe.tt.omtrdc.net
 DOMAIN-SUFFIX,csr.onet.pl
 DOMAIN-SUFFIX,cssversicherung.tt.omtrdc.net
 DOMAIN-SUFFIX,css-wasp3.tt.omtrdc.net
+DOMAIN-SUFFIX,c.statcounter.com
 DOMAIN-SUFFIX,cstats.sankakucomplex.com
 DOMAIN-SUFFIX,cstkvfsbzf.182nfl.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,csu.tt.omtrdc.net
@@ -21169,6 +21170,7 @@ DOMAIN-SUFFIX,freshplum.com
 DOMAIN-SUFFIX,fressnapftiernahrung-2.tt.omtrdc.net
 DOMAIN-SUFFIX,fressnapftiernahrung.tt.omtrdc.net
 DOMAIN-SUFFIX,fretfulfurniture.com
+DOMAIN-SUFFIX,f.revotas.com
 DOMAIN-SUFFIX,fr-go.experian.com
 DOMAIN-SUFFIX,fridaymarketing.actonservice.com
 DOMAIN-SUFFIX,friendbuy.com
