@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-11 05:13:13
-# DOMAIN-SUFFIX: 53689
-# TOTAL: 53689
+# UPDATED: 2023-10-12 04:55:41
+# DOMAIN-SUFFIX: 53697
+# TOTAL: 53697
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -8860,6 +8860,7 @@ DOMAIN-SUFFIX,apigwsystest.clearml-fallback.artifactory.prod.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hairlie-stg.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hbf-qa.pmib.test.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,api-*.hismarttv.com
 DOMAIN-SUFFIX,api-ih2.hm.erc.tt.omtrdc.net
 DOMAIN-SUFFIX,api.ingest.oitroot.us-east-1-clean1.preview.tt.omtrdc.net
 DOMAIN-SUFFIX,api-insights.demo.tt.omtrdc.net
@@ -10467,6 +10468,7 @@ DOMAIN-SUFFIX,auth-gamma-be.acc.acc.tt.omtrdc.net
 DOMAIN-SUFFIX,auth-gta4-prod.tt.omtrdc.net
 DOMAIN-SUFFIX,auth-gtavc-prod.ros.tt.omtrdc.net
 DOMAIN-SUFFIX,auth.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,auth-*.hismarttv.com
 DOMAIN-SUFFIX,auth-ipv6qa-apiproduction.tt.omtrdc.net
 DOMAIN-SUFFIX,auth.np-np.ac.ac.tt.omtrdc.net
 DOMAIN-SUFFIX,authn-sso3.tt.omtrdc.net
@@ -14555,6 +14557,7 @@ DOMAIN-SUFFIX,coyote.gnx.cloud
 DOMAIN-SUFFIX,coyote.hopr.swiss
 DOMAIN-SUFFIX,coyote.nickgurney.com
 DOMAIN-SUFFIX,coyote.txet.ch
+DOMAIN-SUFFIX,cozyhillside.com
 DOMAIN-SUFFIX,cpaas-euc-relyingparty-okta-stablesmtp.tt.omtrdc.net
 DOMAIN-SUFFIX,cpaaustralia.tt.omtrdc.net
 DOMAIN-SUFFIX,cpanel0.tt.omtrdc.net
@@ -14656,6 +14659,7 @@ DOMAIN-SUFFIX,creo.trekkww.space
 DOMAIN-SUFFIX,creusatcom.tt.omtrdc.net
 DOMAIN-SUFFIX,c.revmizer.com
 DOMAIN-SUFFIX,c.rhapsody.com
+DOMAIN-SUFFIX,crimsonmeadow.com
 DOMAIN-SUFFIX,crissbellini.espheredigital.com
 DOMAIN-SUFFIX,cristinacordova.tt.omtrdc.net
 DOMAIN-SUFFIX,cristinajimenez.tt.omtrdc.net
@@ -18947,6 +18951,7 @@ DOMAIN-SUFFIX,ea.diamant-unique.com
 DOMAIN-SUFFIX,ea.easyvoyage.com
 DOMAIN-SUFFIX,ea.ecotour.com
 DOMAIN-SUFFIX,ea.elstarprevention.com
+DOMAIN-SUFFIX,ea.epochbase.com
 DOMAIN-SUFFIX,ea.evaway.com
 DOMAIN-SUFFIX,ea.fleurancenature.com
 DOMAIN-SUFFIX,ea.fleurancenature.fr
@@ -31521,6 +31526,7 @@ DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,msga.cupid.iqiyi.com
 DOMAIN-SUFFIX,msgapp.com
 DOMAIN-SUFFIX,msg-intl.qy.net
+DOMAIN-SUFFIX,msg-na.hismarttv.com
 DOMAIN-SUFFIX,msg.qy.net
 DOMAIN-SUFFIX,msg.simeji.baidu.jp
 DOMAIN-SUFFIX,msg.simeji.me
@@ -50564,6 +50570,7 @@ DOMAIN-SUFFIX,unicharm.tt.omtrdc.net
 DOMAIN-SUFFIX,unicreditgroup.tt.omtrdc.net
 DOMAIN-SUFFIX,unicreditit.tt.omtrdc.net
 DOMAIN-SUFFIX,unid.go.com
+DOMAIN-SUFFIX,unified-ter-na.hismarttv.com
 DOMAIN-SUFFIX,unifiedwfo.verintsystemsinc.com
 DOMAIN-SUFFIX,unifilabs.actonservice.com
 DOMAIN-SUFFIX,uniformadvantage.tt.omtrdc.net
@@ -50976,6 +50983,7 @@ DOMAIN-SUFFIX,viaggimarilore.tt.omtrdc.net
 DOMAIN-SUFFIX,viasat.tt.omtrdc.net
 DOMAIN-SUFFIX,viavarejo.tt.omtrdc.net
 DOMAIN-SUFFIX,viborgfolkeblad.tns-gallup.dk
+DOMAIN-SUFFIX,vibranthaven.com
 DOMAIN-SUFFIX,vicentecamarasa.tt.omtrdc.net
 DOMAIN-SUFFIX,vicky.tweaknology.org
 DOMAIN-SUFFIX,vicpolreg.tt.omtrdc.net

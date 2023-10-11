@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-11 04:57:55
-# DOMAIN-SUFFIX: 140
-# TOTAL: 140
+# UPDATED: 2023-10-12 04:40:21
+# DOMAIN-SUFFIX: 142
+# TOTAL: 142
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,redir.tradedoubler.com
 DOMAIN-SUFFIX,remembering.ca
 DOMAIN-SUFFIX,sponsor.nitropay.com
 DOMAIN-SUFFIX,stash.roistat.com
+DOMAIN-SUFFIX,statcounter.com
 DOMAIN-SUFFIX,static-v*.trbo.com
 DOMAIN-SUFFIX,str.hit.gemius.pl
 DOMAIN-SUFFIX,support-beacon.nakanohito.jp
@@ -144,3 +145,4 @@ DOMAIN-SUFFIX,validate.perfdrive.com
 DOMAIN-SUFFIX,vcentry3.valuecommerce.ne.jp
 DOMAIN-SUFFIX,www.googleadservices.com
 DOMAIN-SUFFIX,www.jdoqocy.com
+DOMAIN-SUFFIX,www.statcounter.com
