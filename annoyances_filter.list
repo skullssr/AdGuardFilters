@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-14 05:59:39
-# DOMAIN-SUFFIX: 1043
-# TOTAL: 1043
+# UPDATED: 2023-10-17 05:09:26
+# DOMAIN-SUFFIX: 1044
+# TOTAL: 1044
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
 DOMAIN-SUFFIX,7pisem.ru
@@ -342,6 +342,7 @@ DOMAIN-SUFFIX,dobrnovosti.com
 DOMAIN-SUFFIX,dockdigestion.com
 DOMAIN-SUFFIX,dolohatum.com
 DOMAIN-SUFFIX,dolweerum.com
+DOMAIN-SUFFIX,dreamycanyon.com
 DOMAIN-SUFFIX,dryum.ru
 DOMAIN-SUFFIX,dtbot.directtalk.com.br
 DOMAIN-SUFFIX,dustyhammer.com
