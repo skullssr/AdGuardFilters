@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-19 06:22:46
-# DOMAIN-SUFFIX: 54226
-# TOTAL: 54226
+# UPDATED: 2023-10-20 05:25:48
+# DOMAIN-SUFFIX: 54227
+# TOTAL: 54227
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -12691,6 +12691,7 @@ DOMAIN-SUFFIX,c4tracking01.com
 DOMAIN-SUFFIX,c4tw.net
 DOMAIN-SUFFIX,c52.tt.omtrdc.net
 DOMAIN-SUFFIX,c993.westport-news.com
+DOMAIN-SUFFIX,ca-api.cafe24data.com
 DOMAIN-SUFFIX,caap-pdcb-03.sys.sys.tt.omtrdc.net
 DOMAIN-SUFFIX,caaquitaine.tt.omtrdc.net
 DOMAIN-SUFFIX,cabin-preprod.prod.tt.omtrdc.net
