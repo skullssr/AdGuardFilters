@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-20 05:18:33
-# DOMAIN-SUFFIX: 3003
-# TOTAL: 3003
+# UPDATED: 2023-10-21 05:13:13
+# DOMAIN-SUFFIX: 3006
+# TOTAL: 3006
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,animexin.vip
 DOMAIN-SUFFIX,animexin.xyz
 DOMAIN-SUFFIX,animmex.net
 DOMAIN-SUFFIX,ani-ost.info
+DOMAIN-SUFFIX,anisearch.*
 DOMAIN-SUFFIX,anisubindo.video
 DOMAIN-SUFFIX,anitoonstv.com
 DOMAIN-SUFFIX,anitube.*
@@ -1308,6 +1309,7 @@ DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,inwepo.co
 DOMAIN-SUFFIX,iol.pt
 DOMAIN-SUFFIX,ioscreator.com
+DOMAIN-SUFFIX,ipalibrary.me
 DOMAIN-SUFFIX,ipbdestek.com
 DOMAIN-SUFFIX,i.pl
 DOMAIN-SUFFIX,iptunnels.com
@@ -2716,6 +2718,7 @@ DOMAIN-SUFFIX,tuts.web.id
 DOMAIN-SUFFIX,tuttosport.com
 DOMAIN-SUFFIX,tvarticles.me
 DOMAIN-SUFFIX,tvarticles.org
+DOMAIN-SUFFIX,tvbanywherena.com
 DOMAIN-SUFFIX,tvcatchup.com
 DOMAIN-SUFFIX,tvfree.me
 DOMAIN-SUFFIX,tvn24.pl
