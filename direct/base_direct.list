@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-21 05:13:13
-# DOMAIN-SUFFIX: 3006
-# TOTAL: 3006
+# UPDATED: 2023-10-24 06:30:01
+# DOMAIN-SUFFIX: 3009
+# TOTAL: 3009
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,ads.microsoft.com
 DOMAIN-SUFFIX,ads.midwayusa.com
 DOMAIN-SUFFIX,ads.pinterest.com
 DOMAIN-SUFFIX,adsrt.com
+DOMAIN-SUFFIX,ads.snapchat.com
 DOMAIN-SUFFIX,ads.spotify.com
 DOMAIN-SUFFIX,ads.taboola.com
 DOMAIN-SUFFIX,ads-ti9ni4.blogspot.com
@@ -632,6 +633,7 @@ DOMAIN-SUFFIX,daviruzsystems.com
 DOMAIN-SUFFIX,dayoadetiloye.com
 DOMAIN-SUFFIX,dayoftheweek.org
 DOMAIN-SUFFIX,dayzrp.com
+DOMAIN-SUFFIX,db-creation.net
 DOMAIN-SUFFIX,dcode.fr
 DOMAIN-SUFFIX,ddizipal.com
 DOMAIN-SUFFIX,ddmix.net
@@ -744,6 +746,7 @@ DOMAIN-SUFFIX,down.mdiaload.com
 DOMAIN-SUFFIX,dphotoworld.net
 DOMAIN-SUFFIX,dqmsl-search.net
 DOMAIN-SUFFIX,dragontea.ink
+DOMAIN-SUFFIX,drakescans.com
 DOMAIN-SUFFIX,dramahd.me
 DOMAIN-SUFFIX,dreamcheeky.com
 DOMAIN-SUFFIX,dreamdth.com
