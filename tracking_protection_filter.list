@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-24 06:37:17
-# DOMAIN-SUFFIX: 54716
-# TOTAL: 54716
+# UPDATED: 2023-10-26 05:35:56
+# DOMAIN-SUFFIX: 54719
+# TOTAL: 54719
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -13997,6 +13997,7 @@ DOMAIN-SUFFIX,collect.nature.com
 DOMAIN-SUFFIX,collector1.afreecatv.com
 DOMAIN-SUFFIX,collector1.xhamster.com
 DOMAIN-SUFFIX,collector-analytics.efigence.com
+DOMAIN-SUFFIX,collector-api.frspecifics.com
 DOMAIN-SUFFIX,collector.brandify.com
 DOMAIN-SUFFIX,collector.bunchbox.co
 DOMAIN-SUFFIX,collector.cakeresume.com
@@ -21573,6 +21574,7 @@ DOMAIN-SUFFIX,f.revotas.com
 DOMAIN-SUFFIX,fr-go.experian.com
 DOMAIN-SUFFIX,fridaymarketing.actonservice.com
 DOMAIN-SUFFIX,friendbuy.com
+DOMAIN-SUFFIX,friendlycrayon.com
 DOMAIN-SUFFIX,friendlyfold.com
 DOMAIN-SUFFIX,friendslakestudio.tt.omtrdc.net
 DOMAIN-SUFFIX,friendwool.com
@@ -27646,6 +27648,7 @@ DOMAIN-SUFFIX,lrgermany.wolterskluwer.com
 DOMAIN-SUFFIX,lrhungary.wolterskluwer.com
 DOMAIN-SUFFIX,lrhyty.weeronline.nl
 DOMAIN-SUFFIX,lr-ingest.io
+DOMAIN-SUFFIX,lr-intake.com
 DOMAIN-SUFFIX,lritaly.wolterskluwer.com
 DOMAIN-SUFFIX,lrnetherlands.wolterskluwer.com
 DOMAIN-SUFFIX,lrp7.carrefour-banque.fr
