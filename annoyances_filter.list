@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-26 05:36:35
-# DOMAIN-SUFFIX: 1048
-# TOTAL: 1048
+# UPDATED: 2023-10-27 05:07:57
+# DOMAIN-SUFFIX: 1050
+# TOTAL: 1050
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
 DOMAIN-SUFFIX,7pisem.ru
@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,epleads.ru
 DOMAIN-SUFFIX,erihj.com
 DOMAIN-SUFFIX,esputnik.com
 DOMAIN-SUFFIX,esterlonder.com
+DOMAIN-SUFFIX,ethereallagoon.com
 DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
 DOMAIN-SUFFIX,eventexistence.com
 DOMAIN-SUFFIX,ex1tp.com
@@ -909,6 +910,7 @@ DOMAIN-SUFFIX,tracking-consent.static.anwb.nl
 DOMAIN-SUFFIX,tradeins.ru
 DOMAIN-SUFFIX,traglencium.com
 DOMAIN-SUFFIX,traneranium.com
+DOMAIN-SUFFIX,tranquilcanyon.com
 DOMAIN-SUFFIX,tranqulitius.com
 DOMAIN-SUFFIX,traq.li
 DOMAIN-SUFFIX,trbo.com

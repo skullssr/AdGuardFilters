@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-26 05:28:37
-# DOMAIN-SUFFIX: 3010
-# TOTAL: 3010
+# UPDATED: 2023-10-27 04:59:59
+# DOMAIN-SUFFIX: 3012
+# TOTAL: 3012
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -454,6 +454,7 @@ DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,ccna6.com
 DOMAIN-SUFFIX,ccnav6.com
 DOMAIN-SUFFIX,ccthesims.com
+DOMAIN-SUFFIX,cdn.datatables.net
 DOMAIN-SUFFIX,cdn*.porn300.com
 DOMAIN-SUFFIX,cdromance.com
 DOMAIN-SUFFIX,ceesty.com
@@ -1177,6 +1178,7 @@ DOMAIN-SUFFIX,greensboro.com
 DOMAIN-SUFFIX,grupovalltv.net
 DOMAIN-SUFFIX,gsm1x.xyz
 DOMAIN-SUFFIX,g-status.com
+DOMAIN-SUFFIX,gtf.com.ng
 DOMAIN-SUFFIX,gtoys.blog.fc2.com
 DOMAIN-SUFFIX,gvmp.de
 DOMAIN-SUFFIX,gymhuntr.com
