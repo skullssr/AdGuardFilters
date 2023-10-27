@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-27 05:07:18
+# UPDATED: 2023-10-28 06:32:47
 # DOMAIN-SUFFIX: 54723
 # TOTAL: 54723
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -21901,7 +21901,6 @@ DOMAIN-SUFFIX,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-SUFFIX,geoloc*.geo20120530.com
 DOMAIN-SUFFIX,geoloc*.geostats.ovh
 DOMAIN-SUFFIX,geoloc*.geovisite.ovh
-DOMAIN-SUFFIX,geoloc.hurriyet.com.tr
 DOMAIN-SUFFIX,geo.mattel163.com
 DOMAIN-SUFFIX,geo.metronews.ca
 DOMAIN-SUFFIX,geo.met.vgwort.de
@@ -43944,6 +43943,7 @@ DOMAIN-SUFFIX,stat.myshows.me
 DOMAIN-SUFFIX,stat.nate.com
 DOMAIN-SUFFIX,stat.ncl.com
 DOMAIN-SUFFIX,stat.novostimira.com
+DOMAIN-SUFFIX,stat.ntv.ru
 DOMAIN-SUFFIX,statok.net
 DOMAIN-SUFFIX,stat.onemob.mobi
 DOMAIN-SUFFIX,stat.outrigger.com
