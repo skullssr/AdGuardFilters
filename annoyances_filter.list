@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-31 05:16:20
-# DOMAIN-SUFFIX: 1051
-# TOTAL: 1051
+# UPDATED: 2023-11-04 05:42:50
+# DOMAIN-SUFFIX: 1052
+# TOTAL: 1052
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,7pisem.com
 DOMAIN-SUFFIX,7pisem.ru
@@ -800,6 +800,7 @@ DOMAIN-SUFFIX,salesiq.zoho.in
 DOMAIN-SUFFIX,salesmanago.com
 DOMAIN-SUFFIX,scaredsnake.com
 DOMAIN-SUFFIX,scaredsnakes.com
+DOMAIN-SUFFIX,scaredsong.com
 DOMAIN-SUFFIX,scarfsmash.com
 DOMAIN-SUFFIX,scintillatingsilver.com
 DOMAIN-SUFFIX,sckxppzdm.com
