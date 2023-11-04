@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-04 05:42:12
-# DOMAIN-SUFFIX: 54842
-# TOTAL: 54842
+# UPDATED: 2023-11-05 06:17:50
+# DOMAIN-SUFFIX: 54844
+# TOTAL: 54844
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -10410,6 +10410,7 @@ DOMAIN-SUFFIX,atom-log.3.cn
 DOMAIN-SUFFIX,atonclk.alpha-tonicb.site
 DOMAIN-SUFFIX,at-o.net
 DOMAIN-SUFFIX,at.postbank.de
+DOMAIN-SUFFIX,at.prod.jimdo.systems
 DOMAIN-SUFFIX,atrack.avplayer.com
 DOMAIN-SUFFIX,atrack.trekkww.space
 DOMAIN-SUFFIX,a.transportgruppen.se
@@ -13974,6 +13975,7 @@ DOMAIN-SUFFIX,cnt.alawar.com
 DOMAIN-SUFFIX,cnt.logoslovo.ru
 DOMAIN-SUFFIX,cnt.nicemix.com
 DOMAIN-SUFFIX,cnt.nov.ru
+DOMAIN-SUFFIX,cnt.promodj.com
 DOMAIN-SUFFIX,cnt.rambler.ru
 DOMAIN-SUFFIX,cnt.ramlife.ru
 DOMAIN-SUFFIX,cn.tt.omtrdc.net
