@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-07 05:35:00
-# DOMAIN-SUFFIX: 55414
-# TOTAL: 55414
+# UPDATED: 2023-11-08 05:21:25
+# DOMAIN-SUFFIX: 55416
+# TOTAL: 55416
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -409,7 +409,6 @@ DOMAIN-SUFFIX,156.2.22foxnews.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,156.2.22nbcume.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,1573.tt.omtrdc.net
 DOMAIN-SUFFIX,158-231searchmai.tt.omtrdc.net
-DOMAIN-SUFFIX,15823f12-289e-4189-9e51-e2de1bf1a105.online
 DOMAIN-SUFFIX,159.prod.cloud.prod.cloud.tt.omtrdc.net
 DOMAIN-SUFFIX,15-aetv.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,15-bskyb.hb-api.tt.omtrdc.net
@@ -1161,7 +1160,6 @@ DOMAIN-SUFFIX,316jf.tt.omtrdc.net
 DOMAIN-SUFFIX,3-17.chatyjjangsubnet-254finsys-staging.app.tt.omtrdc.net
 DOMAIN-SUFFIX,317lemans.treknew.fun
 DOMAIN-SUFFIX,317rochelle.treknew.fun
-DOMAIN-SUFFIX,31830fbc-adbf-11ed-afa1-0242ac120002.site
 DOMAIN-SUFFIX,318ajova.trekkeeee.fun
 DOMAIN-SUFFIX,318alabama.trekkeeee.fun
 DOMAIN-SUFFIX,318alaska.trekkeeee.fun
@@ -7862,6 +7860,7 @@ DOMAIN-SUFFIX,altn.actonservice.com
 DOMAIN-SUFFIX,altomboern.tns-gallup.dk
 DOMAIN-SUFFIX,altomhistorie.tns-gallup.dk
 DOMAIN-SUFFIX,altriagroupinc.tt.omtrdc.net
+DOMAIN-SUFFIX,alt-r.my.com
 DOMAIN-SUFFIX,al.tsukurupajama.jp
 DOMAIN-SUFFIX,alt.tns-gallup.dk
 DOMAIN-SUFFIX,alumni.qualfon.com
@@ -8213,6 +8212,7 @@ DOMAIN-SUFFIX,analytics.formstack.com
 DOMAIN-SUFFIX,analytics.fs-bdash.com
 DOMAIN-SUFFIX,analytics.futuro360.com
 DOMAIN-SUFFIX,analytics.gamedatacrunch.com
+DOMAIN-SUFFIX,analytics.gamesdrive.net
 DOMAIN-SUFFIX,analytics.gate.co.id
 DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
 DOMAIN-SUFFIX,analytics.geastore.com
@@ -8271,6 +8271,7 @@ DOMAIN-SUFFIX,analytics.jst.ai
 DOMAIN-SUFFIX,analytics.kaggle.io
 DOMAIN-SUFFIX,analytics.kaltura.com
 DOMAIN-SUFFIX,analytics.karakuri.ai
+DOMAIN-SUFFIX,analytics.keepstreams.com
 DOMAIN-SUFFIX,analytics.kellerencompass.com
 DOMAIN-SUFFIX,analytics.kellerpermits.com
 DOMAIN-SUFFIX,analytics.kellyservices.com
@@ -20327,6 +20328,7 @@ DOMAIN-SUFFIX,emetriq.de
 DOMAIN-SUFFIX,em-info2.thermofisher.com
 DOMAIN-SUFFIX,emjcd.com
 DOMAIN-SUFFIX,emkt.stefanini.com
+DOMAIN-SUFFIX,emlsend.com
 DOMAIN-SUFFIX,emltrk.com
 DOMAIN-SUFFIX,empiretodayllc.tt.omtrdc.net
 DOMAIN-SUFFIX,emplicity.actonservice.com
