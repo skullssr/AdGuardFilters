@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-07 05:25:39
+# UPDATED: 2023-11-10 04:52:17
 # DOMAIN-SUFFIX: 3008
 # TOTAL: 3008
 DOMAIN-SUFFIX,0123movies.com
@@ -613,6 +613,7 @@ DOMAIN-SUFFIX,daemon-hentai.com
 DOMAIN-SUFFIX,dafideff.com
 DOMAIN-SUFFIX,dailyacc.com
 DOMAIN-SUFFIX,dailyhealthkeeper.com
+DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailyprogress.com
 DOMAIN-SUFFIX,daizurin.com
 DOMAIN-SUFFIX,dajya-ranger.com
@@ -1180,7 +1181,6 @@ DOMAIN-SUFFIX,gvmp.de
 DOMAIN-SUFFIX,gymhuntr.com
 DOMAIN-SUFFIX,haafedk2.com
 DOMAIN-SUFFIX,haaretz.com
-DOMAIN-SUFFIX,haberbucuk.com
 DOMAIN-SUFFIX,haberconnect.net
 DOMAIN-SUFFIX,hackinblood.com
 DOMAIN-SUFFIX,hackintosh.zone

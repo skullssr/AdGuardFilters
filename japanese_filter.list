@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-13 05:20:12
-# DOMAIN-SUFFIX: 382
-# TOTAL: 382
+# UPDATED: 2023-11-10 05:03:16
+# DOMAIN-SUFFIX: 384
+# TOTAL: 384
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,ad.xdomain.ne.jp
 DOMAIN-SUFFIX,ad.xrea.com
 DOMAIN-SUFFIX,af-110.com
 DOMAIN-SUFFIX,af-a.jp
+DOMAIN-SUFFIX,afbhub.net
 DOMAIN-SUFFIX,affiliate.casino-wonder.com
 DOMAIN-SUFFIX,affiliate.konibet.com
 DOMAIN-SUFFIX,affiliate.miracle-miracle.com
@@ -253,6 +254,7 @@ DOMAIN-SUFFIX,managedweb.net
 DOMAIN-SUFFIX,mbadv.nan.co.jp
 DOMAIN-SUFFIX,mcnt.jp
 DOMAIN-SUFFIX,media5.fc2.com
+DOMAIN-SUFFIX,media.ad-lps.net
 DOMAIN-SUFFIX,mediad.co.jp
 DOMAIN-SUFFIX,media-rep.com
 DOMAIN-SUFFIX,mediba.jp

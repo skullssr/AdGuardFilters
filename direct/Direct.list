@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-07 05:40:54
-# DOMAIN-SUFFIX: 3954
-# TOTAL: 3954
+# UPDATED: 2023-11-10 05:03:49
+# DOMAIN-SUFFIX: 3955
+# TOTAL: 3955
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -818,6 +818,7 @@ DOMAIN-SUFFIX,daikoku.ebis.ne.jp
 DOMAIN-SUFFIX,dailyacc.com
 DOMAIN-SUFFIX,dailyhealthkeeper.com
 DOMAIN-SUFFIX,dailyherald.com
+DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailyprogress.com
 DOMAIN-SUFFIX,da-imnetz.de
 DOMAIN-SUFFIX,daizurin.com
@@ -1569,7 +1570,6 @@ DOMAIN-SUFFIX,gymhuntr.com
 DOMAIN-SUFFIX,haafedk2.com
 DOMAIN-SUFFIX,haaretz.com
 DOMAIN-SUFFIX,habboin.net
-DOMAIN-SUFFIX,haberbucuk.com
 DOMAIN-SUFFIX,haberconnect.net
 DOMAIN-SUFFIX,hackinblood.com
 DOMAIN-SUFFIX,hackintosh.zone
@@ -3407,6 +3407,7 @@ DOMAIN-SUFFIX,thehouseofportable.com
 DOMAIN-SUFFIX,theinnews.com
 DOMAIN-SUFFIX,thekickass.org
 DOMAIN-SUFFIX,thelibrarydigital.blogspot.com
+DOMAIN-SUFFIX,thelocal.se
 DOMAIN-SUFFIX,themanwiththehat.de
 DOMAIN-SUFFIX,themehits.com
 DOMAIN-SUFFIX,thememazing.com
