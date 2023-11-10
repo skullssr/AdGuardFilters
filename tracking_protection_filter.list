@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-09 05:42:50
-# DOMAIN-SUFFIX: 54363
-# TOTAL: 54363
+# UPDATED: 2023-11-11 05:30:48
+# DOMAIN-SUFFIX: 54367
+# TOTAL: 54367
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000011.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
@@ -8091,6 +8091,7 @@ DOMAIN-SUFFIX,analytics*.clickdimensions.com
 DOMAIN-SUFFIX,analytics.clientify.net
 DOMAIN-SUFFIX,analytics.cloud.coveo.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,analytics.clubic.com
 DOMAIN-SUFFIX,analytics.cnfanart.com
 DOMAIN-SUFFIX,analytics.cnnchile.com
 DOMAIN-SUFFIX,analytics.cn.ru
@@ -14711,6 +14712,7 @@ DOMAIN-SUFFIX,counter.nn.ru
 DOMAIN-SUFFIX,counter.nv.ua
 DOMAIN-SUFFIX,counter.ok.ee
 DOMAIN-SUFFIX,counteronline.de
+DOMAIN-SUFFIX,counter.packa2.cz
 DOMAIN-SUFFIX,counter.pixplug.in
 DOMAIN-SUFFIX,counter.pr-cy.ru
 DOMAIN-SUFFIX,counter.promodeejay.net
@@ -44530,6 +44532,7 @@ DOMAIN-SUFFIX,stats.tnc.sc
 DOMAIN-SUFFIX,stats.tnt.com
 DOMAIN-SUFFIX,stats.toiletmap.org.uk
 DOMAIN-SUFFIX,stats.tork.fr
+DOMAIN-SUFFIX,stats.totalav.com
 DOMAIN-SUFFIX,stats.tou.tv
 DOMAIN-SUFFIX,stats.townnews.com
 DOMAIN-SUFFIX,stats.tradingacademy.com
@@ -47473,6 +47476,7 @@ DOMAIN-SUFFIX,tracker.shopclues.com
 DOMAIN-SUFFIX,trackersimulator.org
 DOMAIN-SUFFIX,tracker.smartseminar.jp
 DOMAIN-SUFFIX,tracker.softcube.com
+DOMAIN-SUFFIX,tracker.srta.spectrum.com
 DOMAIN-SUFFIX,tracker.stats.in.th
 DOMAIN-SUFFIX,tracker.swedish.org
 DOMAIN-SUFFIX,track.ertha.io

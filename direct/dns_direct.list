@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-10-12 04:40:21
-# DOMAIN-SUFFIX: 142
-# TOTAL: 142
+# UPDATED: 2023-11-11 05:15:16
+# DOMAIN-SUFFIX: 143
+# TOTAL: 143
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,captcha.su.baidu.com
 DOMAIN-SUFFIX,catchup.thisisdax.com
 DOMAIN-SUFFIX,cdn.duurzaam.greenchoice.nl
 DOMAIN-SUFFIX,cdn.rozetka.com.ua
+DOMAIN-SUFFIX,cdn.us*.exponea.com
 DOMAIN-SUFFIX,cindyholbrook.lpages.co
 DOMAIN-SUFFIX,citiintl.122.2o7.net
 DOMAIN-SUFFIX,cj.dotomi.com

@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-09 05:47:03
-# DOMAIN-SUFFIX: 884
-# TOTAL: 884
+# UPDATED: 2023-11-11 05:35:03
+# DOMAIN-SUFFIX: 885
+# TOTAL: 885
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,adproxy.tf1.fr
 DOMAIN-SUFFIX,adpublisher.s3.amazonaws.com
 DOMAIN-SUFFIX,adpush.goforandroid.com
 DOMAIN-SUFFIX,adquota.com
+DOMAIN-SUFFIX,adrouter-charter-vod.cadenttech.tv
 DOMAIN-SUFFIX,ads.ad2iction.com
 DOMAIN-SUFFIX,ads.adadapted.com
 DOMAIN-SUFFIX,ads.aerserv.com
