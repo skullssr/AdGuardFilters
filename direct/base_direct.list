@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-10 04:52:17
-# DOMAIN-SUFFIX: 3008
-# TOTAL: 3008
+# UPDATED: 2023-11-14 04:47:30
+# DOMAIN-SUFFIX: 3011
+# TOTAL: 3011
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2567,6 +2567,9 @@ DOMAIN-SUFFIX,tempmail.ninja
 DOMAIN-SUFFIX,tempmailpro.net
 DOMAIN-SUFFIX,temp-phone-number.com
 DOMAIN-SUFFIX,terabox.fun
+DOMAIN-SUFFIX,teraearn.com
+DOMAIN-SUFFIX,teralink.me
+DOMAIN-SUFFIX,terashare.me
 DOMAIN-SUFFIX,terrarium.com.pl
 DOMAIN-SUFFIX,teutorrent.com
 DOMAIN-SUFFIX,texte.work
