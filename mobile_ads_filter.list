@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-11 05:35:03
-# DOMAIN-SUFFIX: 885
-# TOTAL: 885
+# UPDATED: 2023-11-15 05:06:58
+# DOMAIN-SUFFIX: 887
+# TOTAL: 887
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -170,6 +170,7 @@ DOMAIN-SUFFIX,ads.pinger.com
 DOMAIN-SUFFIX,ad-splash.hktvmall.com
 DOMAIN-SUFFIX,ad-splash-tracking.hktvmall.com
 DOMAIN-SUFFIX,adspot.tfgapps.com
+DOMAIN-SUFFIX,ads*.production-public.tubi.io
 DOMAIN-SUFFIX,ads-resources.waze.com
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adsrvr.io
@@ -591,6 +592,7 @@ DOMAIN-SUFFIX,mobiledl.adboe.com
 DOMAIN-SUFFIX,mobimagic.com
 DOMAIN-SUFFIX,mobi.yanosik.pl
 DOMAIN-SUFFIX,mobnatives.com
+DOMAIN-SUFFIX,mob*.novanewsapp.com
 DOMAIN-SUFFIX,mobon.com
 DOMAIN-SUFFIX,mobondhrd.appspot.com
 DOMAIN-SUFFIX,mobotoolpush.moboapps.io
