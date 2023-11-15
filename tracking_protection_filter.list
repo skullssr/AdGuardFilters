@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-15 05:02:45
-# DOMAIN-SUFFIX: 49353
-# TOTAL: 49353
+# UPDATED: 2023-11-16 04:53:54
+# DOMAIN-SUFFIX: 49356
+# TOTAL: 49356
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -5805,6 +5805,7 @@ DOMAIN-SUFFIX,adserver.snapads.com
 DOMAIN-SUFFIX,adsettings.com
 DOMAIN-SUFFIX,ad.shinjuku-mens-chuoh.com
 DOMAIN-SUFFIX,adslb1.hb-fa-dev.tt.omtrdc.net
+DOMAIN-SUFFIX,adsmeasurement.com
 DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
 DOMAIN-SUFFIX,adsn-da-00.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,adsoft.tt.omtrdc.net
@@ -9261,6 +9262,7 @@ DOMAIN-SUFFIX,audience.d.tt.omtrdc.net
 DOMAIN-SUFFIX,audienceinsights.net
 DOMAIN-SUFFIX,audienceiq.com
 DOMAIN-SUFFIX,audiencemanager.de
+DOMAIN-SUFFIX,audience-mostread.r7.com
 DOMAIN-SUFFIX,audienceplay.com
 DOMAIN-SUFFIX,audiencerate.com
 DOMAIN-SUFFIX,audience.standardchartered.com.tw
@@ -41625,6 +41627,7 @@ DOMAIN-SUFFIX,t.gene.com
 DOMAIN-SUFFIX,t.genentech-access.com
 DOMAIN-SUFFIX,t.georgiadogs.com
 DOMAIN-SUFFIX,tgh.hrm.healthgrades.com
+DOMAIN-SUFFIX,t.ghostboard.io
 DOMAIN-SUFFIX,tgirgs.flinders.nl
 DOMAIN-SUFFIX,tgmklw.productreview.com.au
 DOMAIN-SUFFIX,t.goairforcefalcons.com
