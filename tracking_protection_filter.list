@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-16 04:53:54
-# DOMAIN-SUFFIX: 49356
-# TOTAL: 49356
+# UPDATED: 2023-11-17 05:05:47
+# DOMAIN-SUFFIX: 49362
+# TOTAL: 49362
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7409,6 +7409,7 @@ DOMAIN-SUFFIX,analytics.netshops.com
 DOMAIN-SUFFIX,analyticsnew.overwolf.com
 DOMAIN-SUFFIX,analytics.newscred.com
 DOMAIN-SUFFIX,analytics.nextopia.net
+DOMAIN-SUFFIX,analytics-*-nfl.yinzcam.com
 DOMAIN-SUFFIX,analytics.ngs55.ru
 DOMAIN-SUFFIX,analytics.nianticlabs.com
 DOMAIN-SUFFIX,analytics.nodecraft.com
@@ -26745,6 +26746,7 @@ DOMAIN-SUFFIX,meet.a-app.eu-app.eu.tt.omtrdc.net
 DOMAIN-SUFFIX,meet.abcotv.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,meet.aetv.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,meet.arkena.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,meet-buddy.com
 DOMAIN-SUFFIX,meet.dev.talk.tt.omtrdc.net
 DOMAIN-SUFFIX,meet.freunden.org
 DOMAIN-SUFFIX,meeting.nuance.com
@@ -28507,6 +28509,7 @@ DOMAIN-SUFFIX,mplxtms.com
 DOMAIN-SUFFIX,mp.pitchero.com
 DOMAIN-SUFFIX,mpp-server.tcp.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,mpptarget.tt.omtrdc.net
+DOMAIN-SUFFIX,mpraven.org
 DOMAIN-SUFFIX,m.premier.info.shutterstock.com
 DOMAIN-SUFFIX,mpseoxcy.tt.omtrdc.net
 DOMAIN-SUFFIX,mpstat.us
@@ -34927,7 +34930,9 @@ DOMAIN-SUFFIX,smartworksforme.actonservice.com
 DOMAIN-SUFFIX,smartzonessva.com
 DOMAIN-SUFFIX,smatning.volkswagen.se
 DOMAIN-SUFFIX,smatrix.hbo.com
+DOMAIN-SUFFIX,smatr.net
 DOMAIN-SUFFIX,s.maxrozen.com
+DOMAIN-SUFFIX,smazaz.icu
 DOMAIN-SUFFIX,smb-cashback.alcatel-lucent.com.au
 DOMAIN-SUFFIX,smb.info.shutterstock.com
 DOMAIN-SUFFIX,smbzbm.skymilescruises.com
@@ -43308,6 +43313,7 @@ DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,tracking.precisely.com
 DOMAIN-SUFFIX,tracking.precollege.wisc.edu
 DOMAIN-SUFFIX,tracking.predtrk.com
+DOMAIN-SUFFIX,tracking.prismpartner.smt.docomo.ne.jp
 DOMAIN-SUFFIX,tracking.prodesa.com
 DOMAIN-SUFFIX,tracking.prodiga.no
 DOMAIN-SUFFIX,tracking.pro.engie.fr

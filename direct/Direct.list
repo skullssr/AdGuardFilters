@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-16 04:58:12
+# UPDATED: 2023-11-17 05:10:04
 # DOMAIN-SUFFIX: 3961
 # TOTAL: 3961
 DOMAIN-SUFFIX,0123movies.com
@@ -1653,6 +1653,7 @@ DOMAIN-SUFFIX,hisse.net
 DOMAIN-SUFFIX,hisseyorumlari.com
 DOMAIN-SUFFIX,history.com
 DOMAIN-SUFFIX,hl-live.de
+DOMAIN-SUFFIX,hobbykafe.com
 DOMAIN-SUFFIX,hobby-machinist.com
 DOMAIN-SUFFIX,hoerzu.de
 DOMAIN-SUFFIX,hollywoodmask.com
@@ -1689,7 +1690,6 @@ DOMAIN-SUFFIX,iconmonstr.com
 DOMAIN-SUFFIX,idahostatesman.com
 DOMAIN-SUFFIX,idealsilhouette.com
 DOMAIN-SUFFIX,id.i2i.jp
-DOMAIN-SUFFIX,idnes.cz
 DOMAIN-SUFFIX,idsly.com
 DOMAIN-SUFFIX,ifdreamscametrue.com
 DOMAIN-SUFFIX,ifile.cc
