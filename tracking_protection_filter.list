@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-17 05:05:47
-# DOMAIN-SUFFIX: 49362
-# TOTAL: 49362
+# UPDATED: 2023-11-18 05:38:24
+# DOMAIN-SUFFIX: 49366
+# TOTAL: 49366
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7604,6 +7604,7 @@ DOMAIN-SUFFIX,analytics-tracker.thescore.com
 DOMAIN-SUFFIX,analytics-tracking.meetup.com
 DOMAIN-SUFFIX,analytics.tradedoubler.com
 DOMAIN-SUFFIX,analytics.tripoto.com
+DOMAIN-SUFFIX,analytics.trovit.com
 DOMAIN-SUFFIX,analytics.truckingauthority.com
 DOMAIN-SUFFIX,analytics.trust.page
 DOMAIN-SUFFIX,analytics.trutv.com
@@ -13218,6 +13219,7 @@ DOMAIN-SUFFIX,d1ros97qkrwjf5.cloudfront.net
 DOMAIN-SUFFIX,d1rszqblq924lq.cloudfront.net
 DOMAIN-SUFFIX,d1snv67wdds0p2.cloudfront.net
 DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront.net
+DOMAIN-SUFFIX,d1tprjo2w7krrh.cloudfront.net
 DOMAIN-SUFFIX,d1tracker.ru
 DOMAIN-SUFFIX,d1.tt.omtrdc.net
 DOMAIN-SUFFIX,d1uy7uzra011au.cloudfront.net
@@ -31285,6 +31287,7 @@ DOMAIN-SUFFIX,pixelinteractivemedia.com
 DOMAIN-SUFFIX,pixel.ionos.com
 DOMAIN-SUFFIX,pixel.ipinfo.io
 DOMAIN-SUFFIX,pixel.lilystyle.ai
+DOMAIN-SUFFIX,pixel.locker2.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.newsdiscover.com.au
 DOMAIN-SUFFIX,pixel.nur.kz
@@ -46543,6 +46546,7 @@ DOMAIN-SUFFIX,ussmelap094p.arrownao.corp.tt.omtrdc.net
 DOMAIN-SUFFIX,ussolutions.equifax.com
 DOMAIN-SUFFIX,us-sql.d.tt.omtrdc.net
 DOMAIN-SUFFIX,uss-vip-farm.tt.omtrdc.net
+DOMAIN-SUFFIX,us.tags.newscgp.com
 DOMAIN-SUFFIX,ustat.info
 DOMAIN-SUFFIX,ustat.pro
 DOMAIN-SUFFIX,us-test.gslbnp.tt.omtrdc.net
