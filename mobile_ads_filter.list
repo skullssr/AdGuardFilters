@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-15 05:06:58
-# DOMAIN-SUFFIX: 887
-# TOTAL: 887
+# UPDATED: 2023-11-22 05:16:38
+# DOMAIN-SUFFIX: 890
+# TOTAL: 890
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,ad-channel.wikawika.xyz
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
 DOMAIN-SUFFIX,adcs-*.myappsget.com
+DOMAIN-SUFFIX,adcs.myappsget.com
 DOMAIN-SUFFIX,adcs.rqmob.com
 DOMAIN-SUFFIX,addapptr.com
 DOMAIN-SUFFIX,addata.mediacategory.com
@@ -88,7 +89,6 @@ DOMAIN-SUFFIX,admicro1.vcmedia.vn
 DOMAIN-SUFFIX,admin.appnext.com
 DOMAIN-SUFFIX,admixer.co.kr
 DOMAIN-SUFFIX,admixer.net
-DOMAIN-SUFFIX,ad*.mtgglobals.com
 DOMAIN-SUFFIX,admulti.com
 DOMAIN-SUFFIX,ad*.nexage.com
 DOMAIN-SUFFIX,adn.insight.ucweb.com
@@ -365,6 +365,7 @@ DOMAIN-SUFFIX,clkfeed.com
 DOMAIN-SUFFIX,clk.taptica.com
 DOMAIN-SUFFIX,cloudads-a.akamaihd.net
 DOMAIN-SUFFIX,cls.vrvm.com
+DOMAIN-SUFFIX,cmshow.gtimg.cn
 DOMAIN-SUFFIX,common.duapps.com
 DOMAIN-SUFFIX,comscore.com
 DOMAIN-SUFFIX,config.appjolt.com
@@ -460,7 +461,6 @@ DOMAIN-SUFFIX,gwrtdp-tn690BFAdt.tclclouds.com
 DOMAIN-SUFFIX,gynax.com
 DOMAIN-SUFFIX,h5.isnssdk.com
 DOMAIN-SUFFIX,ha-api.pushwoosh.com
-DOMAIN-SUFFIX,*-hb-bid-feedback.mtgglobals.com
 DOMAIN-SUFFIX,hb.rayjump.com
 DOMAIN-SUFFIX,hellay.net
 DOMAIN-SUFFIX,heyzap.com
@@ -607,6 +607,7 @@ DOMAIN-SUFFIX,msg.ettoday.net
 DOMAIN-SUFFIX,mtag.mman.kr
 DOMAIN-SUFFIX,mtburn.com
 DOMAIN-SUFFIX,mtburn.jp
+DOMAIN-SUFFIX,mtgglobals.com
 DOMAIN-SUFFIX,mtrcss.com
 DOMAIN-SUFFIX,mxaserver.mxplay.com
 DOMAIN-SUFFIX,mxttrf.com
@@ -669,6 +670,7 @@ DOMAIN-SUFFIX,pasta.esfile.duapps.com
 DOMAIN-SUFFIX,p-behacdn.ksmobile.net
 DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,pflexads.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,phluant.com
 DOMAIN-SUFFIX,pixel.admobclick.com
@@ -687,6 +689,7 @@ DOMAIN-SUFFIX,preitem.wshareit.com
 DOMAIN-SUFFIX,presage.io
 DOMAIN-SUFFIX,prod.cm.publishers.advertising.a2z.com
 DOMAIN-SUFFIX,production-adserver-*.amazonaws.com
+DOMAIN-SUFFIX,projecta-common-1258344701.file.myqcloud.com
 DOMAIN-SUFFIX,promo-images.ttpsdk.info
 DOMAIN-SUFFIX,promoted.sndcdn.com
 DOMAIN-SUFFIX,promoted.soundcloud.com

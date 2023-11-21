@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-21 05:17:46
-# DOMAIN-SUFFIX: 50270
-# TOTAL: 50270
+# UPDATED: 2023-11-22 05:12:23
+# DOMAIN-SUFFIX: 50274
+# TOTAL: 50274
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7384,7 +7384,6 @@ DOMAIN-SUFFIX,analytics.homebank.ro
 DOMAIN-SUFFIX,analytics.homes.com
 DOMAIN-SUFFIX,analytics.hottopic.com
 DOMAIN-SUFFIX,analytics.htmedia.in
-DOMAIN-SUFFIX,analytics-http.mintegral.net
 DOMAIN-SUFFIX,analytics.id.amazongames.com
 DOMAIN-SUFFIX,analytics.ifanrusercontent.com
 DOMAIN-SUFFIX,analytics.ifood.tv
@@ -7648,7 +7647,6 @@ DOMAIN-SUFFIX,analyticssystems.net
 DOMAIN-SUFFIX,analytics.tabichan.jp
 DOMAIN-SUFFIX,analytics.tbs.com
 DOMAIN-SUFFIX,analytics.tcm.com
-DOMAIN-SUFFIX,analytics-tcp.mintegral.net
 DOMAIN-SUFFIX,analytics.teamcovenant.com
 DOMAIN-SUFFIX,analytics.tebilisim.com
 DOMAIN-SUFFIX,analytics.techem.com
@@ -8604,6 +8602,7 @@ DOMAIN-SUFFIX,app.page.tt.omtrdc.net
 DOMAIN-SUFFIX,app.partner.fisglobal.com
 DOMAIN-SUFFIX,app.payments.53.com
 DOMAIN-SUFFIX,app.payments-response.americanexpress.co.uk
+DOMAIN-SUFFIX,app.pendo.io
 DOMAIN-SUFFIX,app.pennathletics.com
 DOMAIN-SUFFIX,app.pittsburghpanthers.com
 DOMAIN-SUFFIX,app-pixel.click
@@ -21394,6 +21393,7 @@ DOMAIN-SUFFIX,ieg.intel.com
 DOMAIN-SUFFIX,ie-go.experian.com
 DOMAIN-SUFFIX,iegwze.goldcar.es
 DOMAIN-SUFFIX,iemail.tt.omtrdc.net
+DOMAIN-SUFFIX,iemiq.com
 DOMAIN-SUFFIX,ie-mktg.vodafone.com
 DOMAIN-SUFFIX,iepfcy.farmandfleet.com
 DOMAIN-SUFFIX,iesnare.com
@@ -28645,6 +28645,7 @@ DOMAIN-SUFFIX,minnow.phasemedical.com
 DOMAIN-SUFFIX,minnow.tapas-software.net
 DOMAIN-SUFFIX,mint3-new.tt.omtrdc.net
 DOMAIN-SUFFIX,mint8.tt.omtrdc.net
+DOMAIN-SUFFIX,mintegral.net
 DOMAIN-SUFFIX,mintelweb.b.s.tt.omtrdc.net
 DOMAIN-SUFFIX,minuetkittenscattery.tt.omtrdc.net
 DOMAIN-SUFFIX,minze04d.tt.omtrdc.net
@@ -47264,6 +47265,7 @@ DOMAIN-SUFFIX,upeayz.eksisozluk.com
 DOMAIN-SUFFIX,upecpbscpx.www.att.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,upeoxa.fashionroom.gr
 DOMAIN-SUFFIX,upgr-mmxvii-cl-ts-p.tt.omtrdc.net
+DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,uplift-platform.com
 DOMAIN-SUFFIX,upload.euleriancdn.net
 DOMAIN-SUFFIX,uploads.tt.omtrdc.net
@@ -47605,6 +47607,7 @@ DOMAIN-SUFFIX,vi.adviso.ca
 DOMAIN-SUFFIX,viaggimarilore.tt.omtrdc.net
 DOMAIN-SUFFIX,viasat.tt.omtrdc.net
 DOMAIN-SUFFIX,viavarejo.tt.omtrdc.net
+DOMAIN-SUFFIX,vibeaconstr.onezapp.com
 DOMAIN-SUFFIX,viborgfolkeblad.tns-gallup.dk
 DOMAIN-SUFFIX,vicentecamarasa.tt.omtrdc.net
 DOMAIN-SUFFIX,vicky.tweaknology.org
@@ -49979,6 +49982,7 @@ DOMAIN-SUFFIX,yueqal.glassesusa.com
 DOMAIN-SUFFIX,yujmyt.theiconic.co.nz
 DOMAIN-SUFFIX,yunakagawa.tt.omtrdc.net
 DOMAIN-SUFFIX,yunanmitolojisi.tt.omtrdc.net
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
 DOMAIN-SUFFIX,yunit.org
 DOMAIN-SUFFIX,yuoungtutoriais.tt.omtrdc.net
 DOMAIN-SUFFIX,yuoyan.finanzen.de
