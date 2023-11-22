@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-22 05:12:23
-# DOMAIN-SUFFIX: 50274
-# TOTAL: 50274
+# UPDATED: 2023-11-23 05:41:31
+# DOMAIN-SUFFIX: 50275
+# TOTAL: 50275
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -27062,6 +27062,7 @@ DOMAIN-SUFFIX,me03s.tt.omtrdc.net
 DOMAIN-SUFFIX,meadowlark.bump.sh
 DOMAIN-SUFFIX,meadowlark.hownow.guide
 DOMAIN-SUFFIX,meadowlark.psynapse.no
+DOMAIN-SUFFIX,meanlytics.com
 DOMAIN-SUFFIX,meanwellaustralia.actonservice.com
 DOMAIN-SUFFIX,meapk.com
 DOMAIN-SUFFIX,measuread.com
