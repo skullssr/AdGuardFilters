@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-23 05:41:31
-# DOMAIN-SUFFIX: 50275
-# TOTAL: 50275
+# UPDATED: 2023-11-24 05:41:40
+# DOMAIN-SUFFIX: 50281
+# TOTAL: 50281
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -5612,6 +5612,7 @@ DOMAIN-SUFFIX,adm4b.tt.omtrdc.net
 DOMAIN-SUFFIX,adm.adminstrumentengineering.com.au
 DOMAIN-SUFFIX,ad.magokoro-care-shoku.com
 DOMAIN-SUFFIX,admantx.com
+DOMAIN-SUFFIX,admatrix.jp
 DOMAIN-SUFFIX,adm.cci-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,admdspc.com
 DOMAIN-SUFFIX,admeasure.hh-online.jp
@@ -7336,6 +7337,7 @@ DOMAIN-SUFFIX,analytics.evo.co.uk
 DOMAIN-SUFFIX,analytics.ewz.ch
 DOMAIN-SUFFIX,analytics.faceitanalytics.com
 DOMAIN-SUFFIX,analytics.fatmedia.io
+DOMAIN-SUFFIX,analytics.fcgtalent.fi
 DOMAIN-SUFFIX,analytics.ferguson.com
 DOMAIN-SUFFIX,analytics.ff.avast.com
 DOMAIN-SUFFIX,analytics.firstbankcard.com
@@ -17132,6 +17134,7 @@ DOMAIN-SUFFIX,d.sondakika.com
 DOMAIN-SUFFIX,dsoxjxin5jji.controlconceptsusa.com
 DOMAIN-SUFFIX,dsp-adcreative.mobshark.net
 DOMAIN-SUFFIX,dsparking.com
+DOMAIN-SUFFIX,dsp.logly.co.jp
 DOMAIN-SUFFIX,dsply.com
 DOMAIN-SUFFIX,dsptrack.mobshark.net
 DOMAIN-SUFFIX,dsp.tt.omtrdc.net
@@ -19857,6 +19860,7 @@ DOMAIN-SUFFIX,globefunddb.tt.omtrdc.net
 DOMAIN-SUFFIX,globel.co.uk
 DOMAIN-SUFFIX,globetelecom.tt.omtrdc.net
 DOMAIN-SUFFIX,globetrackr.com
+DOMAIN-SUFFIX,gl-product-analytics.com
 DOMAIN-SUFFIX,gls-ch-int.mailing.tt.omtrdc.net
 DOMAIN-SUFFIX,glucclk.glucotrust-try.online
 DOMAIN-SUFFIX,glue.evansadhesive.com
@@ -22048,6 +22052,7 @@ DOMAIN-SUFFIX,in2.crispydeal.in
 DOMAIN-SUFFIX,inaftracker.com
 DOMAIN-SUFFIX,inapps.appsflyer.com
 DOMAIN-SUFFIX,inaudium.com
+DOMAIN-SUFFIX,inbound-analytics.pixlee.com
 DOMAIN-SUFFIX,inboxtag.com
 DOMAIN-SUFFIX,in-business.vodafone.com
 DOMAIN-SUFFIX,incaencyclopediag.tt.omtrdc.net
@@ -24606,6 +24611,7 @@ DOMAIN-SUFFIX,logging.carambo.la
 DOMAIN-SUFFIX,logging.e-himart.co.kr
 DOMAIN-SUFFIX,logging.goodgamestudios.com
 DOMAIN-SUFFIX,logging.prefixbox.com
+DOMAIN-SUFFIX,logging.pw.adn.cloud
 DOMAIN-SUFFIX,loggly.cheatsheet.com
 DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
