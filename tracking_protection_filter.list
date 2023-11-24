@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-24 05:41:40
-# DOMAIN-SUFFIX: 50281
-# TOTAL: 50281
+# UPDATED: 2023-11-25 04:54:46
+# DOMAIN-SUFFIX: 50283
+# TOTAL: 50283
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9944,6 +9944,7 @@ DOMAIN-SUFFIX,a.zleep.com
 DOMAIN-SUFFIX,azlej8cdm.pragmaticwebsecurity.com
 DOMAIN-SUFFIX,azlyta.immowelt.de
 DOMAIN-SUFFIX,aznmpb.tokyu-land.co.jp
+DOMAIN-SUFFIX,azq.zozo.jp
 DOMAIN-SUFFIX,azr-pxcnf-emea21707.px.tt.omtrdc.net
 DOMAIN-SUFFIX,azr-qa2.tt.omtrdc.net
 DOMAIN-SUFFIX,azrs17.tt.omtrdc.net
@@ -12980,6 +12981,7 @@ DOMAIN-SUFFIX,cp.phiilu.com
 DOMAIN-SUFFIX,c.pravo.ru
 DOMAIN-SUFFIX,cpsappdev-stage1.psb.tt.omtrdc.net
 DOMAIN-SUFFIX,cpstest-setup-mc.tt.omtrdc.net
+DOMAIN-SUFFIX,cpt.geniee.jp
 DOMAIN-SUFFIX,cptirc01.tt.omtrdc.net
 DOMAIN-SUFFIX,cptrack.de
 DOMAIN-SUFFIX,cpxl.golem.de
