@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-30 05:10:44
-# DOMAIN-SUFFIX: 50639
-# TOTAL: 50639
+# UPDATED: 2023-12-01 05:00:49
+# DOMAIN-SUFFIX: 50633
+# TOTAL: 50633
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -5420,7 +5420,6 @@ DOMAIN-SUFFIX,adata03.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,adata-leela-music.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,adata-saleless.shop.tt.omtrdc.net
 DOMAIN-SUFFIX,adat.freemail.hu
-DOMAIN-SUFFIX,ada-tr.staff-start.com
 DOMAIN-SUFFIX,ad.aucfan.com
 DOMAIN-SUFFIX,ad.aucview.com
 DOMAIN-SUFFIX,ad.autorace.jp
@@ -6135,7 +6134,6 @@ DOMAIN-SUFFIX,a.fchp.org
 DOMAIN-SUFFIX,afcv.champ-shop.com
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afdverify.cws-eu.tt.omtrdc.net
-DOMAIN-SUFFIX,af-event-logger.appsflyer.com
 DOMAIN-SUFFIX,afevxr.guydemarle.com
 DOMAIN-SUFFIX,aff3be1106549b181a96896ae76f156f.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,aff7e59cf2efa1bbfbe642a84a2975b1.hb-fa-dev.tt.omtrdc.net
@@ -8273,7 +8271,6 @@ DOMAIN-SUFFIX,api.ria.tt.omtrdc.net
 DOMAIN-SUFFIX,apirss3.dyn.tt.omtrdc.net
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
-DOMAIN-SUFFIX,api.safegraph.com
 DOMAIN-SUFFIX,api.sandpit1.assistant.tt.omtrdc.net
 DOMAIN-SUFFIX,api.sbe.dee.tt.omtrdc.net
 DOMAIN-SUFFIX,apischi-6-14.recov.tt.omtrdc.net
@@ -33954,7 +33951,6 @@ DOMAIN-SUFFIX,rtxpx-a.akamaihd.net
 DOMAIN-SUFFIX,r.tylercourtney.com
 DOMAIN-SUFFIX,ru4.com
 DOMAIN-SUFFIX,ruanda.trekkww.fun
-DOMAIN-SUFFIX,rubick.gameanalytics.com
 DOMAIN-SUFFIX,rubicon.wellsfargo.com
 DOMAIN-SUFFIX,rubrikinc.tt.omtrdc.net
 DOMAIN-SUFFIX,rucounter.ru
@@ -40639,7 +40635,6 @@ DOMAIN-SUFFIX,stats.glyphs.fyi
 DOMAIN-SUFFIX,stats.gnalt.de
 DOMAIN-SUFFIX,stats.goldsguide.com
 DOMAIN-SUFFIX,stats.gomastercard.com.au
-DOMAIN-SUFFIX,statsgoogle.appsflyer.com
 DOMAIN-SUFFIX,stats.gounified.com
 DOMAIN-SUFFIX,stats.grafana.org
 DOMAIN-SUFFIX,stats.graphql-api.com
@@ -41166,7 +41161,6 @@ DOMAIN-SUFFIX,stats.twhl.xyz
 DOMAIN-SUFFIX,stats.twirrl.co
 DOMAIN-SUFFIX,stats.ubiwiz.com
 DOMAIN-SUFFIX,stats.ucheba.ru
-DOMAIN-SUFFIX,stats.umsns.com
 DOMAIN-SUFFIX,stats.unusualtourist.com
 DOMAIN-SUFFIX,stats.urbanfinn.com
 DOMAIN-SUFFIX,stat.suresmile.dentsplysirona.com
