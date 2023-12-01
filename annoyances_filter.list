@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-30 05:11:28
-# DOMAIN-SUFFIX: 1954
-# TOTAL: 1954
+# UPDATED: 2023-12-02 05:28:58
+# DOMAIN-SUFFIX: 1955
+# TOTAL: 1955
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -332,6 +332,7 @@ DOMAIN-SUFFIX,chaser.ru
 DOMAIN-SUFFIX,chat24.io
 DOMAIN-SUFFIX,chat.amplify.ai
 DOMAIN-SUFFIX,chat.autofaq.ai
+DOMAIN-SUFFIX,chatbase.co
 DOMAIN-SUFFIX,chatbot-cdn.czso.cz
 DOMAIN-SUFFIX,chatbot.com
 DOMAIN-SUFFIX,chatbot.lifecell.ua
