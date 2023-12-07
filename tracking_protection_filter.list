@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-07 05:02:19
-# DOMAIN-SUFFIX: 51214
-# TOTAL: 51214
+# UPDATED: 2023-12-08 05:14:45
+# DOMAIN-SUFFIX: 51221
+# TOTAL: 51221
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7406,6 +7406,7 @@ DOMAIN-SUFFIX,analytics.datahc.com
 DOMAIN-SUFFIX,analytics.data.lloydsbankinggroup.com
 DOMAIN-SUFFIX,analytics.datasavannah.com
 DOMAIN-SUFFIX,analytics.data.visenze.com
+DOMAIN-SUFFIX,analytics.dealmoon.com
 DOMAIN-SUFFIX,analytics.developer.riotgames.com
 DOMAIN-SUFFIX,analytics.digitalpfizer.com
 DOMAIN-SUFFIX,analytics.directenergy.com
@@ -11699,6 +11700,7 @@ DOMAIN-SUFFIX,celebros-analytics.com
 DOMAIN-SUFFIX,celebrus.com
 DOMAIN-SUFFIX,celery.trekkww.fun
 DOMAIN-SUFFIX,celigo.actonservice.com
+DOMAIN-SUFFIX,cellar-analytics.mapion.co.jp
 DOMAIN-SUFFIX,cellularsouth.tt.omtrdc.net
 DOMAIN-SUFFIX,cemalmadanoglu.tt.omtrdc.net
 DOMAIN-SUFFIX,cen.acspubs.org
@@ -17159,6 +17161,7 @@ DOMAIN-SUFFIX,dmm.tt.omtrdc.net
 DOMAIN-SUFFIX,d.m-net.de
 DOMAIN-SUFFIX,dmp.citiservi.es
 DOMAIN-SUFFIX,dmpcloud.net
+DOMAIN-SUFFIX,dmp.eland-tech.com
 DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it
 DOMAIN-SUFFIX,dmpprof.com
 DOMAIN-SUFFIX,dmp.sbermarketing.ru
@@ -18770,6 +18773,7 @@ DOMAIN-SUFFIX,event.dnv.com
 DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,event.grassicpas.com
 DOMAIN-SUFFIX,eventgw.twilio.com
+DOMAIN-SUFFIX,event.hackle.io
 DOMAIN-SUFFIX,event.hket.com
 DOMAIN-SUFFIX,event.impression-neo.naver.com
 DOMAIN-SUFFIX,event.instiengage.com
@@ -32937,6 +32941,7 @@ DOMAIN-SUFFIX,prodej.kyselove.cz
 DOMAIN-SUFFIX,prod.fennec.atp.fox
 DOMAIN-SUFFIX,proditor.sparda.de
 DOMAIN-SUFFIX,prod-kmprgaed-oce-002-ingress.tt.omtrdc.net
+DOMAIN-SUFFIX,prod-mhaa.mhtr.be
 DOMAIN-SUFFIX,prodmp.ru
 DOMAIN-SUFFIX,prod.nitrosniffer.ottogroup.io
 DOMAIN-SUFFIX,prodportstanly.tt.omtrdc.net
@@ -33453,6 +33458,7 @@ DOMAIN-SUFFIX,r4-iad-ss-static-assets-admin.tt.omtrdc.net
 DOMAIN-SUFFIX,r4nds.absorba.com
 DOMAIN-SUFFIX,r541.houstonchronicle.com
 DOMAIN-SUFFIX,r7ls.net
+DOMAIN-SUFFIX,r.aachener-zeitung.de
 DOMAIN-SUFFIX,rabbit.homamo.co
 DOMAIN-SUFFIX,rabbit.radicalxchange.org
 DOMAIN-SUFFIX,rabbit.thebestproductlist.com
@@ -40654,6 +40660,7 @@ DOMAIN-SUFFIX,statetc.nate.com
 DOMAIN-SUFFIX,stat-feedot.ru
 DOMAIN-SUFFIX,stat.fpssl.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,stat.gc.my.games
+DOMAIN-SUFFIX,stat.gn01.top
 DOMAIN-SUFFIX,stat.gomastercard.com.au
 DOMAIN-SUFFIX,stat.gspaceteam.com
 DOMAIN-SUFFIX,stat.guiasjuridicas.es
