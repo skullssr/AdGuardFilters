@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-09 04:57:15
-# DOMAIN-SUFFIX: 3959
-# TOTAL: 3959
+# UPDATED: 2023-12-10 04:57:23
+# DOMAIN-SUFFIX: 3960
+# TOTAL: 3960
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -3504,6 +3504,7 @@ DOMAIN-SUFFIX,torrentbrazil.org
 DOMAIN-SUFFIX,torrentdosfilmeshd.net
 DOMAIN-SUFFIX,torrentmegafilme.com
 DOMAIN-SUFFIX,torrentmegafilmes.tv
+DOMAIN-SUFFIX,torrentmovies.online
 DOMAIN-SUFFIX,torrentsgames.xyz
 DOMAIN-SUFFIX,torrentsgamez.com
 DOMAIN-SUFFIX,torrentsmegafilmes.com
