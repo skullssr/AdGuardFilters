@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-10 04:46:09
-# DOMAIN-SUFFIX: 3009
-# TOTAL: 3009
+# UPDATED: 2023-12-12 05:15:53
+# DOMAIN-SUFFIX: 3010
+# TOTAL: 3010
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2976,6 +2976,7 @@ DOMAIN-SUFFIX,xyya.net
 DOMAIN-SUFFIX,yacine-tv.com
 DOMAIN-SUFFIX,yalla-kora.tv
 DOMAIN-SUFFIX,yalla-shoot-now.us
+DOMAIN-SUFFIX,yalla-shoot-tv.io
 DOMAIN-SUFFIX,yalujailbreak.net
 DOMAIN-SUFFIX,yannik.biz
 DOMAIN-SUFFIX,yellowbridge.com
