@@ -1,14 +1,20 @@
 # NAME: JapaneseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-14 04:57:54
-# DOMAIN-SUFFIX: 34
-# TOTAL: 34
+# UPDATED: 2023-12-13 05:03:41
+# DOMAIN-SUFFIX: 45
+# TOTAL: 45
 DOMAIN-SUFFIX,ad-contents.jp
+DOMAIN-SUFFIX,ap-siken.com
 DOMAIN-SUFFIX,bridalgown.work
 DOMAIN-SUFFIX,cmnw.jp
 DOMAIN-SUFFIX,contents-group.work
+DOMAIN-SUFFIX,db-siken.com
 DOMAIN-SUFFIX,d-navi004.com
+DOMAIN-SUFFIX,fe-siken.com
+DOMAIN-SUFFIX,fp1-siken.com
+DOMAIN-SUFFIX,fp2-siken.com
+DOMAIN-SUFFIX,fp3-siken.com
 DOMAIN-SUFFIX,freepdfcomic.com
 DOMAIN-SUFFIX,friday.kodansha.co.jp
 DOMAIN-SUFFIX,gagetmatome.com
@@ -17,6 +23,7 @@ DOMAIN-SUFFIX,heisei-housewarming.work
 DOMAIN-SUFFIX,helpsupport.blog.fc2.com
 DOMAIN-SUFFIX,hs-exp.jp
 DOMAIN-SUFFIX,intaa.net
+DOMAIN-SUFFIX,itpassportsiken.com
 DOMAIN-SUFFIX,kyukyoku-matome.com
 DOMAIN-SUFFIX,liquidfoundation.work
 DOMAIN-SUFFIX,musenboya.com
@@ -25,12 +32,16 @@ DOMAIN-SUFFIX,my0nio.seesaa.net
 DOMAIN-SUFFIX,nailcolor.work
 DOMAIN-SUFFIX,nasubiblog.com
 DOMAIN-SUFFIX,nazolog.com
+DOMAIN-SUFFIX,nw-siken.com
+DOMAIN-SUFFIX,pm-siken.com
 DOMAIN-SUFFIX,pointi.jp
 DOMAIN-SUFFIX,realtime-chart.info
 DOMAIN-SUFFIX,repeat-drama.info
 DOMAIN-SUFFIX,rocketnews24.com
 DOMAIN-SUFFIX,ronron-blog.com
+DOMAIN-SUFFIX,sc-siken.com
 DOMAIN-SUFFIX,sekai-kabuka.com
+DOMAIN-SUFFIX,sg-siken.com
 DOMAIN-SUFFIX,shindanmaker.com
 DOMAIN-SUFFIX,shopping-now.jp
 DOMAIN-SUFFIX,ssbsblg.blogspot.com
