@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-13 04:59:57
-# DOMAIN-SUFFIX: 51637
-# TOTAL: 51637
+# UPDATED: 2023-12-14 05:00:51
+# DOMAIN-SUFFIX: 51640
+# TOTAL: 51640
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -10401,6 +10401,7 @@ DOMAIN-SUFFIX,be624.cr-02.dc1.tt.omtrdc.net
 DOMAIN-SUFFIX,beacon-1.newrelic.com
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,beacon.carfax.com
+DOMAIN-SUFFIX,beacon.cdn.qq.com
 DOMAIN-SUFFIX,beacon.digima.com
 DOMAIN-SUFFIX,beacon.dropbox.com
 DOMAIN-SUFFIX,beacon.ehow.com
@@ -25238,6 +25239,7 @@ DOMAIN-SUFFIX,log.yougameover.com
 DOMAIN-SUFFIX,log.zdnet.co.kr
 DOMAIN-SUFFIX,log.zepeto.io
 DOMAIN-SUFFIX,log.zingnews.vn
+DOMAIN-SUFFIX,log.znews.vn
 DOMAIN-SUFFIX,logz.ru
 DOMAIN-SUFFIX,lokalavisen.tns-gallup.dk
 DOMAIN-SUFFIX,lon2-monelastic-a3.tt.omtrdc.net
@@ -34600,6 +34602,7 @@ DOMAIN-SUFFIX,rum.condenastdigital.com
 DOMAIN-SUFFIX,rum-metrics.bunny.net
 DOMAIN-SUFFIX,rumsey.actonservice.com
 DOMAIN-SUFFIX,rumstat.cdnvideo.ru
+DOMAIN-SUFFIX,rumt-zh.com
 DOMAIN-SUFFIX,rum.uptime.com
 DOMAIN-SUFFIX,runbot77.tt.omtrdc.net
 DOMAIN-SUFFIX,runbot97.tt.omtrdc.net
