@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-15 04:59:21
-# DOMAIN-SUFFIX: 51641
-# TOTAL: 51641
+# UPDATED: 2023-12-16 05:12:57
+# DOMAIN-SUFFIX: 51644
+# TOTAL: 51644
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -18896,6 +18896,7 @@ DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
 DOMAIN-SUFFIX,events.accuity.com
 DOMAIN-SUFFIX,events.air.tv
 DOMAIN-SUFFIX,events.apester.com
+DOMAIN-SUFFIX,events-api.gazetadopovo.com.br
 DOMAIN-SUFFIX,eventsapi.grocerkey.com
 DOMAIN-SUFFIX,events-api*.outfit7.com
 DOMAIN-SUFFIX,events.api.red.wemesh.ca
@@ -45066,6 +45067,7 @@ DOMAIN-SUFFIX,tracking.empowermenthubspace.com
 DOMAIN-SUFFIX,tracking.enlist.com
 DOMAIN-SUFFIX,tracking.ensonhaber.com
 DOMAIN-SUFFIX,tracking.ent.oviahealth.com
+DOMAIN-SUFFIX,tracking.epicgames.com
 DOMAIN-SUFFIX,tracking.epredia.com
 DOMAIN-SUFFIX,tracking.epsilon.com
 DOMAIN-SUFFIX,tracking.epsilon.postclickmarketing.com
@@ -45090,6 +45092,7 @@ DOMAIN-SUFFIX,tracking.flourishfluxforests.com
 DOMAIN-SUFFIX,trackingflow45.com
 DOMAIN-SUFFIX,tracking.flowofwork.adp.com
 DOMAIN-SUFFIX,tracking.flukecal.com
+DOMAIN-SUFFIX,tracking.fortnite.com
 DOMAIN-SUFFIX,tracking.foxtale.in
 DOMAIN-SUFFIX,tracking.fr.adp.com
 DOMAIN-SUFFIX,tracking.fticonsulting.com

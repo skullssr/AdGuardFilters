@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-14 05:05:10
-# DOMAIN-SUFFIX: 3974
-# TOTAL: 3974
+# UPDATED: 2023-12-16 05:17:15
+# DOMAIN-SUFFIX: 3962
+# TOTAL: 3962
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,3dpchip.com
 DOMAIN-SUFFIX,3dscias.blogspot.com
 DOMAIN-SUFFIX,3dtuning.com
 DOMAIN-SUFFIX,3dzip.org
+DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,4downfiles.org
 DOMAIN-SUFFIX,4download.net
 DOMAIN-SUFFIX,4fansites.de
@@ -1526,7 +1527,6 @@ DOMAIN-SUFFIX,gofobo.com
 DOMAIN-SUFFIX,go.freetrx.fun
 DOMAIN-SUFFIX,gogoanime.cool
 DOMAIN-SUFFIX,golangnote.com
-DOMAIN-SUFFIX,goldenmangas.online
 DOMAIN-SUFFIX,golem.de
 DOMAIN-SUFFIX,go-links.net
 DOMAIN-SUFFIX,golrojadirecta.com
@@ -2122,15 +2122,6 @@ DOMAIN-SUFFIX,manager-magazin.de
 DOMAIN-SUFFIX,manatelugumovies.cc
 DOMAIN-SUFFIX,manchetehoje.xyz
 DOMAIN-SUFFIX,mangacanblog.com
-DOMAIN-SUFFIX,mangahost1.com
-DOMAIN-SUFFIX,mangahost2.com
-DOMAIN-SUFFIX,mangahost4.com
-DOMAIN-SUFFIX,mangahost-br.com
-DOMAIN-SUFFIX,mangahostbr.com
-DOMAIN-SUFFIX,mangahostbr.net
-DOMAIN-SUFFIX,mangahost.cc
-DOMAIN-SUFFIX,mangahosted.com
-DOMAIN-SUFFIX,mangahostz.com
 DOMAIN-SUFFIX,mangajokomik.blogspot.com
 DOMAIN-SUFFIX,mangaorigin.com
 DOMAIN-SUFFIX,mangarock.com
@@ -3629,8 +3620,6 @@ DOMAIN-SUFFIX,uncensoredleak.com
 DOMAIN-SUFFIX,underurl.com
 DOMAIN-SUFFIX,unfriend-app.com
 DOMAIN-SUFFIX,unicum.de
-DOMAIN-SUFFIX,unionleitor.top
-DOMAIN-SUFFIX,unionmangas.top
 DOMAIN-SUFFIX,unionmanga.xyz
 DOMAIN-SUFFIX,unique-tutorials.info
 DOMAIN-SUFFIX,unit-car.com
@@ -3932,7 +3921,6 @@ DOMAIN-SUFFIX,yalujailbreak.net
 DOMAIN-SUFFIX,yannik.biz
 DOMAIN-SUFFIX,yellowbridge.com
 DOMAIN-SUFFIX,yesiget.i234.me
-DOMAIN-SUFFIX,yesmangas1.com
 DOMAIN-SUFFIX,yggtorrent.fr
 DOMAIN-SUFFIX,yibada.com
 DOMAIN-SUFFIX,yilmaztv.com
