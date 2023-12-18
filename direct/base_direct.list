@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-17 04:49:23
-# DOMAIN-SUFFIX: 3003
-# TOTAL: 3003
+# UPDATED: 2023-12-19 04:59:19
+# DOMAIN-SUFFIX: 3002
+# TOTAL: 3002
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2929,7 +2929,6 @@ DOMAIN-SUFFIX,wojtekczytawh40k.blogspot.com
 DOMAIN-SUFFIX,word-count-tool.com
 DOMAIN-SUFFIX,wordgames.com
 DOMAIN-SUFFIX,wordlegame.org
-DOMAIN-SUFFIX,work.ink
 DOMAIN-SUFFIX,world4.eu
 DOMAIN-SUFFIX,wouterplanet.com
 DOMAIN-SUFFIX,wowclassicbis.com
