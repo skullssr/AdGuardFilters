@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-19 04:59:19
-# DOMAIN-SUFFIX: 3002
-# TOTAL: 3002
+# UPDATED: 2023-12-20 05:27:36
+# DOMAIN-SUFFIX: 3003
+# TOTAL: 3003
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -428,6 +428,7 @@ DOMAIN-SUFFIX,byboe.com
 DOMAIN-SUFFIX,cadpartners.biz
 DOMAIN-SUFFIX,calciomercato.com
 DOMAIN-SUFFIX,calendar.google.com
+DOMAIN-SUFFIX,calvyn.com
 DOMAIN-SUFFIX,cam-archive.com
 DOMAIN-SUFFIX,camcam.cc
 DOMAIN-SUFFIX,camera.aeonax.com
