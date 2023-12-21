@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-21 04:56:47
-# DOMAIN-SUFFIX: 1970
-# TOTAL: 1970
+# UPDATED: 2023-12-22 04:56:12
+# DOMAIN-SUFFIX: 1972
+# TOTAL: 1972
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -400,6 +400,8 @@ DOMAIN-SUFFIX,cmp.setupcmp.com
 DOMAIN-SUFFIX,cmps.o2.cz
 DOMAIN-SUFFIX,cmpv2.macworld.co.uk
 DOMAIN-SUFFIX,cmpv2.techadvisor.fr
+DOMAIN-SUFFIX,cmpworker.dotesports.com
+DOMAIN-SUFFIX,cmpworker.primagames.com
 DOMAIN-SUFFIX,coachquartz.com
 DOMAIN-SUFFIX,coatfood.com
 DOMAIN-SUFFIX,code.blablateka.com
