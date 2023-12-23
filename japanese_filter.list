@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-11-29 05:52:19
-# DOMAIN-SUFFIX: 382
-# TOTAL: 382
+# UPDATED: 2023-12-24 04:58:29
+# DOMAIN-SUFFIX: 377
+# TOTAL: 377
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,ad.adpon.jp
 DOMAIN-SUFFIX,ad.angel-live.com
 DOMAIN-SUFFIX,adapf.com
 DOMAIN-SUFFIX,ad.api.yyapi.net
-DOMAIN-SUFFIX,ad-arata.com
 DOMAIN-SUFFIX,ad-arrow.com
 DOMAIN-SUFFIX,ad.atown.jp
 DOMAIN-SUFFIX,adcdn.goo.ne.jp
@@ -147,7 +146,6 @@ DOMAIN-SUFFIX,blog.livelog.biz
 DOMAIN-SUFFIX,blogparts.cityheaven.net
 DOMAIN-SUFFIX,blogparts.dgpot.com
 DOMAIN-SUFFIX,blogparts.gcolle.net
-DOMAIN-SUFFIX,blogroll.click
 DOMAIN-SUFFIX,bn.dxlive.com
 DOMAIN-SUFFIX,boost-next.co.jp
 DOMAIN-SUFFIX,candy-network.com
@@ -174,11 +172,9 @@ DOMAIN-SUFFIX,d2-apps.net
 DOMAIN-SUFFIX,d2swpuhpwp3khd.cloudfront.net
 DOMAIN-SUFFIX,d830x8j3o1b2k.cloudfront.net
 DOMAIN-SUFFIX,daotag.com
-DOMAIN-SUFFIX,dating-z.shop
 DOMAIN-SUFFIX,deliver.ads2.iid.jp
 DOMAIN-SUFFIX,dep.tc
 DOMAIN-SUFFIX,deqwas.net
-DOMAIN-SUFFIX,design01.top
 DOMAIN-SUFFIX,devo.jp
 DOMAIN-SUFFIX,divscripty.net
 DOMAIN-SUFFIX,dlp4luwpus5kr.cloudfront.net
@@ -312,7 +308,6 @@ DOMAIN-SUFFIX,saltwortokra.com
 DOMAIN-SUFFIX,samuraiclick.com
 DOMAIN-SUFFIX,satsumadurian.com
 DOMAIN-SUFFIX,scadnet.com
-DOMAIN-SUFFIX,scottdwebgraphics.com
 DOMAIN-SUFFIX,sda.seesaa.jp
 DOMAIN-SUFFIX,sdqoi2d.com
 DOMAIN-SUFFIX,search.jword.jp
