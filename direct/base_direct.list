@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-20 05:27:36
-# DOMAIN-SUFFIX: 3003
-# TOTAL: 3003
+# UPDATED: 2023-12-26 05:31:18
+# DOMAIN-SUFFIX: 3005
+# TOTAL: 3005
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,autofaucets.org
 DOMAIN-SUFFIX,autokult.pl
 DOMAIN-SUFFIX,automobile-catalog.com
 DOMAIN-SUFFIX,autoroad.cz
+DOMAIN-SUFFIX,autoscout24.com
 DOMAIN-SUFFIX,avaxhome.co
 DOMAIN-SUFFIX,av-drive.blogspot.com
 DOMAIN-SUFFIX,avforums.com
@@ -1059,6 +1060,7 @@ DOMAIN-SUFFIX,galaxylifereborn.com
 DOMAIN-SUFFIX,galaxytranslations97.com
 DOMAIN-SUFFIX,gamebrew.org
 DOMAIN-SUFFIX,gamecode.win
+DOMAIN-SUFFIX,gamedrive.org
 DOMAIN-SUFFIX,gamefaucet.com
 DOMAIN-SUFFIX,gamekit.com
 DOMAIN-SUFFIX,gamemod.mobi
