@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-26 05:42:41
-# DOMAIN-SUFFIX: 3967
-# TOTAL: 3967
+# UPDATED: 2023-12-27 05:44:26
+# DOMAIN-SUFFIX: 3968
+# TOTAL: 3968
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -404,7 +404,7 @@ DOMAIN-SUFFIX,autokult.pl
 DOMAIN-SUFFIX,automobile-catalog.com
 DOMAIN-SUFFIX,auto-motor-und-sport.de
 DOMAIN-SUFFIX,autoroad.cz
-DOMAIN-SUFFIX,autoscout24.com
+DOMAIN-SUFFIX,autoscout24.*
 DOMAIN-SUFFIX,avaxhome.co
 DOMAIN-SUFFIX,avcore.ru
 DOMAIN-SUFFIX,av-drive.blogspot.com
@@ -2876,6 +2876,7 @@ DOMAIN-SUFFIX,receitasabores.com
 DOMAIN-SUFFIX,receitasdamamae.online
 DOMAIN-SUFFIX,receiveasms.com
 DOMAIN-SUFFIX,receivesms.cc
+DOMAIN-SUFFIX,recommender.scarabresearch.com
 DOMAIN-SUFFIX,record-video-online.com
 DOMAIN-SUFFIX,recreatisse.com
 DOMAIN-SUFFIX,reddit.com
