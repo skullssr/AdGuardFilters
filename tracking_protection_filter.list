@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-28 05:19:11
-# DOMAIN-SUFFIX: 51582
-# TOTAL: 51582
+# UPDATED: 2023-12-29 05:43:19
+# DOMAIN-SUFFIX: 51585
+# TOTAL: 51585
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8515,6 +8515,7 @@ DOMAIN-SUFFIX,api.internal.zonetv.newdev.tt.omtrdc.net
 DOMAIN-SUFFIX,api-int-invoicebilling-qa.tt.omtrdc.net
 DOMAIN-SUFFIX,api.irishrail-aa-test.tt.omtrdc.net
 DOMAIN-SUFFIX,api.irishrail-s.tt.omtrdc.net
+DOMAIN-SUFFIX,api.iterable.com
 DOMAIN-SUFFIX,api.iterative.ly
 DOMAIN-SUFFIX,api.j4.tt.omtrdc.net
 DOMAIN-SUFFIX,a.pikabu.ru
@@ -28495,6 +28496,7 @@ DOMAIN-SUFFIX,metrics.gap.co.uk
 DOMAIN-SUFFIX,metrics.gap.eu
 DOMAIN-SUFFIX,metrics.gazyva.com
 DOMAIN-SUFFIX,metrics.gcimetrics.com
+DOMAIN-SUFFIX,metrics.geekwire.com
 DOMAIN-SUFFIX,metrics.geelongadvertiser.com.au
 DOMAIN-SUFFIX,metrics.genentech-access.com
 DOMAIN-SUFFIX,metrics.genentech-forum.com
@@ -28918,6 +28920,7 @@ DOMAIN-SUFFIX,metrics.phoenix.edu
 DOMAIN-SUFFIX,metrics.pico.tools
 DOMAIN-SUFFIX,metrics.pinkribbonbottle.com
 DOMAIN-SUFFIX,metrics.pisces-penton.com
+DOMAIN-SUFFIX,metrics.plaid.com
 DOMAIN-SUFFIX,metrics.plusrewards.com.au
 DOMAIN-SUFFIX,metrics.pmis.abbott.com
 DOMAIN-SUFFIX,metrics.politico.com
