@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-03 04:59:55
-# DOMAIN-SUFFIX: 52409
-# TOTAL: 52409
+# UPDATED: 2024-01-04 05:15:13
+# DOMAIN-SUFFIX: 52411
+# TOTAL: 52411
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7655,6 +7655,7 @@ DOMAIN-SUFFIX,analytics.andrewsmith.com.au
 DOMAIN-SUFFIX,analytics.angelina-fieber.com
 DOMAIN-SUFFIX,analytics.any.do
 DOMAIN-SUFFIX,analytics-api.a-f.io
+DOMAIN-SUFFIX,analytics.api.justeattakeaway.com
 DOMAIN-SUFFIX,analytics-api.liveapp.com
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
 DOMAIN-SUFFIX,analytics-api.smzdm.com
@@ -35032,6 +35033,7 @@ DOMAIN-SUFFIX,rtmark.net
 DOMAIN-SUFFIX,rt.meuimperiodigital.com
 DOMAIN-SUFFIX,rt.minyatecidos.com
 DOMAIN-SUFFIX,rtm-tracking.zozo.jp
+DOMAIN-SUFFIX,rtnl.bxcl.de
 DOMAIN-SUFFIX,rtoaster.jp
 DOMAIN-SUFFIX,rt.oddstrader.com
 DOMAIN-SUFFIX,rt.offiicial.xyz
