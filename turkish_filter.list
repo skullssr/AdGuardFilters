@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-23 05:07:56
-# DOMAIN-SUFFIX: 360
-# TOTAL: 360
+# UPDATED: 2024-01-05 07:35:00
+# DOMAIN-SUFFIX: 361
+# TOTAL: 361
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -316,6 +316,7 @@ DOMAIN-SUFFIX,smrtbnr.space
 DOMAIN-SUFFIX,smrtbnr.top
 DOMAIN-SUFFIX,sosinyo.xyz
 DOMAIN-SUFFIX,sportframe.org
+DOMAIN-SUFFIX,srvd2204.com
 DOMAIN-SUFFIX,stairtuy.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
 DOMAIN-SUFFIX,stopblyat.tk
