@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-04 05:15:13
-# DOMAIN-SUFFIX: 52411
-# TOTAL: 52411
+# UPDATED: 2024-01-06 08:17:29
+# DOMAIN-SUFFIX: 52423
+# TOTAL: 52423
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7655,6 +7655,7 @@ DOMAIN-SUFFIX,analytics.andrewsmith.com.au
 DOMAIN-SUFFIX,analytics.angelina-fieber.com
 DOMAIN-SUFFIX,analytics.any.do
 DOMAIN-SUFFIX,analytics-api.a-f.io
+DOMAIN-SUFFIX,analytics-api.invideo.io
 DOMAIN-SUFFIX,analytics.api.justeattakeaway.com
 DOMAIN-SUFFIX,analytics-api.liveapp.com
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
@@ -11414,6 +11415,8 @@ DOMAIN-SUFFIX,brasilwebmail.webmail.tt.omtrdc.net
 DOMAIN-SUFFIX,brat-online.ro
 DOMAIN-SUFFIX,br.bio-rad.com
 DOMAIN-SUFFIX,brcdn.com
+DOMAIN-SUFFIX,brdtest.com
+DOMAIN-SUFFIX,brdtnet.com
 DOMAIN-SUFFIX,breakdance.treker.fun
 DOMAIN-SUFFIX,breakthrough.kronos.com
 DOMAIN-SUFFIX,breaktime.com.tw
@@ -11436,8 +11439,11 @@ DOMAIN-SUFFIX,bridgevine.com
 DOMAIN-SUFFIX,briefing.actonservice.com
 DOMAIN-SUFFIX,brigant.trekkeeee.space
 DOMAIN-SUFFIX,briggsstratton.tt.omtrdc.net
+DOMAIN-SUFFIX,brightdata.com
+DOMAIN-SUFFIX,brightdata.de
 DOMAIN-SUFFIX,brightedge.com
 DOMAIN-SUFFIX,brighthousefinancial.tt.omtrdc.net
+DOMAIN-SUFFIX,bright-sdk.com
 DOMAIN-SUFFIX,brigitte.met.vgwort.de
 DOMAIN-SUFFIX,brilig.com
 DOMAIN-SUFFIX,bringg.actonservice.com
@@ -25965,6 +25971,7 @@ DOMAIN-SUFFIX,lumatag.co.uk
 DOMAIN-SUFFIX,lumberliquidators.tt.omtrdc.net
 DOMAIN-SUFFIX,lumenera.actonservice.com
 DOMAIN-SUFFIX,luminate.com
+DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,lumitos.com
 DOMAIN-SUFFIX,lumtjt.plumbingonline.ca
 DOMAIN-SUFFIX,luna-dev.tt.omtrdc.net
@@ -32904,6 +32911,8 @@ DOMAIN-SUFFIX,permutive.app
 DOMAIN-SUFFIX,permutive.com
 DOMAIN-SUFFIX,perr.h-cdn.com
 DOMAIN-SUFFIX,perr.hola.org
+DOMAIN-SUFFIX,perr.l-agent.me
+DOMAIN-SUFFIX,perr.l-err.biz
 DOMAIN-SUFFIX,perryhalles.tt.omtrdc.net
 DOMAIN-SUFFIX,persianstat.com
 DOMAIN-SUFFIX,persianstat.ir
@@ -33523,6 +33532,7 @@ DOMAIN-SUFFIX,prd-collector-anon.ex.co
 DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
 DOMAIN-SUFFIX,prd-collector-platform.ex.co
 DOMAIN-SUFFIX,prd.tt.omtrdc.net
+DOMAIN-SUFFIX,prdwebcollector.ruetracking.com
 DOMAIN-SUFFIX,pre2-upgrades.tt.omtrdc.net
 DOMAIN-SUFFIX,preaccountsit.tt.omtrdc.net
 DOMAIN-SUFFIX,prealc.apfepl01.tt.omtrdc.net
@@ -48079,6 +48089,7 @@ DOMAIN-SUFFIX,trk.thequotehound.com
 DOMAIN-SUFFIX,trk.therealforceshop.com
 DOMAIN-SUFFIX,trk.thinkhdi.com
 DOMAIN-SUFFIX,trk.thomaspumps.com
+DOMAIN-SUFFIX,trk.tirto.id
 DOMAIN-SUFFIX,trk.torridnails.it
 DOMAIN-SUFFIX,trk.trackclick.co
 DOMAIN-SUFFIX,trk.trafficastro.com
@@ -48641,6 +48652,7 @@ DOMAIN-SUFFIX,tr.solution.uneo.fr
 DOMAIN-SUFFIX,tr.sort.espmp-nifr.net
 DOMAIN-SUFFIX,tr.souscription.floa.fr
 DOMAIN-SUFFIX,tr.spain.plimsoll.es
+DOMAIN-SUFFIX,tr.staff-start.com
 DOMAIN-SUFFIX,tr.strategie.gouv.fr
 DOMAIN-SUFFIX,tr.suedkurier.de
 DOMAIN-SUFFIX,tr.suivi-client-edf.com
