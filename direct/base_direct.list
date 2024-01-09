@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-09 07:07:18
+# UPDATED: 2024-01-10 06:34:05
 # DOMAIN-SUFFIX: 3007
 # TOTAL: 3007
 DOMAIN-SUFFIX,0123movies.com
@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,adjectives-for.com
 DOMAIN-SUFFIX,adlink.wf
 DOMAIN-SUFFIX,adload.ru
 DOMAIN-SUFFIX,adlpu.com
-DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,admin.mailchimp.com
 DOMAIN-SUFFIX,adnews.me
 DOMAIN-SUFFIX,adobeactivators.blogspot.com
@@ -2325,6 +2324,7 @@ DOMAIN-SUFFIX,shipstation.com
 DOMAIN-SUFFIX,shoemoney.com
 DOMAIN-SUFFIX,shogaisha-techo.com
 DOMAIN-SUFFIX,shon.xyz
+DOMAIN-SUFFIX,shoot-yalla.live
 DOMAIN-SUFFIX,shoot-yalla.tv
 DOMAIN-SUFFIX,shoppinglys.blogspot.com
 DOMAIN-SUFFIX,short24.pw

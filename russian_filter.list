@@ -1,9 +1,9 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-08 06:21:14
-# DOMAIN-SUFFIX: 4000
-# TOTAL: 4000
+# UPDATED: 2024-01-10 06:42:44
+# DOMAIN-SUFFIX: 4005
+# TOTAL: 4005
 DOMAIN-SUFFIX,0001.best
 DOMAIN-SUFFIX,0427d7.se
 DOMAIN-SUFFIX,0483bm4mlow8.xyz
@@ -822,6 +822,7 @@ DOMAIN-SUFFIX,cbibhbghgdjbbageabd.ru
 DOMAIN-SUFFIX,cbn.tbn.ru
 DOMAIN-SUFFIX,ccalgf.com
 DOMAIN-SUFFIX,ccbaehjabejaegdeebe.ru
+DOMAIN-SUFFIX,cchbdata.net
 DOMAIN-SUFFIX,cchdbond.com
 DOMAIN-SUFFIX,c.cpa5.ru
 DOMAIN-SUFFIX,c.cpa6.ru
@@ -1232,6 +1233,7 @@ DOMAIN-SUFFIX,ew.politros.com
 DOMAIN-SUFFIX,ewtofu.ru
 DOMAIN-SUFFIX,ex6.ru
 DOMAIN-SUFFIX,exaccess.ru
+DOMAIN-SUFFIX,exad.smi2.ru
 DOMAIN-SUFFIX,exaleprn.com
 DOMAIN-SUFFIX,exchange.informer.ua
 DOMAIN-SUFFIX,exchange.newsnet.in.ua
@@ -2993,7 +2995,9 @@ DOMAIN-SUFFIX,sblftg.com
 DOMAIN-SUFFIX,sb-money.ru
 DOMAIN-SUFFIX,scafer.ru
 DOMAIN-SUFFIX,scarpbooking.ru
+DOMAIN-SUFFIX,s.ccsyncuuid.net
 DOMAIN-SUFFIX,sc.livetvcdn.net
+DOMAIN-SUFFIX,s.cummerata.link
 DOMAIN-SUFFIX,sdmot.ru
 DOMAIN-SUFFIX,sdv-m.ru
 DOMAIN-SUFFIX,sealine-pfuoxcbgd.netdna-ssl.com
@@ -3290,6 +3294,7 @@ DOMAIN-SUFFIX,textun.ru
 DOMAIN-SUFFIX,t-fb-w-sv-bn-7j.ru
 DOMAIN-SUFFIX,t.fileplaneta.com
 DOMAIN-SUFFIX,tgaqxo.com
+DOMAIN-SUFFIX,tgb.hsmedia.ru
 DOMAIN-SUFFIX,tgdmpf.com
 DOMAIN-SUFFIX,tg.mybb.ru
 DOMAIN-SUFFIX,th700.com
