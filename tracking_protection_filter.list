@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-11 06:00:25
-# DOMAIN-SUFFIX: 53224
-# TOTAL: 53224
+# UPDATED: 2024-01-12 07:27:30
+# DOMAIN-SUFFIX: 53225
+# TOTAL: 53225
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -18057,6 +18057,7 @@ DOMAIN-SUFFIX,drfdisvc.walmart.com
 DOMAIN-SUFFIX,driosstream.tns-gallup.dk
 DOMAIN-SUFFIX,drivecl.dd.tt.omtrdc.net
 DOMAIN-SUFFIX,driven.actonservice.com
+DOMAIN-SUFFIX,driveniq.com
 DOMAIN-SUFFIX,driversalert49.tt.omtrdc.net
 DOMAIN-SUFFIX,drive.seagate.com
 DOMAIN-SUFFIX,dropbox-20-9.tt.omtrdc.net
