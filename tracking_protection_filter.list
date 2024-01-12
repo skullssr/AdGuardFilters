@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-12 07:27:30
-# DOMAIN-SUFFIX: 53225
-# TOTAL: 53225
+# UPDATED: 2024-01-13 06:29:09
+# DOMAIN-SUFFIX: 53234
+# TOTAL: 53234
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8801,6 +8801,7 @@ DOMAIN-SUFFIX,apllogistics.actonservice.com
 DOMAIN-SUFFIX,aplobv.xexymix.com
 DOMAIN-SUFFIX,aplyncowa.uds-qa.tt.omtrdc.net
 DOMAIN-SUFFIX,apmap-1psn1.tt.omtrdc.net
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,apmotorsdiniscar.tt.omtrdc.net
 DOMAIN-SUFFIX,apm-sign.cloud.tt.omtrdc.net
 DOMAIN-SUFFIX,apn8s.tt.omtrdc.net
@@ -17351,6 +17352,7 @@ DOMAIN-SUFFIX,device9.com
 DOMAIN-SUFFIX,device-metrics-*.amazon.com
 DOMAIN-SUFFIX,device-metrics-us*.amazon.com
 DOMAIN-SUFFIX,dev-iradimed.actonservice.com
+DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,dev.marketing.championhomes.com
 DOMAIN-SUFFIX,dev.marketing.skylinehomes.com
 DOMAIN-SUFFIX,dev-metrics.hb.tt.omtrdc.net
@@ -22125,6 +22127,7 @@ DOMAIN-SUFFIX,hkhbrdcawx.17.182crackle.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,hkhkg3.tt.omtrdc.net
 DOMAIN-SUFFIX,hkj8.evobanco.com
 DOMAIN-SUFFIX,hkpbt01.tt.omtrdc.net
+DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,hktb.tt.omtrdc.net
 DOMAIN-SUFFIX,hktracker.hankookilbo.com
 DOMAIN-SUFFIX,hleouh.feelunique.com
@@ -25919,6 +25922,7 @@ DOMAIN-SUFFIX,logistics.dbschenker.com
 DOMAIN-SUFFIX,logistics.osmworldwide.com
 DOMAIN-SUFFIX,logitech.tt.omtrdc.net
 DOMAIN-SUFFIX,log.iyunmai.com
+DOMAIN-SUFFIX,log.kinolights.com
 DOMAIN-SUFFIX,log.klook.com
 DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,loglady.publicbroadcasting.net
@@ -30294,6 +30298,7 @@ DOMAIN-SUFFIX,minnow.clintwinter.me
 DOMAIN-SUFFIX,minnow.mimosaagency.com
 DOMAIN-SUFFIX,minnow.phasemedical.com
 DOMAIN-SUFFIX,minnow.tapas-software.net
+DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
 DOMAIN-SUFFIX,mint3-new.tt.omtrdc.net
 DOMAIN-SUFFIX,mint8.tt.omtrdc.net
 DOMAIN-SUFFIX,mintegral.net
@@ -32438,6 +32443,7 @@ DOMAIN-SUFFIX,out.trkrabb.com
 DOMAIN-SUFFIX,ouvjnb.westernbikeworks.com
 DOMAIN-SUFFIX,overlakemedicalcenter.hrm.healthgrades.com
 DOMAIN-SUFFIX,overseachinesebankin.tt.omtrdc.net
+DOMAIN-SUFFIX,overseauspider.yuanshen.com
 DOMAIN-SUFFIX,overseer-staging-metadata.tt.omtrdc.net
 DOMAIN-SUFFIX,overstat.com
 DOMAIN-SUFFIX,ovhgmbtkzq.0.20dupont.hb.tt.omtrdc.net
@@ -37081,6 +37087,7 @@ DOMAIN-SUFFIX,sentifi.com
 DOMAIN-SUFFIX,sentimentanalysisengine-pprd-zj1iit.tt.omtrdc.net
 DOMAIN-SUFFIX,sentiment.icis.com
 DOMAIN-SUFFIX,sentry01.zerg.rambler.ru
+DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
 DOMAIN-SUFFIX,seoab.io
 DOMAIN-SUFFIX,seoghoer.tns-gallup.dk
 DOMAIN-SUFFIX,seogift.ru
@@ -37207,6 +37214,7 @@ DOMAIN-SUFFIX,sg.log.ulivetv.net
 DOMAIN-SUFFIX,sg.lucanet.com
 DOMAIN-SUFFIX,sgms.greatschools.org
 DOMAIN-SUFFIX,sg.promo.skf.com
+DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
 DOMAIN-SUFFIX,s.grace.com
 DOMAIN-SUFFIX,sgsb.aba.com
 DOMAIN-SUFFIX,sgtm.handyhuellen.de
@@ -52912,6 +52920,7 @@ DOMAIN-SUFFIX,yrrudp.inven.co.kr
 DOMAIN-SUFFIX,ysaaks.mobiauto.com.br
 DOMAIN-SUFFIX,yskvdo.gebrauchtwagen.at
 DOMAIN-SUFFIX,ysl3.destinia.ec
+DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,ysrrzgku6tar.us.themoneytizer.com
 DOMAIN-SUFFIX,yst4.muchoviaje.com
 DOMAIN-SUFFIX,yst4.torviajes.com
