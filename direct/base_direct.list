@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-10 06:34:05
-# DOMAIN-SUFFIX: 3007
-# TOTAL: 3007
+# UPDATED: 2024-01-16 05:37:01
+# DOMAIN-SUFFIX: 3010
+# TOTAL: 3010
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,8muses.com
 DOMAIN-SUFFIX,8tm.net
 DOMAIN-SUFFIX,943thex.com
 DOMAIN-SUFFIX,99btc.top
+DOMAIN-SUFFIX,9goals.io
 DOMAIN-SUFFIX,9goku.com
 DOMAIN-SUFFIX,9ketsuki.info
 DOMAIN-SUFFIX,9now.com.au
@@ -1636,6 +1637,7 @@ DOMAIN-SUFFIX,mc-premium.org
 DOMAIN-SUFFIX,mdpr.jp
 DOMAIN-SUFFIX,mealcold.com
 DOMAIN-SUFFIX,medcpu.com
+DOMAIN-SUFFIX,medeberiya1.com
 DOMAIN-SUFFIX,medevel.com
 DOMAIN-SUFFIX,medialaancdn.be
 DOMAIN-SUFFIX,mediapemersatubangsa.com
@@ -2735,6 +2737,7 @@ DOMAIN-SUFFIX,tvs.jagobd.com
 DOMAIN-SUFFIX,tv.wp.pl
 DOMAIN-SUFFIX,tv.youtube.com
 DOMAIN-SUFFIX,tw-hkt.blogspot.com
+DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twittrend.jp
 DOMAIN-SUFFIX,two.re
 DOMAIN-SUFFIX,txori.com
