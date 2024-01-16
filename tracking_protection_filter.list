@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-16 05:44:38
-# DOMAIN-SUFFIX: 53585
-# TOTAL: 53585
+# UPDATED: 2024-01-17 06:25:59
+# DOMAIN-SUFFIX: 53587
+# TOTAL: 53587
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7776,6 +7776,7 @@ DOMAIN-SUFFIX,analytics.avis.de
 DOMAIN-SUFFIX,analytics.aweber.com
 DOMAIN-SUFFIX,analytics.banksneveraskthat.com
 DOMAIN-SUFFIX,analytics.basistheory.com
+DOMAIN-SUFFIX,analytics-batch.blitz.gg
 DOMAIN-SUFFIX,analytics.bauermedia.sk
 DOMAIN-SUFFIX,analytics-beacon.p.uliza.jp
 DOMAIN-SUFFIX,analytics.betterplaces.nl
@@ -7862,6 +7863,7 @@ DOMAIN-SUFFIX,analytics.dap-networks.de
 DOMAIN-SUFFIX,analytics.dashboard.fingerprint.com
 DOMAIN-SUFFIX,analytics.datahc.com
 DOMAIN-SUFFIX,analytics.data.lloydsbankinggroup.com
+DOMAIN-SUFFIX,analytics-dataplane.invideo.io
 DOMAIN-SUFFIX,analytics.datasavannah.com
 DOMAIN-SUFFIX,analytics.data.visenze.com
 DOMAIN-SUFFIX,analytics.dealmoon.com
@@ -7897,6 +7899,7 @@ DOMAIN-SUFFIX,analytics-events.inshorts.com
 DOMAIN-SUFFIX,analytics.evo.co.uk
 DOMAIN-SUFFIX,analytics.ewz.ch
 DOMAIN-SUFFIX,analytics.faceitanalytics.com
+DOMAIN-SUFFIX,analytics.fap.bar
 DOMAIN-SUFFIX,analytics.fatmedia.io
 DOMAIN-SUFFIX,analytics.fcgtalent.fi
 DOMAIN-SUFFIX,analytics.ferguson.com
@@ -31912,15 +31915,12 @@ DOMAIN-SUFFIX,nzmkzl.mytheresa.com
 DOMAIN-SUFFIX,nzporixfao.vvzhujsqvg.att.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,nzueib.dice.com
 DOMAIN-SUFFIX,nzz.tt.omtrdc.net
-DOMAIN-SUFFIX,o1000929.ingest.sentry.io
-DOMAIN-SUFFIX,o1184810.ingest.sentry.io
 DOMAIN-SUFFIX,o2o.api.xiaomi.com
 DOMAIN-SUFFIX,o365diagtelemetry.trafficmanager.net
 DOMAIN-SUFFIX,o398.trumbulltimes.com
 DOMAIN-SUFFIX,o3gxzoewxl1x.cp.zomro.com
 DOMAIN-SUFFIX,o68c.sfr.fr
 DOMAIN-SUFFIX,o8.hyatt.com
-DOMAIN-SUFFIX,o920916.ingest.sentry.io
 DOMAIN-SUFFIX,oa515.blog57.tt.omtrdc.net
 DOMAIN-SUFFIX,oaamdev.tt.omtrdc.net
 DOMAIN-SUFFIX,o.addthis.com
@@ -45689,6 +45689,7 @@ DOMAIN-SUFFIX,tms.betway.com
 DOMAIN-SUFFIX,tms.betwaysatta1.com
 DOMAIN-SUFFIX,tms.betwaysatta.com
 DOMAIN-SUFFIX,tms.capitalone.com
+DOMAIN-SUFFIX,tms-collect.sony.jp
 DOMAIN-SUFFIX,tms.delta.com
 DOMAIN-SUFFIX,tms.dmp.wi-fi.ru
 DOMAIN-SUFFIX,tmserverside.mango.com
@@ -45702,6 +45703,7 @@ DOMAIN-SUFFIX,tms.rsa.com
 DOMAIN-SUFFIX,tms-test.nab.com.au
 DOMAIN-SUFFIX,t.msuspartans.com
 DOMAIN-SUFFIX,tms.virginatlantic.com
+DOMAIN-SUFFIX,tms-visitor-service.sony.jp
 DOMAIN-SUFFIX,t.msz-bahn.de
 DOMAIN-SUFFIX,tmt.intelligence.informa.com
 DOMAIN-SUFFIX,tm.tradetracker.net
