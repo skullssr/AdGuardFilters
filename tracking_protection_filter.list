@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-17 06:25:59
-# DOMAIN-SUFFIX: 53587
-# TOTAL: 53587
+# UPDATED: 2024-01-18 06:02:42
+# DOMAIN-SUFFIX: 53589
+# TOTAL: 53589
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -17935,7 +17935,6 @@ DOMAIN-SUFFIX,d-log.asahi.co.jp
 DOMAIN-SUFFIX,d-log.bs-asahi.tv
 DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
 DOMAIN-SUFFIX,dlqxtm.sssports.com
-DOMAIN-SUFFIX,dl.reg.163.com
 DOMAIN-SUFFIX,dls2s.appsflyer.com
 DOMAIN-SUFFIX,dlziqh9bo7.boring.fm
 DOMAIN-SUFFIX,dmanalytics1.com
@@ -24285,6 +24284,7 @@ DOMAIN-SUFFIX,ins.wolterskluwerfs.com
 DOMAIN-SUFFIX,intactfinancialcorpo.tt.omtrdc.net
 DOMAIN-SUFFIX,intake-analytics.wikimedia.org
 DOMAIN-SUFFIX,intake-logging.wikimedia.org
+DOMAIN-SUFFIX,intake-lr.com
 DOMAIN-SUFFIX,int.akisinn.info
 DOMAIN-SUFFIX,int.akisinn.me
 DOMAIN-SUFFIX,int.akisinn.site
@@ -36653,6 +36653,7 @@ DOMAIN-SUFFIX,s.boydgaming.com
 DOMAIN-SUFFIX,sbpzeq.lululemon.com.au
 DOMAIN-SUFFIX,s.bramptonguardian.com
 DOMAIN-SUFFIX,sbrands.lookfantastic.com
+DOMAIN-SUFFIX,sb.scorecard.research.com
 DOMAIN-SUFFIX,sbs.tt.omtrdc.net
 DOMAIN-SUFFIX,sbtcorp.tt.omtrdc.net
 DOMAIN-SUFFIX,sbttlj.togetter.com
@@ -52774,6 +52775,7 @@ DOMAIN-SUFFIX,www.sp-newfunds.com
 DOMAIN-SUFFIX,www.sstats.bnpparibasfortis.be
 DOMAIN-SUFFIX,www.sstats.hellobank.be
 DOMAIN-SUFFIX,www.start-downloading.com
+DOMAIN-SUFFIX,wwwstat.rz.uni-leipzig.de
 DOMAIN-SUFFIX,www.stork.notlessbutbetter.com
 DOMAIN-SUFFIX,www.strawberry.basf.com
 DOMAIN-SUFFIX,www.strongwellhealth.com
