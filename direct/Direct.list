@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-21 06:45:31
-# DOMAIN-SUFFIX: 3980
-# TOTAL: 3980
+# UPDATED: 2024-01-24 05:49:04
+# DOMAIN-SUFFIX: 3981
+# TOTAL: 3981
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -2188,6 +2188,7 @@ DOMAIN-SUFFIX,med1.de
 DOMAIN-SUFFIX,medcpu.com
 DOMAIN-SUFFIX,medeberiya1.com
 DOMAIN-SUFFIX,medevel.com
+DOMAIN-SUFFIX,media-consumer365.desigual.com
 DOMAIN-SUFFIX,medialaancdn.be
 DOMAIN-SUFFIX,mediapemersatubangsa.com
 DOMAIN-SUFFIX,media.polsatnews.pl
