@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-12-14 05:05:08
-# DOMAIN-SUFFIX: 891
-# TOTAL: 891
+# UPDATED: 2024-01-26 05:41:49
+# DOMAIN-SUFFIX: 897
+# TOTAL: 897
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,a2dfp.net
 DOMAIN-SUFFIX,a2pub.com
 DOMAIN-SUFFIX,a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 DOMAIN-SUFFIX,aag.yahooapis.jp
+DOMAIN-SUFFIX,aan.amazon.*
 DOMAIN-SUFFIX,a.applvn.com
 DOMAIN-SUFFIX,abbott.vo.llnwd.net
 DOMAIN-SUFFIX,abnad.net
@@ -218,7 +219,9 @@ DOMAIN-SUFFIX,ad-x.co.uk
 DOMAIN-SUFFIX,adx-*.dbankedge.cn
 DOMAIN-SUFFIX,adx-dre.op.hicloud.com
 DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
+DOMAIN-SUFFIX,adx-open-service.youku.com
 DOMAIN-SUFFIX,adx-tk.rayjump.com
+DOMAIN-SUFFIX,ad.youku.com
 DOMAIN-SUFFIX,adzerk.net
 DOMAIN-SUFFIX,ad.zijieapi.com
 DOMAIN-SUFFIX,adz.mobi
@@ -333,6 +336,7 @@ DOMAIN-SUFFIX,c2s.startappnetwork.com
 DOMAIN-SUFFIX,c3.myapkcdn.in
 DOMAIN-SUFFIX,c8.net.ua
 DOMAIN-SUFFIX,cads.scalemonk.com
+DOMAIN-SUFFIX,cad.youku.com
 DOMAIN-SUFFIX,cafe-latte.myshoplus.com
 DOMAIN-SUFFIX,campaigns.apps-connects.com
 DOMAIN-SUFFIX,cashprom.ru
@@ -552,6 +556,7 @@ DOMAIN-SUFFIX,lxqcgj.com
 DOMAIN-SUFFIX,ma-code.ru
 DOMAIN-SUFFIX,mad.mobisky.pl
 DOMAIN-SUFFIX,madnet.ru
+DOMAIN-SUFFIX,mads.amazon.com
 DOMAIN-SUFFIX,mads.bz
 DOMAIN-SUFFIX,manage.com
 DOMAIN-SUFFIX,marketing.mangacopy.com
@@ -883,6 +888,7 @@ DOMAIN-SUFFIX,yc-ads.s3.amazonaws.com
 DOMAIN-SUFFIX,yemonisoni.com
 DOMAIN-SUFFIX,yieldkit.com
 DOMAIN-SUFFIX,yieldmo.com
+DOMAIN-SUFFIX,ykad-data.youku.com
 DOMAIN-SUFFIX,yllix.com
 DOMAIN-SUFFIX,youmi.net
 DOMAIN-SUFFIX,yovoads.com

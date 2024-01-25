@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-25 05:57:35
-# DOMAIN-SUFFIX: 53607
-# TOTAL: 53607
+# UPDATED: 2024-01-26 05:37:17
+# DOMAIN-SUFFIX: 53614
+# TOTAL: 53614
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8105,6 +8105,7 @@ DOMAIN-SUFFIX,analytics.nordea.fi
 DOMAIN-SUFFIX,analytics.nordea.no
 DOMAIN-SUFFIX,analytics.nordea.se
 DOMAIN-SUFFIX,analyticsnossl.forcepoint.com
+DOMAIN-SUFFIX,analytics.nova.foxsports.com
 DOMAIN-SUFFIX,analytics.nrg.com
 DOMAIN-SUFFIX,analytics.nrgprotects.com
 DOMAIN-SUFFIX,analytics-nssl.bradyid.com
@@ -8117,6 +8118,7 @@ DOMAIN-SUFFIX,analytics.ouc.ac.cy
 DOMAIN-SUFFIX,analytics.ovative.com
 DOMAIN-SUFFIX,analytics.ovh.com
 DOMAIN-SUFFIX,analytics.oyorooms.com
+DOMAIN-SUFFIX,analytics.pangle-ads.com
 DOMAIN-SUFFIX,analytics.partcommunity.com
 DOMAIN-SUFFIX,analytics.peraichi.com
 DOMAIN-SUFFIX,analytics.pgncs.notion.so
@@ -8274,6 +8276,7 @@ DOMAIN-SUFFIX,analytics.thehartford.com
 DOMAIN-SUFFIX,analytics.theinstitutes.org
 DOMAIN-SUFFIX,analytics.thenest.com
 DOMAIN-SUFFIX,analytics.thenewslens.com
+DOMAIN-SUFFIX,analytics.theta360.com
 DOMAIN-SUFFIX,analytics.tiendaenoferta.com
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,analytics.tio.ch
@@ -18016,6 +18019,7 @@ DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it
 DOMAIN-SUFFIX,dmpprof.com
 DOMAIN-SUFFIX,dmp.sbermarketing.ru
 DOMAIN-SUFFIX,dm.pstatp.com
+DOMAIN-SUFFIX,dmp.truoptik.com
 DOMAIN-SUFFIX,dmpxs.com
 DOMAIN-SUFFIX,dmqykw.thirtymall.com
 DOMAIN-SUFFIX,dm.smfl.jp
@@ -25436,6 +25440,7 @@ DOMAIN-SUFFIX,l2k30jsa.theochu.com
 DOMAIN-SUFFIX,l7.tt.omtrdc.net
 DOMAIN-SUFFIX,l936.expressnews.com
 DOMAIN-SUFFIX,l997.lmtonline.com
+DOMAIN-SUFFIX,lab.analyticspodium.com
 DOMAIN-SUFFIX,labdishpurchasingcorporation.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,labomath.tt.omtrdc.net
 DOMAIN-SUFFIX,labs0-4.tt.omtrdc.net
@@ -26081,6 +26086,7 @@ DOMAIN-SUFFIX,log.hitsteps.com
 DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,log.hypebeast.com
 DOMAIN-SUFFIX,log.iflytek.com
+DOMAIN-SUFFIX,log.ifood.tv
 DOMAIN-SUFFIX,logihfrutic.tt.omtrdc.net
 DOMAIN-SUFFIX,login.affiliatesit.cz
 DOMAIN-SUFFIX,loginhelporigin.tt.omtrdc.net
@@ -34294,6 +34300,7 @@ DOMAIN-SUFFIX,prdwebcollector.ruetracking.com
 DOMAIN-SUFFIX,pre2-upgrades.tt.omtrdc.net
 DOMAIN-SUFFIX,preaccountsit.tt.omtrdc.net
 DOMAIN-SUFFIX,prealc.apfepl01.tt.omtrdc.net
+DOMAIN-SUFFIX,prebid-log.getpublica.com
 DOMAIN-SUFFIX,precisioncounter.com
 DOMAIN-SUFFIX,predataclient.b-cdn.net
 DOMAIN-SUFFIX,predatasrv.com
