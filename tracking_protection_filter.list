@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-26 05:37:17
-# DOMAIN-SUFFIX: 53614
-# TOTAL: 53614
+# UPDATED: 2024-01-27 06:00:00
+# DOMAIN-SUFFIX: 53619
+# TOTAL: 53619
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -10936,7 +10936,6 @@ DOMAIN-SUFFIX,be624.cr-02.dc1.tt.omtrdc.net
 DOMAIN-SUFFIX,beacon-1.newrelic.com
 DOMAIN-SUFFIX,beacon-api.aliyuncs.com
 DOMAIN-SUFFIX,beacon.carfax.com
-DOMAIN-SUFFIX,beacon.cdn.qq.com
 DOMAIN-SUFFIX,beacon.digima.com
 DOMAIN-SUFFIX,beacon.dropbox.com
 DOMAIN-SUFFIX,beacon.ehow.com
@@ -19698,6 +19697,7 @@ DOMAIN-SUFFIX,events.busuu.com
 DOMAIN-SUFFIX,events.cardsmobile.ru
 DOMAIN-SUFFIX,events.careallies.com
 DOMAIN-SUFFIX,events.centex.com
+DOMAIN-SUFFIX,events.character.ai
 DOMAIN-SUFFIX,events.cigna.com
 DOMAIN-SUFFIX,event.scimo.io
 DOMAIN-SUFFIX,events.claspws.tv
@@ -33496,6 +33496,7 @@ DOMAIN-SUFFIX,patriot.cs.pp.cn
 DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,paulette.treker.fun
 DOMAIN-SUFFIX,paupud.meillandrichardier.com
+DOMAIN-SUFFIX,p-aw2-adapt-beacon.awsprodops.movetv.com
 DOMAIN-SUFFIX,pawsplus.actonservice.com
 DOMAIN-SUFFIX,paybackloyaltypartne.tt.omtrdc.net
 DOMAIN-SUFFIX,paydashboard.actonservice.com
@@ -33551,6 +33552,7 @@ DOMAIN-SUFFIX,pcc-51-75-114-58.tt.omtrdc.net
 DOMAIN-SUFFIX,pcci.pccinnovation.org
 DOMAIN-SUFFIX,pccomponentes.tt.omtrdc.net
 DOMAIN-SUFFIX,pcdstm.petbarn.com.au
+DOMAIN-SUFFIX,p-cg64-slinganalytics.movetv.com
 DOMAIN-SUFFIX,pci.aon.com
 DOMAIN-SUFFIX,pciidk.shopee.vn
 DOMAIN-SUFFIX,pciokm.glamuse.com
@@ -33578,6 +33580,8 @@ DOMAIN-SUFFIX,pdmsmrt.chevrolet.com
 DOMAIN-SUFFIX,pdmsmrt.gmccanada.ca
 DOMAIN-SUFFIX,pdmsmrt.gmc.com
 DOMAIN-SUFFIX,pdsgaj.piquadro.com
+DOMAIN-SUFFIX,pds.gmarket.co.kr
+DOMAIN-SUFFIX,pdsssl.gmarket.co.kr
 DOMAIN-SUFFIX,pd.trysera.com
 DOMAIN-SUFFIX,pdx-pixie178.tt.omtrdc.net
 DOMAIN-SUFFIX,pdzutf.sftworks.jp
@@ -35404,6 +35408,7 @@ DOMAIN-SUFFIX,report.*.qq.com
 DOMAIN-SUFFIX,reports.koalametrics.com
 DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
 DOMAIN-SUFFIX,reports-tsi.tangerine.io
+DOMAIN-SUFFIX,reportwest-midas.codmwest.com
 DOMAIN-SUFFIX,repository.cbs.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,reppify.actonservice.com
 DOMAIN-SUFFIX,reproasetttrk.com
@@ -49300,7 +49305,6 @@ DOMAIN-SUFFIX,tr-ms.bosch-home.com
 DOMAIN-SUFFIX,tr-ms.profilo.com
 DOMAIN-SUFFIX,tr-ms.siemens-home.bsh-group.com
 DOMAIN-SUFFIX,tr.mydevisentreprise.com
-DOMAIN-SUFFIX,tr.namu.wiki
 DOMAIN-SUFFIX,tr.nati02d.espmp-aufr.net
 DOMAIN-SUFFIX,tr.nespresso.com
 DOMAIN-SUFFIX,tr.nespresso.mailsservices.com
@@ -50551,6 +50555,7 @@ DOMAIN-SUFFIX,utop.umengcloud.com
 DOMAIN-SUFFIX,utorrent-pro-torrent-app.en.tt.omtrdc.net
 DOMAIN-SUFFIX,utrera.treker.fun
 DOMAIN-SUFFIX,uts.auction.co.kr
+DOMAIN-SUFFIX,uts.gmarket.co.kr
 DOMAIN-SUFFIX,utsssl.auction.co.kr
 DOMAIN-SUFFIX,uttarakhand.tt.omtrdc.net
 DOMAIN-SUFFIX,utt.impactcdn.com
