@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-17 06:18:16
-# DOMAIN-SUFFIX: 3010
-# TOTAL: 3010
+# UPDATED: 2024-01-29 05:49:16
+# DOMAIN-SUFFIX: 3017
+# TOTAL: 3017
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -703,6 +703,7 @@ DOMAIN-SUFFIX,dloady.com
 DOMAIN-SUFFIX,dlpanda.com
 DOMAIN-SUFFIX,dl.taive.work
 DOMAIN-SUFFIX,dmhy.b168.net
+DOMAIN-SUFFIX,do0od.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,doctor-groups.com
 DOMAIN-SUFFIX,doffeecafe.me
@@ -886,6 +887,7 @@ DOMAIN-SUFFIX,f1countdown.com
 DOMAIN-SUFFIX,f1fanklub.pl
 DOMAIN-SUFFIX,f1-gate.com
 DOMAIN-SUFFIX,f1ingenerale.com
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facepunch.io
 DOMAIN-SUFFIX,faktykaliskie.pl
 DOMAIN-SUFFIX,fakyu.net
@@ -1098,6 +1100,7 @@ DOMAIN-SUFFIX,gdrivelinks.me
 DOMAIN-SUFFIX,gdrivez.xyz
 DOMAIN-SUFFIX,gdr-online.com
 DOMAIN-SUFFIX,geekering.com
+DOMAIN-SUFFIX,geekermag.com
 DOMAIN-SUFFIX,geekpeaksoftware.com
 DOMAIN-SUFFIX,geekrar.com
 DOMAIN-SUFFIX,geekzone.co.nz
@@ -1133,6 +1136,7 @@ DOMAIN-SUFFIX,giga74.com
 DOMAIN-SUFFIX,gigaho.com
 DOMAIN-SUFFIX,gigapurbalinggaa.ga
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,givekey.ru
 DOMAIN-SUFFIX,gizbot.com
@@ -1302,6 +1306,7 @@ DOMAIN-SUFFIX,in.gr
 DOMAIN-SUFFIX,inmigrantesenmadrid.com
 DOMAIN-SUFFIX,innpoland.pl
 DOMAIN-SUFFIX,inside-digital.de
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instapundit.com
 DOMAIN-SUFFIX,instasave.xyz
 DOMAIN-SUFFIX,insurancequotestip.com
@@ -1623,6 +1628,7 @@ DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,mathrubhumi.com
 DOMAIN-SUFFIX,mawsueaa.com
 DOMAIN-SUFFIX,maxcheaters.com
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxidbr.com
 DOMAIN-SUFFIX,ma-x.org
 DOMAIN-SUFFIX,maxstream.video
@@ -1725,6 +1731,7 @@ DOMAIN-SUFFIX,mixmods.com.br
 DOMAIN-SUFFIX,mizugigurabia.com
 DOMAIN-SUFFIX,mjakmama24.pl
 DOMAIN-SUFFIX,mjemagazine.com
+DOMAIN-SUFFIX,mlwbd.to
 DOMAIN-SUFFIX,mmacore.tv
 DOMAIN-SUFFIX,mmff30.com
 DOMAIN-SUFFIX,mmo-population.com
@@ -2055,7 +2062,6 @@ DOMAIN-SUFFIX,player.meloradio.pl
 DOMAIN-SUFFIX,player.pl
 DOMAIN-SUFFIX,player.watch.aetnd.com
 DOMAIN-SUFFIX,playlists.rocks
-DOMAIN-SUFFIX,play.max.com
 DOMAIN-SUFFIX,playstore.pw
 DOMAIN-SUFFIX,play.tv3.ee
 DOMAIN-SUFFIX,play.tv3.lv
@@ -2621,6 +2627,7 @@ DOMAIN-SUFFIX,tienganhedu.com
 DOMAIN-SUFFIX,tiengnhatpro.net
 DOMAIN-SUFFIX,tienichdienthoai.net
 DOMAIN-SUFFIX,tii.la
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tileman.io
 DOMAIN-SUFFIX,tinyppt.com
 DOMAIN-SUFFIX,tinytranslation.xyz
@@ -2737,6 +2744,7 @@ DOMAIN-SUFFIX,tvs.jagobd.com
 DOMAIN-SUFFIX,tv.wp.pl
 DOMAIN-SUFFIX,tv.youtube.com
 DOMAIN-SUFFIX,tw-hkt.blogspot.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twittrend.jp
 DOMAIN-SUFFIX,two.re
@@ -2956,7 +2964,6 @@ DOMAIN-SUFFIX,www.youtube.com
 DOMAIN-SUFFIX,wyklady.org
 DOMAIN-SUFFIX,x265lk.com
 DOMAIN-SUFFIX,xanimehub.com
-DOMAIN-SUFFIX,xbox360torrent.com
 DOMAIN-SUFFIX,xboxforum.pl
 DOMAIN-SUFFIX,xda-developers-android.blogspot.com
 DOMAIN-SUFFIX,xda-developers-forum.blogspot.com
