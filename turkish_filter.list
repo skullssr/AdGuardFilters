@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-18 06:04:34
-# DOMAIN-SUFFIX: 350
-# TOTAL: 350
+# UPDATED: 2024-01-30 07:12:20
+# DOMAIN-SUFFIX: 349
+# TOTAL: 349
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,aadserving.com
 DOMAIN-SUFFIX,acxdyn.com
@@ -232,7 +232,6 @@ DOMAIN-SUFFIX,noxaffiliates.com
 DOMAIN-SUFFIX,numarapaneli.com
 DOMAIN-SUFFIX,nutga.com
 DOMAIN-SUFFIX,partnerad.l.google.com
-DOMAIN-SUFFIX,partnersapi.bilio.com
 DOMAIN-SUFFIX,partners.betbooaffiliates.com
 DOMAIN-SUFFIX,partner.superbahisaffiliates248.com
 DOMAIN-SUFFIX,partnerx.bethub.io
