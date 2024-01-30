@@ -1,16 +1,15 @@
 # NAME: RussianDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2023-08-02 05:07:04
-# DOMAIN-SUFFIX: 82
-# TOTAL: 82
+# UPDATED: 2024-01-31 05:40:20
+# DOMAIN-SUFFIX: 71
+# TOTAL: 71
 DOMAIN-SUFFIX,ad.apps.fm
 DOMAIN-SUFFIX,adult-images.ru
 DOMAIN-SUFFIX,amanice.ru
 DOMAIN-SUFFIX,anypictures.ru
 DOMAIN-SUFFIX,api.kinomoov.org
 DOMAIN-SUFFIX,api-video.khl.ru
-DOMAIN-SUFFIX,auth.tbn.ru
 DOMAIN-SUFFIX,avcore.ru
 DOMAIN-SUFFIX,baby.ru
 DOMAIN-SUFFIX,blog.foolsoft.ru
@@ -33,7 +32,6 @@ DOMAIN-SUFFIX,fotored.net
 DOMAIN-SUFFIX,freedomrussia.org
 DOMAIN-SUFFIX,freepiks.ru
 DOMAIN-SUFFIX,gorodrabot.by
-DOMAIN-SUFFIX,hdgo.cx
 DOMAIN-SUFFIX,hells-hack.com
 DOMAIN-SUFFIX,helpsetup.ru
 DOMAIN-SUFFIX,hideip.me
@@ -41,7 +39,6 @@ DOMAIN-SUFFIX,horoscopes.rambler.ru
 DOMAIN-SUFFIX,imgbum.net
 DOMAIN-SUFFIX,imgbum.ru
 DOMAIN-SUFFIX,itog.info
-DOMAIN-SUFFIX,kino-cinema.ru
 DOMAIN-SUFFIX,kino.mail.ru
 DOMAIN-SUFFIX,knigilub.ru
 DOMAIN-SUFFIX,kttc.ru
@@ -50,10 +47,7 @@ DOMAIN-SUFFIX,login.admitad.com
 DOMAIN-SUFFIX,ltorzhok.ru
 DOMAIN-SUFFIX,matchtv.ru
 DOMAIN-SUFFIX,math.semestr.ru
-DOMAIN-SUFFIX,mega-pics-money.ru
-DOMAIN-SUFFIX,minecraft-castlehost.tk
 DOMAIN-SUFFIX,money-pic.ru
-DOMAIN-SUFFIX,my-news-portal.ru
 DOMAIN-SUFFIX,neolove.ru
 DOMAIN-SUFFIX,nstarikov.ru
 DOMAIN-SUFFIX,open-sharing.com
@@ -67,10 +61,7 @@ DOMAIN-SUFFIX,portablik.ru
 DOMAIN-SUFFIX,potokcdn.com
 DOMAIN-SUFFIX,pravda.ru
 DOMAIN-SUFFIX,r2-item.ru
-DOMAIN-SUFFIX,redtram.fm
-DOMAIN-SUFFIX,relizer.net
 DOMAIN-SUFFIX,russia-tv.online
-DOMAIN-SUFFIX,rustreams.ru
 DOMAIN-SUFFIX,screenpost.ru
 DOMAIN-SUFFIX,seetv.tv
 DOMAIN-SUFFIX,sharezones.biz
@@ -83,6 +74,4 @@ DOMAIN-SUFFIX,svetmonet.ru
 DOMAIN-SUFFIX,svpressa.ru
 DOMAIN-SUFFIX,unit-car.com
 DOMAIN-SUFFIX,video.khl.ru
-DOMAIN-SUFFIX,winksweb.net
-DOMAIN-SUFFIX,zdravtrav.ru
 DOMAIN-SUFFIX,поискслов.рф
