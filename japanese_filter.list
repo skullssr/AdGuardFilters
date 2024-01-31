@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-22 06:08:25
-# DOMAIN-SUFFIX: 380
-# TOTAL: 380
+# UPDATED: 2024-02-01 06:11:15
+# DOMAIN-SUFFIX: 371
+# TOTAL: 371
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -54,7 +54,6 @@ DOMAIN-SUFFIX,adntokyo.gunosy.com
 DOMAIN-SUFFIX,ad-optima.com
 DOMAIN-SUFFIX,ad.orange-park.jp
 DOMAIN-SUFFIX,ad.owlair.net
-DOMAIN-SUFFIX,ad-paradise.com
 DOMAIN-SUFFIX,adp.homes.co.jp
 DOMAIN-SUFFIX,adpicker.net
 DOMAIN-SUFFIX,adplushome.com
@@ -73,7 +72,6 @@ DOMAIN-SUFFIX,ads.nicovideo.jp
 DOMAIN-SUFFIX,adsozai.com
 DOMAIN-SUFFIX,ads.pipaffiliates.com
 DOMAIN-SUFFIX,ad-spire.net
-DOMAIN-SUFFIX,ads.ressp.net
 DOMAIN-SUFFIX,adstuber.com
 DOMAIN-SUFFIX,ads.world-fusigi.net
 DOMAIN-SUFFIX,ad-tag.biz
@@ -91,6 +89,7 @@ DOMAIN-SUFFIX,ad.xdomain.ne.jp
 DOMAIN-SUFFIX,ad.xrea.com
 DOMAIN-SUFFIX,af-110.com
 DOMAIN-SUFFIX,af-a.jp
+DOMAIN-SUFFIX,af.atsoho.com
 DOMAIN-SUFFIX,afbhub.net
 DOMAIN-SUFFIX,affiliate.casino-wonder.com
 DOMAIN-SUFFIX,affiliate.konibet.com
@@ -100,7 +99,6 @@ DOMAIN-SUFFIX,affiliate.rakuten.co.jp
 DOMAIN-SUFFIX,affiliate-script-pr.firebaseapp.com
 DOMAIN-SUFFIX,affiliates.expaus.in
 DOMAIN-SUFFIX,affiliate.sonicsense.jp
-DOMAIN-SUFFIX,affil.jp
 DOMAIN-SUFFIX,aff.jskyservices.com
 DOMAIN-SUFFIX,afflaze.com
 DOMAIN-SUFFIX,afi-b.com
@@ -118,13 +116,11 @@ DOMAIN-SUFFIX,amoad.com
 DOMAIN-SUFFIX,ams900.goo.ne.jp
 DOMAIN-SUFFIX,andhub.jp
 DOMAIN-SUFFIX,antennash.com
-DOMAIN-SUFFIX,a.overlay.top
 DOMAIN-SUFFIX,ap.ad-feed.com
 DOMAIN-SUFFIX,api.primecaster.net
 DOMAIN-SUFFIX,api.unthem.com
 DOMAIN-SUFFIX,app.monetrack.com
 DOMAIN-SUFFIX,appollo.jp
-DOMAIN-SUFFIX,apserver.net
 DOMAIN-SUFFIX,arms.livedoor.net
 DOMAIN-SUFFIX,asia-northeast1-affiliate-pr.cloudfunctions.net
 DOMAIN-SUFFIX,askfollow.us
@@ -194,7 +190,6 @@ DOMAIN-SUFFIX,flux-g.com
 DOMAIN-SUFFIX,focas.jp
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,freeadd.me
-DOMAIN-SUFFIX,freebaitar.com
 DOMAIN-SUFFIX,fxprime-popular.com
 DOMAIN-SUFFIX,genieedmp.com
 DOMAIN-SUFFIX,geniee.jp
@@ -274,10 +269,8 @@ DOMAIN-SUFFIX,nend.net
 DOMAIN-SUFFIX,neofield.click
 DOMAIN-SUFFIX,new-adtest.pages.dev
 DOMAIN-SUFFIX,nkis.nikkei.com
-DOMAIN-SUFFIX,november-lax.com
 DOMAIN-SUFFIX,octopuspop.com
 DOMAIN-SUFFIX,okbp.xyz
-DOMAIN-SUFFIX,o-nad.com
 DOMAIN-SUFFIX,one.impact-ad.jp
 DOMAIN-SUFFIX,ov.yahoo.co.jp
 DOMAIN-SUFFIX,partner.become.co.jp
@@ -292,7 +285,6 @@ DOMAIN-SUFFIX,presco.ai
 DOMAIN-SUFFIX,primead.jp
 DOMAIN-SUFFIX,promolayer.io
 DOMAIN-SUFFIX,public.adgger.jp
-DOMAIN-SUFFIX,pvranking.com
 DOMAIN-SUFFIX,r-ad.linkshare.jp
 DOMAIN-SUFFIX,r-ad.ne.jp
 DOMAIN-SUFFIX,ratel-ad.com
@@ -308,7 +300,6 @@ DOMAIN-SUFFIX,s-ad.rmp.rakuten.co.jp
 DOMAIN-SUFFIX,safemy-ios.com
 DOMAIN-SUFFIX,saltwortokra.com
 DOMAIN-SUFFIX,samuraiclick.com
-DOMAIN-SUFFIX,satsumadurian.com
 DOMAIN-SUFFIX,scadnet.com
 DOMAIN-SUFFIX,sda.seesaa.jp
 DOMAIN-SUFFIX,sdqoi2d.com

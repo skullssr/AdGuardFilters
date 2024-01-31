@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-31 05:38:43
-# DOMAIN-SUFFIX: 53836
-# TOTAL: 53836
+# UPDATED: 2024-02-01 06:07:46
+# DOMAIN-SUFFIX: 53842
+# TOTAL: 53842
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9192,6 +9192,7 @@ DOMAIN-SUFFIX,applies.statics.tt.omtrdc.net
 DOMAIN-SUFFIX,applink-pse.edr.tt.omtrdc.net
 DOMAIN-SUFFIX,applog-ru-sg.us.tt.omtrdc.net
 DOMAIN-SUFFIX,applogs.pixelfederation.com
+DOMAIN-SUFFIX,applog.ssgdfs.com
 DOMAIN-SUFFIX,applogs-v2.pixelfederation.com
 DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,applog.ucdns.uc.cn
@@ -14454,6 +14455,7 @@ DOMAIN-SUFFIX,dacomet1sc.tt.omtrdc.net
 DOMAIN-SUFFIX,dacotanorth.trekkeeee.fun
 DOMAIN-SUFFIX,dacotasouth.trekkeeee.fun
 DOMAIN-SUFFIX,dacounter.com
+DOMAIN-SUFFIX,dadispapi.gmarket.co.kr
 DOMAIN-SUFFIX,dadi.technology
 DOMAIN-SUFFIX,d.adlpo.com
 DOMAIN-SUFFIX,dadtbgt.tt.hb-api.tt.omtrdc.net
@@ -18813,6 +18815,7 @@ DOMAIN-SUFFIX,efgam.actonservice.com
 DOMAIN-SUFFIX,efglbp.baur.de
 DOMAIN-SUFFIX,eflnrbfejw.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,efplso.epost.go.kr
+DOMAIN-SUFFIX,efreecode.com
 DOMAIN-SUFFIX,eftelingactie.tt.omtrdc.net
 DOMAIN-SUFFIX,efuxqe.tatilbudur.com
 DOMAIN-SUFFIX,eg06.prod.cloud.prod.cloud.tt.omtrdc.net
@@ -30954,6 +30957,7 @@ DOMAIN-SUFFIX,monster.trk.agency
 DOMAIN-SUFFIX,monsterworldwide.tt.omtrdc.net
 DOMAIN-SUFFIX,montagempng.tt.omtrdc.net
 DOMAIN-SUFFIX,montana.trekkeeee.space
+DOMAIN-SUFFIX,montelena.auction.co.kr
 DOMAIN-SUFFIX,montelena-rcv.auction.co.kr
 DOMAIN-SUFFIX,montelena-rcv.gmarket.co.kr
 DOMAIN-SUFFIX,montemoronovo-api.info.tt.omtrdc.net
@@ -35571,6 +35575,7 @@ DOMAIN-SUFFIX,report*.appmetrica.webvisor.com
 DOMAIN-SUFFIX,report.iciba.com
 DOMAIN-SUFFIX,report.iheartmedia.gbqofs.io
 DOMAIN-SUFFIX,reporting.aatkit.com
+DOMAIN-SUFFIX,reporting-api.gannettinnovation.com
 DOMAIN-SUFFIX,reporting.autographapp.me
 DOMAIN-SUFFIX,report.mitsubishicars.com
 DOMAIN-SUFFIX,report.oewa.at
@@ -50755,6 +50760,7 @@ DOMAIN-SUFFIX,utorrent-pro-torrent-app.en.tt.omtrdc.net
 DOMAIN-SUFFIX,utrera.treker.fun
 DOMAIN-SUFFIX,uts.auction.co.kr
 DOMAIN-SUFFIX,uts.gmarket.co.kr
+DOMAIN-SUFFIX,utsgw.auction.co.kr
 DOMAIN-SUFFIX,utsssl.auction.co.kr
 DOMAIN-SUFFIX,uttarakhand.tt.omtrdc.net
 DOMAIN-SUFFIX,utt.impactcdn.com
