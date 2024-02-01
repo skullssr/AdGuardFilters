@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-31 05:30:59
+# UPDATED: 2024-02-02 06:00:34
 # DOMAIN-SUFFIX: 3014
 # TOTAL: 3014
 DOMAIN-SUFFIX,0123movies.com
@@ -1200,7 +1200,6 @@ DOMAIN-SUFFIX,happy2hub.me
 DOMAIN-SUFFIX,hatauzmani.com
 DOMAIN-SUFFIX,havoc-os.com
 DOMAIN-SUFFIX,haymod.com
-DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbr.org
 DOMAIN-SUFFIX,hcdn.online
 DOMAIN-SUFFIX,hdbox.ws
@@ -2804,6 +2803,7 @@ DOMAIN-SUFFIX,vabstutorials.com
 DOMAIN-SUFFIX,valuable.hatenablog.com
 DOMAIN-SUFFIX,vancouversun.com
 DOMAIN-SUFFIX,vatchus.com
+DOMAIN-SUFFIX,vectr.com
 DOMAIN-SUFFIX,vegrecetas.com
 DOMAIN-SUFFIX,vemai.org
 DOMAIN-SUFFIX,venipa.net

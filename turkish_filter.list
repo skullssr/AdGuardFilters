@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-31 05:42:55
-# DOMAIN-SUFFIX: 274
-# TOTAL: 274
+# UPDATED: 2024-02-02 06:09:55
+# DOMAIN-SUFFIX: 271
+# TOTAL: 271
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,adbetnet.com
 DOMAIN-SUFFIX,adbetnetwork.com
@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,ads.igfhaber.com
 DOMAIN-SUFFIX,ad.sigortagundem.biz
 DOMAIN-SUFFIX,ads.inegolonline.com
 DOMAIN-SUFFIX,ads.macsonuclari.mobi
-DOMAIN-SUFFIX,ads.modabetaff.com
 DOMAIN-SUFFIX,ads.motosiklet.net
 DOMAIN-SUFFIX,ads.nexage.com
 DOMAIN-SUFFIX,ads.o-networkaffiliates.com
@@ -186,7 +185,7 @@ DOMAIN-SUFFIX,numarapaneli.com
 DOMAIN-SUFFIX,nutga.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,partners.betbooaffiliates.com
-DOMAIN-SUFFIX,partner.superbahisaffiliates248.com
+DOMAIN-SUFFIX,partner.superbahisaffiliates*.com
 DOMAIN-SUFFIX,partnerx.bethub.io
 DOMAIN-SUFFIX,peppaping.xyz
 DOMAIN-SUFFIX,performancenative.com
@@ -227,7 +226,6 @@ DOMAIN-SUFFIX,reklamstore.com
 DOMAIN-SUFFIX,reklamstore.cubecdn.net
 DOMAIN-SUFFIX,reklamtrk.com
 DOMAIN-SUFFIX,reklam.turkmmo.com
-DOMAIN-SUFFIX,reklam.vogel.com.tr
 DOMAIN-SUFFIX,reklam.yonlendir.com
 DOMAIN-SUFFIX,rek.yemlee.com
 DOMAIN-SUFFIX,reviveservers.com
@@ -258,7 +256,6 @@ DOMAIN-SUFFIX,theadx.com
 DOMAIN-SUFFIX,threedrive.su
 DOMAIN-SUFFIX,tidint.pro
 DOMAIN-SUFFIX,trackocean.com
-DOMAIN-SUFFIX,tr.bannersdf.com
 DOMAIN-SUFFIX,trkwinaff13.com
 DOMAIN-SUFFIX,ttauri.livescience.com
 DOMAIN-SUFFIX,url.isimsepeti.net

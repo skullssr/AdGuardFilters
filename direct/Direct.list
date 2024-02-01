@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-01 06:11:36
+# UPDATED: 2024-02-02 06:09:57
 # DOMAIN-SUFFIX: 3961
 # TOTAL: 3961
 DOMAIN-SUFFIX,0123movies.com
@@ -1603,7 +1603,6 @@ DOMAIN-SUFFIX,hatauzmani.com
 DOMAIN-SUFFIX,havoc-os.com
 DOMAIN-SUFFIX,haymod.com
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
-DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbr.org
 DOMAIN-SUFFIX,hcdn.online
 DOMAIN-SUFFIX,hdbox.ws
@@ -3684,6 +3683,7 @@ DOMAIN-SUFFIX,vancouversun.com
 DOMAIN-SUFFIX,vandenbrink.fr
 DOMAIN-SUFFIX,vatchus.com
 DOMAIN-SUFFIX,vcentry3.valuecommerce.ne.jp
+DOMAIN-SUFFIX,vectr.com
 DOMAIN-SUFFIX,vegrecetas.com
 DOMAIN-SUFFIX,vemai.org
 DOMAIN-SUFFIX,venipa.net
