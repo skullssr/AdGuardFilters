@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-02 06:08:18
-# DOMAIN-SUFFIX: 53839
-# TOTAL: 53839
+# UPDATED: 2024-02-03 05:49:45
+# DOMAIN-SUFFIX: 53842
+# TOTAL: 53842
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -14420,7 +14420,6 @@ DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
 DOMAIN-SUFFIX,d3j1weegxvu8ns.cloudfront.net
 DOMAIN-SUFFIX,d3kyk5bao1crtw.cloudfront.net
 DOMAIN-SUFFIX,d3l3lkinz3f56t.cloudfront.net
-DOMAIN-SUFFIX,d3nn82uaxijpm6.cloudfront.net
 DOMAIN-SUFFIX,d3nq5jrakcyw1w.cloudfront.net
 DOMAIN-SUFFIX,d3p8zr0ffa9t17.cloudfront.net
 DOMAIN-SUFFIX,d3pkntwtp2ukl5.cloudfront.net
@@ -26207,6 +26206,7 @@ DOMAIN-SUFFIX,loggly.cheatsheet.com
 DOMAIN-SUFFIX,log.gobankingrates.com
 DOMAIN-SUFFIX,log.go.com
 DOMAIN-SUFFIX,log.gomlab.com
+DOMAIN-SUFFIX,log.goodreels.com
 DOMAIN-SUFFIX,log.gs3.goo.ne.jp
 DOMAIN-SUFFIX,loggw.alipay.com
 DOMAIN-SUFFIX,loggw.alipay.com.cn
@@ -26317,6 +26317,7 @@ DOMAIN-SUFFIX,log.strm.yandex.ru
 DOMAIN-SUFFIX,logs.unchecky.com
 DOMAIN-SUFFIX,logs.viadata.store
 DOMAIN-SUFFIX,logtake.weidian.com
+DOMAIN-SUFFIX,log.talkie-ai.com
 DOMAIN-SUFFIX,log-tb.isnssdk.com
 DOMAIN-SUFFIX,log-tb.sgsnssdk.com
 DOMAIN-SUFFIX,log.tbs.qq.com
@@ -34000,6 +34001,7 @@ DOMAIN-SUFFIX,piwik.filecrypt.cc
 DOMAIN-SUFFIX,piwik.org
 DOMAIN-SUFFIX,piwik.pro
 DOMAIN-SUFFIX,pix2.services.tvn.pl
+DOMAIN-SUFFIX,pixad.com.tr
 DOMAIN-SUFFIX,pix.airbusgroup.com
 DOMAIN-SUFFIX,pixanalytics.com
 DOMAIN-SUFFIX,pix.boursorama.com
@@ -48188,6 +48190,7 @@ DOMAIN-SUFFIX,tr.allianz-trade.com
 DOMAIN-SUFFIX,tr.allopneus.com
 DOMAIN-SUFFIX,tr.alpari.world
 DOMAIN-SUFFIX,t.ramblinwreck.com
+DOMAIN-SUFFIX,trandgid.com
 DOMAIN-SUFFIX,tr.animation.lexpress.fr
 DOMAIN-SUFFIX,tr.animation.micromania.fr
 DOMAIN-SUFFIX,tr.animations.alticemedia.com
