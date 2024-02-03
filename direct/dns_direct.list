@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-01-24 05:36:01
-# DOMAIN-SUFFIX: 149
-# TOTAL: 149
+# UPDATED: 2024-02-04 06:28:41
+# DOMAIN-SUFFIX: 150
+# TOTAL: 150
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,px.a8.net
 DOMAIN-SUFFIX,radiofrance.targetspot.com
 DOMAIN-SUFFIX,recommender.scarabresearch.com
 DOMAIN-SUFFIX,redirect.appmetrica.yandex.com
+DOMAIN-SUFFIX,redir.ownpage.fr
 DOMAIN-SUFFIX,redir.tradedoubler.com
 DOMAIN-SUFFIX,refer.discover.com
 DOMAIN-SUFFIX,remembering.ca

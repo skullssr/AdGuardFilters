@@ -1,7 +1,7 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-02 06:09:55
+# UPDATED: 2024-02-04 06:38:35
 # DOMAIN-SUFFIX: 271
 # TOTAL: 271
 DOMAIN-SUFFIX,61ads.net
@@ -193,6 +193,7 @@ DOMAIN-SUFFIX,permato.com
 DOMAIN-SUFFIX,piaads.com
 DOMAIN-SUFFIX,pigeoon.com
 DOMAIN-SUFFIX,pingpepa.xyz
+DOMAIN-SUFFIX,pixad.com.tr
 DOMAIN-SUFFIX,pmelon.com
 DOMAIN-SUFFIX,policycounsel.org
 DOMAIN-SUFFIX,pophit.net
@@ -232,7 +233,6 @@ DOMAIN-SUFFIX,reviveservers.com
 DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,r.filmizlesene.vip
 DOMAIN-SUFFIX,rotorfon.go-prod.dogt.xyz
-DOMAIN-SUFFIX,rtb.pixad.com.tr
 DOMAIN-SUFFIX,r.yabancidizi.in
 DOMAIN-SUFFIX,salutationcheerlessdemote.com
 DOMAIN-SUFFIX,sam.setimedia.com
