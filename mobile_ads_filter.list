@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-03 05:54:03
-# DOMAIN-SUFFIX: 866
-# TOTAL: 866
+# UPDATED: 2024-02-06 06:01:22
+# DOMAIN-SUFFIX: 869
+# TOTAL: 869
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -175,6 +175,7 @@ DOMAIN-SUFFIX,ads-sdk.mattel163.com
 DOMAIN-SUFFIX,ads-sdk.nianticlabs.com
 DOMAIN-SUFFIX,ads-server.mxplay.com
 DOMAIN-SUFFIX,ads.taptapnetworks.com
+DOMAIN-SUFFIX,ads*.textra.me
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,adstrategy.biz.weibo.com
 DOMAIN-SUFFIX,ads.viber.com
@@ -341,7 +342,6 @@ DOMAIN-SUFFIX,cdn-cf.postitial.com
 DOMAIN-SUFFIX,cdn-image.com
 DOMAIN-SUFFIX,cdn.jampp.com
 DOMAIN-SUFFIX,cdn-ketchapp.akamaized.net
-DOMAIN-SUFFIX,cdn.mobilefuse.com
 DOMAIN-SUFFIX,cdns.lodeo.io
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,celtra.com
@@ -523,6 +523,7 @@ DOMAIN-SUFFIX,krutilka.net
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,l0-secure.videohub.tv
 DOMAIN-SUFFIX,l3op.info
+DOMAIN-SUFFIX,lacunads.com
 DOMAIN-SUFFIX,launcher.us.yeshen.com
 DOMAIN-SUFFIX,lb.usemaxserver.de
 DOMAIN-SUFFIX,leadboltads.net
@@ -575,6 +576,7 @@ DOMAIN-SUFFIX,mobile-campaigns.avast.com
 DOMAIN-SUFFIX,mobile-click.biz
 DOMAIN-SUFFIX,mobilecore.com
 DOMAIN-SUFFIX,mobiledl.adboe.com
+DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,mobimagic.com
 DOMAIN-SUFFIX,mobi.yanosik.pl
 DOMAIN-SUFFIX,mob*.novanewsapp.com
@@ -700,6 +702,7 @@ DOMAIN-SUFFIX,rqmob.com
 DOMAIN-SUFFIX,rtapi.abbi.io
 DOMAIN-SUFFIX,rtb.appbid.com
 DOMAIN-SUFFIX,rtbimp-loadbalancer-*.amazonaws.com
+DOMAIN-SUFFIX,rtblab.net
 DOMAIN-SUFFIX,ruuaqkw.com
 DOMAIN-SUFFIX,s3.ttpsdk.info
 DOMAIN-SUFFIX,s.adx.opera.com
