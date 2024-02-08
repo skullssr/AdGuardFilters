@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-08 05:35:12
-# DOMAIN-SUFFIX: 54778
-# TOTAL: 54778
+# UPDATED: 2024-02-09 06:39:02
+# DOMAIN-SUFFIX: 54779
+# TOTAL: 54779
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -35437,6 +35437,7 @@ DOMAIN-SUFFIX,publicten-minions.tt.omtrdc.net
 DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
 DOMAIN-SUFFIX,publishflow.com
+DOMAIN-SUFFIX,pubperf.com
 DOMAIN-SUFFIX,pubstr.acs.org
 DOMAIN-SUFFIX,pubstr.acspubs.org
 DOMAIN-SUFFIX,pubstr.chemrxiv.org
