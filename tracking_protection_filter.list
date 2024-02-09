@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-09 06:39:02
-# DOMAIN-SUFFIX: 54779
-# TOTAL: 54779
+# UPDATED: 2024-02-10 06:06:19
+# DOMAIN-SUFFIX: 54781
+# TOTAL: 54781
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -29138,6 +29138,7 @@ DOMAIN-SUFFIX,mds.ricoh-europe.com
 DOMAIN-SUFFIX,mds.ricoh.ie
 DOMAIN-SUFFIX,mds.ricoh.it
 DOMAIN-SUFFIX,mds.ricoh.no
+DOMAIN-SUFFIX,mdstats.info
 DOMAIN-SUFFIX,mdugiz.jdsports.de
 DOMAIN-SUFFIX,mdws.1stchoicesavings.ca
 DOMAIN-SUFFIX,mdws.advancesavings.ca
@@ -32438,6 +32439,7 @@ DOMAIN-SUFFIX,nnvoia.closetworld.com
 DOMAIN-SUFFIX,nnvtvx.chegg.com
 DOMAIN-SUFFIX,no7company.tt.omtrdc.net
 DOMAIN-SUFFIX,noa0.compteczam.fr
+DOMAIN-SUFFIX,noa.yahoo.com
 DOMAIN-SUFFIX,nocaadobefpc.optus.com.au
 DOMAIN-SUFFIX,node.aibeacon.jp
 DOMAIN-SUFFIX,noibu.com
