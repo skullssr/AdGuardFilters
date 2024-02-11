@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-10 06:06:19
-# DOMAIN-SUFFIX: 54781
-# TOTAL: 54781
+# UPDATED: 2024-02-12 05:12:21
+# DOMAIN-SUFFIX: 54782
+# TOTAL: 54782
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -13346,6 +13346,7 @@ DOMAIN-SUFFIX,collector.scopely.io
 DOMAIN-SUFFIX,collector-statistics.nhn-commerce.com
 DOMAIN-SUFFIX,collector.statowl.com
 DOMAIN-SUFFIX,collector.szlcsc.com
+DOMAIN-SUFFIX,collector.taoxh.life
 DOMAIN-SUFFIX,collector.trendmd.com
 DOMAIN-SUFFIX,collector.tt.omtrdc.net
 DOMAIN-SUFFIX,collector-*.tvsquared.com
