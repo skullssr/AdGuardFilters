@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-13 05:30:04
-# DOMAIN-SUFFIX: 56564
-# TOTAL: 56564
+# UPDATED: 2024-02-14 05:50:59
+# DOMAIN-SUFFIX: 56566
+# TOTAL: 56566
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -13962,6 +13962,7 @@ DOMAIN-SUFFIX,citisgsgipbmy.tt.omtrdc.net
 DOMAIN-SUFFIX,citithidvn.tt.omtrdc.net
 DOMAIN-SUFFIX,citizensbank.tt.omtrdc.net
 DOMAIN-SUFFIX,citizensclimate.actonservice.com
+DOMAIN-SUFFIX,citrusad.net
 DOMAIN-SUFFIX,ci.tt.omtrdc.net
 DOMAIN-SUFFIX,citynationalbank.tt.omtrdc.net
 DOMAIN-SUFFIX,cityofhope-d1.tt.tt.omtrdc.net
@@ -48738,6 +48739,7 @@ DOMAIN-SUFFIX,track-acton.healthengine.com.au
 DOMAIN-SUFFIX,track.adabra.com
 DOMAIN-SUFFIX,track.adchx.de
 DOMAIN-SUFFIX,trackad.cz
+DOMAIN-SUFFIX,track.addevent.com
 DOMAIN-SUFFIX,track.adform.net
 DOMAIN-SUFFIX,track.adherellc.com
 DOMAIN-SUFFIX,track.adspire.io

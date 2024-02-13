@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-11 05:25:20
-# DOMAIN-SUFFIX: 3962
-# TOTAL: 3962
+# UPDATED: 2024-02-14 05:54:12
+# DOMAIN-SUFFIX: 3961
+# TOTAL: 3961
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -110,7 +110,6 @@ DOMAIN-SUFFIX,adisteme.kz
 DOMAIN-SUFFIX,adjectives-for.com
 DOMAIN-SUFFIX,ad.kazakinfo.com
 DOMAIN-SUFFIX,adlink.wf
-DOMAIN-SUFFIX,adload.ru
 DOMAIN-SUFFIX,adlpu.com
 DOMAIN-SUFFIX,admin.dable.io
 DOMAIN-SUFFIX,admin.mailchimp.com
@@ -150,7 +149,6 @@ DOMAIN-SUFFIX,ads.tdbank.com
 DOMAIN-SUFFIX,adsterra.com
 DOMAIN-SUFFIX,ads-ti9ni4.blogspot.com
 DOMAIN-SUFFIX,ads.tiktok.com
-DOMAIN-SUFFIX,adstop.org
 DOMAIN-SUFFIX,ads.twitter.com
 DOMAIN-SUFFIX,ads.vk.com
 DOMAIN-SUFFIX,adsy.pw
@@ -3097,6 +3095,7 @@ DOMAIN-SUFFIX,shortlinks.tech
 DOMAIN-SUFFIX,shortx.net
 DOMAIN-SUFFIX,short-zero.com
 DOMAIN-SUFFIX,shortzon.com
+DOMAIN-SUFFIX,shownieuws.nl
 DOMAIN-SUFFIX,shrink.icu
 DOMAIN-SUFFIX,shrinkurl.org
 DOMAIN-SUFFIX,shrtfly.com
