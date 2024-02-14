@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-14 05:50:59
-# DOMAIN-SUFFIX: 56566
-# TOTAL: 56566
+# UPDATED: 2024-02-15 06:37:26
+# DOMAIN-SUFFIX: 56570
+# TOTAL: 56570
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -6976,6 +6976,7 @@ DOMAIN-SUFFIX,ad.dreamachieveinspiretoday.com
 DOMAIN-SUFFIX,address.selector.tt.omtrdc.net
 DOMAIN-SUFFIX,ad.duttak.com
 DOMAIN-SUFFIX,ade3.b.tt.omtrdc.net
+DOMAIN-SUFFIX,a.deadlinefunnel.com
 DOMAIN-SUFFIX,adeavd.tt.omtrdc.net
 DOMAIN-SUFFIX,adebis01.job-con.jp
 DOMAIN-SUFFIX,adebis02.juku.st
@@ -22679,6 +22680,7 @@ DOMAIN-SUFFIX,getstats.org
 DOMAIN-SUFFIX,get-supreme-greens-capsules.vitasupreme.com
 DOMAIN-SUFFIX,gettoknow.skookum.com
 DOMAIN-SUFFIX,get.trackclicker.com
+DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,get.ukg.be
 DOMAIN-SUFFIX,get.ukg.ca
 DOMAIN-SUFFIX,get.ukg.com.au
@@ -36171,6 +36173,7 @@ DOMAIN-SUFFIX,pixel.europapress.net
 DOMAIN-SUFFIX,pixel.ex.co
 DOMAIN-SUFFIX,pixeleze.com
 DOMAIN-SUFFIX,pixel.facebook.com
+DOMAIN-SUFFIX,pixel.glimr.io
 DOMAIN-SUFFIX,pixelhere.com
 DOMAIN-SUFFIX,pixel.honestjohn.co.uk
 DOMAIN-SUFFIX,pixel.inforsea.com
@@ -36994,6 +36997,7 @@ DOMAIN-SUFFIX,ptrenx.vidaxl.com.au
 DOMAIN-SUFFIX,ptrk-wn.com
 DOMAIN-SUFFIX,ptrs.regione.tt.omtrdc.net
 DOMAIN-SUFFIX,ptw-i.actonservice.com
+DOMAIN-SUFFIX,pt.wisernotify.com
 DOMAIN-SUFFIX,ptzinsurance4.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,ptzinsurance.tt.omtrdc.net
 DOMAIN-SUFFIX,ptztvpremium.com
@@ -39265,6 +39269,7 @@ DOMAIN-SUFFIX,scriptil.com
 DOMAIN-SUFFIX,scripts21.com
 DOMAIN-SUFFIX,script-sh.d2cdm.jp
 DOMAIN-SUFFIX,scriptshead.com
+DOMAIN-SUFFIX,scripts.jixie.media
 DOMAIN-SUFFIX,scripts-repo.reelevant.com
 DOMAIN-SUFFIX,scripttags.jst.ai
 DOMAIN-SUFFIX,scs.allsecur.nl
@@ -48739,7 +48744,6 @@ DOMAIN-SUFFIX,track-acton.healthengine.com.au
 DOMAIN-SUFFIX,track.adabra.com
 DOMAIN-SUFFIX,track.adchx.de
 DOMAIN-SUFFIX,trackad.cz
-DOMAIN-SUFFIX,track.addevent.com
 DOMAIN-SUFFIX,track.adform.net
 DOMAIN-SUFFIX,track.adherellc.com
 DOMAIN-SUFFIX,track.adspire.io
