@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-15 06:37:26
-# DOMAIN-SUFFIX: 56570
-# TOTAL: 56570
+# UPDATED: 2024-02-16 05:46:41
+# DOMAIN-SUFFIX: 56572
+# TOTAL: 56572
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -36116,6 +36116,7 @@ DOMAIN-SUFFIX,pingma.qq.com
 DOMAIN-SUFFIX,pingmeter.com
 DOMAIN-SUFFIX,ping.naturadapt.com
 DOMAIN-SUFFIX,pingomatic.com
+DOMAIN-SUFFIX,ping.paidy.com
 DOMAIN-SUFFIX,ping.resoluteoil.com
 DOMAIN-SUFFIX,pings.conviva.com
 DOMAIN-SUFFIX,pingtas.qq.com
@@ -45218,6 +45219,7 @@ DOMAIN-SUFFIX,statistics.tuv.com
 DOMAIN-SUFFIX,statistiek.rijksoverheid.nl
 DOMAIN-SUFFIX,statistika.lv
 DOMAIN-SUFFIX,statistik.apartments-tirolerhaus.at
+DOMAIN-SUFFIX,statistik.changing-cities.org
 DOMAIN-SUFFIX,statistik-gallup.net
 DOMAIN-SUFFIX,statistik.komputerkampus.com
 DOMAIN-SUFFIX,statistx.com
