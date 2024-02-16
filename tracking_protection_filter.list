@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-16 05:46:41
-# DOMAIN-SUFFIX: 56572
-# TOTAL: 56572
+# UPDATED: 2024-02-17 04:56:33
+# DOMAIN-SUFFIX: 56573
+# TOTAL: 56573
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -40154,6 +40154,7 @@ DOMAIN-SUFFIX,sitecats.troweprice.com
 DOMAIN-SUFFIX,sitecat.troweprice.com
 DOMAIN-SUFFIX,sitecompass.com
 DOMAIN-SUFFIX,site.comunicaciones.iesa.es
+DOMAIN-SUFFIX,site-config.com
 DOMAIN-SUFFIX,site.connect.mydrreddys.com
 DOMAIN-SUFFIX,sitectlyst.saksfifthavenue.com
 DOMAIN-SUFFIX,site.emarketer.com
