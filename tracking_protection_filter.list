@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-17 04:56:33
-# DOMAIN-SUFFIX: 56573
-# TOTAL: 56573
+# UPDATED: 2024-02-18 05:37:08
+# DOMAIN-SUFFIX: 56617
+# TOTAL: 56617
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -14542,6 +14542,7 @@ DOMAIN-SUFFIX,collector.mediator.media
 DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.prod.expedia.com
+DOMAIN-SUFFIX,collector-pxfqtaw5et.px-client.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
@@ -23550,12 +23551,46 @@ DOMAIN-SUFFIX,gtcslt-di2.com
 DOMAIN-SUFFIX,gte.gaintheedgeofficial.com
 DOMAIN-SUFFIX,gtgvze.chintai.net
 DOMAIN-SUFFIX,gtjogn.rockdenim.com
+DOMAIN-SUFFIX,gtm.actic.se
+DOMAIN-SUFFIX,gtm.ahlens.se
+DOMAIN-SUFFIX,gtm.allabolag.se
+DOMAIN-SUFFIX,gtm.asiakastieto.fi
 DOMAIN-SUFFIX,gtm.beiersdorf.com
+DOMAIN-SUFFIX,gtm.bswhealth.com
+DOMAIN-SUFFIX,gtm.careercontessa.com
+DOMAIN-SUFFIX,gtm.clutter.com
+DOMAIN-SUFFIX,gtm.diamond.jp
+DOMAIN-SUFFIX,gtm.docswell.com
 DOMAIN-SUFFIX,gtm.eduki.com
+DOMAIN-SUFFIX,gtm.elementor.com
+DOMAIN-SUFFIX,gtm.elisa.fi
+DOMAIN-SUFFIX,gtm.ellos.se
+DOMAIN-SUFFIX,gtm.guitarzoom.com
+DOMAIN-SUFFIX,gtm.humann.com
+DOMAIN-SUFFIX,gtm.jerseyfinance.je
+DOMAIN-SUFFIX,gtm.jotex.se
+DOMAIN-SUFFIX,gtm.kglteater.dk
+DOMAIN-SUFFIX,gtm.kiwitaxi.com
+DOMAIN-SUFFIX,gtm.korodrogerie.de
+DOMAIN-SUFFIX,gtm.moneybird.nl
+DOMAIN-SUFFIX,gtm.perfectlybasics.nl
+DOMAIN-SUFFIX,gtm.proff.dk
+DOMAIN-SUFFIX,gtm.proff.no
+DOMAIN-SUFFIX,gtm.proff.se
+DOMAIN-SUFFIX,gtm.rains.com
+DOMAIN-SUFFIX,gtm.readytec.it
+DOMAIN-SUFFIX,gtm.restplatzboerse.at
+DOMAIN-SUFFIX,gtm.saostar.vn
+DOMAIN-SUFFIX,gtm.saumag.edu
 DOMAIN-SUFFIX,gtm-server.healthline.com
+DOMAIN-SUFFIX,gtm.skrz.cz
+DOMAIN-SUFFIX,gtm-sst.crowdin.com
+DOMAIN-SUFFIX,gtm.taginstall.com
+DOMAIN-SUFFIX,gtm.thermondo.de
 DOMAIN-SUFFIX,gtm.tipranks.com
 DOMAIN-SUFFIX,gtm.udemy.com
 DOMAIN-SUFFIX,gtm.vanmoof.com
+DOMAIN-SUFFIX,gtm.wonderbly.com
 DOMAIN-SUFFIX,gtnnunlvbq.22nbcume.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,gtop.ro
 DOMAIN-SUFFIX,gtopstats.com
@@ -46994,6 +47029,14 @@ DOMAIN-SUFFIX,tagesspiegel.met.vgwort.de
 DOMAIN-SUFFIX,tagger.opecloud.com
 DOMAIN-SUFFIX,tagger.ope.scmp.com
 DOMAIN-SUFFIX,tag.getdrip.com
+DOMAIN-SUFFIX,tagging.anaxago.com
+DOMAIN-SUFFIX,tagging.boataround.com
+DOMAIN-SUFFIX,tagging.bokus.com
+DOMAIN-SUFFIX,tagging.eqs.com
+DOMAIN-SUFFIX,tagging.hansimglueck-burgergrill.de
+DOMAIN-SUFFIX,tagging.lei-manager.com
+DOMAIN-SUFFIX,tagging.src-reizen.nl
+DOMAIN-SUFFIX,tagging.swat.io
 DOMAIN-SUFFIX,tag.goadopt.io
 DOMAIN-SUFFIX,tag.hariken.co
 DOMAIN-SUFFIX,tag.imagino.com
@@ -49477,6 +49520,7 @@ DOMAIN-SUFFIX,tracking.digitalid.co.uk
 DOMAIN-SUFFIX,tracking.digitalocean.com
 DOMAIN-SUFFIX,tracking.directservices.it
 DOMAIN-SUFFIX,tracking.direxion.com
+DOMAIN-SUFFIX,tracking.di.se
 DOMAIN-SUFFIX,tracking.dr-10.com
 DOMAIN-SUFFIX,tracking.dr-8.com
 DOMAIN-SUFFIX,tracking.drreddys.com
