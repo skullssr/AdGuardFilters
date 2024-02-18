@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-18 05:37:08
-# DOMAIN-SUFFIX: 56617
-# TOTAL: 56617
+# UPDATED: 2024-02-19 05:27:00
+# DOMAIN-SUFFIX: 56619
+# TOTAL: 56619
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8981,6 +8981,7 @@ DOMAIN-SUFFIX,analytics.cartoonnetwork.co.uk
 DOMAIN-SUFFIX,analytics.cartoonnetworkindia.com
 DOMAIN-SUFFIX,analytics.cartoonnetwork.jp
 DOMAIN-SUFFIX,analytics.cartoonnetworkmena.com
+DOMAIN-SUFFIX,analytics.castel.jp
 DOMAIN-SUFFIX,analytics.cdf.cl
 DOMAIN-SUFFIX,analytics-cdiscount.com
 DOMAIN-SUFFIX,analytics.cdn.live
@@ -21305,6 +21306,7 @@ DOMAIN-SUFFIX,event.hket.com
 DOMAIN-SUFFIX,event.impression-neo.naver.com
 DOMAIN-SUFFIX,event.instiengage.com
 DOMAIN-SUFFIX,event.jma.or.jp
+DOMAIN-SUFFIX,event.lib.visumo.io
 DOMAIN-SUFFIX,event-listener.air.tv
 DOMAIN-SUFFIX,eventlogger.soundcloud.com
 DOMAIN-SUFFIX,eventlog.inspsearchapi.com
