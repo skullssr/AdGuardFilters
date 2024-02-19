@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-06 06:01:22
-# DOMAIN-SUFFIX: 869
-# TOTAL: 869
+# UPDATED: 2024-02-20 06:18:41
+# DOMAIN-SUFFIX: 873
+# TOTAL: 873
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -434,6 +434,7 @@ DOMAIN-SUFFIX,gameanalysis.appcpi.net
 DOMAIN-SUFFIX,gateway.ttpsdk.info
 DOMAIN-SUFFIX,gdfp.gifshow.com
 DOMAIN-SUFFIX,gdl.i9dhjx.ru
+DOMAIN-SUFFIX,gdl.zmqdez.ru
 DOMAIN-SUFFIX,gdn.bigfishgames.com
 DOMAIN-SUFFIX,g.doubleclick.net
 DOMAIN-SUFFIX,geede.info
@@ -474,6 +475,7 @@ DOMAIN-SUFFIX,iad-*.appboy.com
 DOMAIN-SUFFIX,iad.appboy.com
 DOMAIN-SUFFIX,iad-*.braze.com
 DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,iam.datasavannah.com
 DOMAIN-SUFFIX,ichannel.isnssdk.com
 DOMAIN-SUFFIX,ifengad.*.ifeng.com
@@ -630,6 +632,7 @@ DOMAIN-SUFFIX,ob.leap.app
 DOMAIN-SUFFIX,oconner.biz
 DOMAIN-SUFFIX,offerwall-adnative.com
 DOMAIN-SUFFIX,offerwall.yandex.net
+DOMAIN-SUFFIX,o-iab.mediation.unity3d.com
 DOMAIN-SUFFIX,onlineapi.youappi.com
 DOMAIN-SUFFIX,open.e.kuaishou.cn
 DOMAIN-SUFFIX,open.e.kuaishou.com
@@ -798,6 +801,7 @@ DOMAIN-SUFFIX,tnc16-alisg.isnssdk.com
 DOMAIN-SUFFIX,tnc16-*.byteoversea.com
 DOMAIN-SUFFIX,tnc16-useast1a.isnssdk.com
 DOMAIN-SUFFIX,tnkfactory.com
+DOMAIN-SUFFIX,togothermany.com
 DOMAIN-SUFFIX,tonefuse.com
 DOMAIN-SUFFIX,tongqing2015.com
 DOMAIN-SUFFIX,toponadss.com
