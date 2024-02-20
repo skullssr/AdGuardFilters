@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-20 06:15:30
-# DOMAIN-SUFFIX: 58847
-# TOTAL: 58847
+# UPDATED: 2024-02-21 06:33:38
+# DOMAIN-SUFFIX: 58855
+# TOTAL: 58855
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -21025,6 +21025,7 @@ DOMAIN-SUFFIX,elastoproxy.actonservice.com
 DOMAIN-SUFFIX,elcaminohospital.hrm.healthgrades.com
 DOMAIN-SUFFIX,elconfidencialdigital.actonservice.com
 DOMAIN-SUFFIX,eldersrural.tt.omtrdc.net
+DOMAIN-SUFFIX,eldoradottfha.dataplane.rudderstack.com
 DOMAIN-SUFFIX,e-learning.brainshark.com
 DOMAIN-SUFFIX,elearning-mboxedge37-old.tt.omtrdc.net
 DOMAIN-SUFFIX,elector.trekkww.fun
@@ -32510,6 +32511,7 @@ DOMAIN-SUFFIX,metrics.anthem.com
 DOMAIN-SUFFIX,metrics.apartments.com
 DOMAIN-SUFFIX,metrics-api.librato.com
 DOMAIN-SUFFIX,metrics.api.yle.fi
+DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,metrics.argenta.be
 DOMAIN-SUFFIX,metrics.argenta.eu
 DOMAIN-SUFFIX,metrics.argos.co.uk
@@ -35491,6 +35493,7 @@ DOMAIN-SUFFIX,nossl.aafp.org
 DOMAIN-SUFFIX,nossl.basco.com
 DOMAIN-SUFFIX,nosslomniture.dupontregistry.com
 DOMAIN-SUFFIX,notes-analytics-events.apple.com
+DOMAIN-SUFFIX,notes-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,notices.regis.edu
 DOMAIN-SUFFIX,notice-tmo.notice.assurancewireless.com
 DOMAIN-SUFFIX,noticias-ams.tt.tt.tt.omtrdc.net
@@ -41337,6 +41340,7 @@ DOMAIN-SUFFIX,securemetrics.nbnco.com.au
 DOMAIN-SUFFIX,securemetrics.syf.com
 DOMAIN-SUFFIX,securemetrics.synchronybusiness.com
 DOMAIN-SUFFIX,securemetrics-z.v.aaplimg.com
+DOMAIN-SUFFIX,securemvt.apple.com
 DOMAIN-SUFFIX,securemvt.apple.com.cn
 DOMAIN-SUFFIX,secure.mycalcas.com
 DOMAIN-SUFFIX,secure.neuralnets.site
@@ -48496,6 +48500,7 @@ DOMAIN-SUFFIX,support3.flex.com
 DOMAIN-SUFFIX,support.flex.com
 DOMAIN-SUFFIX,support.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,supportingyou.uat.bankline.tt.omtrdc.net
+DOMAIN-SUFFIX,supportmetrics.apple.com
 DOMAIN-SUFFIX,support.panasonic.eu
 DOMAIN-SUFFIX,support.pepboys.tt.omtrdc.net
 DOMAIN-SUFFIX,support.ricoh.fr
@@ -51345,6 +51350,7 @@ DOMAIN-SUFFIX,tracking.afffcompensation.com
 DOMAIN-SUFFIX,tracking.affiliateclub.cz
 DOMAIN-SUFFIX,tracking.agora.io
 DOMAIN-SUFFIX,tracking.aifsabroad.com
+DOMAIN-SUFFIX,tracking.ai.rakuten.co.jp
 DOMAIN-SUFFIX,tracking.air-worldwide.com
 DOMAIN-SUFFIX,tracking.aldi-international.com
 DOMAIN-SUFFIX,tracking.allopneus.com
@@ -53538,6 +53544,7 @@ DOMAIN-SUFFIX,trk.datacenterknowledge.com
 DOMAIN-SUFFIX,trk.datacenterworld.com
 DOMAIN-SUFFIX,trk.debtfreehelpline.ca
 DOMAIN-SUFFIX,trk.dechoker.com
+DOMAIN-SUFFIX,trk.decido.io
 DOMAIN-SUFFIX,trk.deliveranceads.com
 DOMAIN-SUFFIX,trk.deliveryredirect.com
 DOMAIN-SUFFIX,trk.delma.hu
@@ -56340,6 +56347,7 @@ DOMAIN-SUFFIX,wealthcarecapital.actonservice.com
 DOMAIN-SUFFIX,wealth.informabi.com
 DOMAIN-SUFFIX,weare.ballymoregroup.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,weather-analytics-events.news.apple-dns.net
 DOMAIN-SUFFIX,weatherbillcom.tt.omtrdc.net
 DOMAIN-SUFFIX,weatherbillcom-tyo.comcbsinteractiveinc.tt.omtrdc.net
 DOMAIN-SUFFIX,weaver01.tt.omtrdc.net

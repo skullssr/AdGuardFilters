@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-20 06:16:12
-# DOMAIN-SUFFIX: 2004
-# TOTAL: 2004
+# UPDATED: 2024-02-21 06:34:21
+# DOMAIN-SUFFIX: 2005
+# TOTAL: 2005
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -283,6 +283,7 @@ DOMAIN-SUFFIX,cautiouscamera.com
 DOMAIN-SUFFIX,cautiouscrate.com
 DOMAIN-SUFFIX,cautiouscredit.com
 DOMAIN-SUFFIX,cbot.ai
+DOMAIN-SUFFIX,ccdn.mobildev.in
 DOMAIN-SUFFIX,ccm19.de
 DOMAIN-SUFFIX,ccm.abload.de
 DOMAIN-SUFFIX,ccm.takuma.de
