@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-14 05:43:13
-# DOMAIN-SUFFIX: 3014
-# TOTAL: 3014
+# UPDATED: 2024-02-22 05:45:44
+# DOMAIN-SUFFIX: 3015
+# TOTAL: 3015
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,akoam.net
 DOMAIN-SUFFIX,akoam.site
 DOMAIN-SUFFIX,akoam.ws
 DOMAIN-SUFFIX,ak.sv
+DOMAIN-SUFFIX,aktion-holz.de
 DOMAIN-SUFFIX,aktion-solar.com
 DOMAIN-SUFFIX,aktuality.sk
 DOMAIN-SUFFIX,akw.cam
