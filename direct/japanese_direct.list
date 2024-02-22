@@ -1,9 +1,9 @@
 # NAME: JapaneseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-05 05:55:26
-# DOMAIN-SUFFIX: 43
-# TOTAL: 43
+# UPDATED: 2024-02-23 06:20:02
+# DOMAIN-SUFFIX: 44
+# TOTAL: 44
 DOMAIN-SUFFIX,ad-contents.jp
 DOMAIN-SUFFIX,ap-siken.com
 DOMAIN-SUFFIX,bridalgown.work
@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,fp3-siken.com
 DOMAIN-SUFFIX,freepdfcomic.com
 DOMAIN-SUFFIX,friday.kodansha.co.jp
 DOMAIN-SUFFIX,gagetmatome.com
+DOMAIN-SUFFIX,gamemod.blog.fc2.com
 DOMAIN-SUFFIX,heisei-housewarming.work
 DOMAIN-SUFFIX,helpsupport.blog.fc2.com
 DOMAIN-SUFFIX,hs-exp.jp

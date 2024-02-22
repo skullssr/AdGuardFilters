@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-22 05:45:44
-# DOMAIN-SUFFIX: 3015
-# TOTAL: 3015
+# UPDATED: 2024-02-23 06:11:09
+# DOMAIN-SUFFIX: 3014
+# TOTAL: 3014
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0gendai.media
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -824,7 +824,6 @@ DOMAIN-SUFFIX,elnacional.com
 DOMAIN-SUFFIX,elnuevoherald.com
 DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,elpais.com.uy
-DOMAIN-SUFFIX,elsfile.org
 DOMAIN-SUFFIX,emailregex.com
 DOMAIN-SUFFIX,embed-channel.stream
 DOMAIN-SUFFIX,embed.kijk.nl

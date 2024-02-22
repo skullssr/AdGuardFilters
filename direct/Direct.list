@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-22 05:56:07
+# UPDATED: 2024-02-23 06:20:34
 # DOMAIN-SUFFIX: 3961
 # TOTAL: 3961
 DOMAIN-SUFFIX,0123movies.com
@@ -1097,7 +1097,6 @@ DOMAIN-SUFFIX,elnacional.com
 DOMAIN-SUFFIX,elnuevoherald.com
 DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,elpais.com.uy
-DOMAIN-SUFFIX,elsfile.org
 DOMAIN-SUFFIX,eltern.de
 DOMAIN-SUFFIX,email.awscloud.com
 DOMAIN-SUFFIX,email.elitedangerous.com
@@ -1418,6 +1417,7 @@ DOMAIN-SUFFIX,gamecode.win
 DOMAIN-SUFFIX,gamedrive.org
 DOMAIN-SUFFIX,gamefaucet.com
 DOMAIN-SUFFIX,gamekit.com
+DOMAIN-SUFFIX,gamemod.blog.fc2.com
 DOMAIN-SUFFIX,gamemod.mobi
 DOMAIN-SUFFIX,game-owl.com
 DOMAIN-SUFFIX,gamesaktuell.de
