@@ -1,9 +1,9 @@
 # NAME: FrenchDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-08 05:38:17
-# DOMAIN-SUFFIX: 47
-# TOTAL: 47
+# UPDATED: 2024-02-27 05:59:55
+# DOMAIN-SUFFIX: 43
+# TOTAL: 43
 DOMAIN-SUFFIX,9docu.org
 DOMAIN-SUFFIX,allfoot.info
 DOMAIN-SUFFIX,animes-mangas-ddl.net
@@ -22,9 +22,7 @@ DOMAIN-SUFFIX,eurosport.fr
 DOMAIN-SUFFIX,grazia.fr
 DOMAIN-SUFFIX,hdstreamvf.com
 DOMAIN-SUFFIX,iphonesoft.fr
-DOMAIN-SUFFIX,klcheck.com
 DOMAIN-SUFFIX,lesacdechips.com
-DOMAIN-SUFFIX,liens-telechargement.com
 DOMAIN-SUFFIX,linternaute.com
 DOMAIN-SUFFIX,macplanete.com
 DOMAIN-SUFFIX,olympine.com
@@ -41,11 +39,9 @@ DOMAIN-SUFFIX,streamonsport.info
 DOMAIN-SUFFIX,svonm.com
 DOMAIN-SUFFIX,tf1.fr
 DOMAIN-SUFFIX,tf1info.fr
-DOMAIN-SUFFIX,thumb.oloadcdn.net
 DOMAIN-SUFFIX,torrent9.uno
 DOMAIN-SUFFIX,tsa-algerie.com
 DOMAIN-SUFFIX,tutoriaux-excalibur.com
-DOMAIN-SUFFIX,vandenbrink.fr
 DOMAIN-SUFFIX,voirseries.co
 DOMAIN-SUFFIX,www*.tusfiles.net
 DOMAIN-SUFFIX,yggtorrent.fr
