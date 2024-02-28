@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-26 06:16:47
+# UPDATED: 2024-02-29 05:58:42
 # DOMAIN-SUFFIX: 867
 # TOTAL: 867
 DOMAIN-SUFFIX,023hysj.com
@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,ads-api.kidsnote.com
 DOMAIN-SUFFIX,adsapi.manhuaren.com
 DOMAIN-SUFFIX,adsapi.snapchat.com
 DOMAIN-SUFFIX,ads.appsgeyser.com
+DOMAIN-SUFFIX,adsassets-ipv6.waze.com
 DOMAIN-SUFFIX,adsassets.waze.com
 DOMAIN-SUFFIX,ads-bidder-api.twitter.com
 DOMAIN-SUFFIX,ads*.bojijulebu.com
@@ -771,7 +772,6 @@ DOMAIN-SUFFIX,tappx.com
 DOMAIN-SUFFIX,tapsell.ir
 DOMAIN-SUFFIX,tapsense.com
 DOMAIN-SUFFIX,tapstat.ru
-DOMAIN-SUFFIX,tapulsads.ru
 DOMAIN-SUFFIX,targetspot.com
 DOMAIN-SUFFIX,tccbanner.com
 DOMAIN-SUFFIX,teachscape.vo.llnwd.net
