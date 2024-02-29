@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-29 05:55:20
-# DOMAIN-SUFFIX: 59149
-# TOTAL: 59149
+# UPDATED: 2024-03-01 06:23:25
+# DOMAIN-SUFFIX: 59150
+# TOTAL: 59150
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9123,6 +9123,7 @@ DOMAIN-SUFFIX,analy1.dtnnetwork.be
 DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,analyse.hinemos.info
 DOMAIN-SUFFIX,analysis.afreecatv.com
+DOMAIN-SUFFIX,analysis.aws.locondo.jp
 DOMAIN-SUFFIX,analysis.fi
 DOMAIN-SUFFIX,analysis.polarisoffice.com
 DOMAIN-SUFFIX,analysis.wangtwothree.com
@@ -51790,6 +51791,7 @@ DOMAIN-SUFFIX,tracking.fticonsulting.com
 DOMAIN-SUFFIX,tracking.ftitechnology.com
 DOMAIN-SUFFIX,tracking.fullsail.edu
 DOMAIN-SUFFIX,tracking.g2crowd.com
+DOMAIN-SUFFIX,tracking.game8.co
 DOMAIN-SUFFIX,tracking.game8.jp
 DOMAIN-SUFFIX,tracking.gartner.com
 DOMAIN-SUFFIX,tracking.gelia.com
@@ -55392,7 +55394,6 @@ DOMAIN-SUFFIX,uk.secure.sonosite.com
 DOMAIN-SUFFIX,uk.sharpmarketing.eu
 DOMAIN-SUFFIX,uktgg.dev-tester.com
 DOMAIN-SUFFIX,uk.verintsystemsinc.com
-DOMAIN-SUFFIX,ukw.jp
 DOMAIN-SUFFIX,ukzjce.idus.com
 DOMAIN-SUFFIX,ukzlatvtdy.kihxuxuebc.test.att.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,ulclick.ru
