@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-01 06:23:25
+# UPDATED: 2024-03-02 06:07:43
 # DOMAIN-SUFFIX: 59150
 # TOTAL: 59150
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -39410,6 +39410,7 @@ DOMAIN-SUFFIX,recs.richrelevance.com
 DOMAIN-SUFFIX,rectrack.optimum-performance.de
 DOMAIN-SUFFIX,recv-entry.tbs.co.jp
 DOMAIN-SUFFIX,recv-jnn.tbs.co.jp
+DOMAIN-SUFFIX,recv.tbs.co.jp
 DOMAIN-SUFFIX,red.alchemy-of-nature.com
 DOMAIN-SUFFIX,redbclk.getredboostsite.today
 DOMAIN-SUFFIX,redbclk.redboostonline.site
@@ -41139,7 +41140,6 @@ DOMAIN-SUFFIX,sc.infor.com
 DOMAIN-SUFFIX,sc.iombank.com
 DOMAIN-SUFFIX,sci.quickbooks.com
 DOMAIN-SUFFIX,scispg.smu.edu.sg
-DOMAIN-SUFFIX,scis.tbs.co.jp
 DOMAIN-SUFFIX,scjlpq.navitime.co.jp
 DOMAIN-SUFFIX,sc.lacapitale.com
 DOMAIN-SUFFIX,sc.lfeeder.com
