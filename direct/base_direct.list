@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-03 05:16:34
+# UPDATED: 2024-03-06 06:45:05
 # DOMAIN-SUFFIX: 2847
 # TOTAL: 2847
 DOMAIN-SUFFIX,0123movies.com
@@ -707,7 +707,6 @@ DOMAIN-SUFFIX,down.mdiaload.com
 DOMAIN-SUFFIX,dphotoworld.net
 DOMAIN-SUFFIX,dqmsl-search.net
 DOMAIN-SUFFIX,dragontea.ink
-DOMAIN-SUFFIX,drakescans.com
 DOMAIN-SUFFIX,dramahd.me
 DOMAIN-SUFFIX,dreamcheeky.com
 DOMAIN-SUFFIX,dreamdth.com
@@ -2732,6 +2731,7 @@ DOMAIN-SUFFIX,waterfaucet.online
 DOMAIN-SUFFIX,watoday.com.au
 DOMAIN-SUFFIX,wcfcourier.com
 DOMAIN-SUFFIX,weatherx.co.in
+DOMAIN-SUFFIX,web1s.asia
 DOMAIN-SUFFIX,web.archive.org
 DOMAIN-SUFFIX,webassistance.eu
 DOMAIN-SUFFIX,webassistanceita.com
