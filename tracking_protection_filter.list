@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-07 06:34:51
-# DOMAIN-SUFFIX: 59175
-# TOTAL: 59175
+# UPDATED: 2024-03-08 05:07:14
+# DOMAIN-SUFFIX: 59178
+# TOTAL: 59178
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -1601,7 +1601,9 @@ DOMAIN-SUFFIX,3mobileuk.tt.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,3mobileuk.tt.omtrdc.net
 DOMAIN-SUFFIX,3m.tt.omtrdc.net
 DOMAIN-SUFFIX,3mw.store.tt.omtrdc.net
+DOMAIN-SUFFIX,3p-geo.yahoo.com
 DOMAIN-SUFFIX,3plworldwide.actonservice.com
+DOMAIN-SUFFIX,3p-udc.yahoo.com
 DOMAIN-SUFFIX,3-qa.fr.fr.tt.omtrdc.net
 DOMAIN-SUFFIX,3qmcpe17ho.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,3rdphloorproductions.tt.omtrdc.net
@@ -7534,6 +7536,7 @@ DOMAIN-SUFFIX,adolfojucio.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,adoradesign.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,ad.ordersuit.info
 DOMAIN-SUFFIX,adoric.com
+DOMAIN-SUFFIX,adoric-om.com
 DOMAIN-SUFFIX,adosante.hb-fa-dev.tt.omtrdc.net
 DOMAIN-SUFFIX,adost-sc.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,adost.tt.omtrdc.net
@@ -10011,6 +10014,7 @@ DOMAIN-SUFFIX,apac.zendesk.com
 DOMAIN-SUFFIX,a-pagerank.net
 DOMAIN-SUFFIX,a.parfumsclub.de
 DOMAIN-SUFFIX,apbspeakers.actonservice.com
+DOMAIN-SUFFIX,apcdp.apnews.com
 DOMAIN-SUFFIX,apcerpharma.actonservice.com
 DOMAIN-SUFFIX,apcinfo.motorolasolutions.com
 DOMAIN-SUFFIX,apcinfo.vertexstandard.com
@@ -13053,7 +13057,6 @@ DOMAIN-SUFFIX,bluecounter.de
 DOMAIN-SUFFIX,bluecrossblueshieldm.tt.omtrdc.net
 DOMAIN-SUFFIX,bluecross.tt.omtrdc.net
 DOMAIN-SUFFIX,bluecusa.actonservice.com
-DOMAIN-SUFFIX,blue.fox8.com
 DOMAIN-SUFFIX,bluegrasscellular.tt.omtrdc.net
 DOMAIN-SUFFIX,blueinfo.marugroup.net
 DOMAIN-SUFFIX,bluejay.edgesoftware.cloud
@@ -13071,7 +13074,6 @@ DOMAIN-SUFFIX,blue-rocket.actonservice.com
 DOMAIN-SUFFIX,bluescopesteel.tt.omtrdc.net
 DOMAIN-SUFFIX,blueshieldca.tt.omtrdc.net
 DOMAIN-SUFFIX,bluestapler.tt.omtrdc.net
-DOMAIN-SUFFIX,blue.thehill.com
 DOMAIN-SUFFIX,bluvue.actonservice.com
 DOMAIN-SUFFIX,blvdstatus.com
 DOMAIN-SUFFIX,blytheco.actonservice.com
@@ -54983,6 +54985,7 @@ DOMAIN-SUFFIX,t-s.tnkase.com
 DOMAIN-SUFFIX,tstqdcjen-development-702sr2.tt.omtrdc.net
 DOMAIN-SUFFIX,ts.tradetracker.net
 DOMAIN-SUFFIX,t-s.transplantaccessservices.com
+DOMAIN-SUFFIX,t.streetsblog.org
 DOMAIN-SUFFIX,t.strokeawareness.com
 DOMAIN-SUFFIX,t.subsidy-qualification.com
 DOMAIN-SUFFIX,tsunagu.tt.omtrdc.net

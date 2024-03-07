@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-29 05:58:42
-# DOMAIN-SUFFIX: 867
-# TOTAL: 867
+# UPDATED: 2024-03-08 05:10:53
+# DOMAIN-SUFFIX: 870
+# TOTAL: 870
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,ad-splash-tracking.hktvmall.com
 DOMAIN-SUFFIX,adspot.tfgapps.com
 DOMAIN-SUFFIX,ads*.production-public.tubi.io
 DOMAIN-SUFFIX,ads-resources.waze.com
+DOMAIN-SUFFIX,ads.rmbl.ws
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adsrvr.io
 DOMAIN-SUFFIX,adsrvr.org
@@ -333,6 +334,7 @@ DOMAIN-SUFFIX,casino-ad-mediation.me2zengame.com
 DOMAIN-SUFFIX,cdn2.auditude.com
 DOMAIN-SUFFIX,cdn-adn-*.rayjump.com
 DOMAIN-SUFFIX,cdn-adn.rayjump.com
+DOMAIN-SUFFIX,cdn-ads.tmap.co.kr
 DOMAIN-SUFFIX,cdn-api.admost.com
 DOMAIN-SUFFIX,cdn.appnext.com
 DOMAIN-SUFFIX,cdn.auditude.com
@@ -397,6 +399,7 @@ DOMAIN-SUFFIX,disqusads.com
 DOMAIN-SUFFIX,dm.isnssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
 DOMAIN-SUFFIX,dotomi.com
+DOMAIN-SUFFIX,downloadshi.b-cdn.net
 DOMAIN-SUFFIX,dspunion.com
 DOMAIN-SUFFIX,dumedia.ru
 DOMAIN-SUFFIX,dzpu6za66svjl.cloudfront.net
