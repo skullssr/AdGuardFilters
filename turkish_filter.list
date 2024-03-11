@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-28 06:51:51
-# DOMAIN-SUFFIX: 264
-# TOTAL: 264
+# UPDATED: 2024-03-12 05:10:22
+# DOMAIN-SUFFIX: 263
+# TOTAL: 263
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,adbetnet.com
 DOMAIN-SUFFIX,adbetnetwork.com
@@ -129,7 +129,6 @@ DOMAIN-SUFFIX,files.pbgiris.com
 DOMAIN-SUFFIX,finema.net
 DOMAIN-SUFFIX,finema-net.cdn.ampproject.org
 DOMAIN-SUFFIX,finvest.care
-DOMAIN-SUFFIX,flarby.com
 DOMAIN-SUFFIX,franecki.net
 DOMAIN-SUFFIX,friendshipmale.com
 DOMAIN-SUFFIX,fvbaffiliate.com
