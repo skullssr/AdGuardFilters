@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-12 05:06:54
-# DOMAIN-SUFFIX: 59445
-# TOTAL: 59445
+# UPDATED: 2024-03-13 05:13:06
+# DOMAIN-SUFFIX: 59452
+# TOTAL: 59452
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9576,6 +9576,7 @@ DOMAIN-SUFFIX,analytics.pipelife.pl
 DOMAIN-SUFFIX,analytics.pipelife.ro
 DOMAIN-SUFFIX,analytics.pipelife.rs
 DOMAIN-SUFFIX,analytics.pipelife.se
+DOMAIN-SUFFIX,analytics.pixels.ai
 DOMAIN-SUFFIX,analytics.plaid.com
 DOMAIN-SUFFIX,analytics.plex.tv
 DOMAIN-SUFFIX,analytics.plumbworld.co.uk
@@ -9591,6 +9592,7 @@ DOMAIN-SUFFIX,analytics.prod.mybuddy.ai
 DOMAIN-SUFFIX,analytics-production.hapyak.com
 DOMAIN-SUFFIX,analytics.projectcarmen.com
 DOMAIN-SUFFIX,analytics.proxer.me
+DOMAIN-SUFFIX,analytics.purelovers.com
 DOMAIN-SUFFIX,analytics.qoqa.ch
 DOMAIN-SUFFIX,analytics.qoqa.com
 DOMAIN-SUFFIX,analytics.qoqa.ninja
@@ -13756,6 +13758,7 @@ DOMAIN-SUFFIX,cadence.tt.omtrdc.net
 DOMAIN-SUFFIX,caderonline.bu.edu
 DOMAIN-SUFFIX,cadessavoie-code.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,cadfiomxrv._tcp.abc.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,cadmus.script.ac
 DOMAIN-SUFFIX,cadreon.com
 DOMAIN-SUFFIX,c.adroll.com
 DOMAIN-SUFFIX,caf.actonservice.com
@@ -16013,6 +16016,7 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,cre8media.actonservice.com
 DOMAIN-SUFFIX,create.encoreglobal.com
 DOMAIN-SUFFIX,create.encore-mx.com
+DOMAIN-SUFFIX,create.lidstatic.com
 DOMAIN-SUFFIX,creationagency.actonservice.com
 DOMAIN-SUFFIX,creative.adcreative.cloud
 DOMAIN-SUFFIX,creativeassets.asosservices.com
@@ -23197,6 +23201,7 @@ DOMAIN-SUFFIX,fpssl-monitor-dal.omniture.com
 DOMAIN-SUFFIX,fpssl-s3.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,fpssl-s6.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,fpssl-tt-stage5.hb-api.tt.omtrdc.net
+DOMAIN-SUFFIX,fp.techinasia.com
 DOMAIN-SUFFIX,fpt.inxinternational.com
 DOMAIN-SUFFIX,fpxewa.ilmeteo.it
 DOMAIN-SUFFIX,fq9vy0muyqi3.www.madrigalmaps.com
@@ -23823,6 +23828,7 @@ DOMAIN-SUFFIX,global-mktg.transunion.com
 DOMAIN-SUFFIX,global.px.quantserve.com
 DOMAIN-SUFFIX,global.raboag.com
 DOMAIN-SUFFIX,global.rewardiffy.club
+DOMAIN-SUFFIX,globalservices.conde.digital
 DOMAIN-SUFFIX,globalsolutions.risk.lexisnexis.com
 DOMAIN-SUFFIX,global.successfactors.com
 DOMAIN-SUFFIX,global.tt.omtrdc.net
@@ -33055,6 +33061,7 @@ DOMAIN-SUFFIX,metrics.ccma.cat
 DOMAIN-SUFFIX,metrics.cdiscount.com
 DOMAIN-SUFFIX,metrics.cedars-sinai.org
 DOMAIN-SUFFIX,metrics.cellcept.com
+DOMAIN-SUFFIX,metrics.ceneo.pl
 DOMAIN-SUFFIX,metrics.census.gov
 DOMAIN-SUFFIX,metrics.centurylink.com
 DOMAIN-SUFFIX,metrics-cert2.citrix.tt.omtrdc.net

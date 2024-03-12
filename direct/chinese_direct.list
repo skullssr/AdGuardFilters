@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-09 04:53:27
-# DOMAIN-SUFFIX: 192
-# TOTAL: 192
+# UPDATED: 2024-03-13 04:57:15
+# DOMAIN-SUFFIX: 193
+# TOTAL: 193
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,v2cross.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,video.520cc.cc
 DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,wandhi.com
 DOMAIN-SUFFIX,wavse.com
 DOMAIN-SUFFIX,weithenn.org
 DOMAIN-SUFFIX,wenxuecity.com

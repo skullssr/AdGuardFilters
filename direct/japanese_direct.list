@@ -1,9 +1,9 @@
 # NAME: JapaneseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-02-23 06:20:02
-# DOMAIN-SUFFIX: 44
-# TOTAL: 44
+# UPDATED: 2024-03-13 05:16:20
+# DOMAIN-SUFFIX: 45
+# TOTAL: 45
 DOMAIN-SUFFIX,ad-contents.jp
 DOMAIN-SUFFIX,ap-siken.com
 DOMAIN-SUFFIX,bridalgown.work
@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,nazolog.com
 DOMAIN-SUFFIX,nw-siken.com
 DOMAIN-SUFFIX,pm-siken.com
 DOMAIN-SUFFIX,pointi.jp
+DOMAIN-SUFFIX,pointmall.rakuten.co.jp
 DOMAIN-SUFFIX,realtime-chart.info
 DOMAIN-SUFFIX,repeat-drama.info
 DOMAIN-SUFFIX,rocketnews24.com
