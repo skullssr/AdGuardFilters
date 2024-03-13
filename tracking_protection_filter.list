@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-13 05:13:06
-# DOMAIN-SUFFIX: 59452
-# TOTAL: 59452
+# UPDATED: 2024-03-14 05:12:55
+# DOMAIN-SUFFIX: 59463
+# TOTAL: 59463
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9214,6 +9214,7 @@ DOMAIN-SUFFIX,analytics-api.liveapp.com
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
 DOMAIN-SUFFIX,analytics-api.smzdm.com
 DOMAIN-SUFFIX,analytics-api.statvoo.com
+DOMAIN-SUFFIX,analytics-api.vanceai.com
 DOMAIN-SUFFIX,analytics.app.funnelish.com
 DOMAIN-SUFFIX,analytics.appsbnet.com.br
 DOMAIN-SUFFIX,analytics.appservice.tech
@@ -9773,6 +9774,7 @@ DOMAIN-SUFFIX,analytics.virginmobileusa.com
 DOMAIN-SUFFIX,analytics.visible.com
 DOMAIN-SUFFIX,analytics.vodgc.net
 DOMAIN-SUFFIX,analytics.vpplayer.tech
+DOMAIN-SUFFIX,analytics.waifu2x.org
 DOMAIN-SUFFIX,analytics.warnertv.fr
 DOMAIN-SUFFIX,analytics.wayland.app
 DOMAIN-SUFFIX,analytics-wcms.joins.net
@@ -16166,6 +16168,7 @@ DOMAIN-SUFFIX,csvtt.bmolife.com
 DOMAIN-SUFFIX,csvtu.bmolending.com
 DOMAIN-SUFFIX,csymrm.24mx.fr
 DOMAIN-SUFFIX,csyqts.tmon.co.kr
+DOMAIN-SUFFIX,cs.zg-api.com
 DOMAIN-SUFFIX,ct2.kimodameshi.com
 DOMAIN-SUFFIX,ct2.kutinawa.com
 DOMAIN-SUFFIX,ct2.kyarame.com
@@ -18628,6 +18631,7 @@ DOMAIN-SUFFIX,data.digital.costco.com
 DOMAIN-SUFFIX,data.digitalks.az
 DOMAIN-SUFFIX,data.discover.ringcentral.com
 DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,datadome.co
 DOMAIN-SUFFIX,data.dow.com
 DOMAIN-SUFFIX,data.dreambaby.be
 DOMAIN-SUFFIX,data.dreamland.be
@@ -22528,6 +22532,7 @@ DOMAIN-SUFFIX,eyypxz.canifa.com
 DOMAIN-SUFFIX,eyzubm.gooutdoors.co.uk
 DOMAIN-SUFFIX,ezakus.net
 DOMAIN-SUFFIX,ezec.co.uk
+DOMAIN-SUFFIX,e.zg-api.com
 DOMAIN-SUFFIX,ezgo.advancedtech.com
 DOMAIN-SUFFIX,ezhddx.thesouledstore.com
 DOMAIN-SUFFIX,ezjvrb.hihealth.com
@@ -27920,6 +27925,7 @@ DOMAIN-SUFFIX,j158.hearstmediact.com
 DOMAIN-SUFFIX,j198.registercitizen.com
 DOMAIN-SUFFIX,j2global.tt.omtrdc.net
 DOMAIN-SUFFIX,j2i0.mathon.fr
+DOMAIN-SUFFIX,j927.statnews.com
 DOMAIN-SUFFIX,jackal.jakerunzer.com
 DOMAIN-SUFFIX,jackal.thetie.io
 DOMAIN-SUFFIX,jackshih.rshethia8.tt.omtrdc.net
@@ -33508,6 +33514,7 @@ DOMAIN-SUFFIX,metrics.kindercare.com
 DOMAIN-SUFFIX,metrics.king5.com
 DOMAIN-SUFFIX,metrics.kipling-usa.com
 DOMAIN-SUFFIX,metrics.kirklands.com
+DOMAIN-SUFFIX,metrics.kmsmep.com
 DOMAIN-SUFFIX,metrics.knowyourhdl.com
 DOMAIN-SUFFIX,metrics.knowyourtrigs.com
 DOMAIN-SUFFIX,metrics.kone.ae
@@ -33864,6 +33871,7 @@ DOMAIN-SUFFIX,metrics.pvh.com
 DOMAIN-SUFFIX,metrics.qatarairways.com
 DOMAIN-SUFFIX,metrics.questrade.com
 DOMAIN-SUFFIX,metrics.quiksilver.com
+DOMAIN-SUFFIX,metrics.quillbot.com
 DOMAIN-SUFFIX,metrics.quill.com
 DOMAIN-SUFFIX,metrics.qvc.jp
 DOMAIN-SUFFIX,metrics.r200.co.uk
@@ -41556,6 +41564,7 @@ DOMAIN-SUFFIX,sdk-8-65.tt.omtrdc.net
 DOMAIN-SUFFIX,sdk.airbridge.io
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,sdk.appsflyer.com
+DOMAIN-SUFFIX,sdk-cdn.optimove.net
 DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
 DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
 DOMAIN-SUFFIX,sdk.conscent.in
@@ -51617,6 +51626,7 @@ DOMAIN-SUFFIX,trackersimulator.org
 DOMAIN-SUFFIX,tracker.smart-bdash.com
 DOMAIN-SUFFIX,tracker.smartseminar.jp
 DOMAIN-SUFFIX,tracker.softcube.com
+DOMAIN-SUFFIX,tracker.sqreemtech.com
 DOMAIN-SUFFIX,tracker.srta.spectrum.com
 DOMAIN-SUFFIX,tracker.stats.in.th
 DOMAIN-SUFFIX,tracker.swedish.org
@@ -52770,6 +52780,7 @@ DOMAIN-SUFFIX,track.printery.ro
 DOMAIN-SUFFIX,track.prize-ua.online
 DOMAIN-SUFFIX,track.proaspectdental.com
 DOMAIN-SUFFIX,track.proautoexcellence.com
+DOMAIN-SUFFIX,track.prod.smash.pet
 DOMAIN-SUFFIX,track.producttester.us
 DOMAIN-SUFFIX,track.producttesterus.us
 DOMAIN-SUFFIX,track.proempoweredlife.com
