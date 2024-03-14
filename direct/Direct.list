@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-14 05:16:39
-# DOMAIN-SUFFIX: 3790
-# TOTAL: 3790
+# UPDATED: 2024-03-15 05:17:24
+# DOMAIN-SUFFIX: 3791
+# TOTAL: 3791
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,10010.com
@@ -308,6 +308,7 @@ DOMAIN-SUFFIX,api.docodoco.jp
 DOMAIN-SUFFIX,api.karte.io
 DOMAIN-SUFFIX,api.kinomoov.org
 DOMAIN-SUFFIX,api.opensubtitles.org
+DOMAIN-SUFFIX,api.personaclick.com
 DOMAIN-SUFFIX,api-secure.solvemedia.com
 DOMAIN-SUFFIX,api-video.khl.ru
 DOMAIN-SUFFIX,api-v*.trbo.com
