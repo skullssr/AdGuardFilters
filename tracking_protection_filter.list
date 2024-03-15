@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-15 05:13:41
-# DOMAIN-SUFFIX: 59464
-# TOTAL: 59464
+# UPDATED: 2024-03-16 05:07:39
+# DOMAIN-SUFFIX: 59468
+# TOTAL: 59468
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9313,6 +9313,7 @@ DOMAIN-SUFFIX,analytics.contentexchange.me
 DOMAIN-SUFFIX,analytics.contents.by-fw.jp
 DOMAIN-SUFFIX,analytics.cookiefirst.dev
 DOMAIN-SUFFIX,analytics.corusent.com
+DOMAIN-SUFFIX,analytics.crazygames.com
 DOMAIN-SUFFIX,analytics.crea.ca
 DOMAIN-SUFFIX,analytics.cycleworld.com
 DOMAIN-SUFFIX,analytics.cyrillus.be
@@ -22300,6 +22301,7 @@ DOMAIN-SUFFIX,events.golubcapital.com
 DOMAIN-SUFFIX,events.iap.unity3d.com
 DOMAIN-SUFFIX,events.ifunny.co
 DOMAIN-SUFFIX,events.il.fi
+DOMAIN-SUFFIX,events-ingestion.services.gorgias.com
 DOMAIN-SUFFIX,events.interface.com
 DOMAIN-SUFFIX,events.jora.com
 DOMAIN-SUFFIX,events-jp.splash-screen.net
@@ -37200,6 +37202,7 @@ DOMAIN-SUFFIX,parkdomainreal*.site
 DOMAIN-SUFFIX,parker-gateway-jp-gamma-aws.tt.omtrdc.net
 DOMAIN-SUFFIX,parkerhannifin.tt.omtrdc.net
 DOMAIN-SUFFIX,parklogic.com
+DOMAIN-SUFFIX,p.armorgames.net
 DOMAIN-SUFFIX,parrable.com
 DOMAIN-SUFFIX,parrotfish.thenping.me
 DOMAIN-SUFFIX,parrotfish.wilderworld.com
@@ -51136,6 +51139,7 @@ DOMAIN-SUFFIX,tp.mirapodo.de
 DOMAIN-SUFFIX,t.pmu.fr
 DOMAIN-SUFFIX,tp.mytoys.de
 DOMAIN-SUFFIX,t.poconoraceway.com
+DOMAIN-SUFFIX,t.poki.io
 DOMAIN-SUFFIX,t.policypinnacle.com
 DOMAIN-SUFFIX,t.popsugar.com
 DOMAIN-SUFFIX,t.portland5.com
