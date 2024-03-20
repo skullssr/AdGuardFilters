@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-19 05:24:43
-# DOMAIN-SUFFIX: 57889
-# TOTAL: 57889
+# UPDATED: 2024-03-21 05:11:02
+# DOMAIN-SUFFIX: 57900
+# TOTAL: 57900
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7726,6 +7726,7 @@ DOMAIN-SUFFIX,advtech.actonservice.com
 DOMAIN-SUFFIX,advtek.actonservice.com
 DOMAIN-SUFFIX,ad.wellnesswonderlandhub.com
 DOMAIN-SUFFIX,adwstats.com
+DOMAIN-SUFFIX,adxcel-ec2.com
 DOMAIN-SUFFIX,adx.com.ru
 DOMAIN-SUFFIX,adx-in.ads.heytapmobile.com
 DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
@@ -9509,6 +9510,7 @@ DOMAIN-SUFFIX,analytics.skyscanner.net
 DOMAIN-SUFFIX,analytics.slashdotmedia.com
 DOMAIN-SUFFIX,analytics.slidesai.io
 DOMAIN-SUFFIX,analytics.smart.mercedes-benz.com
+DOMAIN-SUFFIX,analytics-sm.com
 DOMAIN-SUFFIX,analytics.snaptube.app
 DOMAIN-SUFFIX,analytics.soluforce.com
 DOMAIN-SUFFIX,analytics.sona-mira.co.jp
@@ -10062,6 +10064,7 @@ DOMAIN-SUFFIX,apigee-test.sfttest.tt.omtrdc.net
 DOMAIN-SUFFIX,api.gimbal.com
 DOMAIN-SUFFIX,api.global.rse.global.tt.omtrdc.net
 DOMAIN-SUFFIX,apig.prd2-p.tt.omtrdc.net
+DOMAIN-SUFFIX,api-gtm.grubhub.com
 DOMAIN-SUFFIX,api.hairlie-stg.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hbf-qa.pmib.test.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hb.tt.omtrdc.net
@@ -11558,6 +11561,7 @@ DOMAIN-SUFFIX,authplb.bank.tt.omtrdc.net
 DOMAIN-SUFFIX,auth.q1.d1-pmgt.ac.tt.omtrdc.net
 DOMAIN-SUFFIX,auth-qa.hbf-qa.plat-qa.tt.omtrdc.net
 DOMAIN-SUFFIX,auth.social-login-test.tt.omtrdc.net
+DOMAIN-SUFFIX,auth-srv.launchthatapps.com
 DOMAIN-SUFFIX,authtrans.prod-2.tt.omtrdc.net
 DOMAIN-SUFFIX,authy-qa.staging2.tt.omtrdc.net
 DOMAIN-SUFFIX,authz-decision-dev.preprod-cms.a.tt.omtrdc.net
@@ -16352,6 +16356,7 @@ DOMAIN-SUFFIX,d3plfjw9uod7ab.cloudfront.net
 DOMAIN-SUFFIX,d3r7h55ola878c.cloudfront.net
 DOMAIN-SUFFIX,d3s7ggfq1s6jlj.cloudfront.net
 DOMAIN-SUFFIX,d3-umami.up.railway.app
+DOMAIN-SUFFIX,d401.dollartree.com
 DOMAIN-SUFFIX,d41.co
 DOMAIN-SUFFIX,d4ax0r5detcsu.cloudfront.net
 DOMAIN-SUFFIX,d54c14bdaccess.tt.omtrdc.net
@@ -21896,6 +21901,7 @@ DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,event.grassicpas.com
 DOMAIN-SUFFIX,eventgw.twilio.com
 DOMAIN-SUFFIX,event.hackle.io
+DOMAIN-SUFFIX,event.havasedge.com
 DOMAIN-SUFFIX,event.hket.com
 DOMAIN-SUFFIX,event.impression-neo.naver.com
 DOMAIN-SUFFIX,event.instiengage.com
@@ -24225,6 +24231,7 @@ DOMAIN-SUFFIX,greentubeiesgmbh.tt.omtrdc.net
 DOMAIN-SUFFIX,greif.actonservice.com
 DOMAIN-SUFFIX,gre.linkai.click
 DOMAIN-SUFFIX,grfz.de
+DOMAIN-SUFFIX,grgnsht.nzxt.com
 DOMAIN-SUFFIX,gr-go.experian.com
 DOMAIN-SUFFIX,gridsight3butor.tt.omtrdc.net
 DOMAIN-SUFFIX,gridsum.com
@@ -24440,6 +24447,7 @@ DOMAIN-SUFFIX,gzfjra.trendhim.fr
 DOMAIN-SUFFIX,gzjroa.bradsdeals.com
 DOMAIN-SUFFIX,gzlxvg.papy.co.jp
 DOMAIN-SUFFIX,h00c.sfr.fr
+DOMAIN-SUFFIX,h031.familydollar.com
 DOMAIN-SUFFIX,h-135-207-134-42.tt.omtrdc.net
 DOMAIN-SUFFIX,h135-207-183-21.tt.omtrdc.net
 DOMAIN-SUFFIX,h-135-207-240-78.tt.omtrdc.net
@@ -26134,6 +26142,7 @@ DOMAIN-SUFFIX,imhwzc.blibli.com
 DOMAIN-SUFFIX,imjdmq.emcasa.com
 DOMAIN-SUFFIX,imjsfy.allbeauty.com
 DOMAIN-SUFFIX,imjxso.bristol.nl
+DOMAIN-SUFFIX,imk.neweggimages.com
 DOMAIN-SUFFIX,immanalytics.com
 DOMAIN-SUFFIX,im.mboxedge37-alb02.tt.omtrdc.net
 DOMAIN-SUFFIX,immunocap.thermofisher.com
@@ -47646,6 +47655,7 @@ DOMAIN-SUFFIX,swa.t-mobile.nl
 DOMAIN-SUFFIX,swa.vodafone.cz
 DOMAIN-SUFFIX,swa.vodafone.pt
 DOMAIN-SUFFIX,swa.wowcher.co.uk
+DOMAIN-SUFFIX,s.wayfair.com
 DOMAIN-SUFFIX,sw.broadcom.com
 DOMAIN-SUFFIX,swdced.open32.nl
 DOMAIN-SUFFIX,swebanalytics.acs.org
@@ -47877,6 +47887,7 @@ DOMAIN-SUFFIX,tagging.src-reizen.nl
 DOMAIN-SUFFIX,tagging.swat.io
 DOMAIN-SUFFIX,tag.goadopt.io
 DOMAIN-SUFFIX,tag.hariken.co
+DOMAIN-SUFFIX,tag.havasedge.com
 DOMAIN-SUFFIX,tag.imagino.com
 DOMAIN-SUFFIX,tagmanager1.citibank.com
 DOMAIN-SUFFIX,tagmanager1.citibankonline.com
