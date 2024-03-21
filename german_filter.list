@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-20 05:15:15
-# DOMAIN-SUFFIX: 432
-# TOTAL: 432
+# UPDATED: 2024-03-22 05:27:43
+# DOMAIN-SUFFIX: 431
+# TOTAL: 431
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
@@ -381,7 +381,6 @@ DOMAIN-SUFFIX,tracknet.twyn.com
 DOMAIN-SUFFIX,trafficfabrik.com
 DOMAIN-SUFFIX,traffictrack.de
 DOMAIN-SUFFIX,trafico.prensaiberica.es
-DOMAIN-SUFFIX,transmatico.com
 DOMAIN-SUFFIX,trbo.com
 DOMAIN-SUFFIX,trmads.eu
 DOMAIN-SUFFIX,trmget.eu

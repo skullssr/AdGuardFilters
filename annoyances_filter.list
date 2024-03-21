@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-20 05:14:17
-# DOMAIN-SUFFIX: 1902
-# TOTAL: 1902
+# UPDATED: 2024-03-22 05:26:45
+# DOMAIN-SUFFIX: 1905
+# TOTAL: 1905
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -387,6 +387,7 @@ DOMAIN-SUFFIX,cmps.o2.cz
 DOMAIN-SUFFIX,cmpv2.macworld.co.uk
 DOMAIN-SUFFIX,cmpv2.techadvisor.fr
 DOMAIN-SUFFIX,cmpworker.dotesports.com
+DOMAIN-SUFFIX,cmpworker.operationsports.com
 DOMAIN-SUFFIX,cmpworker.primagames.com
 DOMAIN-SUFFIX,coachquartz.com
 DOMAIN-SUFFIX,coatfood.com
@@ -1266,6 +1267,7 @@ DOMAIN-SUFFIX,pushluck.fun
 DOMAIN-SUFFIX,push.maribacaberita.com
 DOMAIN-SUFFIX,pushmaster-cdn.xyz
 DOMAIN-SUFFIX,pushmaster.xyz
+DOMAIN-SUFFIX,pushmoose.com
 DOMAIN-SUFFIX,push.msgby.ru
 DOMAIN-SUFFIX,push.newscraft.io
 DOMAIN-SUFFIX,push-news.net
@@ -1566,6 +1568,7 @@ DOMAIN-SUFFIX,static.me-talk.ru
 DOMAIN-SUFFIX,static.pushe.co
 DOMAIN-SUFFIX,static.superbot.works
 DOMAIN-SUFFIX,statuesquebrush.com
+DOMAIN-SUFFIX,statuesqueship.com
 DOMAIN-SUFFIX,steadfastsound.com
 DOMAIN-SUFFIX,steepscale.com
 DOMAIN-SUFFIX,steepsquirrel.com

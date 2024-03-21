@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-21 05:11:02
+# UPDATED: 2024-03-22 05:26:00
 # DOMAIN-SUFFIX: 57900
 # TOTAL: 57900
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -10064,7 +10064,6 @@ DOMAIN-SUFFIX,apigee-test.sfttest.tt.omtrdc.net
 DOMAIN-SUFFIX,api.gimbal.com
 DOMAIN-SUFFIX,api.global.rse.global.tt.omtrdc.net
 DOMAIN-SUFFIX,apig.prd2-p.tt.omtrdc.net
-DOMAIN-SUFFIX,api-gtm.grubhub.com
 DOMAIN-SUFFIX,api.hairlie-stg.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hbf-qa.pmib.test.tt.omtrdc.net
 DOMAIN-SUFFIX,api.hb.tt.omtrdc.net
@@ -48032,6 +48031,7 @@ DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,tapjoy.net
 DOMAIN-SUFFIX,t.apkpure.net
 DOMAIN-SUFFIX,taplytics.com
+DOMAIN-SUFFIX,taplytics-umami.grubhub.com
 DOMAIN-SUFFIX,t.appsflyer.com
 DOMAIN-SUFFIX,taps.io
 DOMAIN-SUFFIX,tapstat.ru
