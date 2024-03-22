@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-22 05:26:00
-# DOMAIN-SUFFIX: 57900
-# TOTAL: 57900
+# UPDATED: 2024-03-23 05:19:02
+# DOMAIN-SUFFIX: 57901
+# TOTAL: 57901
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -10574,6 +10574,7 @@ DOMAIN-SUFFIX,appplayer-suppliers.eu.tt.omtrdc.net
 DOMAIN-SUFFIX,app.playhousesquare.org
 DOMAIN-SUFFIX,app.poconoraceway.com
 DOMAIN-SUFFIX,app.portland5.com
+DOMAIN-SUFFIX,app.posthog.com
 DOMAIN-SUFFIX,app.post.vertafore.com
 DOMAIN-SUFFIX,app.ppacri.org
 DOMAIN-SUFFIX,app.profile.purina.com
@@ -27641,6 +27642,7 @@ DOMAIN-SUFFIX,jcb.tt.omtrdc.net
 DOMAIN-SUFFIX,jcdecaux-recrute.tt.omtrdc.net
 DOMAIN-SUFFIX,jch-monitoring-test.sx.cloud.tt.omtrdc.net
 DOMAIN-SUFFIX,jcimgi.bestcuckoo.co.kr
+DOMAIN-SUFFIX,jcpclick.com
 DOMAIN-SUFFIX,jcpenney.tt.omtrdc.net
 DOMAIN-SUFFIX,jcpjfyikk.dogbonemarket.com
 DOMAIN-SUFFIX,jcplzp.lancel.com
@@ -37798,7 +37800,6 @@ DOMAIN-SUFFIX,post.carte-gr.total.fr
 DOMAIN-SUFFIX,postfoxentertainment.hb-api.tt.omtrdc.net
 DOMAIN-SUFFIX,postgraduate2.smu.edu.sg
 DOMAIN-SUFFIX,postgraduate.smu.edu.sg
-DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,posthog.tarnkappe.info
 DOMAIN-SUFFIX,post-log.pushwoosh.com
 DOMAIN-SUFFIX,postman.www-testuni.tt.omtrdc.net
