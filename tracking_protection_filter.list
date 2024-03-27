@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-27 05:13:24
-# DOMAIN-SUFFIX: 58513
-# TOTAL: 58513
+# UPDATED: 2024-03-28 05:01:16
+# DOMAIN-SUFFIX: 58515
+# TOTAL: 58515
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -29421,6 +29421,7 @@ DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,log.snow.me
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,logs.ntvplus.tv
+DOMAIN-SUFFIX,logs-partners.coupang.com
 DOMAIN-SUFFIX,logs.psm.wmcdp.io
 DOMAIN-SUFFIX,logs.roku.com
 DOMAIN-SUFFIX,logs*.smithsonian.museum
@@ -51658,6 +51659,7 @@ DOMAIN-SUFFIX,track.mentor.com
 DOMAIN-SUFFIX,track.mergenthaler.cc
 DOMAIN-SUFFIX,track.metodoflerte.shop
 DOMAIN-SUFFIX,track.midway.run
+DOMAIN-SUFFIX,track.migattenogokui.com
 DOMAIN-SUFFIX,track.mightyuninstaller.com
 DOMAIN-SUFFIX,track.miro.com
 DOMAIN-SUFFIX,track.mituo.cn
