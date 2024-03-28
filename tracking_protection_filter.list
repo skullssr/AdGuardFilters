@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-28 05:01:16
-# DOMAIN-SUFFIX: 58515
-# TOTAL: 58515
+# UPDATED: 2024-03-29 04:56:20
+# DOMAIN-SUFFIX: 58517
+# TOTAL: 58517
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -15023,6 +15023,7 @@ DOMAIN-SUFFIX,collector.tt.omtrdc.net
 DOMAIN-SUFFIX,collector-*.tvsquared.com
 DOMAIN-SUFFIX,collector.vhx.tv
 DOMAIN-SUFFIX,collector.wawlabs.com
+DOMAIN-SUFFIX,collector.xhofficial.com
 DOMAIN-SUFFIX,collector.xhwide1.com
 DOMAIN-SUFFIX,collect.rtl.lu
 DOMAIN-SUFFIX,collect.serious.li
@@ -24367,6 +24368,7 @@ DOMAIN-SUFFIX,greatwestlife.tt.omtrdc.net
 DOMAIN-SUFFIX,greed-qa.tt.omtrdc.net
 DOMAIN-SUFFIX,greenbaypackersinc.tt.omtrdc.net
 DOMAIN-SUFFIX,greenbeacon.actonservice.com
+DOMAIN-SUFFIX,greenbids.ai
 DOMAIN-SUFFIX,greencharge.actonservice.com
 DOMAIN-SUFFIX,greendot.tt.omtrdc.net
 DOMAIN-SUFFIX,greenes-ppp.arabek.tt.omtrdc.net
