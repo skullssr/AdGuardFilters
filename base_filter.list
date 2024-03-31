@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-03-31 04:55:20
-# DOMAIN-SUFFIX: 47585
-# TOTAL: 47585
+# UPDATED: 2024-04-01 05:03:44
+# DOMAIN-SUFFIX: 47586
+# TOTAL: 47586
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,0024ad98dd.com
 DOMAIN-SUFFIX,0083334e84.com
@@ -3247,6 +3247,7 @@ DOMAIN-SUFFIX,ads.imgdesu.art
 DOMAIN-SUFFIX,adsimilis.com
 DOMAIN-SUFFIX,adsinimages.com
 DOMAIN-SUFFIX,adsinstant.com
+DOMAIN-SUFFIX,adsinteractive-794b.kxcdn.com
 DOMAIN-SUFFIX,ads.javtit.com
 DOMAIN-SUFFIX,adsjumbo.com
 DOMAIN-SUFFIX,adskape.ru
