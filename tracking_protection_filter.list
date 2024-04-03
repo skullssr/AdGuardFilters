@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-02 05:10:51
-# DOMAIN-SUFFIX: 58318
-# TOTAL: 58318
+# UPDATED: 2024-04-04 05:19:53
+# DOMAIN-SUFFIX: 58321
+# TOTAL: 58321
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -14029,6 +14029,7 @@ DOMAIN-SUFFIX,cdn.adt567.net
 DOMAIN-SUFFIX,cdnappicons.appsflyer.com
 DOMAIN-SUFFIX,cdn.arcstudiopro.com
 DOMAIN-SUFFIX,cdn.attkdmg.xyz
+DOMAIN-SUFFIX,cdn-channels-pixel.ex.co
 DOMAIN-SUFFIX,cdn.c-i.as
 DOMAIN-SUFFIX,cdn.cohesionapps.com
 DOMAIN-SUFFIX,cdn.contalyze.com
@@ -16220,6 +16221,7 @@ DOMAIN-SUFFIX,cv.taskar.online
 DOMAIN-SUFFIX,cv.tenjin.cc
 DOMAIN-SUFFIX,cv.theatreacademy.info
 DOMAIN-SUFFIX,cv.tokyowork.jp
+DOMAIN-SUFFIX,cv-tracker.stanby.com
 DOMAIN-SUFFIX,cvtspo.moebel24.de
 DOMAIN-SUFFIX,cv.ui-chiho.clinic
 DOMAIN-SUFFIX,cv.virtualoffice-resonance.jp
@@ -29261,6 +29263,7 @@ DOMAIN-SUFFIX,logging.api.intuit.com
 DOMAIN-SUFFIX,logging.carambo.la
 DOMAIN-SUFFIX,logging.e-himart.co.kr
 DOMAIN-SUFFIX,logging.goodgamestudios.com
+DOMAIN-SUFFIX,logging.h3z.jp
 DOMAIN-SUFFIX,logging.prefixbox.com
 DOMAIN-SUFFIX,logging.pw.adn.cloud
 DOMAIN-SUFFIX,loggly.cheatsheet.com
@@ -37451,7 +37454,6 @@ DOMAIN-SUFFIX,perr.l-agent.me
 DOMAIN-SUFFIX,perr.l-err.biz
 DOMAIN-SUFFIX,persianstat.com
 DOMAIN-SUFFIX,persianstat.ir
-DOMAIN-SUFFIX,personaclick.com
 DOMAIN-SUFFIX,personyze.com
 DOMAIN-SUFFIX,persorgamtrk.com
 DOMAIN-SUFFIX,perzonalization.com
@@ -49445,6 +49447,7 @@ DOMAIN-SUFFIX,tivixv.nutribullet.com
 DOMAIN-SUFFIX,tivo4c.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,tivo.tt.omtrdc.net
 DOMAIN-SUFFIX,tivronplus2.tt.omtrdc.net
+DOMAIN-SUFFIX,t.iwara.tv
 DOMAIN-SUFFIX,tj3rql9siwef.www.freecodecamp.org
 DOMAIN-SUFFIX,t.janieandjack.com
 DOMAIN-SUFFIX,tjbhng.hemington.com.tr
