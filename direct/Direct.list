@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-06 05:36:59
-# DOMAIN-SUFFIX: 3804
-# TOTAL: 3804
+# UPDATED: 2024-04-07 05:10:01
+# DOMAIN-SUFFIX: 3805
+# TOTAL: 3805
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,10010.com
@@ -3115,6 +3115,7 @@ DOMAIN-SUFFIX,stash.roistat.com
 DOMAIN-SUFFIX,statcounter.com
 DOMAIN-SUFFIX,static.softlayer.com
 DOMAIN-SUFFIX,static-v*.trbo.com
+DOMAIN-SUFFIX,stbemuprocode.com
 DOMAIN-SUFFIX,steamid.uk
 DOMAIN-SUFFIX,stern.de
 DOMAIN-SUFFIX,stfly.io
