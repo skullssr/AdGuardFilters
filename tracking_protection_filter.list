@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-10 05:15:34
+# UPDATED: 2024-04-11 05:22:33
 # DOMAIN-SUFFIX: 58585
 # TOTAL: 58585
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -14807,7 +14807,6 @@ DOMAIN-SUFFIX,cmon.congress.gov
 DOMAIN-SUFFIX,cmp.audi.be
 DOMAIN-SUFFIX,cmp-cdn.ghostery.com
 DOMAIN-SUFFIX,cmp.cupra.be
-DOMAIN-SUFFIX,cmp.datasign.co
 DOMAIN-SUFFIX,cmp.dieteren.be
 DOMAIN-SUFFIX,cmp.dieterengroup.com
 DOMAIN-SUFFIX,cmp.microlino.be
@@ -25312,7 +25311,6 @@ DOMAIN-SUFFIX,hsbcmy.tt.omtrdc.net
 DOMAIN-SUFFIX,hsbcus.tt.omtrdc.net
 DOMAIN-SUFFIX,hsbcvn.tt.omtrdc.net
 DOMAIN-SUFFIX,hscollectedforms.net
-DOMAIN-SUFFIX,h.seznam.cz
 DOMAIN-SUFFIX,hsfaffiliatesllc.tt.omtrdc.net
 DOMAIN-SUFFIX,hslkll.psychic.de
 DOMAIN-SUFFIX,hs-scripts.com
@@ -29323,6 +29321,7 @@ DOMAIN-SUFFIX,logcounter.com
 DOMAIN-SUFFIX,log.dance
 DOMAIN-SUFFIX,log.dav.edu.vn
 DOMAIN-SUFFIX,log.down61.com
+DOMAIN-SUFFIX,log.dpa.com
 DOMAIN-SUFFIX,log.dramaboxdb.com
 DOMAIN-SUFFIX,log.droid4x.cn
 DOMAIN-SUFFIX,logdy.com
@@ -48528,6 +48527,7 @@ DOMAIN-SUFFIX,tags.hickies.com
 DOMAIN-SUFFIX,tags.hickies.eu
 DOMAIN-SUFFIX,tags.igeo.com.bo
 DOMAIN-SUFFIX,tags.kone.com
+DOMAIN-SUFFIX,tags.qortex.ai
 DOMAIN-SUFFIX,tags.refinery89.com
 DOMAIN-SUFFIX,tagsrvcs.com
 DOMAIN-SUFFIX,tags.soloway.ru

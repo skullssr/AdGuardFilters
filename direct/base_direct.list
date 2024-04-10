@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-07 04:58:06
-# DOMAIN-SUFFIX: 2856
-# TOTAL: 2856
+# UPDATED: 2024-04-11 05:14:30
+# DOMAIN-SUFFIX: 2857
+# TOTAL: 2857
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,100count.net
@@ -916,6 +916,7 @@ DOMAIN-SUFFIX,fotoblogia.pl
 DOMAIN-SUFFIX,fotopixel.es
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,fox-url.com
+DOMAIN-SUFFIX,fplstatistics.com
 DOMAIN-SUFFIX,freaktab.com
 DOMAIN-SUFFIX,freeallcourse.com
 DOMAIN-SUFFIX,freeapps4y.blogspot.com
