@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-13 05:51:13
-# DOMAIN-SUFFIX: 58564
-# TOTAL: 58564
+# UPDATED: 2024-04-14 05:25:30
+# DOMAIN-SUFFIX: 58565
+# TOTAL: 58565
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9418,6 +9418,7 @@ DOMAIN-SUFFIX,analytics.nova.foxsports.com
 DOMAIN-SUFFIX,analytics.nrg.com
 DOMAIN-SUFFIX,analytics.nrgprotects.com
 DOMAIN-SUFFIX,analytics-nssl.bradyid.com
+DOMAIN-SUFFIX,analytics.oceanengine.com
 DOMAIN-SUFFIX,analytics.octaglobal.com
 DOMAIN-SUFFIX,analytics.omniscientai.com
 DOMAIN-SUFFIX,analytics.onedio.com
