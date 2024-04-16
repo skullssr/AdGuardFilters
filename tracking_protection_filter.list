@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-16 05:14:45
-# DOMAIN-SUFFIX: 48717
-# TOTAL: 48717
+# UPDATED: 2024-04-17 05:13:28
+# DOMAIN-SUFFIX: 48720
+# TOTAL: 48720
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8201,6 +8201,7 @@ DOMAIN-SUFFIX,app.advertisingsolutions.att-mail.com
 DOMAIN-SUFFIX,app.airtrack.jp
 DOMAIN-SUFFIX,appanalysis*.banggood.com
 DOMAIN-SUFFIX,app-analytics-ru.huami.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-analytics-*.snapchat.com
 DOMAIN-SUFFIX,app-analytics.snapchat.com
 DOMAIN-SUFFIX,app.apimobilemweb-careerso.hb-api.tt.omtrdc.net
@@ -10834,6 +10835,7 @@ DOMAIN-SUFFIX,cdn.kaizenplatform.net
 DOMAIN-SUFFIX,cdn.logrocket.com
 DOMAIN-SUFFIX,cdn.mediatradecraft.com
 DOMAIN-SUFFIX,cdn.memo.co
+DOMAIN-SUFFIX,cdn.mircheigeshoa.com
 DOMAIN-SUFFIX,cdn.odoscope.cloud
 DOMAIN-SUFFIX,cdn.p.analitik.bik.gov.tr
 DOMAIN-SUFFIX,cdn.pranmcpkx.com
@@ -18719,6 +18721,7 @@ DOMAIN-SUFFIX,fpc.choosemylo.com
 DOMAIN-SUFFIX,fpc.ciel.com
 DOMAIN-SUFFIX,fpc.consumerportfolio.com
 DOMAIN-SUFFIX,fpcdallasstars.nhl.com
+DOMAIN-SUFFIX,fp-cdn.azureedge.net
 DOMAIN-SUFFIX,fpc.firemountaingems.com
 DOMAIN-SUFFIX,fpc.gartner.com
 DOMAIN-SUFFIX,fpc.golubcapital.com
