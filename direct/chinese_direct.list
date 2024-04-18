@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-14 05:09:26
-# DOMAIN-SUFFIX: 196
-# TOTAL: 196
+# UPDATED: 2024-04-19 05:13:17
+# DOMAIN-SUFFIX: 197
+# TOTAL: 197
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,mmgd.xyz
 DOMAIN-SUFFIX,mmuu22.link
 DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,moneysave.info
+DOMAIN-SUFFIX,morosedog.gitlab.io
 DOMAIN-SUFFIX,moviesunuss.net
 DOMAIN-SUFFIX,moyens.net
 DOMAIN-SUFFIX,ms332.com
