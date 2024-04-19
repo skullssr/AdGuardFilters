@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-17 05:17:23
-# DOMAIN-SUFFIX: 876
-# TOTAL: 876
+# UPDATED: 2024-04-20 05:11:09
+# DOMAIN-SUFFIX: 878
+# TOTAL: 878
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,ad.duapps.com
 DOMAIN-SUFFIX,adentifi.com
 DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
 DOMAIN-SUFFIX,adfiles.auditude.com
+DOMAIN-SUFFIX,ad-files.classting.com
 DOMAIN-SUFFIX,adflake.com
 DOMAIN-SUFFIX,ad.flipboard.com
 DOMAIN-SUFFIX,adforgames.com
@@ -741,6 +742,7 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,sonobi.com
 DOMAIN-SUFFIX,soundcloud-pax.pandora.com
 DOMAIN-SUFFIX,speee-ad.akamaized.net
+DOMAIN-SUFFIX,splash-ad.classting.com
 DOMAIN-SUFFIX,splash.appsgeyser.com
 DOMAIN-SUFFIX,splicky.com
 DOMAIN-SUFFIX,springserve.com
