@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-23 05:09:17
+# UPDATED: 2024-04-24 05:14:38
 # DOMAIN-SUFFIX: 44353
 # TOTAL: 44353
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
@@ -25228,7 +25228,6 @@ DOMAIN-SUFFIX,mssql.ssl.d1.sc.tt.omtrdc.net
 DOMAIN-SUFFIX,mstat.acestream.net
 DOMAIN-SUFFIX,mstm.motorsport.com
 DOMAIN-SUFFIX,ms.topschooljobs.org
-DOMAIN-SUFFIX,m.stripe.com
 DOMAIN-SUFFIX,msub.mmail.northeast.aaa.com
 DOMAIN-SUFFIX,msz3.destinia.cn
 DOMAIN-SUFFIX,mta1.carte-gr.total.fr
@@ -44045,6 +44044,7 @@ DOMAIN-SUFFIX,yoifwi.levi.com.ph
 DOMAIN-SUFFIX,yoiku-sub.yoiku.support
 DOMAIN-SUFFIX,yokkaichi.treker.fun
 DOMAIN-SUFFIX,yolo.philipbjorge.com
+DOMAIN-SUFFIX,y.one.impact-ad.jp
 DOMAIN-SUFFIX,yonseiuniversity.tt.omtrdc.net
 DOMAIN-SUFFIX,yoochoose.net
 DOMAIN-SUFFIX,yorkshirebuildingsoc.tt.omtrdc.net
