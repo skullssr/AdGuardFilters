@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-24 05:14:38
-# DOMAIN-SUFFIX: 44353
-# TOTAL: 44353
+# UPDATED: 2024-04-25 05:02:39
+# DOMAIN-SUFFIX: 44357
+# TOTAL: 44357
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -9842,6 +9842,7 @@ DOMAIN-SUFFIX,c4contexture.actonservice.com
 DOMAIN-SUFFIX,c4dv.copinesdevoyage.com
 DOMAIN-SUFFIX,c4tracking01.com
 DOMAIN-SUFFIX,c4tw.net
+DOMAIN-SUFFIX,c615.denverpost.com
 DOMAIN-SUFFIX,c993.westport-news.com
 DOMAIN-SUFFIX,ca-api.cafe24data.com
 DOMAIN-SUFFIX,cabonite.tt.omtrdc.net
@@ -10827,6 +10828,7 @@ DOMAIN-SUFFIX,collector.cakeresume.com
 DOMAIN-SUFFIX,collector-cdn.github.com
 DOMAIN-SUFFIX,collector.cdp.cnn.com
 DOMAIN-SUFFIX,collector-dev.cdp-dev.cnn.com
+DOMAIN-SUFFIX,collector*.ex.co
 DOMAIN-SUFFIX,collector.fiverr.com
 DOMAIN-SUFFIX,collector.getyourguide.com
 DOMAIN-SUFFIX,collector.githubapp.com
@@ -15630,6 +15632,7 @@ DOMAIN-SUFFIX,ec.adadapted.com
 DOMAIN-SUFFIX,ecampus.tt.omtrdc.net
 DOMAIN-SUFFIX,ec-concier.com
 DOMAIN-SUFFIX,ec-dishpurchasingcorporation.hb-api.tt.omtrdc.net
+DOMAIN-SUFFIX,e.channelexco.com
 DOMAIN-SUFFIX,echidna.hellotomorrow.agency
 DOMAIN-SUFFIX,echidna.honeybadger.io
 DOMAIN-SUFFIX,eckta.trekkww.fun
@@ -25713,6 +25716,7 @@ DOMAIN-SUFFIX,news.reedexpo.fr
 DOMAIN-SUFFIX,news.salon-aps.com
 DOMAIN-SUFFIX,news.seatrade-maritime.com
 DOMAIN-SUFFIX,news.sitl.eu
+DOMAIN-SUFFIX,newsstat.dallasnews.com
 DOMAIN-SUFFIX,news.strategiccfo360.com
 DOMAIN-SUFFIX,news.strategiccio360.com
 DOMAIN-SUFFIX,news.supplychain-event.com
