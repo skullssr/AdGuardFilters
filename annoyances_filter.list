@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-25 05:03:24
-# DOMAIN-SUFFIX: 1920
-# TOTAL: 1920
+# UPDATED: 2024-04-26 05:06:15
+# DOMAIN-SUFFIX: 1922
+# TOTAL: 1922
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -304,6 +304,7 @@ DOMAIN-SUFFIX,cdn.privacy-mgmt.com
 DOMAIN-SUFFIX,cdn.privacytools.com.br
 DOMAIN-SUFFIX,cdn.pushowl.com
 DOMAIN-SUFFIX,cdn.reamaze.com
+DOMAIN-SUFFIX,cdn.sentinelp.com
 DOMAIN-SUFFIX,cdn-server.live
 DOMAIN-SUFFIX,cdn.siteswithcontent.com
 DOMAIN-SUFFIX,cdn.snigelweb.com
@@ -594,6 +595,7 @@ DOMAIN-SUFFIX,dtbot.directtalk.com.br
 DOMAIN-SUFFIX,dustyhammer.com
 DOMAIN-SUFFIX,dustyrabbits.com
 DOMAIN-SUFFIX,dustywave.com
+DOMAIN-SUFFIX,eagereden.com
 DOMAIN-SUFFIX,earthquakescarf.com
 DOMAIN-SUFFIX,earthycopy.com
 DOMAIN-SUFFIX,easyfeeed.com
