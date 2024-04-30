@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-04-26 05:09:25
+# UPDATED: 2024-05-01 05:27:19
 # DOMAIN-SUFFIX: 879
 # TOTAL: 879
 DOMAIN-SUFFIX,023hysj.com
@@ -247,7 +247,7 @@ DOMAIN-SUFFIX,api.applovefrom.com
 DOMAIN-SUFFIX,api.appnxt.net
 DOMAIN-SUFFIX,api*.batmobil.net
 DOMAIN-SUFFIX,api*.batmobi.net
-DOMAIN-SUFFIX,api-*.bidmachine.io
+DOMAIN-SUFFIX,api*.bidmachine.io
 DOMAIN-SUFFIX,api.brs.intl.miui.com
 DOMAIN-SUFFIX,api.cloudmobi.net
 DOMAIN-SUFFIX,api.fusepowered.com
