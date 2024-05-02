@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-02 05:21:07
-# DOMAIN-SUFFIX: 50456
-# TOTAL: 50456
+# UPDATED: 2024-05-03 05:12:21
+# DOMAIN-SUFFIX: 50463
+# TOTAL: 50463
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -22591,6 +22591,7 @@ DOMAIN-SUFFIX,ingalls.hrm.healthgrades.com
 DOMAIN-SUFFIX,ingdirectaustralia.tt.omtrdc.net
 DOMAIN-SUFFIX,ingdirectit.tt.omtrdc.net
 DOMAIN-SUFFIX,ingest.do.brainsland.com
+DOMAIN-SUFFIX,ingest.make.rvohealth.com
 DOMAIN-SUFFIX,in-go.experian.com
 DOMAIN-SUFFIX,ingrammicro.tt.omtrdc.net
 DOMAIN-SUFFIX,ingredients.firmenich.com
@@ -24249,6 +24250,7 @@ DOMAIN-SUFFIX,log.rutube.ru
 DOMAIN-SUFFIX,logs13.xiti.com
 DOMAIN-SUFFIX,logs1407.xiti.com
 DOMAIN-SUFFIX,logs.51cto.com
+DOMAIN-SUFFIX,logs.8thwall.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,logs.datadoghq.com
@@ -24283,6 +24285,7 @@ DOMAIN-SUFFIX,logs.thebloggernetwork.com
 DOMAIN-SUFFIX,logs.theccaa.com
 DOMAIN-SUFFIX,log.strm.yandex.ru
 DOMAIN-SUFFIX,logs.unchecky.com
+DOMAIN-SUFFIX,log.suumo.jp
 DOMAIN-SUFFIX,logs.viadata.store
 DOMAIN-SUFFIX,logtake.weidian.com
 DOMAIN-SUFFIX,log.talkie-ai.com
@@ -24304,6 +24307,7 @@ DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.mihoyo.com
 DOMAIN-SUFFIX,log-v4-insight.kaizenplatform.net
 DOMAIN-SUFFIX,log.vava.com
+DOMAIN-SUFFIX,log-verify.mob.com
 DOMAIN-SUFFIX,log*.vietnamplus.vn
 DOMAIN-SUFFIX,log.voicecloud.cn
 DOMAIN-SUFFIX,log.wat.tv
@@ -34732,6 +34736,7 @@ DOMAIN-SUFFIX,seek.tt.omtrdc.net
 DOMAIN-SUFFIX,seek.uwa.edu.au
 DOMAIN-SUFFIX,see.milkshow.live
 DOMAIN-SUFFIX,see.wasteorshare.com
+DOMAIN-SUFFIX,segment-api.goodrx.com
 DOMAIN-SUFFIX,segment-cdn.producthunt.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segmenthub.com
@@ -34968,6 +34973,7 @@ DOMAIN-SUFFIX,sgikrg.3dcart.com
 DOMAIN-SUFFIX,s.glimesh.tv
 DOMAIN-SUFFIX,sg.log.ulivetv.net
 DOMAIN-SUFFIX,sg.lucanet.com
+DOMAIN-SUFFIX,sgmcdn.racingpost.com
 DOMAIN-SUFFIX,sgms.greatschools.org
 DOMAIN-SUFFIX,sg.promo.skf.com
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
@@ -50326,6 +50332,7 @@ DOMAIN-SUFFIX,zimmerbiomet.tt.omtrdc.net
 DOMAIN-SUFFIX,zimmerinc.tt.omtrdc.net
 DOMAIN-SUFFIX,zion.qbo.intuit.com
 DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
+DOMAIN-SUFFIX,zion-telemetry-nonprod.api.cnn.io
 DOMAIN-SUFFIX,zipstat.dk
 DOMAIN-SUFFIX,ziqrso.24mx.no
 DOMAIN-SUFFIX,zirve100.com
