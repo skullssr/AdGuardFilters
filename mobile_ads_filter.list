@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-03 05:16:18
-# DOMAIN-SUFFIX: 881
-# TOTAL: 881
+# UPDATED: 2024-05-04 05:33:08
+# DOMAIN-SUFFIX: 882
+# TOTAL: 882
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -467,6 +467,7 @@ DOMAIN-SUFFIX,hotapi-va.isnssdk.com
 DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
 DOMAIN-SUFFIX,houseads.ttpsdk.info
 DOMAIN-SUFFIX,httpool.com
+DOMAIN-SUFFIX,https-filtering-check.adtidy.org
 DOMAIN-SUFFIX,huntmad.com
 DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
 DOMAIN-SUFFIX,hybird.rayjump.com

@@ -1,7 +1,7 @@
-# NAME: ExperimentalFilter
+# NAME: URLTrackingFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-04 05:32:56
+# UPDATED: 2024-05-04 05:29:28
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
 DOMAIN-SUFFIX,https-filtering-check.adtidy.org
