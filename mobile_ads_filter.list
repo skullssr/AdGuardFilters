@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-04 05:33:08
+# UPDATED: 2024-05-08 05:26:08
 # DOMAIN-SUFFIX: 882
 # TOTAL: 882
 DOMAIN-SUFFIX,023hysj.com
@@ -557,6 +557,7 @@ DOMAIN-SUFFIX,mcoreads.com
 DOMAIN-SUFFIX,med-api.admost.com
 DOMAIN-SUFFIX,medialand.ru
 DOMAIN-SUFFIX,mediate-ios-*.hyprmx.com
+DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,meendocash.com
 DOMAIN-SUFFIX,metamx.com
 DOMAIN-SUFFIX,mfadsrvr.com
@@ -635,7 +636,6 @@ DOMAIN-SUFFIX,ob.leap.app
 DOMAIN-SUFFIX,oconner.biz
 DOMAIN-SUFFIX,offerwall-adnative.com
 DOMAIN-SUFFIX,offerwall.yandex.net
-DOMAIN-SUFFIX,o-iab.mediation.unity3d.com
 DOMAIN-SUFFIX,onlineapi.youappi.com
 DOMAIN-SUFFIX,open.e.kuaishou.cn
 DOMAIN-SUFFIX,open.e.kuaishou.com
