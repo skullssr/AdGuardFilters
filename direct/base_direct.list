@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-07 05:01:00
-# DOMAIN-SUFFIX: 2866
-# TOTAL: 2866
+# UPDATED: 2024-05-13 05:28:21
+# DOMAIN-SUFFIX: 2873
+# TOTAL: 2873
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,100count.net
@@ -1941,6 +1941,13 @@ DOMAIN-SUFFIX,pikafile.com
 DOMAIN-SUFFIX,pikio.pl
 DOMAIN-SUFFIX,pinayvids.com
 DOMAIN-SUFFIX,pinsystem.co.uk
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pinterest.de
+DOMAIN-SUFFIX,pinterest.es
+DOMAIN-SUFFIX,pinterest.fr
+DOMAIN-SUFFIX,pinterest.it
+DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pinterest.ph
 DOMAIN-SUFFIX,pipocas.tv
 DOMAIN-SUFFIX,piratedhub.com
 DOMAIN-SUFFIX,pitbullofficial.com
