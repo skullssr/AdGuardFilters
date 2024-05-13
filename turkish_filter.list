@@ -1,11 +1,10 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-08 05:25:56
-# DOMAIN-SUFFIX: 268
-# TOTAL: 268
+# UPDATED: 2024-05-14 05:10:32
+# DOMAIN-SUFFIX: 235
+# TOTAL: 235
 DOMAIN-SUFFIX,61ads.net
-DOMAIN-SUFFIX,adbetnet.com
 DOMAIN-SUFFIX,adbetnetwork.com
 DOMAIN-SUFFIX,ad*.bilgin.pro
 DOMAIN-SUFFIX,adbreak.cubecdn.net
@@ -25,7 +24,6 @@ DOMAIN-SUFFIX,adhouse.cubecdn.net
 DOMAIN-SUFFIX,adhouse.pro
 DOMAIN-SUFFIX,adimage.media
 DOMAIN-SUFFIX,adl.mynetreklam.com
-DOMAIN-SUFFIX,admatic.com.tr
 DOMAIN-SUFFIX,adnamo.net
 DOMAIN-SUFFIX,adnatro.com
 DOMAIN-SUFFIX,adn.bursadabugun.com
@@ -37,7 +35,6 @@ DOMAIN-SUFFIX,adon.io
 DOMAIN-SUFFIX,adpozitif.com
 DOMAIN-SUFFIX,adrazzi.com
 DOMAIN-SUFFIX,adreda.com
-DOMAIN-SUFFIX,ad.reklamport.com
 DOMAIN-SUFFIX,ad.reklm.com
 DOMAIN-SUFFIX,adrequests.com
 DOMAIN-SUFFIX,ad.reyazilim.com
@@ -67,7 +64,6 @@ DOMAIN-SUFFIX,ads.pivol.net
 DOMAIN-SUFFIX,ads.sondakika.com
 DOMAIN-SUFFIX,ads.web.tr
 DOMAIN-SUFFIX,ads-wordego.azureedge.net
-DOMAIN-SUFFIX,adtarget.com.tr
 DOMAIN-SUFFIX,ad*.tmgrup.com.tr
 DOMAIN-SUFFIX,advancenative.com
 DOMAIN-SUFFIX,advoly.com
@@ -80,7 +76,6 @@ DOMAIN-SUFFIX,affiliateserver.hangikredi.com
 DOMAIN-SUFFIX,afyonturkreklam.com
 DOMAIN-SUFFIX,alty.fun
 DOMAIN-SUFFIX,androidads23.adcolony.com
-DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,api.adnsafe.org
 DOMAIN-SUFFIX,app.gelirartisi.com
 DOMAIN-SUFFIX,apptospace.com
@@ -89,7 +84,6 @@ DOMAIN-SUFFIX,artemisaffiliates.com
 DOMAIN-SUFFIX,aspartos.com
 DOMAIN-SUFFIX,aybereklam.com
 DOMAIN-SUFFIX,bahisciler.co
-DOMAIN-SUFFIX,bambarmedia.com
 DOMAIN-SUFFIX,banner.kanald.com.tr
 DOMAIN-SUFFIX,banner.setrowid.com
 DOMAIN-SUFFIX,banners.tempobet.com
@@ -105,7 +99,6 @@ DOMAIN-SUFFIX,bo.facesbet.com
 DOMAIN-SUFFIX,bwcdn.xyz
 DOMAIN-SUFFIX,bwtsrv.com
 DOMAIN-SUFFIX,campaign.nmobs.com
-DOMAIN-SUFFIX,cdn.advgalaxy.com
 DOMAIN-SUFFIX,cdn.eksiup.com
 DOMAIN-SUFFIX,cdn.klasseo.com
 DOMAIN-SUFFIX,cdn.smartclick.io
@@ -114,7 +107,6 @@ DOMAIN-SUFFIX,clbanners9.com
 DOMAIN-SUFFIX,clickmerkez.com
 DOMAIN-SUFFIX,contema.ru
 DOMAIN-SUFFIX,content.acc-hd.de
-DOMAIN-SUFFIX,cplayer.pw
 DOMAIN-SUFFIX,cryptosmoke.care
 DOMAIN-SUFFIX,d1d8vn0fpluuz7.cloudfront.net
 DOMAIN-SUFFIX,d2pspvbdjxwkpo.cloudfront.net
@@ -130,21 +122,13 @@ DOMAIN-SUFFIX,files.pbgiris.com
 DOMAIN-SUFFIX,finema.net
 DOMAIN-SUFFIX,finema-net.cdn.ampproject.org
 DOMAIN-SUFFIX,finvest.care
-DOMAIN-SUFFIX,franecki.net
-DOMAIN-SUFFIX,friendshipmale.com
 DOMAIN-SUFFIX,fvbaffiliate.com
-DOMAIN-SUFFIX,gaiphaud.xyz
-DOMAIN-SUFFIX,gamescdnfor.com
 DOMAIN-SUFFIX,genelajans.com
-DOMAIN-SUFFIX,glixaing.com
-DOMAIN-SUFFIX,glizauvo.net
-DOMAIN-SUFFIX,gloaphoo.net
 DOMAIN-SUFFIX,gmgreklam.com
 DOMAIN-SUFFIX,gorselcdn.com
 DOMAIN-SUFFIX,gorselpanel.com
 DOMAIN-SUFFIX,gr.hdream.cfd
 DOMAIN-SUFFIX,hemenindir.to
-DOMAIN-SUFFIX,hetaruvg.com
 DOMAIN-SUFFIX,htpanel.com
 DOMAIN-SUFFIX,https-filtering-check.adtidy.org
 DOMAIN-SUFFIX,indirads.org
@@ -157,7 +141,6 @@ DOMAIN-SUFFIX,intermediaworks.com
 DOMAIN-SUFFIX,ivr.com.tr
 DOMAIN-SUFFIX,iyisayfa.net
 DOMAIN-SUFFIX,kalitereklam.com
-DOMAIN-SUFFIX,kingads.mobi
 DOMAIN-SUFFIX,kriptoparahaber.care
 DOMAIN-SUFFIX,kurulum.xyz
 DOMAIN-SUFFIX,launchingonsetwhirlwind.com
@@ -165,7 +148,6 @@ DOMAIN-SUFFIX,likevertising.com
 DOMAIN-SUFFIX,load.sumome.com
 DOMAIN-SUFFIX,mackolikftp.tuttur.com
 DOMAIN-SUFFIX,makroo.com
-DOMAIN-SUFFIX,mediapeartree.com
 DOMAIN-SUFFIX,medyanative.com
 DOMAIN-SUFFIX,metrics34.com
 DOMAIN-SUFFIX,minireklam.com
@@ -174,13 +156,9 @@ DOMAIN-SUFFIX,mobilpop.com
 DOMAIN-SUFFIX,mobilup.com
 DOMAIN-SUFFIX,mobon.com
 DOMAIN-SUFFIX,mp.subservis.com
-DOMAIN-SUFFIX,mynativeads.com
 DOMAIN-SUFFIX,my.urdreama.cfd
 DOMAIN-SUFFIX,n69adserv.com
 DOMAIN-SUFFIX,nativendo.com
-DOMAIN-SUFFIX,nativespot.com
-DOMAIN-SUFFIX,networkad.net
-DOMAIN-SUFFIX,noahilum.net
 DOMAIN-SUFFIX,noxaffiliates.com
 DOMAIN-SUFFIX,numarapaneli.com
 DOMAIN-SUFFIX,nutga.com
@@ -188,7 +166,6 @@ DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,partners.betbooaffiliates.com
 DOMAIN-SUFFIX,partner.superbahisaffiliates*.com
 DOMAIN-SUFFIX,partnerx.bethub.io
-DOMAIN-SUFFIX,peppaping.xyz
 DOMAIN-SUFFIX,performancenative.com
 DOMAIN-SUFFIX,permato.com
 DOMAIN-SUFFIX,piaads.com
@@ -197,14 +174,10 @@ DOMAIN-SUFFIX,pixad.com.tr
 DOMAIN-SUFFIX,pmelon.com
 DOMAIN-SUFFIX,policycounsel.org
 DOMAIN-SUFFIX,pophit.net
-DOMAIN-SUFFIX,powferads.com
 DOMAIN-SUFFIX,publisher-network.com
 DOMAIN-SUFFIX,r20.club
-DOMAIN-SUFFIX,realhumandeals.com
-DOMAIN-SUFFIX,refbanners.website
 DOMAIN-SUFFIX,referans.xyz
 DOMAIN-SUFFIX,ref.gitadres.com
-DOMAIN-SUFFIX,refpa.top
 DOMAIN-SUFFIX,reklam1.akhisar.bel.tr
 DOMAIN-SUFFIX,reklam7.com
 DOMAIN-SUFFIX,reklam8.net
@@ -231,17 +204,14 @@ DOMAIN-SUFFIX,reviveservers.com
 DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,rotorfon.go-prod.dogt.xyz
 DOMAIN-SUFFIX,r.yabancidizi.in
-DOMAIN-SUFFIX,salutationcheerlessdemote.com
 DOMAIN-SUFFIX,savoy.cubecdn.net
 DOMAIN-SUFFIX,savoy.storage.cubecdn.net
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,seldos.com.tr
 DOMAIN-SUFFIX,sinefilmizlesen.com
-DOMAIN-SUFFIX,smopy.com
 DOMAIN-SUFFIX,smrtbnr.com
 DOMAIN-SUFFIX,smrtbnr.info
 DOMAIN-SUFFIX,srvd2204.com
-DOMAIN-SUFFIX,stairtuy.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
 DOMAIN-SUFFIX,storj.cloud
 DOMAIN-SUFFIX,sw1block.com
@@ -250,7 +220,6 @@ DOMAIN-SUFFIX,tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 DOMAIN-SUFFIX,tarpitbar.com
 DOMAIN-SUFFIX,theadx.com
 DOMAIN-SUFFIX,threedrive.su
-DOMAIN-SUFFIX,tidint.pro
 DOMAIN-SUFFIX,trackocean.com
 DOMAIN-SUFFIX,trkwinaff13.com
 DOMAIN-SUFFIX,ttauri.livescience.com
@@ -263,7 +232,6 @@ DOMAIN-SUFFIX,vitrinler3.com
 DOMAIN-SUFFIX,whatsappsohbetim.net
 DOMAIN-SUFFIX,winaffiliates1.com
 DOMAIN-SUFFIX,winaffiliates.com
-DOMAIN-SUFFIX,wlgtaffiliates.eacdn.com
 DOMAIN-SUFFIX,wonoddgiris.com
 DOMAIN-SUFFIX,xmtrk.com
 DOMAIN-SUFFIX,yedimedia.net
@@ -271,4 +239,3 @@ DOMAIN-SUFFIX,yfzbn.com
 DOMAIN-SUFFIX,yonderdim.com
 DOMAIN-SUFFIX,youtubesave.org
 DOMAIN-SUFFIX,youtubex.top
-DOMAIN-SUFFIX,yx-ads6.com
