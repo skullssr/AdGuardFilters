@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-14 05:06:47
-# DOMAIN-SUFFIX: 50567
-# TOTAL: 50567
+# UPDATED: 2024-05-15 05:03:55
+# DOMAIN-SUFFIX: 50569
+# TOTAL: 50569
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -10174,6 +10174,7 @@ DOMAIN-SUFFIX,beacon.indieclicktv.com
 DOMAIN-SUFFIX,beacon.itmedia.jp
 DOMAIN-SUFFIX,beacon.kmi-us.com
 DOMAIN-SUFFIX,beacon.lycos.com
+DOMAIN-SUFFIX,beacon.nc-net.or.jp
 DOMAIN-SUFFIX,beacon.netflix.com
 DOMAIN-SUFFIX,beacon.nuskin.com
 DOMAIN-SUFFIX,beacon.qq.com
@@ -24069,6 +24070,7 @@ DOMAIN-SUFFIX,lhaqtn.lyst.ca
 DOMAIN-SUFFIX,lhasalimited.actonservice.com
 DOMAIN-SUFFIX,lhcivu.dekbed-discounter.nl
 DOMAIN-SUFFIX,lhdidz.successories.com
+DOMAIN-SUFFIX,lhe-beacon.team-rec.jp
 DOMAIN-SUFFIX,lhevhb.hjgreek.com
 DOMAIN-SUFFIX,lhewdj.fnac.pt
 DOMAIN-SUFFIX,lhinsights.com
