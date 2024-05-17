@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-17 05:12:27
-# DOMAIN-SUFFIX: 50573
-# TOTAL: 50573
+# UPDATED: 2024-05-18 05:18:43
+# DOMAIN-SUFFIX: 50576
+# TOTAL: 50576
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -7992,6 +7992,7 @@ DOMAIN-SUFFIX,analytics-dataplane.invideo.io
 DOMAIN-SUFFIX,analytics.datasavannah.com
 DOMAIN-SUFFIX,analytics.data.visenze.com
 DOMAIN-SUFFIX,analytics.dealmoon.com
+DOMAIN-SUFFIX,analytics.denimdream.com
 DOMAIN-SUFFIX,analytics.developer.riotgames.com
 DOMAIN-SUFFIX,analytics.digitalpfizer.com
 DOMAIN-SUFFIX,analytics.directenergy.ca
@@ -12721,6 +12722,7 @@ DOMAIN-SUFFIX,countok.de
 DOMAIN-SUFFIX,countomat.com
 DOMAIN-SUFFIX,count.rin.ru
 DOMAIN-SUFFIX,count.rtl.de
+DOMAIN-SUFFIX,count.sibbo.net
 DOMAIN-SUFFIX,countus.fr
 DOMAIN-SUFFIX,countvoncount.goguardian.com
 DOMAIN-SUFFIX,countyou.de
@@ -34994,6 +34996,7 @@ DOMAIN-SUFFIX,sensors.snappea.com
 DOMAIN-SUFFIX,sensors.snaptube.app
 DOMAIN-SUFFIX,sentifi.com
 DOMAIN-SUFFIX,sentiment.icis.com
+DOMAIN-SUFFIX,sentinelbi.com
 DOMAIN-SUFFIX,sentry01.zerg.rambler.ru
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
 DOMAIN-SUFFIX,seoab.io
