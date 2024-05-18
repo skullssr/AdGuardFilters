@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-18 05:18:43
-# DOMAIN-SUFFIX: 50576
-# TOTAL: 50576
+# UPDATED: 2024-05-19 05:24:59
+# DOMAIN-SUFFIX: 50578
+# TOTAL: 50578
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -26739,6 +26739,8 @@ DOMAIN-SUFFIX,mat.lgdisplay.com
 DOMAIN-SUFFIX,matomo.a1.by
 DOMAIN-SUFFIX,matomo.aksorn.com
 DOMAIN-SUFFIX,matomo.cloudfront.similarweb.io
+DOMAIN-SUFFIX,matomo.menshealth.de
+DOMAIN-SUFFIX,matomo.motorpresse.de
 DOMAIN-SUFFIX,matomo.shoppersguide.com.ph
 DOMAIN-SUFFIX,matomo.similarweb.io
 DOMAIN-SUFFIX,matomo.unicaf.org
