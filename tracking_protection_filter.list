@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-21 05:05:11
-# DOMAIN-SUFFIX: 50006
-# TOTAL: 50006
+# UPDATED: 2024-05-22 05:23:25
+# DOMAIN-SUFFIX: 50013
+# TOTAL: 50013
 DOMAIN-SUFFIX,0.0.0.0032cbsinteractive.hb.tt.omtrdc.net
 DOMAIN-SUFFIX,000033-2.dtk.tt.omtrdc.net
 DOMAIN-SUFFIX,000036.inflight.tt.omtrdc.net
@@ -8010,6 +8010,7 @@ DOMAIN-SUFFIX,analytics.eikko.ai
 DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
 DOMAIN-SUFFIX,analytics.electro-com.ru
 DOMAIN-SUFFIX,analytics.elegela.us
+DOMAIN-SUFFIX,analytics.emol.com
 DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
 DOMAIN-SUFFIX,analytics.enjoymobiserver.com
 DOMAIN-SUFFIX,analytics.ensighten.com
@@ -8115,6 +8116,7 @@ DOMAIN-SUFFIX,analytics.kkb.com.tr
 DOMAIN-SUFFIX,analytics.kongregate.io
 DOMAIN-SUFFIX,analytics.kurocore.com
 DOMAIN-SUFFIX,analytics.languagetoolplus.com
+DOMAIN-SUFFIX,analytics.lasegunda.ecn.cl
 DOMAIN-SUFFIX,analytics.lekumo.jp
 DOMAIN-SUFFIX,analytics.lendio.com
 DOMAIN-SUFFIX,analytics.lexisnexisrisk.com
@@ -17402,6 +17404,7 @@ DOMAIN-SUFFIX,elance4211-stg.tt.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,elance-stg1.tt.tt.omtrdc.net
 DOMAIN-SUFFIX,elasticbeanstalk.tt.omtrdc.net
 DOMAIN-SUFFIX,elastoproxy.actonservice.com
+DOMAIN-SUFFIX,elb.the-ozone-project.com
 DOMAIN-SUFFIX,elconfidencialdigital.actonservice.com
 DOMAIN-SUFFIX,eldersrural.tt.omtrdc.net
 DOMAIN-SUFFIX,eldoradottfha.dataplane.rudderstack.com
@@ -41455,6 +41458,7 @@ DOMAIN-SUFFIX,sync.ebis.ne.jp
 DOMAIN-SUFFIX,synchronyfinancial.d1.sc.omtrdc.netsynchronyfinancial.d1.sc.tt.omtrdc.net
 DOMAIN-SUFFIX,sync.morgdm.ru
 DOMAIN-SUFFIX,sync.opendsp.ru
+DOMAIN-SUFFIX,sync.outbrain.com
 DOMAIN-SUFFIX,sync.programmatica.com
 DOMAIN-SUFFIX,synergy-e.com
 DOMAIN-SUFFIX,synopsysinc.tt.omtrdc.net
@@ -43726,6 +43730,7 @@ DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
 DOMAIN-SUFFIX,tracking-api.hotmart.com
 DOMAIN-SUFFIX,trackingapi.kaufda.de
 DOMAIN-SUFFIX,trackingapi.meinprospekt.de
+DOMAIN-SUFFIX,tracking-api.passeidireto.com
 DOMAIN-SUFFIX,tracking-api.sub100.com.br
 DOMAIN-SUFFIX,tracking.arabiancentres.com
 DOMAIN-SUFFIX,tracking.arbor.edu
@@ -43829,6 +43834,7 @@ DOMAIN-SUFFIX,tracking.corptraveller.com
 DOMAIN-SUFFIX,tracking.corteva.ca
 DOMAIN-SUFFIX,tracking.corteva.es
 DOMAIN-SUFFIX,tracking.corteva.us
+DOMAIN-SUFFIX,tracking.cosme.net
 DOMAIN-SUFFIX,tracking.cpa.qa.web.visa.com
 DOMAIN-SUFFIX,tracking.cranepi.com
 DOMAIN-SUFFIX,tracking.creditacceptance.com
@@ -48273,6 +48279,7 @@ DOMAIN-SUFFIX,web.b2bimperialfashion.com
 DOMAIN-SUFFIX,web.b2bpleasefashion.com
 DOMAIN-SUFFIX,web.bankofscotland.de
 DOMAIN-SUFFIX,web-boosting.net
+DOMAIN-SUFFIX,webc2s.pubgw.yahoo.com
 DOMAIN-SUFFIX,web.campaign.cfs.com.au
 DOMAIN-SUFFIX,web.campaign.jaked.com
 DOMAIN-SUFFIX,web.campaign.miriade.com
