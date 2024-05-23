@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-18 05:11:46
-# DOMAIN-SUFFIX: 2878
-# TOTAL: 2878
+# UPDATED: 2024-05-24 04:54:10
+# DOMAIN-SUFFIX: 2879
+# TOTAL: 2879
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,100count.net
@@ -2327,6 +2327,7 @@ DOMAIN-SUFFIX,speed-down.org
 DOMAIN-SUFFIX,speedynews.xyz
 DOMAIN-SUFFIX,spiele-umsonst.de
 DOMAIN-SUFFIX,sportbikerider.us
+DOMAIN-SUFFIX,sportnews.to
 DOMAIN-SUFFIX,sports24.icu
 DOMAIN-SUFFIX,sportsio.xyz
 DOMAIN-SUFFIX,sportsvideo.net

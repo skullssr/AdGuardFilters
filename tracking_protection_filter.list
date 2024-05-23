@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-23 05:07:08
-# DOMAIN-SUFFIX: 41621
-# TOTAL: 41621
+# UPDATED: 2024-05-24 04:59:54
+# DOMAIN-SUFFIX: 41625
+# TOTAL: 41625
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3685,6 +3685,7 @@ DOMAIN-SUFFIX,analytics.vedantu.com
 DOMAIN-SUFFIX,analytics.verfacto.com
 DOMAIN-SUFFIX,analytics.verizon.com
 DOMAIN-SUFFIX,analytics.verizonwireless.com
+DOMAIN-SUFFIX,analytics.vg
 DOMAIN-SUFFIX,analytics.villagehouse.jp
 DOMAIN-SUFFIX,analytics.virginaustralia.com
 DOMAIN-SUFFIX,analytics.virginmobileusa.com
@@ -5585,6 +5586,7 @@ DOMAIN-SUFFIX,c4tracking01.com
 DOMAIN-SUFFIX,c4tw.net
 DOMAIN-SUFFIX,c615.denverpost.com
 DOMAIN-SUFFIX,c75jfa9x96.www.bolighub.dk
+DOMAIN-SUFFIX,c950.chronicle.com
 DOMAIN-SUFFIX,c993.westport-news.com
 DOMAIN-SUFFIX,caamcs.julipet.it
 DOMAIN-SUFFIX,ca-api.cafe24data.com
@@ -7478,6 +7480,7 @@ DOMAIN-SUFFIX,d1snv67wdds0p2.cloudfront.net
 DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront.net
 DOMAIN-SUFFIX,d1tprjo2w7krrh.cloudfront.net
 DOMAIN-SUFFIX,d1tracker.ru
+DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,d1uy7uzra011au.cloudfront.net
 DOMAIN-SUFFIX,d1xfq2052q7thw.cloudfront.net
 DOMAIN-SUFFIX,d1yu67rmchodpo.cloudfront.net
@@ -12866,6 +12869,7 @@ DOMAIN-SUFFIX,foot.wiki
 DOMAIN-SUFFIX,forbes.realclearpolitics.com
 DOMAIN-SUFFIX,force24.co.uk
 DOMAIN-SUFFIX,forecast.lemonde.fr
+DOMAIN-SUFFIX,forecast.nouvelobs.com
 DOMAIN-SUFFIX,forensics1000.com
 DOMAIN-SUFFIX,foreseeresults.com
 DOMAIN-SUFFIX,forex.americanexpress.com
