@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-24 04:59:54
-# DOMAIN-SUFFIX: 41625
-# TOTAL: 41625
+# UPDATED: 2024-05-25 05:15:34
+# DOMAIN-SUFFIX: 41629
+# TOTAL: 41629
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3222,6 +3222,7 @@ DOMAIN-SUFFIX,analytics.contentexchange.me
 DOMAIN-SUFFIX,analytics.contents.by-fw.jp
 DOMAIN-SUFFIX,analytics.cookiefirst.dev
 DOMAIN-SUFFIX,analytics.corusent.com
+DOMAIN-SUFFIX,analytics.cosmonova.net
 DOMAIN-SUFFIX,analytics.crazygames.com
 DOMAIN-SUFFIX,analytics.crea.ca
 DOMAIN-SUFFIX,analytics.cycleworld.com
@@ -3301,6 +3302,7 @@ DOMAIN-SUFFIX,analytics.gestore.com
 DOMAIN-SUFFIX,analytics.getshogun.com
 DOMAIN-SUFFIX,analytics.gewaterheater.com
 DOMAIN-SUFFIX,analytics.githubassets.com
+DOMAIN-SUFFIX,analytics.global.sky.com
 DOMAIN-SUFFIX,analytics.gnetworks.xyz
 DOMAIN-SUFFIX,analytics.gokwik.co
 DOMAIN-SUFFIX,analytics.gooogol.com
@@ -13127,7 +13129,6 @@ DOMAIN-SUFFIX,fujifilmdb.fujifilmdiosynth.com
 DOMAIN-SUFFIX,fukuoka-gaycafe.net.mydays.de
 DOMAIN-SUFFIX,fullstory.com
 DOMAIN-SUFFIX,fulmar.net.anwalt.de
-DOMAIN-SUFFIX,functionalclam.com
 DOMAIN-SUFFIX,fundraising.centuryresources.com
 DOMAIN-SUFFIX,fun.healthybenefitstoday.com
 DOMAIN-SUFFIX,fun-hits.com
@@ -17789,6 +17790,7 @@ DOMAIN-SUFFIX,log-tb.sgsnssdk.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,log.tf.co.kr
 DOMAIN-SUFFIX,log.tiktokv.com
+DOMAIN-SUFFIX,log.tossinvest.com
 DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
 DOMAIN-SUFFIX,log.tpns.tencent.com
 DOMAIN-SUFFIX,log.trackingio.com
@@ -23365,6 +23367,7 @@ DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,oracle.marketingcube.com.au
 DOMAIN-SUFFIX,oracle-netsuite-com-796203850.p04.elqsandbox.com
 DOMAIN-SUFFIX,oracle.samedayhealth.info
+DOMAIN-SUFFIX,orangeclickmedia.com
 DOMAIN-SUFFIX,oranges88.com
 DOMAIN-SUFFIX,orangutan.equaliteam.com
 DOMAIN-SUFFIX,orangutan.renovare.org
@@ -24860,6 +24863,7 @@ DOMAIN-SUFFIX,pra.praxis.nl
 DOMAIN-SUFFIX,prawn.inchperfect.com
 DOMAIN-SUFFIX,prawn.lionsmouth.digital
 DOMAIN-SUFFIX,prawn.samgarson.com
+DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com
 DOMAIN-SUFFIX,pr-chart.com
 DOMAIN-SUFFIX,pr-chart.de
 DOMAIN-SUFFIX,prchecker.info
