@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-25 05:19:36
+# UPDATED: 2024-05-28 05:04:08
 # DOMAIN-SUFFIX: 3837
 # TOTAL: 3837
 DOMAIN-SUFFIX,0123movies.com
@@ -323,7 +323,6 @@ DOMAIN-SUFFIX,apnetv.tv
 DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 DOMAIN-SUFFIX,app.appsflyer.com
-DOMAIN-SUFFIX,app-cdn.minepi.com
 DOMAIN-SUFFIX,app.crazyegg.com
 DOMAIN-SUFFIX,appdn.net
 DOMAIN-SUFFIX,appdrop.net
@@ -2136,6 +2135,7 @@ DOMAIN-SUFFIX,memangbau.com
 DOMAIN-SUFFIX,memexcomputer.it
 DOMAIN-SUFFIX,memoriadatv.com
 DOMAIN-SUFFIX,memoryhackers.org
+DOMAIN-SUFFIX,mens1069.com
 DOMAIN-SUFFIX,menshealth.de
 DOMAIN-SUFFIX,mentalflare.com
 DOMAIN-SUFFIX,meracalculator.com
