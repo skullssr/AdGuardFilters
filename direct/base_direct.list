@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-24 04:54:10
-# DOMAIN-SUFFIX: 2879
-# TOTAL: 2879
+# UPDATED: 2024-05-29 05:01:54
+# DOMAIN-SUFFIX: 2880
+# TOTAL: 2880
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,100count.net
@@ -1612,6 +1612,7 @@ DOMAIN-SUFFIX,midiextreme.blogspot.com
 DOMAIN-SUFFIX,midiextreme.com
 DOMAIN-SUFFIX,midnightchannel.net
 DOMAIN-SUFFIX,mifirmware.com
+DOMAIN-SUFFIX,migdalor-news.co.il
 DOMAIN-SUFFIX,milanreports.com
 DOMAIN-SUFFIX,milanworld.net
 DOMAIN-SUFFIX,milaulas.com
