@@ -1,20 +1,18 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-22 05:27:11
-# DOMAIN-SUFFIX: 237
-# TOTAL: 237
+# UPDATED: 2024-05-30 05:23:03
+# DOMAIN-SUFFIX: 212
+# TOTAL: 212
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,adbetnetwork.com
 DOMAIN-SUFFIX,ad*.bilgin.pro
 DOMAIN-SUFFIX,adbreak.cubecdn.net
 DOMAIN-SUFFIX,adbreak.net
-DOMAIN-SUFFIX,adcater.com
 DOMAIN-SUFFIX,addata.exxen.com
 DOMAIN-SUFFIX,add.f5haber.com
 DOMAIN-SUFFIX,ad.dline.com.tr
 DOMAIN-SUFFIX,ad.donanimhaber.com
-DOMAIN-SUFFIX,ad.eglenced.com
 DOMAIN-SUFFIX,adeko.mobi
 DOMAIN-SUFFIX,adfor.io
 DOMAIN-SUFFIX,adfox.ru
@@ -22,12 +20,10 @@ DOMAIN-SUFFIX,ad.hepsiburada.com
 DOMAIN-SUFFIX,adhood.com
 DOMAIN-SUFFIX,adhouse.cubecdn.net
 DOMAIN-SUFFIX,adhouse.pro
-DOMAIN-SUFFIX,adimage.media
 DOMAIN-SUFFIX,adl.mynetreklam.com
 DOMAIN-SUFFIX,adnamo.net
 DOMAIN-SUFFIX,adnatro.com
 DOMAIN-SUFFIX,adn.bursadabugun.com
-DOMAIN-SUFFIX,adnexio.com
 DOMAIN-SUFFIX,adnsafe.net
 DOMAIN-SUFFIX,ad.ntvmsnbc.com
 DOMAIN-SUFFIX,a.doganburda.com
@@ -66,10 +62,7 @@ DOMAIN-SUFFIX,ads.sondakika.com
 DOMAIN-SUFFIX,ads.web.tr
 DOMAIN-SUFFIX,ads-wordego.azureedge.net
 DOMAIN-SUFFIX,ad*.tmgrup.com.tr
-DOMAIN-SUFFIX,advancenative.com
-DOMAIN-SUFFIX,advoly.com
 DOMAIN-SUFFIX,ad.webservis.gen.tr
-DOMAIN-SUFFIX,adwods.com
 DOMAIN-SUFFIX,ad.yemeksepeti.com
 DOMAIN-SUFFIX,adzbaba.com
 DOMAIN-SUFFIX,affiliatelanding.*.com
@@ -84,18 +77,14 @@ DOMAIN-SUFFIX,ariyayin.com
 DOMAIN-SUFFIX,artemisaffiliates.com
 DOMAIN-SUFFIX,aspartos.com
 DOMAIN-SUFFIX,aybereklam.com
-DOMAIN-SUFFIX,bahisciler.co
 DOMAIN-SUFFIX,banner.kanald.com.tr
 DOMAIN-SUFFIX,banner.setrowid.com
 DOMAIN-SUFFIX,banners.tempobet.com
 DOMAIN-SUFFIX,basvformu*.xyz
 DOMAIN-SUFFIX,bcvc.mobi
-DOMAIN-SUFFIX,betburdaaffiliates.com
 DOMAIN-SUFFIX,betendads.com
 DOMAIN-SUFFIX,betkanyon100.com
 DOMAIN-SUFFIX,betwinnerpromo.com
-DOMAIN-SUFFIX,bilink.xyz
-DOMAIN-SUFFIX,binaryad.com
 DOMAIN-SUFFIX,bo.facesbet.com
 DOMAIN-SUFFIX,bwcdn.xyz
 DOMAIN-SUFFIX,bwtsrv.com
@@ -116,12 +105,9 @@ DOMAIN-SUFFIX,diken.xyz
 DOMAIN-SUFFIX,dmcdn.yieldbird.com
 DOMAIN-SUFFIX,dogus-ads-cdn.dygdigital.com
 DOMAIN-SUFFIX,dolarkurum.com
-DOMAIN-SUFFIX,downads.com
 DOMAIN-SUFFIX,dzypro.xyz
 DOMAIN-SUFFIX,engageya.com
 DOMAIN-SUFFIX,files.pbgiris.com
-DOMAIN-SUFFIX,finema.net
-DOMAIN-SUFFIX,finema-net.cdn.ampproject.org
 DOMAIN-SUFFIX,finvest.care
 DOMAIN-SUFFIX,fvbaffiliate.com
 DOMAIN-SUFFIX,genelajans.com
@@ -155,8 +141,6 @@ DOMAIN-SUFFIX,metrics34.com
 DOMAIN-SUFFIX,minireklam.com
 DOMAIN-SUFFIX,mkazanc.com
 DOMAIN-SUFFIX,mobilpop.com
-DOMAIN-SUFFIX,mobilup.com
-DOMAIN-SUFFIX,mobon.com
 DOMAIN-SUFFIX,mp.subservis.com
 DOMAIN-SUFFIX,my.urdreama.cfd
 DOMAIN-SUFFIX,n69adserv.com
@@ -168,7 +152,6 @@ DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,partners.betbooaffiliates.com
 DOMAIN-SUFFIX,partner.superbahisaffiliates*.com
 DOMAIN-SUFFIX,partnerx.bethub.io
-DOMAIN-SUFFIX,performancenative.com
 DOMAIN-SUFFIX,permato.com
 DOMAIN-SUFFIX,piaads.com
 DOMAIN-SUFFIX,pigeoon.com
@@ -198,12 +181,10 @@ DOMAIN-SUFFIX,reklam.softreklam.com
 DOMAIN-SUFFIX,reklam.star.com.tr
 DOMAIN-SUFFIX,reklamstore.com
 DOMAIN-SUFFIX,reklamstore.cubecdn.net
-DOMAIN-SUFFIX,reklamtrk.com
 DOMAIN-SUFFIX,reklam.turkmmo.com
 DOMAIN-SUFFIX,reklam.yonlendir.com
 DOMAIN-SUFFIX,rek.yemlee.com
 DOMAIN-SUFFIX,reviveservers.com
-DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,rotorfon.go-prod.dogt.xyz
 DOMAIN-SUFFIX,r.yabancidizi.in
 DOMAIN-SUFFIX,savoy.cubecdn.net
@@ -216,28 +197,22 @@ DOMAIN-SUFFIX,smrtbnr.info
 DOMAIN-SUFFIX,srvd2204.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
 DOMAIN-SUFFIX,storj.cloud
-DOMAIN-SUFFIX,sw1block.com
 DOMAIN-SUFFIX,tagon.co
 DOMAIN-SUFFIX,tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
-DOMAIN-SUFFIX,tarpitbar.com
 DOMAIN-SUFFIX,theadx.com
 DOMAIN-SUFFIX,threedrive.su
 DOMAIN-SUFFIX,trackocean.com
 DOMAIN-SUFFIX,trkwinaff13.com
 DOMAIN-SUFFIX,ttauri.livescience.com
 DOMAIN-SUFFIX,url.isimsepeti.net
-DOMAIN-SUFFIX,uzmanreklam.com
 DOMAIN-SUFFIX,vegabet.net
 DOMAIN-SUFFIX,venediktaciri.com
 DOMAIN-SUFFIX,virgul.com
 DOMAIN-SUFFIX,vitrinler3.com
-DOMAIN-SUFFIX,whatsappsohbetim.net
 DOMAIN-SUFFIX,winaffiliates1.com
 DOMAIN-SUFFIX,winaffiliates.com
 DOMAIN-SUFFIX,wonoddgiris.com
-DOMAIN-SUFFIX,xmtrk.com
 DOMAIN-SUFFIX,yedimedia.net
-DOMAIN-SUFFIX,yfzbn.com
 DOMAIN-SUFFIX,yonderdim.com
 DOMAIN-SUFFIX,youtubesave.org
 DOMAIN-SUFFIX,youtubex.top
