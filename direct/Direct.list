@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-30 05:23:17
+# UPDATED: 2024-05-31 05:04:49
 # DOMAIN-SUFFIX: 3836
 # TOTAL: 3836
 DOMAIN-SUFFIX,0123movies.com
@@ -69,7 +69,7 @@ DOMAIN-SUFFIX,99btc.top
 DOMAIN-SUFFIX,99wbwc.com
 DOMAIN-SUFFIX,99ybcc.com
 DOMAIN-SUFFIX,9docu.org
-DOMAIN-SUFFIX,9goals.io
+DOMAIN-SUFFIX,9goals.live
 DOMAIN-SUFFIX,9goku.com
 DOMAIN-SUFFIX,9ketsuki.info
 DOMAIN-SUFFIX,9monate.de
@@ -663,7 +663,6 @@ DOMAIN-SUFFIX,cll.press
 DOMAIN-SUFFIX,closeload.com
 DOMAIN-SUFFIX,cloud.google.com
 DOMAIN-SUFFIX,cloud.notification-naviextras.com
-DOMAIN-SUFFIX,cloud.roistat.com
 DOMAIN-SUFFIX,cloudstorageoptions.com
 DOMAIN-SUFFIX,cloudwebcopy.com
 DOMAIN-SUFFIX,clover-manga.com
@@ -3486,6 +3485,7 @@ DOMAIN-SUFFIX,tvtoday.de
 DOMAIN-SUFFIX,tvtv.de
 DOMAIN-SUFFIX,tv.wp.pl
 DOMAIN-SUFFIX,tv.youtube.com
+DOMAIN-SUFFIX,tweakdoor.com
 DOMAIN-SUFFIX,tweakers.net
 DOMAIN-SUFFIX,tw-hkt.blogspot.com
 DOMAIN-SUFFIX,twitch.tv
