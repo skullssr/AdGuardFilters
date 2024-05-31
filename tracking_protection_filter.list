@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-31 05:00:47
-# DOMAIN-SUFFIX: 41311
-# TOTAL: 41311
+# UPDATED: 2024-06-01 05:42:36
+# DOMAIN-SUFFIX: 41314
+# TOTAL: 41314
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,9nl.eu
 DOMAIN-SUFFIX,9uim1pc4ej4n.ru.themoneytizer.com
 DOMAIN-SUFFIX,9ywl0cwf7e37m5yi.tapin.gg
 DOMAIN-SUFFIX,a013.com
+DOMAIN-SUFFIX,a11ybar.com
 DOMAIN-SUFFIX,a.1800gotjunk.com
 DOMAIN-SUFFIX,a1.api.bbc.com
 DOMAIN-SUFFIX,a1.api.bbc.co.uk
@@ -26114,6 +26115,7 @@ DOMAIN-SUFFIX,rum*.a.trbcdn.net
 DOMAIN-SUFFIX,rum*.cdnvideo.ru
 DOMAIN-SUFFIX,rum.conde.io
 DOMAIN-SUFFIX,rum.condenastdigital.com
+DOMAIN-SUFFIX,rum.corewebvitals.io
 DOMAIN-SUFFIX,rum-metrics.bunny.net
 DOMAIN-SUFFIX,rumstat.cdnvideo.ru
 DOMAIN-SUFFIX,rumt-zh.com
@@ -36809,6 +36811,7 @@ DOMAIN-SUFFIX,track.swiftvault.shop
 DOMAIN-SUFFIX,track.swoleaf.com
 DOMAIN-SUFFIX,track.swplays.com
 DOMAIN-SUFFIX,track.sylviemccracken.com
+DOMAIN-SUFFIX,trackszn.median.eu
 DOMAIN-SUFFIX,track.taliacollective.com
 DOMAIN-SUFFIX,track.tcppu.com
 DOMAIN-SUFFIX,track.techfeed.net

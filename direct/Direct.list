@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-31 05:04:49
-# DOMAIN-SUFFIX: 3836
-# TOTAL: 3836
+# UPDATED: 2024-06-01 05:46:36
+# DOMAIN-SUFFIX: 3837
+# TOTAL: 3837
 DOMAIN-SUFFIX,0123movies.com
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,10010.com
@@ -1058,6 +1058,7 @@ DOMAIN-SUFFIX,elpais.com.uy
 DOMAIN-SUFFIX,eltern.de
 DOMAIN-SUFFIX,email.awscloud.com
 DOMAIN-SUFFIX,email.elitedangerous.com
+DOMAIN-SUFFIX,emailnator.com
 DOMAIN-SUFFIX,email.procook.co.uk
 DOMAIN-SUFFIX,emailregex.com
 DOMAIN-SUFFIX,e.mail.ru
