@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-07 05:34:22
-# DOMAIN-SUFFIX: 41016
-# TOTAL: 41016
+# UPDATED: 2024-06-08 05:23:43
+# DOMAIN-SUFFIX: 41019
+# TOTAL: 41019
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -5848,6 +5848,7 @@ DOMAIN-SUFFIX,cdn.teleportapi.com
 DOMAIN-SUFFIX,cdn.tercept.com
 DOMAIN-SUFFIX,cdn.topmind.io
 DOMAIN-SUFFIX,cdn.trackclicks.info
+DOMAIN-SUFFIX,cdn.track.olx.com.br
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,cdn.userleap.com
 DOMAIN-SUFFIX,cdn.wgchrrammzv.com
@@ -18355,6 +18356,7 @@ DOMAIN-SUFFIX,managedaccounts.nvenergy.com
 DOMAIN-SUFFIX,managedaccounts.pacificpower.net
 DOMAIN-SUFFIX,managedaccounts.rockymountainpower.net
 DOMAIN-SUFFIX,manager.met.vgwort.de
+DOMAIN-SUFFIX,manalyticshub.com
 DOMAIN-SUFFIX,manatee.biodom.bio
 DOMAIN-SUFFIX,manatee.creativepassport.net
 DOMAIN-SUFFIX,mandant.net.anwalt.de
@@ -25074,6 +25076,7 @@ DOMAIN-SUFFIX,pxgpnp.angara.com
 DOMAIN-SUFFIX,pxi.pub
 DOMAIN-SUFFIX,pxjkbj.bostonproper.com
 DOMAIN-SUFFIX,pxlctl.elpais.com
+DOMAIN-SUFFIX,pxl.knam.pro
 DOMAIN-SUFFIX,pxl-*.ozone.ru
 DOMAIN-SUFFIX,pxl.retaku.net
 DOMAIN-SUFFIX,px*.mediahills.ru
