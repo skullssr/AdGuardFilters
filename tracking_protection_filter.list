@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-12 05:24:00
-# DOMAIN-SUFFIX: 41725
-# TOTAL: 41725
+# UPDATED: 2024-06-13 05:01:27
+# DOMAIN-SUFFIX: 41726
+# TOTAL: 41726
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -24958,6 +24958,7 @@ DOMAIN-SUFFIX,plausible.myvirtualsuper.com
 DOMAIN-SUFFIX,plausible.nickmazuk.com
 DOMAIN-SUFFIX,plausible.nmyvsn.net
 DOMAIN-SUFFIX,plausible.nuqu.org
+DOMAIN-SUFFIX,plausible.omgapi.org
 DOMAIN-SUFFIX,plausible.promlens.com
 DOMAIN-SUFFIX,plausible.prufit.co
 DOMAIN-SUFFIX,plausible.pumpkint.com
