@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-13 05:01:27
-# DOMAIN-SUFFIX: 41726
-# TOTAL: 41726
+# UPDATED: 2024-06-14 05:10:08
+# DOMAIN-SUFFIX: 41729
+# TOTAL: 41729
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -14694,6 +14694,7 @@ DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hotlog.ru
 DOMAIN-SUFFIX,hotrank.com.tw
+DOMAIN-SUFFIX,houston.advgo.net
 DOMAIN-SUFFIX,houston-content.cresa.com
 DOMAIN-SUFFIX,hoverfly.1pageimpact.com.au
 DOMAIN-SUFFIX,hoverfly.cdengine.co.uk
@@ -17937,6 +17938,7 @@ DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,log.snow.me
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,logs.ntvplus.tv
+DOMAIN-SUFFIX,logs.openbank.com
 DOMAIN-SUFFIX,logs-partners.coupang.com
 DOMAIN-SUFFIX,logs.psm.wmcdp.io
 DOMAIN-SUFFIX,logs.roku.com
@@ -20463,6 +20465,7 @@ DOMAIN-SUFFIX,meqjjl.bubbleroom.dk
 DOMAIN-SUFFIX,mercadeo.promerica.fi.cr
 DOMAIN-SUFFIX,mercadoclics.com
 DOMAIN-SUFFIX,mercent.com
+DOMAIN-SUFFIX,merchant-center-analytics.goog
 DOMAIN-SUFFIX,merchant-mail.neosurf.com
 DOMAIN-SUFFIX,mercury.coupang.com
 DOMAIN-SUFFIX,mergle.berwham.site
