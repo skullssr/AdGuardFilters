@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-14 05:10:08
-# DOMAIN-SUFFIX: 41729
-# TOTAL: 41729
+# UPDATED: 2024-06-15 05:16:34
+# DOMAIN-SUFFIX: 41732
+# TOTAL: 41732
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -5848,6 +5848,7 @@ DOMAIN-SUFFIX,cdn.net.elogia.net
 DOMAIN-SUFFIX,cdn.odoscope.cloud
 DOMAIN-SUFFIX,cdn.pranmcpkx.com
 DOMAIN-SUFFIX,cdn.preciso.net
+DOMAIN-SUFFIX,cdn.pubnub.com
 DOMAIN-SUFFIX,cdn.raekdata.com
 DOMAIN-SUFFIX,cdn-ra.rockcontent.com
 DOMAIN-SUFFIX,cdn-redirector.glopal.com
@@ -36032,6 +36033,7 @@ DOMAIN-SUFFIX,tracker.hdtvcloud.com
 DOMAIN-SUFFIX,trackerhqu.com
 DOMAIN-SUFFIX,tracker.idocdn.com
 DOMAIN-SUFFIX,tracker.incite-group.com
+DOMAIN-SUFFIX,tracker.insurads.com
 DOMAIN-SUFFIX,tracker.insurancenexus.com
 DOMAIN-SUFFIX,tracker.iplocation.net
 DOMAIN-SUFFIX,tracker.joongang.co.kr
@@ -41628,6 +41630,7 @@ DOMAIN-SUFFIX,zipstat.dk
 DOMAIN-SUFFIX,ziqrso.24mx.no
 DOMAIN-SUFFIX,zirve100.com
 DOMAIN-SUFFIX,ziuggw.archon.pl
+DOMAIN-SUFFIX,ziwelatum.com
 DOMAIN-SUFFIX,ziwewm.tecovas.com
 DOMAIN-SUFFIX,ziyu.net
 DOMAIN-SUFFIX,zjbfke.centerparcs.be
