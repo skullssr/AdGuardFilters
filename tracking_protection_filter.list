@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-20 05:12:18
-# DOMAIN-SUFFIX: 39903
-# TOTAL: 39903
+# UPDATED: 2024-06-21 05:03:08
+# DOMAIN-SUFFIX: 39905
+# TOTAL: 39905
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3556,6 +3556,7 @@ DOMAIN-SUFFIX,analytics-sm.com
 DOMAIN-SUFFIX,analytics.snaptube.app
 DOMAIN-SUFFIX,analytics.soluforce.com
 DOMAIN-SUFFIX,analytics.sona-mira.co.jp
+DOMAIN-SUFFIX,analytics.sonjj.com
 DOMAIN-SUFFIX,analytics.southpointcasino.com
 DOMAIN-SUFFIX,analytics.spankbang.com
 DOMAIN-SUFFIX,analytics.spark.co.nz
@@ -4601,6 +4602,7 @@ DOMAIN-SUFFIX,att.trk.top5-ratings.com
 DOMAIN-SUFFIX,att.trk.trafficbait.net
 DOMAIN-SUFFIX,at.vodafone.de
 DOMAIN-SUFFIX,atzzrq.tbs.co.jp
+DOMAIN-SUFFIX,au1.qualtrics.com
 DOMAIN-SUFFIX,aucqdk.autodoc.es
 DOMAIN-SUFFIX,auctiveltrk.com
 DOMAIN-SUFFIX,aud.ayvens.com
