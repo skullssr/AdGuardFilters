@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-21 05:03:08
-# DOMAIN-SUFFIX: 39905
-# TOTAL: 39905
+# UPDATED: 2024-06-22 05:29:01
+# DOMAIN-SUFFIX: 39913
+# TOTAL: 39913
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -7106,6 +7106,7 @@ DOMAIN-SUFFIX,ctr.leaplanehub.com
 DOMAIN-SUFFIX,ctr.lifelifttoday.com
 DOMAIN-SUFFIX,ctr.midmindpro.com
 DOMAIN-SUFFIX,ctr.optimalwellnessguidehub.com
+DOMAIN-SUFFIX,ctr.po-kaki-to.com
 DOMAIN-SUFFIX,ctr.poppinpearlsoptions.com
 DOMAIN-SUFFIX,ctr.prochroniclescorner.com
 DOMAIN-SUFFIX,ctr.profindsights.com
@@ -12297,6 +12298,7 @@ DOMAIN-SUFFIX,events.textme-app.com
 DOMAIN-SUFFIX,eventstream.dodopizza.com
 DOMAIN-SUFFIX,event-stream.spot.im
 DOMAIN-SUFFIX,events.tremorhub.com
+DOMAIN-SUFFIX,events.tryamped.com
 DOMAIN-SUFFIX,events.tubecup.org
 DOMAIN-SUFFIX,events.turbosquid.com
 DOMAIN-SUFFIX,events.tvtime.com
@@ -13520,6 +13522,7 @@ DOMAIN-SUFFIX,go.healthallowancecentre.com
 DOMAIN-SUFFIX,go.healthfareplan.org
 DOMAIN-SUFFIX,go.healthfareservices.com
 DOMAIN-SUFFIX,go.healthfare.us
+DOMAIN-SUFFIX,go.healthgrades.com
 DOMAIN-SUFFIX,go.healthlaunchtoday.com
 DOMAIN-SUFFIX,go.healthybenefittoday.com
 DOMAIN-SUFFIX,go.healthywellnessfromwithin.com
@@ -14093,7 +14096,6 @@ DOMAIN-SUFFIX,health.demandhealthnow.com
 DOMAIN-SUFFIX,health.fishersci.com
 DOMAIN-SUFFIX,health.freshhappyhealthy.com
 DOMAIN-SUFFIX,health.freshhappyhealthyhabit.com
-DOMAIN-SUFFIX,healthgrades.com
 DOMAIN-SUFFIX,health.happinessaroundus.com
 DOMAIN-SUFFIX,health.happinessforus.com
 DOMAIN-SUFFIX,health.healthiesthour.com
@@ -14380,6 +14382,7 @@ DOMAIN-SUFFIX,hra.nyp.org
 DOMAIN-SUFFIX,hrbitov.viessmann.cz
 DOMAIN-SUFFIX,hr.cigna.com
 DOMAIN-SUFFIX,hrcpql.candymagic.jp
+DOMAIN-SUFFIX,hrm.healthgrades.com
 DOMAIN-SUFFIX,hrnhcu.kapiva.in
 DOMAIN-SUFFIX,hrprwf.proteinocean.com
 DOMAIN-SUFFIX,hruoxg.5vorflug.de
@@ -17879,6 +17882,7 @@ DOMAIN-SUFFIX,lzvwxy.hometogo.pl
 DOMAIN-SUFFIX,lzwxzz.chintaistyle.jp
 DOMAIN-SUFFIX,m.1gr.cz
 DOMAIN-SUFFIX,m1ll1c4n0.com
+DOMAIN-SUFFIX,m1tm.motor1.com
 DOMAIN-SUFFIX,m3ds.subarumetropolitain.com
 DOMAIN-SUFFIX,m4zoxtrcea1k.controlconceptsusa.com
 DOMAIN-SUFFIX,m6c4t9vmqarj.www.cefirates.com
@@ -29906,6 +29910,7 @@ DOMAIN-SUFFIX,sometrics.com
 DOMAIN-SUFFIX,sometrics.netapp.com
 DOMAIN-SUFFIX,som.gaservesamerica.com
 DOMAIN-SUFFIX,som.greatwolf.com
+DOMAIN-SUFFIX,som.healthgrades.com
 DOMAIN-SUFFIX,som.homeaway.com
 DOMAIN-SUFFIX,som.homeaway.com.au
 DOMAIN-SUFFIX,som.homeaway.com.co
@@ -34552,6 +34557,7 @@ DOMAIN-SUFFIX,track.healthylivingmagic.com
 DOMAIN-SUFFIX,track.healthysolutionguide.com
 DOMAIN-SUFFIX,track.healthywealthyforyou.com
 DOMAIN-SUFFIX,track.helpsforseniors.org
+DOMAIN-SUFFIX,track.hg.healthgrades.com
 DOMAIN-SUFFIX,track.historictalk.com
 DOMAIN-SUFFIX,track.hk01.com
 DOMAIN-SUFFIX,track.homeguidancepros.com
@@ -35171,6 +35177,7 @@ DOMAIN-SUFFIX,tracking.utlservice.com
 DOMAIN-SUFFIX,tracking.vackerlivsstil.com
 DOMAIN-SUFFIX,tracking.vaisala.com
 DOMAIN-SUFFIX,tracking.vakkerlivsstil.com
+DOMAIN-SUFFIX,tracking-v*.a.run.app
 DOMAIN-SUFFIX,tracking.venture-net.co.jp
 DOMAIN-SUFFIX,tracking.venturify.at
 DOMAIN-SUFFIX,tracking.verisk.com
@@ -35553,6 +35560,7 @@ DOMAIN-SUFFIX,track.securitycares.org
 DOMAIN-SUFFIX,track.seekinghealth.blog
 DOMAIN-SUFFIX,track.segmentstream.com
 DOMAIN-SUFFIX,track.segredosdohomem.com
+DOMAIN-SUFFIX,track.sendlane.com
 DOMAIN-SUFFIX,track.seniorsadvisor.org
 DOMAIN-SUFFIX,track.seniorsreliefs.org
 DOMAIN-SUFFIX,trackset.com

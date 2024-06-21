@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-12 05:25:52
-# DOMAIN-SUFFIX: 437
-# TOTAL: 437
+# UPDATED: 2024-06-22 05:30:51
+# DOMAIN-SUFFIX: 438
+# TOTAL: 438
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
@@ -418,6 +418,7 @@ DOMAIN-SUFFIX,widget.medianord.de
 DOMAIN-SUFFIX,widget.s24.com
 DOMAIN-SUFFIX,widgets.cam-content.com
 DOMAIN-SUFFIX,widgets.tracdelight.io
+DOMAIN-SUFFIX,windows-pro.net
 DOMAIN-SUFFIX,wirverkaufennichts.de
 DOMAIN-SUFFIX,wixnm.com
 DOMAIN-SUFFIX,w.kicker.de
