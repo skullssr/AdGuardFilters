@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-26 05:20:10
+# UPDATED: 2024-06-27 05:21:14
 # DOMAIN-SUFFIX: 41622
 # TOTAL: 41622
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -6532,10 +6532,6 @@ DOMAIN-SUFFIX,collector.mediator.media
 DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.prod.expedia.com
-DOMAIN-SUFFIX,collector-*.px-cdn.net
-DOMAIN-SUFFIX,collector-*.pxchk.net
-DOMAIN-SUFFIX,collector-*.px-cloud.net
-DOMAIN-SUFFIX,collector-pxfqtaw5et.px-client.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
@@ -12438,6 +12434,7 @@ DOMAIN-SUFFIX,event3.thermofisher.com
 DOMAIN-SUFFIX,event3.thermoscientific.com
 DOMAIN-SUFFIX,event-action.popinfo.jp
 DOMAIN-SUFFIX,eventapi.afreecatv.com
+DOMAIN-SUFFIX,event.api.drift.com
 DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,event.boozallen.com
 DOMAIN-SUFFIX,eventbus.intuit.com
@@ -20623,6 +20620,7 @@ DOMAIN-SUFFIX,metrics.ansys.com
 DOMAIN-SUFFIX,metrics.antena3.com
 DOMAIN-SUFFIX,metrics.anthem.com
 DOMAIN-SUFFIX,metrics.apartments.com
+DOMAIN-SUFFIX,metrics.api.drift.com
 DOMAIN-SUFFIX,metrics-api.librato.com
 DOMAIN-SUFFIX,metrics.api.yle.fi
 DOMAIN-SUFFIX,metrics.apple.com
@@ -24668,6 +24666,7 @@ DOMAIN-SUFFIX,pixel.ionos.com
 DOMAIN-SUFFIX,pixel.ipinfo.io
 DOMAIN-SUFFIX,pixel.lilystyle.ai
 DOMAIN-SUFFIX,pixel.locker2.com
+DOMAIN-SUFFIX,pixel.mintigo.com
 DOMAIN-SUFFIX,pixel.newscgp.com
 DOMAIN-SUFFIX,pixel.nur.kz
 DOMAIN-SUFFIX,pixel.pcworld.com
@@ -34539,6 +34538,7 @@ DOMAIN-SUFFIX,target.hostech.co.uk
 DOMAIN-SUFFIX,target.hsn.com
 DOMAIN-SUFFIX,target.hyundaiusa.com
 DOMAIN-SUFFIX,target.ihg.com
+DOMAIN-SUFFIX,targeting.api.drift.com
 DOMAIN-SUFFIX,targeting.tbt.arcpublishing.com
 DOMAIN-SUFFIX,targeting.washpost.nile.works
 DOMAIN-SUFFIX,target.intact.ca
