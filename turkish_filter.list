@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-30 05:23:03
-# DOMAIN-SUFFIX: 212
-# TOTAL: 212
+# UPDATED: 2024-06-28 05:11:27
+# DOMAIN-SUFFIX: 213
+# TOTAL: 213
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,adbetnetwork.com
 DOMAIN-SUFFIX,ad*.bilgin.pro
@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,bo.facesbet.com
 DOMAIN-SUFFIX,bwcdn.xyz
 DOMAIN-SUFFIX,bwtsrv.com
 DOMAIN-SUFFIX,campaign.nmobs.com
+DOMAIN-SUFFIX,cdn.cdnhipter.xyz
 DOMAIN-SUFFIX,cdn.eksiup.com
 DOMAIN-SUFFIX,cdn.klasseo.com
 DOMAIN-SUFFIX,cdn.smartclick.io
