@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-02 05:17:24
-# DOMAIN-SUFFIX: 1987
-# TOTAL: 1987
+# UPDATED: 2024-07-03 05:12:02
+# DOMAIN-SUFFIX: 1988
+# TOTAL: 1988
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -478,6 +478,7 @@ DOMAIN-SUFFIX,cookies.joneslanglasalle.co.jp
 DOMAIN-SUFFIX,cookie-sl.s3.*.amazonaws.com
 DOMAIN-SUFFIX,cookiespool.com
 DOMAIN-SUFFIX,cookie-switch.viminds.de
+DOMAIN-SUFFIX,cookiewarden-content.teb.com.tr
 DOMAIN-SUFFIX,cookie-widget.ru
 DOMAIN-SUFFIX,cookihq.com
 DOMAIN-SUFFIX,coordinatedbedroom.com
