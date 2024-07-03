@@ -1,9 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-28 05:11:27
-# DOMAIN-SUFFIX: 213
-# TOTAL: 213
+# UPDATED: 2024-07-04 05:10:49
+# DOMAIN-SUFFIX: 214
+# TOTAL: 214
 DOMAIN-SUFFIX,61ads.net
 DOMAIN-SUFFIX,adbetnetwork.com
 DOMAIN-SUFFIX,ad*.bilgin.pro
@@ -186,6 +186,7 @@ DOMAIN-SUFFIX,reklam.turkmmo.com
 DOMAIN-SUFFIX,reklam.yonlendir.com
 DOMAIN-SUFFIX,rek.yemlee.com
 DOMAIN-SUFFIX,reviveservers.com
+DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,rotorfon.go-prod.dogt.xyz
 DOMAIN-SUFFIX,r.yabancidizi.in
 DOMAIN-SUFFIX,savoy.cubecdn.net
