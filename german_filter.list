@@ -1,9 +1,11 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-06-22 05:30:51
-# DOMAIN-SUFFIX: 438
-# TOTAL: 438
+# UPDATED: 2024-07-07 05:30:42
+# DOMAIN-SUFFIX: 440
+# TOTAL: 440
+DOMAIN-SUFFIX,1t2.alpin.de
+DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
