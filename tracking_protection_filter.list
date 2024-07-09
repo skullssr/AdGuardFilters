@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-09 05:08:55
-# DOMAIN-SUFFIX: 43315
-# TOTAL: 43315
+# UPDATED: 2024-07-10 05:52:04
+# DOMAIN-SUFFIX: 43335
+# TOTAL: 43335
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3165,6 +3165,7 @@ DOMAIN-SUFFIX,ana*.inews24.com
 DOMAIN-SUFFIX,anal.doubledouble.top
 DOMAIN-SUFFIX,analitits.com
 DOMAIN-SUFFIX,analoganalytics.com
+DOMAIN-SUFFIX,anal.sataniskwijt.be
 DOMAIN-SUFFIX,analy1.dtnnetwork.be
 DOMAIN-SUFFIX,analy.qq.com
 DOMAIN-SUFFIX,analyse.hinemos.info
@@ -3306,6 +3307,8 @@ DOMAIN-SUFFIX,analytics.cnfanart.com
 DOMAIN-SUFFIX,analytics.cnnchile.com
 DOMAIN-SUFFIX,analytics.cn.ru
 DOMAIN-SUFFIX,analytics.cocolog-nifty.com
+DOMAIN-SUFFIX,analytics.code.dccouncil.gov
+DOMAIN-SUFFIX,analytics.code.dccouncil.us
 DOMAIN-SUFFIX,analytics.codeforscience.org
 DOMAIN-SUFFIX,analytics.code.illusion.jp
 DOMAIN-SUFFIX,analytics.codeskulptor.org
@@ -3470,6 +3473,7 @@ DOMAIN-SUFFIX,analytics.kurocore.com
 DOMAIN-SUFFIX,analytics.languagetoolplus.com
 DOMAIN-SUFFIX,analytics.lasegunda.ecn.cl
 DOMAIN-SUFFIX,analytics.launch.bz
+DOMAIN-SUFFIX,analytics.law.cityofsanmateo.org
 DOMAIN-SUFFIX,analytics.lekumo.jp
 DOMAIN-SUFFIX,analytics.lendio.com
 DOMAIN-SUFFIX,analytics.lexisnexisrisk.com
@@ -6970,6 +6974,7 @@ DOMAIN-SUFFIX,consulting.icmi.com
 DOMAIN-SUFFIX,consulting.mcgladrey.com
 DOMAIN-SUFFIX,consumer.equifax.com
 DOMAIN-SUFFIX,consumer.inform.equifax.com
+DOMAIN-SUFFIX,contacapre.bortox.it
 DOMAIN-SUFFIX,contact.abc-companies.com
 DOMAIN-SUFFIX,contact.adaptavist.com
 DOMAIN-SUFFIX,contact.aon.com
@@ -7283,6 +7288,7 @@ DOMAIN-SUFFIX,count.rin.ru
 DOMAIN-SUFFIX,count.rtl.de
 DOMAIN-SUFFIX,count.sibbo.net
 DOMAIN-SUFFIX,countus.fr
+DOMAIN-SUFFIX,count.vidsrc.pro
 DOMAIN-SUFFIX,countvoncount.goguardian.com
 DOMAIN-SUFFIX,countyou.de
 DOMAIN-SUFFIX,countz.com
@@ -14050,10 +14056,15 @@ DOMAIN-SUFFIX,go.apostasdobrasil.org
 DOMAIN-SUFFIX,go.apostaspt.net
 DOMAIN-SUFFIX,go.arrestedresources.com
 DOMAIN-SUFFIX,go.asapostasbr.com
+DOMAIN-SUFFIX,goat1.nhimmeo.cf
 DOMAIN-SUFFIX,goat.aicontentdojo.com
 DOMAIN-SUFFIX,goatcounter.com
+DOMAIN-SUFFIX,goatcounter.gamecraft.it
+DOMAIN-SUFFIX,goat.hepicgamerz.com
 DOMAIN-SUFFIX,goat.kunalslab.com
 DOMAIN-SUFFIX,goat.purposevisionfuture.com
+DOMAIN-SUFFIX,goat.skeetstats.xyz
+DOMAIN-SUFFIX,goat.tailspace.net
 DOMAIN-SUFFIX,goat.vrds.app
 DOMAIN-SUFFIX,go.autodealsnowonline.com
 DOMAIN-SUFFIX,go.avalara.com
@@ -34200,6 +34211,8 @@ DOMAIN-SUFFIX,stats.bookingbuddy.co.uk
 DOMAIN-SUFFIX,stats.bookingbuddy.eu
 DOMAIN-SUFFIX,stats.book-rec.com
 DOMAIN-SUFFIX,stats.booncon.com
+DOMAIN-SUFFIX,stats.boredkevin.com
+DOMAIN-SUFFIX,stats.boringproxy.io
 DOMAIN-SUFFIX,stats.boscabeatha.ie
 DOMAIN-SUFFIX,stats.bostonedtech.org
 DOMAIN-SUFFIX,statsbox.nl
@@ -34432,6 +34445,7 @@ DOMAIN-SUFFIX,stats.his-j.com
 DOMAIN-SUFFIX,stats.homepage-2021.askmiso-dev.com
 DOMAIN-SUFFIX,stats.homestow.com
 DOMAIN-SUFFIX,stats.honeywell.com
+DOMAIN-SUFFIX,stats.how.wtf
 DOMAIN-SUFFIX,stats.hpz-scharnhausen.de
 DOMAIN-SUFFIX,stats.htmlcsstoimage.com
 DOMAIN-SUFFIX,stats.htp.org
@@ -34469,6 +34483,7 @@ DOMAIN-SUFFIX,stats.isthispoisonivy.website
 DOMAIN-SUFFIX,statsit.com
 DOMAIN-SUFFIX,stats.ivs.rocks
 DOMAIN-SUFFIX,stats.jackwhiting.co.uk
+DOMAIN-SUFFIX,stats.jakebailey.dev
 DOMAIN-SUFFIX,stats.jamesevers.co.uk
 DOMAIN-SUFFIX,stats.jamesilesantiques.com
 DOMAIN-SUFFIX,stats.jamhouse.app
@@ -34480,6 +34495,7 @@ DOMAIN-SUFFIX,stats.jetzt-aktivieren.de
 DOMAIN-SUFFIX,stats.jhsheridan.com
 DOMAIN-SUFFIX,stats.jjude.com
 DOMAIN-SUFFIX,stats.joaopedro.dev
+DOMAIN-SUFFIX,stats.johanneswienke.de
 DOMAIN-SUFFIX,stats.jotex.se
 DOMAIN-SUFFIX,stats.jpush.cn
 DOMAIN-SUFFIX,stats.jsbible.com
@@ -34505,6 +34521,7 @@ DOMAIN-SUFFIX,stats.krauss.io
 DOMAIN-SUFFIX,stats.kroger.com
 DOMAIN-SUFFIX,stats.kryptoslogic.com
 DOMAIN-SUFFIX,stats.ks-labs.de
+DOMAIN-SUFFIX,stats.ksr.onl
 DOMAIN-SUFFIX,stats.kyushoku2050.org
 DOMAIN-SUFFIX,stats.labibli.com
 DOMAIN-SUFFIX,stats.lag-avtal.se
@@ -34535,6 +34552,7 @@ DOMAIN-SUFFIX,stats.localmetravel.com
 DOMAIN-SUFFIX,stats.loitersquad.net
 DOMAIN-SUFFIX,stats.lord.io
 DOMAIN-SUFFIX,stats.lptracker.ru
+DOMAIN-SUFFIX,stats.lspeed.org
 DOMAIN-SUFFIX,stats.lstfnd.de
 DOMAIN-SUFFIX,stats.ltdhunt.com
 DOMAIN-SUFFIX,stats.luieremmer.net
@@ -34591,6 +34609,7 @@ DOMAIN-SUFFIX,stats.mostlycoding.com.au
 DOMAIN-SUFFIX,stats.motion-effect.com
 DOMAIN-SUFFIX,stats.motorcyclepartsireland.ie
 DOMAIN-SUFFIX,stats.mrtnvh.com
+DOMAIN-SUFFIX,stats.msol.io
 DOMAIN-SUFFIX,stats.mt.com
 DOMAIN-SUFFIX,stats.multiplelenses.com
 DOMAIN-SUFFIX,stats.multiply.cloud
@@ -35092,6 +35111,7 @@ DOMAIN-SUFFIX,stktkt.profizelt24.de
 DOMAIN-SUFFIX,stliom.vidaxl.cz
 DOMAIN-SUFFIX,stlog.d.dmkt-sp.jp
 DOMAIN-SUFFIX,stlog.dmarket.docomo.ne.jp
+DOMAIN-SUFFIX,st.mapleranks.com
 DOMAIN-SUFFIX,st.mashable.com
 DOMAIN-SUFFIX,st.mazdausa.com
 DOMAIN-SUFFIX,stmetrics.bbva.com.ar
