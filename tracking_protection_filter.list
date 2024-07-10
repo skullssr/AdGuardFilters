@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-10 05:52:04
-# DOMAIN-SUFFIX: 43335
-# TOTAL: 43335
+# UPDATED: 2024-07-11 05:14:03
+# DOMAIN-SUFFIX: 43338
+# TOTAL: 43338
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -5223,6 +5223,7 @@ DOMAIN-SUFFIX,beacon.itmedia.jp
 DOMAIN-SUFFIX,beacon.kmi-us.com
 DOMAIN-SUFFIX,beacon.lycos.com
 DOMAIN-SUFFIX,beacon.nc-net.or.jp
+DOMAIN-SUFFIX,beacon.necotracks.jp
 DOMAIN-SUFFIX,beacon.netflix.com
 DOMAIN-SUFFIX,beacon.nuskin.com
 DOMAIN-SUFFIX,beacon.qq.com
@@ -18466,6 +18467,7 @@ DOMAIN-SUFFIX,log.rmp.rakuten.co.jp
 DOMAIN-SUFFIX,log.rutube.ru
 DOMAIN-SUFFIX,logs13.xiti.com
 DOMAIN-SUFFIX,logs1407.xiti.com
+DOMAIN-SUFFIX,logs2.jobs.com
 DOMAIN-SUFFIX,logs.51cto.com
 DOMAIN-SUFFIX,logs.8thwall.com
 DOMAIN-SUFFIX,logs.amap.com
@@ -40627,6 +40629,7 @@ DOMAIN-SUFFIX,t.securevisits.net
 DOMAIN-SUFFIX,tsedvc.aboutyou.ch
 DOMAIN-SUFFIX,t.seesaa.net
 DOMAIN-SUFFIX,t.selectyourtickets.com
+DOMAIN-SUFFIX,t.semafor.com
 DOMAIN-SUFFIX,t.seminoles.com
 DOMAIN-SUFFIX,t-s.erivedge.com
 DOMAIN-SUFFIX,tse.telerama.fr
