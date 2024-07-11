@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-11 05:14:03
-# DOMAIN-SUFFIX: 43338
-# TOTAL: 43338
+# UPDATED: 2024-07-12 05:17:07
+# DOMAIN-SUFFIX: 43340
+# TOTAL: 43340
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -36807,6 +36807,7 @@ DOMAIN-SUFFIX,tmetrics.hdfcbank.com
 DOMAIN-SUFFIX,tmetrics.webex.com
 DOMAIN-SUFFIX,t.metrilo.com
 DOMAIN-SUFFIX,t.mgoblue.com
+DOMAIN-SUFFIX,tm-gta5-prod.ros.rockstargames.com
 DOMAIN-SUFFIX,tm.hdmtools.com
 DOMAIN-SUFFIX,tmhgma.juwelo.de
 DOMAIN-SUFFIX,t.miamihurricanes.com
@@ -37905,6 +37906,7 @@ DOMAIN-SUFFIX,tracking.insperity.com
 DOMAIN-SUFFIX,tracking.insta-tool.net
 DOMAIN-SUFFIX,trackinginternal.hcltech.com
 DOMAIN-SUFFIX,trackinginternal.ti.com
+DOMAIN-SUFFIX,tracking.iwhop.cn
 DOMAIN-SUFFIX,tracking.janssenmed.cz
 DOMAIN-SUFFIX,tracking.janssenmedicalcloud.be
 DOMAIN-SUFFIX,tracking.janssenmedicalcloud.ch
