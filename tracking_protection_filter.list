@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-17 05:28:26
-# DOMAIN-SUFFIX: 42931
-# TOTAL: 42931
+# UPDATED: 2024-07-18 05:06:48
+# DOMAIN-SUFFIX: 42937
+# TOTAL: 42937
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3631,6 +3631,7 @@ DOMAIN-SUFFIX,analytics.purelovers.com
 DOMAIN-SUFFIX,analytics.qoqa.ch
 DOMAIN-SUFFIX,analytics.qoqa.com
 DOMAIN-SUFFIX,analytics.qoqa.ninja
+DOMAIN-SUFFIX,analytics.qs-apps.com
 DOMAIN-SUFFIX,analytics.qualcomm.com
 DOMAIN-SUFFIX,analytics.qualityquestions.co
 DOMAIN-SUFFIX,analytics.query.yahoo.com
@@ -4066,6 +4067,7 @@ DOMAIN-SUFFIX,api.limbik.com
 DOMAIN-SUFFIX,api.miui.security.xiaomi.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.net.sparhandy.de
+DOMAIN-SUFFIX,api.publytics.net
 DOMAIN-SUFFIX,api.realmentor.net
 DOMAIN-SUFFIX,api.reproio.com
 DOMAIN-SUFFIX,api.ryanyao.design
@@ -25635,6 +25637,7 @@ DOMAIN-SUFFIX,pixel.lilystyle.ai
 DOMAIN-SUFFIX,pixel.locker2.com
 DOMAIN-SUFFIX,pixel.mintigo.com
 DOMAIN-SUFFIX,pixel.newscgp.com
+DOMAIN-SUFFIX,pixel.nudgify.com
 DOMAIN-SUFFIX,pixel.nur.kz
 DOMAIN-SUFFIX,pixel.pcworld.com
 DOMAIN-SUFFIX,pixel.playbuzz.com
@@ -28816,6 +28819,7 @@ DOMAIN-SUFFIX,shippinginsights.com
 DOMAIN-SUFFIX,shipsmarter.idrivelogistics.com
 DOMAIN-SUFFIX,shjwhv.falsepeti.com
 DOMAIN-SUFFIX,s.hm.com
+DOMAIN-SUFFIX,shoelace.com
 DOMAIN-SUFFIX,shonretimus.com
 DOMAIN-SUFFIX,shop.anu-cosme.com
 DOMAIN-SUFFIX,shopback.net
@@ -34128,6 +34132,7 @@ DOMAIN-SUFFIX,stats.guersanguillaume.com
 DOMAIN-SUFFIX,stats.guidingwallet.app
 DOMAIN-SUFFIX,stats.guycarp.com
 DOMAIN-SUFFIX,stats.gynsprechstunde.de
+DOMAIN-SUFFIX,stats.habr.com
 DOMAIN-SUFFIX,stats.hackershare.dev
 DOMAIN-SUFFIX,stats.hager.com
 DOMAIN-SUFFIX,stats.halcyon.hr
@@ -36492,6 +36497,7 @@ DOMAIN-SUFFIX,t.mma-adl.com
 DOMAIN-SUFFIX,t.mmaeast.com
 DOMAIN-SUFFIX,tm-marketing.wolterskluwer.com
 DOMAIN-SUFFIX,tm.msgs.jp
+DOMAIN-SUFFIX,t.mm-uxrv.com
 DOMAIN-SUFFIX,t.montecarlosbm.com
 DOMAIN-SUFFIX,t.mowmore.com
 DOMAIN-SUFFIX,tmrhpl.nurse-agent.com
