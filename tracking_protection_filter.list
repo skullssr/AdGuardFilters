@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-18 05:06:48
-# DOMAIN-SUFFIX: 42937
-# TOTAL: 42937
+# UPDATED: 2024-07-19 04:57:44
+# DOMAIN-SUFFIX: 42935
+# TOTAL: 42935
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4059,7 +4059,6 @@ DOMAIN-SUFFIX,api.fuck.education
 DOMAIN-SUFFIX,api.gameanalytics.com
 DOMAIN-SUFFIX,api.gimbal.com
 DOMAIN-SUFFIX,api-*.hismarttv.com
-DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,api.iterable.com
 DOMAIN-SUFFIX,api.iterative.ly
 DOMAIN-SUFFIX,a.pikabu.ru
@@ -4072,7 +4071,6 @@ DOMAIN-SUFFIX,api.realmentor.net
 DOMAIN-SUFFIX,api.reproio.com
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
-DOMAIN-SUFFIX,api.sardine.ai
 DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.segment.io
 DOMAIN-SUFFIX,api.setting.intl.miui.com
@@ -12966,7 +12964,6 @@ DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,evergage.com
 DOMAIN-SUFFIX,evhvza.sodimac.com.br
 DOMAIN-SUFFIX,eviltracker.net
-DOMAIN-SUFFIX,ev.indianexpress.com
 DOMAIN-SUFFIX,e.viously.com
 DOMAIN-SUFFIX,evisitanalyst.com
 DOMAIN-SUFFIX,ev.kck.st
@@ -37251,6 +37248,7 @@ DOMAIN-SUFFIX,track.iam.cash
 DOMAIN-SUFFIX,track.icowhide.com
 DOMAIN-SUFFIX,track.idealinsighttoday.com
 DOMAIN-SUFFIX,track.ideazacenter.com
+DOMAIN-SUFFIX,trackid.globoid.globo.com
 DOMAIN-SUFFIX,track.imgtrx2.com
 DOMAIN-SUFFIX,track.imgtrx3.com
 DOMAIN-SUFFIX,track.imgtrx4.com

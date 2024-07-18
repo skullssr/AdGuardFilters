@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-18 05:10:30
-# DOMAIN-SUFFIX: 385
-# TOTAL: 385
+# UPDATED: 2024-07-19 05:01:21
+# DOMAIN-SUFFIX: 386
+# TOTAL: 386
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -283,6 +283,7 @@ DOMAIN-SUFFIX,nkis.nikkei.com
 DOMAIN-SUFFIX,octopuspop.com
 DOMAIN-SUFFIX,okbp.xyz
 DOMAIN-SUFFIX,one.impact-ad.jp
+DOMAIN-SUFFIX,ota-goods.info
 DOMAIN-SUFFIX,ov.yahoo.co.jp
 DOMAIN-SUFFIX,partner.become.co.jp
 DOMAIN-SUFFIX,performancefirst.jp
