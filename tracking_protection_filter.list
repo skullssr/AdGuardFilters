@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-19 04:57:44
-# DOMAIN-SUFFIX: 42935
-# TOTAL: 42935
+# UPDATED: 2024-07-20 05:09:28
+# DOMAIN-SUFFIX: 42937
+# TOTAL: 42937
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -6014,6 +6014,7 @@ DOMAIN-SUFFIX,cdn.contalyze.com
 DOMAIN-SUFFIX,cdn.counter.dev
 DOMAIN-SUFFIX,cdn.czx5eyk0exbhwp43ya.biz
 DOMAIN-SUFFIX,cdn.ddmanager.ru
+DOMAIN-SUFFIX,cdn.defractal.com
 DOMAIN-SUFFIX,cdn.driveback.ru
 DOMAIN-SUFFIX,cdn.dsspn.com
 DOMAIN-SUFFIX,cdn.glassboxcdn.com
@@ -28155,6 +28156,7 @@ DOMAIN-SUFFIX,scmarketing.colliers.com
 DOMAIN-SUFFIX,sc.metrics-shell.com
 DOMAIN-SUFFIX,scmetrics.shell.com
 DOMAIN-SUFFIX,scmetrics.vodafone.it
+DOMAIN-SUFFIX,scmn0di.com
 DOMAIN-SUFFIX,sc.mtv.co.uk
 DOMAIN-SUFFIX,sc.mtv.tv
 DOMAIN-SUFFIX,sc.muji.net
