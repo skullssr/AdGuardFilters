@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-23 05:12:44
-# DOMAIN-SUFFIX: 43362
-# TOTAL: 43362
+# UPDATED: 2024-07-24 05:26:17
+# DOMAIN-SUFFIX: 43367
+# TOTAL: 43367
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4068,6 +4068,7 @@ DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.segment.io
 DOMAIN-SUFFIX,api.setting.intl.miui.com
 DOMAIN-SUFFIX,api.share.mob.com
+DOMAIN-SUFFIX,api.sprig.com
 DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
 DOMAIN-SUFFIX,api.tomi.ai
 DOMAIN-SUFFIX,api.trueaudience.io
@@ -4883,6 +4884,7 @@ DOMAIN-SUFFIX,avenseo.com
 DOMAIN-SUFFIX,avidlender.com
 DOMAIN-SUFFIX,aviite.freaksstore.com
 DOMAIN-SUFFIX,a.visiones.net
+DOMAIN-SUFFIX,a.visme.co
 DOMAIN-SUFFIX,avjadt.e-look.jp
 DOMAIN-SUFFIX,avmws.com
 DOMAIN-SUFFIX,avo.app
@@ -12921,6 +12923,7 @@ DOMAIN-SUFFIX,events.executiveboard.com
 DOMAIN-SUFFIX,events.ferrari.com
 DOMAIN-SUFFIX,events.flagship.io
 DOMAIN-SUFFIX,events.forddirectdealers.com
+DOMAIN-SUFFIX,events.framer.com
 DOMAIN-SUFFIX,events.funnelish.com
 DOMAIN-SUFFIX,events.getsitectrl.com
 DOMAIN-SUFFIX,events.glory-global.com
@@ -17059,6 +17062,7 @@ DOMAIN-SUFFIX,insights.mckimcg.ca
 DOMAIN-SUFFIX,insights.mma-adl.com
 DOMAIN-SUFFIX,insights.mmaeast.com
 DOMAIN-SUFFIX,insights.morrismohawk.ca
+DOMAIN-SUFFIX,insights-mxp.coursecareers.com
 DOMAIN-SUFFIX,insights.networks.global.fujitsu.com
 DOMAIN-SUFFIX,insights.nexansdatacenter.com
 DOMAIN-SUFFIX,insights.nowitmatters.com
@@ -34011,6 +34015,7 @@ DOMAIN-SUFFIX,static.herr.io
 DOMAIN-SUFFIX,static.karte.io
 DOMAIN-SUFFIX,static.osalta.eu
 DOMAIN-SUFFIX,static.parsely.com
+DOMAIN-SUFFIX,static.runconverge.com
 DOMAIN-SUFFIX,static.terratraf.io
 DOMAIN-SUFFIX,static-trackers.adtarget.me
 DOMAIN-SUFFIX,static-tracking.klaviyo.com
