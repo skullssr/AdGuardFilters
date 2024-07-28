@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-05 05:20:53
-# DOMAIN-SUFFIX: 203
-# TOTAL: 203
+# UPDATED: 2024-07-29 05:28:15
+# DOMAIN-SUFFIX: 204
+# TOTAL: 204
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,shopback.com.tw
 DOMAIN-SUFFIX,smsonline.cloud
 DOMAIN-SUFFIX,smtcaw.com
 DOMAIN-SUFFIX,soft8ware.com
+DOMAIN-SUFFIX,softblog.tw
 DOMAIN-SUFFIX,softwarebrother.com
 DOMAIN-SUFFIX,sssbozh.com
 DOMAIN-SUFFIX,stapewithadblock.monster
