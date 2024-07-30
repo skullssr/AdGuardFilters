@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-30 05:33:45
-# DOMAIN-SUFFIX: 43304
-# TOTAL: 43304
+# UPDATED: 2024-07-31 05:04:44
+# DOMAIN-SUFFIX: 43315
+# TOTAL: 43315
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4006,6 +4006,7 @@ DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.net.sparhandy.de
 DOMAIN-SUFFIX,api.publytics.net
 DOMAIN-SUFFIX,api.realmentor.net
+DOMAIN-SUFFIX,api.receptivity.io
 DOMAIN-SUFFIX,api.reproio.com
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
@@ -4253,6 +4254,7 @@ DOMAIN-SUFFIX,app.learn.datafoundry.com
 DOMAIN-SUFFIX,app.learn.ioninteractive.com
 DOMAIN-SUFFIX,app.learn.mindjet.com
 DOMAIN-SUFFIX,app.learn.rasmussen.edu
+DOMAIN-SUFFIX,apple-*.le.com
 DOMAIN-SUFFIX,app.libertyfirstcreditunionarena.com
 DOMAIN-SUFFIX,app.libertyflames.com
 DOMAIN-SUFFIX,applicatifs.ricoh.fr
@@ -5077,6 +5079,7 @@ DOMAIN-SUFFIX,baikalize.com
 DOMAIN-SUFFIX,baldeagle.e-ma.re
 DOMAIN-SUFFIX,b.allsecur.nl
 DOMAIN-SUFFIX,bam-x.com
+DOMAIN-SUFFIX,banana.le.com
 DOMAIN-SUFFIX,bandborder.com
 DOMAIN-SUFFIX,bandicoot.mohit.dev
 DOMAIN-SUFFIX,bandicoot.p0.design
@@ -6429,6 +6432,7 @@ DOMAIN-SUFFIX,clk.wct.wisechoicetraders.com
 DOMAIN-SUFFIX,clk.wesaveallday.com
 DOMAIN-SUFFIX,clk.wiseretireesaves.com
 DOMAIN-SUFFIX,cllctr.any.run
+DOMAIN-SUFFIX,cllctr.roistat.com
 DOMAIN-SUFFIX,clnbze.dziennikbaltycki.pl
 DOMAIN-SUFFIX,clnbze.dzienniklodzki.pl
 DOMAIN-SUFFIX,clnbze.dziennikpolski24.pl
@@ -7589,6 +7593,7 @@ DOMAIN-SUFFIX,cv.zephylrin-x.net
 DOMAIN-SUFFIX,cvzvun.vidaxl.de
 DOMAIN-SUFFIX,cwcdmm.zennioptical.com
 DOMAIN-SUFFIX,c.webengage.com
+DOMAIN-SUFFIX,c.webp2p.letv.com
 DOMAIN-SUFFIX,c.wort-suche.com
 DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN-SUFFIX,cws-hulu.conviva.com
@@ -10654,6 +10659,7 @@ DOMAIN-SUFFIX,dc.kay.com
 DOMAIN-SUFFIX,dc.kayoutlet.com
 DOMAIN-SUFFIX,dc.kfz-steuercheck.de
 DOMAIN-SUFFIX,dckiwt.eataly.com
+DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,dclnxirp001cou.net.jumia.co.tz
 DOMAIN-SUFFIX,dc.luzygas.ahorraconrepsol.com
 DOMAIN-SUFFIX,dc.madridistas.com
@@ -13105,6 +13111,7 @@ DOMAIN-SUFFIX,feedback.nslsc-csnpe.ca
 DOMAIN-SUFFIX,feedcat.net
 DOMAIN-SUFFIX,feedjit.com
 DOMAIN-SUFFIX,feedperfect.com
+DOMAIN-SUFFIX,fe-go.letv.com
 DOMAIN-SUFFIX,felidae.mmm.page
 DOMAIN-SUFFIX,felidae.mysuperportal.com
 DOMAIN-SUFFIX,felidae.theforeignarchitect.com
@@ -33855,6 +33862,7 @@ DOMAIN-SUFFIX,sst.johnlewis.com
 DOMAIN-SUFFIX,sst.marshalls.com
 DOMAIN-SUFFIX,sst.nab.com.au
 DOMAIN-SUFFIX,sst.subzero-wolf.com
+DOMAIN-SUFFIX,sst.thebanker.com
 DOMAIN-SUFFIX,sst.tjmaxx.tjx.com
 DOMAIN-SUFFIX,ssuork.sixt.at
 DOMAIN-SUFFIX,ssuperstats.observepoint.com
@@ -34039,6 +34047,7 @@ DOMAIN-SUFFIX,stat.laleynext.es
 DOMAIN-SUFFIX,stat.lamy-formation.fr
 DOMAIN-SUFFIX,stat.lamyline.fr
 DOMAIN-SUFFIX,stat.landingpro.pl
+DOMAIN-SUFFIX,stat.le.com
 DOMAIN-SUFFIX,stat.legalintelligence.com
 DOMAIN-SUFFIX,stat.lexhub.tech
 DOMAIN-SUFFIX,stat.lex.pl
@@ -35467,6 +35476,7 @@ DOMAIN-SUFFIX,swebmetrics.ok.gov
 DOMAIN-SUFFIX,swebmetrics.oklahoma.gov
 DOMAIN-SUFFIX,swebmetrics.perkinelmer.com
 DOMAIN-SUFFIX,swebmetrics.zebra.com
+DOMAIN-SUFFIX,s-webp2p.letv.com
 DOMAIN-SUFFIX,swebreports.nature.org
 DOMAIN-SUFFIX,swebstats.americanbar.org
 DOMAIN-SUFFIX,swebstats.apu.edu
@@ -36247,6 +36257,7 @@ DOMAIN-SUFFIX,telemetry.owenscorning.com
 DOMAIN-SUFFIX,telemetry.ruthschris.com
 DOMAIN-SUFFIX,telemetry.soundcloud.com
 DOMAIN-SUFFIX,telemetry.stryker.com
+DOMAIN-SUFFIX,telemetry.stytch.com
 DOMAIN-SUFFIX,telemetry.swe.quicinc.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry*.transcend.io
