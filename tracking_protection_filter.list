@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-31 05:04:44
-# DOMAIN-SUFFIX: 43315
-# TOTAL: 43315
+# UPDATED: 2024-08-01 05:04:38
+# DOMAIN-SUFFIX: 43320
+# TOTAL: 43320
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -5729,6 +5729,7 @@ DOMAIN-SUFFIX,c1.greatusalife.com
 DOMAIN-SUFFIX,c1.onegreatamericansolutions.com
 DOMAIN-SUFFIX,c1.onerealamerican.com
 DOMAIN-SUFFIX,c1.politexpert.ru
+DOMAIN-SUFFIX,c1-stats.shopifysvc.com
 DOMAIN-SUFFIX,c1.thegreatamericanservices.com
 DOMAIN-SUFFIX,c1.topamericacenter.com
 DOMAIN-SUFFIX,c1.wfinterface.com
@@ -12591,6 +12592,7 @@ DOMAIN-SUFFIX,etrack.ext.arubanetworks.com
 DOMAIN-SUFFIX,etrack.ext.hpe.com
 DOMAIN-SUFFIX,et.rejuvenescenatural.com
 DOMAIN-SUFFIX,etrigue.com
+DOMAIN-SUFFIX,e.truedata.co
 DOMAIN-SUFFIX,etr.urtrk.site
 DOMAIN-SUFFIX,etscampaign.motorola.com
 DOMAIN-SUFFIX,ets.easybrain.com
@@ -12693,6 +12695,7 @@ DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,event.boozallen.com
 DOMAIN-SUFFIX,eventbus.intuit.com
 DOMAIN-SUFFIX,event.chitai-gorod.ru
+DOMAIN-SUFFIX,event.clientgear.com
 DOMAIN-SUFFIX,event-collector.analytics.onedio.com
 DOMAIN-SUFFIX,event-collector.moviesanywhere.com
 DOMAIN-SUFFIX,event-collector.prd.data.s.joyn.de
@@ -25811,6 +25814,7 @@ DOMAIN-SUFFIX,pixel.sojern.com
 DOMAIN-SUFFIX,pixel.staging.tree.com
 DOMAIN-SUFFIX,pixel.tapad.com
 DOMAIN-SUFFIX,pixel.tatpek.com
+DOMAIN-SUFFIX,pixeltrack.clientgear.com
 DOMAIN-SUFFIX,pixel.trackverify.com
 DOMAIN-SUFFIX,pixel.watch
 DOMAIN-SUFFIX,pixel.wp.com
@@ -26079,6 +26083,7 @@ DOMAIN-SUFFIX,pollster.pl
 DOMAIN-SUFFIX,pompom-www.com
 DOMAIN-SUFFIX,ponyo.cheriefm.fr
 DOMAIN-SUFFIX,pool1.i-am.io
+DOMAIN-SUFFIX,pop.devil.services
 DOMAIN-SUFFIX,pop.kvideo.xyz
 DOMAIN-SUFFIX,po.ponant.com
 DOMAIN-SUFFIX,popovo.lisrend.space
@@ -27520,6 +27525,7 @@ DOMAIN-SUFFIX,rt.livingthegoodlifenaturally.com
 DOMAIN-SUFFIX,rtl.met.vgwort.de
 DOMAIN-SUFFIX,rtlog*.tiktokv.com
 DOMAIN-SUFFIX,rtlog.tiktokv.com
+DOMAIN-SUFFIX,rtlog*.tiktokv.us
 DOMAIN-SUFFIX,rtl.t.thedigestionboost.com
 DOMAIN-SUFFIX,rt.lucendi.ph
 DOMAIN-SUFFIX,rtmark.net
@@ -36233,7 +36239,6 @@ DOMAIN-SUFFIX,te.jelmoli-shop.ch
 DOMAIN-SUFFIX,tekdtr.shoecarnival.com
 DOMAIN-SUFFIX,t.elasticsuite.io
 DOMAIN-SUFFIX,telegraf.detmir-stats.ru
-DOMAIN-SUFFIX,telemetric.dk
 DOMAIN-SUFFIX,telemetrics.klaviyo.com
 DOMAIN-SUFFIX,telemetry.api.swiftkey.com
 DOMAIN-SUFFIX,telemetry.api.wmcdp.io
