@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-02 05:13:31
-# DOMAIN-SUFFIX: 43323
-# TOTAL: 43323
+# UPDATED: 2024-08-03 05:26:56
+# DOMAIN-SUFFIX: 43328
+# TOTAL: 43328
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3310,6 +3310,7 @@ DOMAIN-SUFFIX,analytics.faceitanalytics.com
 DOMAIN-SUFFIX,analytics.fap.bar
 DOMAIN-SUFFIX,analytics.fatmedia.io
 DOMAIN-SUFFIX,analytics.fcgtalent.fi
+DOMAIN-SUFFIX,analytics-fe.digital-cloud.medallia.eu
 DOMAIN-SUFFIX,analytics.ferguson.com
 DOMAIN-SUFFIX,analytics.ff.avast.com
 DOMAIN-SUFFIX,analytics.firstbankcardcenter.com
@@ -3592,6 +3593,7 @@ DOMAIN-SUFFIX,analyticsresults.datev-magazin.de
 DOMAIN-SUFFIX,analyticsresults.datev-mymarketing.de
 DOMAIN-SUFFIX,analyticsresults.dev.datev.de
 DOMAIN-SUFFIX,analyticsresults.trialog-magazin.de
+DOMAIN-SUFFIX,analytics.rev.iq
 DOMAIN-SUFFIX,analytics.ripped.guide
 DOMAIN-SUFFIX,analytics.rivaliq.com
 DOMAIN-SUFFIX,analytics.robinhood.com
@@ -12538,6 +12540,7 @@ DOMAIN-SUFFIX,eroar.lionsclubs.org
 DOMAIN-SUFFIX,erotop.lv
 DOMAIN-SUFFIX,erp.plex.com
 DOMAIN-SUFFIX,errlogos.umeng.com
+DOMAIN-SUFFIX,error-tracking.reddit.com
 DOMAIN-SUFFIX,er.search.naver.com
 DOMAIN-SUFFIX,ert5.rmcsport.tv
 DOMAIN-SUFFIX,erutinmos.snagajob.com
@@ -37685,6 +37688,7 @@ DOMAIN-SUFFIX,tracking.aupairinamerica.com
 DOMAIN-SUFFIX,tracking.aupairinamerica.fr
 DOMAIN-SUFFIX,tracking.automotivemastermind.com
 DOMAIN-SUFFIX,tracking.averydennison.com
+DOMAIN-SUFFIX,tracking.aws.judge.me
 DOMAIN-SUFFIX,tracking.bankofalbuquerque.com
 DOMAIN-SUFFIX,tracking.bankofoklahoma.com
 DOMAIN-SUFFIX,tracking.bankoftexas.com
@@ -42866,6 +42870,7 @@ DOMAIN-SUFFIX,yak.flutterblog.net
 DOMAIN-SUFFIX,yak.gregsullivan.com
 DOMAIN-SUFFIX,yak.withlindy.com
 DOMAIN-SUFFIX,yamanoha.com
+DOMAIN-SUFFIX,yatr.ru
 DOMAIN-SUFFIX,yaudience.com
 DOMAIN-SUFFIX,yawxae.footpatrol.com
 DOMAIN-SUFFIX,yaxedj.vkf-renzel.de
