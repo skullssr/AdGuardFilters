@@ -1,9 +1,9 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-07-31 05:08:52
-# DOMAIN-SUFFIX: 3863
-# TOTAL: 3863
+# UPDATED: 2024-08-06 05:17:01
+# DOMAIN-SUFFIX: 3864
+# TOTAL: 3864
 DOMAIN-SUFFIX,0mniscient.github.io
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
@@ -933,6 +933,7 @@ DOMAIN-SUFFIX,donnerwetter.de
 DOMAIN-SUFFIX,dood.la
 DOMAIN-SUFFIX,dood.li
 DOMAIN-SUFFIX,dood.re
+DOMAIN-SUFFIX,dood.sh
 DOMAIN-SUFFIX,dood.so
 DOMAIN-SUFFIX,doods.pro
 DOMAIN-SUFFIX,dood.yt
