@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-10 05:41:25
-# DOMAIN-SUFFIX: 43282
-# TOTAL: 43282
+# UPDATED: 2024-08-11 05:19:10
+# DOMAIN-SUFFIX: 43310
+# TOTAL: 43310
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -7813,6 +7813,7 @@ DOMAIN-SUFFIX,dallas-content.cresa.com
 DOMAIN-SUFFIX,da.maif.fr
 DOMAIN-SUFFIX,damselfly.clk.click
 DOMAIN-SUFFIX,damselfly.vegenook.com
+DOMAIN-SUFFIX,d.analyticsmania.com
 DOMAIN-SUFFIX,dan.danimillions.com
 DOMAIN-SUFFIX,danv01ao0kdr2.cloudfront.net
 DOMAIN-SUFFIX,d.applvn.com
@@ -14750,6 +14751,8 @@ DOMAIN-SUFFIX,gtm.jotex.se
 DOMAIN-SUFFIX,gtm.kglteater.dk
 DOMAIN-SUFFIX,gtm.kiwitaxi.com
 DOMAIN-SUFFIX,gtm.korodrogerie.de
+DOMAIN-SUFFIX,gtm.lercio.it
+DOMAIN-SUFFIX,gtm.mandesager.dk
 DOMAIN-SUFFIX,gtm.moneybird.nl
 DOMAIN-SUFFIX,gtm.perfectlybasics.nl
 DOMAIN-SUFFIX,gtm.proff.dk
@@ -24916,6 +24919,7 @@ DOMAIN-SUFFIX,pages.vuzion.cloud
 DOMAIN-SUFFIX,pages.wardsintelligence.informa.com
 DOMAIN-SUFFIX,pages.zenefits.com
 DOMAIN-SUFFIX,page.thalesgroup.com
+DOMAIN-SUFFIX,pageview.click
 DOMAIN-SUFFIX,pageviews.tray.com.br
 DOMAIN-SUFFIX,page.vital4.net
 DOMAIN-SUFFIX,paginaseloqua.unisabana.edu.co
@@ -28971,9 +28975,25 @@ DOMAIN-SUFFIX,sgms.greatschools.org
 DOMAIN-SUFFIX,sgpimz.glamira.nl
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
 DOMAIN-SUFFIX,s.grace.com
+DOMAIN-SUFFIX,sgtm.anita.com
+DOMAIN-SUFFIX,sgtm.atg.se
+DOMAIN-SUFFIX,sgtm.blume2000.de
+DOMAIN-SUFFIX,sgtm.csas.cz
 DOMAIN-SUFFIX,sgtm.handyhuellen.de
+DOMAIN-SUFFIX,sgtm.kaspersky.de
+DOMAIN-SUFFIX,sgtm.macrolibrarsi.it
+DOMAIN-SUFFIX,sgtm.mapei.com
+DOMAIN-SUFFIX,sgtm.milestonesys.com
+DOMAIN-SUFFIX,sgtm.mycall.no
+DOMAIN-SUFFIX,sgtm.myprotein.jp
+DOMAIN-SUFFIX,sgtm.ookla.com
+DOMAIN-SUFFIX,sgtm.open.ac.uk
 DOMAIN-SUFFIX,sgtm.sefamerve.com
 DOMAIN-SUFFIX,sgtm.simoahava.com
+DOMAIN-SUFFIX,sgtm.tagmanageritalia.it
+DOMAIN-SUFFIX,sgtm.technikboerse.com
+DOMAIN-SUFFIX,sgtm.tennis-point.de
+DOMAIN-SUFFIX,sgtm.yubico.com
 DOMAIN-SUFFIX,s.guelphmercury.com
 DOMAIN-SUFFIX,sgw-analytics.panasonic.com
 DOMAIN-SUFFIX,sgwhvw.alura.com.br
@@ -33447,6 +33467,7 @@ DOMAIN-SUFFIX,ssc.wa.gto.db.com
 DOMAIN-SUFFIX,ssc.zeriamerikes.com
 DOMAIN-SUFFIX,ssdc.bawag.com
 DOMAIN-SUFFIX,ssdc.easybank.at
+DOMAIN-SUFFIX,ss.esade.edu
 DOMAIN-SUFFIX,ssevt.com
 DOMAIN-SUFFIX,ssgamf.stories.com
 DOMAIN-SUFFIX,sshhfy.ray-ban.com
@@ -33810,12 +33831,14 @@ DOMAIN-SUFFIX,sstats.wmagazine.com
 DOMAIN-SUFFIX,sstats.www.o2.cz
 DOMAIN-SUFFIX,sstats.yourchi.org
 DOMAIN-SUFFIX,s.stcatharinesstandard.ca
+DOMAIN-SUFFIX,sst.colemanfurniture.com
 DOMAIN-SUFFIX,sst.dell.com
 DOMAIN-SUFFIX,s.stgeorgeafc.com.au
 DOMAIN-SUFFIX,sst.homegoods.com
 DOMAIN-SUFFIX,sst.johnlewis.com
 DOMAIN-SUFFIX,sst.marshalls.com
 DOMAIN-SUFFIX,sst.nab.com.au
+DOMAIN-SUFFIX,sst.shopware.com
 DOMAIN-SUFFIX,sst.subzero-wolf.com
 DOMAIN-SUFFIX,sst.thebanker.com
 DOMAIN-SUFFIX,sst.tjmaxx.tjx.com
@@ -35148,6 +35171,7 @@ DOMAIN-SUFFIX,strack.tarif.allianz.ch
 DOMAIN-SUFFIX,strack.www.allianzcare.com
 DOMAIN-SUFFIX,strack.www.allianzcare-corporate.com
 DOMAIN-SUFFIX,strawberry.basf.com
+DOMAIN-SUFFIX,stream.corporatefinanceinstitute.com
 DOMAIN-SUFFIX,str.foodnetwork.ca
 DOMAIN-SUFFIX,str.globalnews.ca
 DOMAIN-SUFFIX,strikenurse.usnursing.com
@@ -38987,7 +39011,9 @@ DOMAIN-SUFFIX,trck.my.elca.ch
 DOMAIN-SUFFIX,trck.naco-do.com
 DOMAIN-SUFFIX,trckn.dailytradingdigest.com
 DOMAIN-SUFFIX,trckn.earningseekers.com
+DOMAIN-SUFFIX,trckng.dainese.com
 DOMAIN-SUFFIX,trckn.globaltradingmarkets.com
+DOMAIN-SUFFIX,trckng.web55708.greatnet-hosting.de
 DOMAIN-SUFFIX,trckn.opendealsreport.com
 DOMAIN-SUFFIX,trck.nuwlnuwl.com
 DOMAIN-SUFFIX,trck.outreach.vitalant.org
@@ -40557,6 +40583,7 @@ DOMAIN-SUFFIX,tr.votrealarme.securitasdirect.fr
 DOMAIN-SUFFIX,tr.vous.hellobank.fr
 DOMAIN-SUFFIX,trv.upperbooking.com
 DOMAIN-SUFFIX,tr.wa.wordappeal.com
+DOMAIN-SUFFIX,tr.wbstraining.de
 DOMAIN-SUFFIX,tr.webantenna.info
 DOMAIN-SUFFIX,tr.welcome.easyviaggio.com
 DOMAIN-SUFFIX,tr.welcome.easyviajar.com
@@ -41328,6 +41355,7 @@ DOMAIN-SUFFIX,vhpabx.herffjones.com
 DOMAIN-SUFFIX,vhrbxb.vidaxl.nl
 DOMAIN-SUFFIX,vhsrwd.aip24.pl
 DOMAIN-SUFFIX,vi.adviso.ca
+DOMAIN-SUFFIX,viaklera.com
 DOMAIN-SUFFIX,via.ssl.holdmybeerconsulting.com
 DOMAIN-SUFFIX,vibeaconstr.onezapp.com
 DOMAIN-SUFFIX,vibsqr.theuiq.com
