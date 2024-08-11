@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-11 05:19:10
-# DOMAIN-SUFFIX: 43310
-# TOTAL: 43310
+# UPDATED: 2024-08-12 05:11:47
+# DOMAIN-SUFFIX: 43311
+# TOTAL: 43311
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4338,6 +4338,7 @@ DOMAIN-SUFFIX,apply.maxlend.com
 DOMAIN-SUFFIX,apply.official-smartphone-program.com
 DOMAIN-SUFFIX,apply.smartautos2024.shop
 DOMAIN-SUFFIX,apply.smartphone-program.com
+DOMAIN-SUFFIX,applytics.nordvpn.com
 DOMAIN-SUFFIX,app.m1.adsolutions.yp.com
 DOMAIN-SUFFIX,app.machspeed.bluecoat.com
 DOMAIN-SUFFIX,app.mailings.erepublic.com
