@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-14 05:13:20
-# DOMAIN-SUFFIX: 42357
-# TOTAL: 42357
+# UPDATED: 2024-08-16 05:06:03
+# DOMAIN-SUFFIX: 42360
+# TOTAL: 42360
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -12346,6 +12346,7 @@ DOMAIN-SUFFIX,engage.jboss.com
 DOMAIN-SUFFIX,engage.jlclive.com
 DOMAIN-SUFFIX,engage.krm22.com
 DOMAIN-SUFFIX,engage.marketone.com
+DOMAIN-SUFFIX,engagements.appsflyer.com
 DOMAIN-SUFFIX,engagemetrics.cisco.com
 DOMAIN-SUFFIX,engage.neogen.com
 DOMAIN-SUFFIX,engage.nigp.org
@@ -27094,6 +27095,7 @@ DOMAIN-SUFFIX,s2448.sc.origins.en25.com
 DOMAIN-SUFFIX,s24-analytics.com
 DOMAIN-SUFFIX,s2564.sc.origins.en25.com
 DOMAIN-SUFFIX,s2.market-search.online
+DOMAIN-SUFFIX,s2s.adjust.com
 DOMAIN-SUFFIX,s2s.haan.ai
 DOMAIN-SUFFIX,s2whyufxmzam.chatpay.com.br
 DOMAIN-SUFFIX,s.360.cn
@@ -40447,6 +40449,7 @@ DOMAIN-SUFFIX,videostats.kakao.com
 DOMAIN-SUFFIX,video.verintsystemsinc.com
 DOMAIN-SUFFIX,vidfiles.net.mydays.de
 DOMAIN-SUFFIX,vidigital.ru
+DOMAIN-SUFFIX,view.adjust.com
 DOMAIN-SUFFIX,view.americanbuildings.com
 DOMAIN-SUFFIX,view.aon.com
 DOMAIN-SUFFIX,viewar.org
