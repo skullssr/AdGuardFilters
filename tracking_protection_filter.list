@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-16 05:06:03
-# DOMAIN-SUFFIX: 42360
-# TOTAL: 42360
+# UPDATED: 2024-08-17 05:12:37
+# DOMAIN-SUFFIX: 42371
+# TOTAL: 42371
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -6625,6 +6625,8 @@ DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.plarium.com
 DOMAIN-SUFFIX,collector.prod.expedia.com
+DOMAIN-SUFFIX,collector-pxebumdlwe.px-cdn.net
+DOMAIN-SUFFIX,collector-pxebumdlwe.px-cloud.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
 DOMAIN-SUFFIX,collector.rn.de
@@ -13262,6 +13264,7 @@ DOMAIN-SUFFIX,fmufpo.machicon.jp
 DOMAIN-SUFFIX,fna.fnainsurance.com
 DOMAIN-SUFFIX,fnahpq.thbaker.co.uk
 DOMAIN-SUFFIX,fnajvu.framingsuccess.com
+DOMAIN-SUFFIX,fndrsp.net
 DOMAIN-SUFFIX,fnfhgj.secretsales.com
 DOMAIN-SUFFIX,fngwdl.allheart.com
 DOMAIN-SUFFIX,fnlvhy.wowma.jp
@@ -16992,6 +16995,7 @@ DOMAIN-SUFFIX,iperceptions.com
 DOMAIN-SUFFIX,ipfingerprint.com
 DOMAIN-SUFFIX,ipfrom.com
 DOMAIN-SUFFIX,ipgeaif.blairmacintyre.me
+DOMAIN-SUFFIX,ipgeolocation.abstractapi.com
 DOMAIN-SUFFIX,ip.goguardian.com
 DOMAIN-SUFFIX,ipgrabber.ru
 DOMAIN-SUFFIX,ipgraber.ru
@@ -23409,6 +23413,7 @@ DOMAIN-SUFFIX,ns336739.ip-37-187-249.eu
 DOMAIN-SUFFIX,ns3w1qrlbk4s.tip.etip-staging.etip.io
 DOMAIN-SUFFIX,nsaudience.pl
 DOMAIN-SUFFIX,nsc.coutts.com
+DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nscmetrics.shell.com
 DOMAIN-SUFFIX,nsc.natwest.com
 DOMAIN-SUFFIX,nsc.natwestgroup.com
@@ -25519,6 +25524,8 @@ DOMAIN-SUFFIX,portfold.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,posgrados.unisabana.edu.co
 DOMAIN-SUFFIX,posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com
+DOMAIN-SUFFIX,positional.ai
+DOMAIN-SUFFIX,positional-bucket.com
 DOMAIN-SUFFIX,possibilities.theajinetwork.com
 DOMAIN-SUFFIX,posst.co
 DOMAIN-SUFFIX,postaffiliatepro.com
@@ -28369,6 +28376,7 @@ DOMAIN-SUFFIX,sgkazt.xlmoto.de
 DOMAIN-SUFFIX,s.glimesh.tv
 DOMAIN-SUFFIX,sg.log.ulivetv.net
 DOMAIN-SUFFIX,sgmcdn.racingpost.com
+DOMAIN-SUFFIX,sgmnt.beacons.ai
 DOMAIN-SUFFIX,sgms.greatschools.org
 DOMAIN-SUFFIX,sgpimz.glamira.nl
 DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
@@ -33280,6 +33288,7 @@ DOMAIN-SUFFIX,stats.breathly.app
 DOMAIN-SUFFIX,stats.brennholzauktion.com
 DOMAIN-SUFFIX,stats.briskoda.net
 DOMAIN-SUFFIX,stats.broddin.be
+DOMAIN-SUFFIX,stats.browsertrix.com
 DOMAIN-SUFFIX,stats.brumtechtapas.co.uk
 DOMAIN-SUFFIX,stats.buddiy.net
 DOMAIN-SUFFIX,stats.bungeefit.co.uk
@@ -36178,6 +36187,7 @@ DOMAIN-SUFFIX,trace.51jingying.com
 DOMAIN-SUFFIX,trace.events
 DOMAIN-SUFFIX,trace.insead.edu
 DOMAIN-SUFFIX,tracelog.www.alibaba.com
+DOMAIN-SUFFIX,trace.mjyx.com
 DOMAIN-SUFFIX,trace.popin.cc
 DOMAIN-SUFFIX,traceprof.com
 DOMAIN-SUFFIX,trace.qq.com
@@ -37410,6 +37420,7 @@ DOMAIN-SUFFIX,track.kitchenxperts.com
 DOMAIN-SUFFIX,track.kodland.org
 DOMAIN-SUFFIX,track.ktplay.com
 DOMAIN-SUFFIX,track.kueez.com
+DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,track.leadhit.io
 DOMAIN-SUFFIX,track.leadhit.ru
 DOMAIN-SUFFIX,track.leadsense.com
