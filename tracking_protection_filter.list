@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-22 05:14:37
-# DOMAIN-SUFFIX: 39534
-# TOTAL: 39534
+# UPDATED: 2024-08-23 05:04:13
+# DOMAIN-SUFFIX: 39543
+# TOTAL: 39543
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2098,6 +2098,7 @@ DOMAIN-SUFFIX,admissions.easterncollege.ca
 DOMAIN-SUFFIX,admissions.trios.com
 DOMAIN-SUFFIX,admitad.com
 DOMAIN-SUFFIX,admit.mountsaintvincent.edu
+DOMAIN-SUFFIX,admob-app-id-*.firebaseio.com
 DOMAIN-SUFFIX,admon.pro
 DOMAIN-SUFFIX,ad.neatlybuzz.com
 DOMAIN-SUFFIX,adnl.bk.mufg.jp
@@ -3257,6 +3258,7 @@ DOMAIN-SUFFIX,analytics.ferguson.com
 DOMAIN-SUFFIX,analytics.ff.avast.com
 DOMAIN-SUFFIX,analytics.fishtrack.com
 DOMAIN-SUFFIX,analytics.floridatravellife.com
+DOMAIN-SUFFIX,analytics.floris.amsterdam
 DOMAIN-SUFFIX,analytics.fontanka.ru
 DOMAIN-SUFFIX,analytics.foresee.com
 DOMAIN-SUFFIX,analytics.formstack.com
@@ -3602,6 +3604,7 @@ DOMAIN-SUFFIX,analytics.uwindsor.ca
 DOMAIN-SUFFIX,analytics.uxmetrics.com
 DOMAIN-SUFFIX,analytics-v2.wetransfer.com
 DOMAIN-SUFFIX,analytics.valheimgamer.com
+DOMAIN-SUFFIX,analytics.valotool.com
 DOMAIN-SUFFIX,analytics.vedantu.com
 DOMAIN-SUFFIX,analytics.verfacto.com
 DOMAIN-SUFFIX,analytics.verizon.com
@@ -18164,6 +18167,7 @@ DOMAIN-SUFFIX,lp.supervigor.online
 DOMAIN-SUFFIX,lp.supremapoker.com.br
 DOMAIN-SUFFIX,lp.svenskapostkodlotteriet.se
 DOMAIN-SUFFIX,lp.tadazil.com.br
+DOMAIN-SUFFIX,lptag.liveperson.net
 DOMAIN-SUFFIX,lp.tfd-corp.co.jp
 DOMAIN-SUFFIX,lp.thalesgroup.com
 DOMAIN-SUFFIX,lp.thebestfeelings.club
@@ -19772,6 +19776,7 @@ DOMAIN-SUFFIX,measure.ensighten.com
 DOMAIN-SUFFIX,measure.ly
 DOMAIN-SUFFIX,measuremap.com
 DOMAIN-SUFFIX,measurementapi.com
+DOMAIN-SUFFIX,measuring-pixel-service.alza.cz
 DOMAIN-SUFFIX,mec.hilton.com
 DOMAIN-SUFFIX,me.coact.org.au
 DOMAIN-SUFFIX,med.avycaz.com
@@ -23771,6 +23776,7 @@ DOMAIN-SUFFIX,plausible.nmyvsn.net
 DOMAIN-SUFFIX,plausible.nuqu.org
 DOMAIN-SUFFIX,plausible.omgapi.org
 DOMAIN-SUFFIX,plausible.promlens.com
+DOMAIN-SUFFIX,plausible.pronouns.cc
 DOMAIN-SUFFIX,plausible.prufit.co
 DOMAIN-SUFFIX,plausible.pumpkint.com
 DOMAIN-SUFFIX,plausible.quantumcomputingexplained.com
@@ -26849,6 +26855,7 @@ DOMAIN-SUFFIX,skimresources.com
 DOMAIN-SUFFIX,skink.asorman.io
 DOMAIN-SUFFIX,skink.thoumi.ch
 DOMAIN-SUFFIX,skroutza.skroutz.gr
+DOMAIN-SUFFIX,sks.mrkhub.com
 DOMAIN-SUFFIX,skunk.dwa.li
 DOMAIN-SUFFIX,skunk.gameworkersolidarity.com
 DOMAIN-SUFFIX,sk.vigorforcesupplement.com
@@ -31984,6 +31991,7 @@ DOMAIN-SUFFIX,success.rhb.com
 DOMAIN-SUFFIX,success.today.howtobuycheap.com
 DOMAIN-SUFFIX,success.vertigis.com
 DOMAIN-SUFFIX,success.vertigisstudio.com
+DOMAIN-SUFFIX,suchanalytik.hideandsec.sh
 DOMAIN-SUFFIX,suchmaschinen-ranking-hits.de
 DOMAIN-SUFFIX,sucmetrics.hypovereinsbank.de
 DOMAIN-SUFFIX,sucmetrics.unicreditbanca.it
@@ -37435,6 +37443,7 @@ DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,ultund.misterspex.nl
 DOMAIN-SUFFIX,umami.aigenerations.net
 DOMAIN-SUFFIX,umami.is
+DOMAIN-SUFFIX,umami.subdavis.com
 DOMAIN-SUFFIX,umbel.com
 DOMAIN-SUFFIX,umengacs.m.taobao.com
 DOMAIN-SUFFIX,umengjmacs.m.taobao.com
