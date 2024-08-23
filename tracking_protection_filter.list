@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-23 05:04:13
-# DOMAIN-SUFFIX: 39543
-# TOTAL: 39543
+# UPDATED: 2024-08-24 05:12:51
+# DOMAIN-SUFFIX: 39548
+# TOTAL: 39548
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3462,6 +3462,7 @@ DOMAIN-SUFFIX,analytics.qualcomm.com
 DOMAIN-SUFFIX,analytics.qualityquestions.co
 DOMAIN-SUFFIX,analytics.query.yahoo.com
 DOMAIN-SUFFIX,analytics.qushad.com
+DOMAIN-SUFFIX,analytics.raenonx.cc
 DOMAIN-SUFFIX,analytics.ramiyer.io
 DOMAIN-SUFFIX,analytics.ramiyer.me
 DOMAIN-SUFFIX,analytics.ravanallc.com
@@ -3612,6 +3613,7 @@ DOMAIN-SUFFIX,analytics.verizonwireless.com
 DOMAIN-SUFFIX,analytics.vg
 DOMAIN-SUFFIX,analytics.villagehouse.jp
 DOMAIN-SUFFIX,analytics.virginaustralia.com
+DOMAIN-SUFFIX,analytics.vixcloud.co
 DOMAIN-SUFFIX,analytics.vodgc.net
 DOMAIN-SUFFIX,analytics.vpplayer.tech
 DOMAIN-SUFFIX,analytics.waifu2x.org
@@ -6617,6 +6619,7 @@ DOMAIN-SUFFIX,conference.flsmidth.com
 DOMAIN-SUFFIX,conferences.cigna.com
 DOMAIN-SUFFIX,conff.dc.oppomobile.com
 DOMAIN-SUFFIX,confiaen.legalitas.com
+DOMAIN-SUFFIX,confiant-integrations.net
 DOMAIN-SUFFIX,config2.mparticle.com
 DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
 DOMAIN-SUFFIX,config.jpush.cn
@@ -24192,6 +24195,7 @@ DOMAIN-SUFFIX,provizia.mimulo.sk
 DOMAIN-SUFFIX,provizia.vitalitypradlo.sk
 DOMAIN-SUFFIX,proviznisystem.kanclir.cz
 DOMAIN-SUFFIX,pro-web-metrics.alias.s24cloud.net
+DOMAIN-SUFFIX,proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 DOMAIN-SUFFIX,pr.prnewswire.com
 DOMAIN-SUFFIX,pr.prnewswire.co.uk
 DOMAIN-SUFFIX,pr.staminastride.com
@@ -26615,6 +26619,7 @@ DOMAIN-SUFFIX,seyfwl.smaker.pl
 DOMAIN-SUFFIX,seyfwl.styl.pl
 DOMAIN-SUFFIX,sezixz.officesupply.com
 DOMAIN-SUFFIX,sf14g.com
+DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
 DOMAIN-SUFFIX,sfajfu.boulanger.com
 DOMAIN-SUFFIX,sf.blogsbrasilonline.org
 DOMAIN-SUFFIX,sfcv.chinavi-shop.jp
@@ -32956,7 +32961,6 @@ DOMAIN-SUFFIX,teraes.hgreg.com
 DOMAIN-SUFFIX,teralog.techhub.co.kr
 DOMAIN-SUFFIX,t.erivedge.com
 DOMAIN-SUFFIX,termite.queerburners.org
-DOMAIN-SUFFIX,terms.internet.apps.samsung.com
 DOMAIN-SUFFIX,tern.daffy.org
 DOMAIN-SUFFIX,tern.xebel.co
 DOMAIN-SUFFIX,te.sheego.de
@@ -35378,6 +35382,7 @@ DOMAIN-SUFFIX,travel.ecsc-ovc.com
 DOMAIN-SUFFIX,travel.onlinevacationcenter.com
 DOMAIN-SUFFIX,traveltracking.check24.de
 DOMAIN-SUFFIX,tr.avisecheance.maaf.fr
+DOMAIN-SUFFIX,traxex.gannettdigital.com
 DOMAIN-SUFFIX,trax.quicksaveusa.com
 DOMAIN-SUFFIX,tr.bati-partner.be
 DOMAIN-SUFFIX,tr.bati-partners.be
