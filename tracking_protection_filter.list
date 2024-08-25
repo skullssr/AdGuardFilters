@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-24 05:12:51
-# DOMAIN-SUFFIX: 39548
-# TOTAL: 39548
+# UPDATED: 2024-08-26 04:56:35
+# DOMAIN-SUFFIX: 39549
+# TOTAL: 39549
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -5685,6 +5685,7 @@ DOMAIN-SUFFIX,cars.autopia.com.au
 DOMAIN-SUFFIX,cars.smartfleetaustralia.com.au
 DOMAIN-SUFFIX,cars.smartleasing.com.au
 DOMAIN-SUFFIX,carts.guru
+DOMAIN-SUFFIX,cartx.cloud
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cascadion.thermo.com
 DOMAIN-SUFFIX,cascadion.thermofisher.com
