@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-23 04:58:42
+# UPDATED: 2024-08-28 05:19:22
 # DOMAIN-SUFFIX: 2907
 # TOTAL: 2907
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -496,6 +496,7 @@ DOMAIN-SUFFIX,cm-pack.pl
 DOMAIN-SUFFIX,cnprint.org
 DOMAIN-SUFFIX,cobachpl8.milaulas.com
 DOMAIN-SUFFIX,codare.fun
+DOMAIN-SUFFIX,codec.kyiv.ua
 DOMAIN-SUFFIX,codehelppro.com
 DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,codesandbox.io
@@ -2380,7 +2381,6 @@ DOMAIN-SUFFIX,stltoday.com
 DOMAIN-SUFFIX,sto520.com
 DOMAIN-SUFFIX,stream4free.live
 DOMAIN-SUFFIX,streamanime.xyz
-DOMAIN-SUFFIX,streameast.live
 DOMAIN-SUFFIX,streamlive.to
 DOMAIN-SUFFIX,streamlord.com
 DOMAIN-SUFFIX,stripflix.cam
