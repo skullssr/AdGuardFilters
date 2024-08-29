@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-29 05:55:21
-# DOMAIN-SUFFIX: 39018
-# TOTAL: 39018
+# UPDATED: 2024-08-30 05:05:51
+# DOMAIN-SUFFIX: 39023
+# TOTAL: 39023
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3083,6 +3083,7 @@ DOMAIN-SUFFIX,analysis.afreecatv.com
 DOMAIN-SUFFIX,analysis.aws.locondo.jp
 DOMAIN-SUFFIX,analysis.fi
 DOMAIN-SUFFIX,analysis.polarisoffice.com
+DOMAIN-SUFFIX,analysis.vesync.com
 DOMAIN-SUFFIX,analysis.wangtwothree.com
 DOMAIN-SUFFIX,analysys.cn
 DOMAIN-SUFFIX,analytic20.detik.com
@@ -6530,6 +6531,7 @@ DOMAIN-SUFFIX,collector.schibsted.io
 DOMAIN-SUFFIX,collector.scopely.io
 DOMAIN-SUFFIX,collector-statistics.nhn-commerce.com
 DOMAIN-SUFFIX,collector.statowl.com
+DOMAIN-SUFFIX,collector.superwall.me
 DOMAIN-SUFFIX,collector.szlcsc.com
 DOMAIN-SUFFIX,collector.taoxh.life
 DOMAIN-SUFFIX,collector.trendmd.com
@@ -12269,6 +12271,7 @@ DOMAIN-SUFFIX,espmp-pofr.net
 DOMAIN-SUFFIX,esqjac.costakreuzfahrten.de
 DOMAIN-SUFFIX,esqxrp.bonprix-fl.be
 DOMAIN-SUFFIX,es-sa.siemensplmevents.com
+DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com
 DOMAIN-SUFFIX,e-ssl.apsalar.com
 DOMAIN-SUFFIX,essmnx.edreams.ch
 DOMAIN-SUFFIX,estadisticasgratis.com
@@ -17740,6 +17743,7 @@ DOMAIN-SUFFIX,lofi.kylnk.com
 DOMAIN-SUFFIX,lofo3l15c674.platform.replai.io
 DOMAIN-SUFFIX,log000.goo.ne.jp
 DOMAIN-SUFFIX,log002.commutil.kr
+DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
 DOMAIN-SUFFIX,log1.apkomega.com
 DOMAIN-SUFFIX,log1.happymod.com
 DOMAIN-SUFFIX,log1.wtlogin.qq.com
@@ -33517,6 +33521,7 @@ DOMAIN-SUFFIX,tracker.fengkongcloud.com
 DOMAIN-SUFFIX,tracker.gamemonkey.org
 DOMAIN-SUFFIX,tracker.gleanview.com
 DOMAIN-SUFFIX,tracker.gpcdn.pl
+DOMAIN-SUFFIX,tracker.grupanya.com
 DOMAIN-SUFFIX,tracker.hdtvcloud.com
 DOMAIN-SUFFIX,trackerhqu.com
 DOMAIN-SUFFIX,tracker.idocdn.com
