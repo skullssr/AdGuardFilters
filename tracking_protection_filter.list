@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-03 05:54:10
-# DOMAIN-SUFFIX: 38352
-# TOTAL: 38352
+# UPDATED: 2024-09-05 05:35:16
+# DOMAIN-SUFFIX: 38356
+# TOTAL: 38356
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -5738,6 +5738,7 @@ DOMAIN-SUFFIX,cdn.trackclicks.info
 DOMAIN-SUFFIX,cdn.track.olx.com.br
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,cdn.userleap.com
+DOMAIN-SUFFIX,cdnweb2analytics.com
 DOMAIN-SUFFIX,cdn.wefindbenefits.com
 DOMAIN-SUFFIX,cdn.wgchrrammzv.com
 DOMAIN-SUFFIX,cdn.zx-adnet.com
@@ -10138,6 +10139,7 @@ DOMAIN-SUFFIX,data.stepstone.nl
 DOMAIN-SUFFIX,data.t.epost.dnb.no
 DOMAIN-SUFFIX,data.thepointsguy.com
 DOMAIN-SUFFIX,data.tmail.northeast.aaa.com
+DOMAIN-SUFFIX,data.tm-awx.com
 DOMAIN-SUFFIX,data.todoalicante.es
 DOMAIN-SUFFIX,data.transaction.giftcards.com
 DOMAIN-SUFFIX,data.transaction.hesta.com.au
@@ -12640,7 +12642,6 @@ DOMAIN-SUFFIX,fe-go.letv.com
 DOMAIN-SUFFIX,felidae.mmm.page
 DOMAIN-SUFFIX,felidae.mysuperportal.com
 DOMAIN-SUFFIX,felidae.theforeignarchitect.com
-DOMAIN-SUFFIX,felix.data.tm-awx.com
 DOMAIN-SUFFIX,femetrics.grammarly.io
 DOMAIN-SUFFIX,feppiu.systemaction.es
 DOMAIN-SUFFIX,fepvrd.bathandbodyworks.com.sa
@@ -16505,6 +16506,7 @@ DOMAIN-SUFFIX,join.ifsecglobal.com
 DOMAIN-SUFFIX,join.informa-events.com
 DOMAIN-SUFFIX,join.kbb.co.uk
 DOMAIN-SUFFIX,join.magicfashionevents.com
+DOMAIN-SUFFIX,joinmassive.com
 DOMAIN-SUFFIX,join.myfashionevents.com
 DOMAIN-SUFFIX,joinmy.site
 DOMAIN-SUFFIX,join.ornament.app
@@ -21340,6 +21342,7 @@ DOMAIN-SUFFIX,notify-bugs-fra1.rtl.de
 DOMAIN-SUFFIX,notify.eset.com
 DOMAIN-SUFFIX,notify.notificationsafe.com
 DOMAIN-SUFFIX,notifyvisitors.com
+DOMAIN-SUFFIX,notix.io
 DOMAIN-SUFFIX,notuch.efor.com.tr
 DOMAIN-SUFFIX,noushe.zevvle.com
 DOMAIN-SUFFIX,novedades.telecomfibercorp.com.ar
@@ -23623,6 +23626,7 @@ DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
 DOMAIN-SUFFIX,publishflow.com
 DOMAIN-SUFFIX,pubperf.com
+DOMAIN-SUFFIX,pub.pixels.ai
 DOMAIN-SUFFIX,pubstr.acs.org
 DOMAIN-SUFFIX,pubstr.acspubs.org
 DOMAIN-SUFFIX,pubstr.chemrxiv.org
