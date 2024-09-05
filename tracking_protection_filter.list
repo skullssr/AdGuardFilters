@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-05 05:35:16
-# DOMAIN-SUFFIX: 38356
-# TOTAL: 38356
+# UPDATED: 2024-09-06 05:15:52
+# DOMAIN-SUFFIX: 38361
+# TOTAL: 38361
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -1878,6 +1878,7 @@ DOMAIN-SUFFIX,ad4m.at
 DOMAIN-SUFFIX,ada8-2.ampleur.jp
 DOMAIN-SUFFIX,ada8.ampleur.jp
 DOMAIN-SUFFIX,ad-a8.www.zeiri4.com
+DOMAIN-SUFFIX,ad.aceplanet.co.kr
 DOMAIN-SUFFIX,ad.activatedmindstoday.com
 DOMAIN-SUFFIX,adagency.digital
 DOMAIN-SUFFIX,ad.aim-universe.co.jp
@@ -2073,6 +2074,7 @@ DOMAIN-SUFFIX,ad.kinozal.website
 DOMAIN-SUFFIX,ad.kirara-support.jp
 DOMAIN-SUFFIX,adku.co
 DOMAIN-SUFFIX,adku.com
+DOMAIN-SUFFIX,adlc-exchange.toast.com
 DOMAIN-SUFFIX,ad-log.dable.io
 DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,ad-log.wemakeprice.com
@@ -19677,6 +19679,7 @@ DOMAIN-SUFFIX,metrics.calif.aaa.com
 DOMAIN-SUFFIX,metrics.calimera.com
 DOMAIN-SUFFIX,metrics.calvinklein.us
 DOMAIN-SUFFIX,metrics.calwater.com
+DOMAIN-SUFFIX,metrics.camsoda.com
 DOMAIN-SUFFIX,metrics.cancer.gov
 DOMAIN-SUFFIX,metrics.capitalone.com
 DOMAIN-SUFFIX,metrics.care.com
@@ -22851,7 +22854,6 @@ DOMAIN-SUFFIX,personal.hubinternational.com
 DOMAIN-SUFFIX,personyze.com
 DOMAIN-SUFFIX,perzonalization.com
 DOMAIN-SUFFIX,petal.calyxflowers.com
-DOMAIN-SUFFIX,petametrics.com
 DOMAIN-SUFFIX,p-events.ivideosmart.com
 DOMAIN-SUFFIX,pevftg.shopee.sg
 DOMAIN-SUFFIX,peyqvn.falke.com
@@ -23869,6 +23871,7 @@ DOMAIN-SUFFIX,qubitproducts.com
 DOMAIN-SUFFIX,qudbym.nicephotos.com.br
 DOMAIN-SUFFIX,quelea.igotcha.de
 DOMAIN-SUFFIX,quensofalstrk.com
+DOMAIN-SUFFIX,query*.petametrics.com
 DOMAIN-SUFFIX,quesid.com
 DOMAIN-SUFFIX,questionpro.com
 DOMAIN-SUFFIX,questions.theanswerco.com
@@ -32483,6 +32486,7 @@ DOMAIN-SUFFIX,torropinto.viessmann.es
 DOMAIN-SUFFIX,tortoise.mdx.one
 DOMAIN-SUFFIX,toru0vane.com
 DOMAIN-SUFFIX,t.osubeavers.com
+DOMAIN-SUFFIX,to.torrentfreak.com
 DOMAIN-SUFFIX,to.tryrevivelifestylebook.com
 DOMAIN-SUFFIX,to.tryreviveskylifestyle.com
 DOMAIN-SUFFIX,toucan.ateliermilky.com
@@ -32765,6 +32769,7 @@ DOMAIN-SUFFIX,track.deloitte.com
 DOMAIN-SUFFIX,track.dentalbracescare.com
 DOMAIN-SUFFIX,track.dentalimplantsspacetoday.com
 DOMAIN-SUFFIX,track.dentalnhygene.com
+DOMAIN-SUFFIX,trackdesk.com
 DOMAIN-SUFFIX,track.deusaprovocante.site
 DOMAIN-SUFFIX,track.devnextgen.com
 DOMAIN-SUFFIX,track.dewigghot.site
