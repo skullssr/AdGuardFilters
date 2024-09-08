@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-07 05:27:08
-# DOMAIN-SUFFIX: 38364
-# TOTAL: 38364
+# UPDATED: 2024-09-09 05:17:36
+# DOMAIN-SUFFIX: 38367
+# TOTAL: 38367
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -1882,6 +1882,7 @@ DOMAIN-SUFFIX,ad.aceplanet.co.kr
 DOMAIN-SUFFIX,ad.activatedmindstoday.com
 DOMAIN-SUFFIX,adagency.digital
 DOMAIN-SUFFIX,ad.aim-universe.co.jp
+DOMAIN-SUFFIX,a-da.invideo.io
 DOMAIN-SUFFIX,ad.allknowingpro.com
 DOMAIN-SUFFIX,ad-api-log.colopl.jp
 DOMAIN-SUFFIX,adara.com
@@ -12276,6 +12277,7 @@ DOMAIN-SUFFIX,events.artirix.com
 DOMAIN-SUFFIX,events.askjdhaa.com
 DOMAIN-SUFFIX,events.audioplace.me
 DOMAIN-SUFFIX,events.avaya.com
+DOMAIN-SUFFIX,events.baselime.io
 DOMAIN-SUFFIX,events.bendigotafe.edu.au
 DOMAIN-SUFFIX,events.betterhelp.com
 DOMAIN-SUFFIX,events.blackboard.com
@@ -22988,6 +22990,7 @@ DOMAIN-SUFFIX,pixel.bullion.media
 DOMAIN-SUFFIX,pixel.byspotify.com
 DOMAIN-SUFFIX,pixel.carambo.la
 DOMAIN-SUFFIX,pixel.cdnwidget.com
+DOMAIN-SUFFIX,pixel.clutter.com
 DOMAIN-SUFFIX,pixel.condenastdigital.com
 DOMAIN-SUFFIX,pixel-*.convertagain.net
 DOMAIN-SUFFIX,pixel.convertize.io
