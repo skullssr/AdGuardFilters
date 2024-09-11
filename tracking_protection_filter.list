@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-10 05:22:07
-# DOMAIN-SUFFIX: 38835
-# TOTAL: 38835
+# UPDATED: 2024-09-12 05:37:53
+# DOMAIN-SUFFIX: 38838
+# TOTAL: 38838
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3850,6 +3850,7 @@ DOMAIN-SUFFIX,api.receptivity.io
 DOMAIN-SUFFIX,api.reproio.com
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
+DOMAIN-SUFFIX,api.sail-personalize.com
 DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.segment.io
 DOMAIN-SUFFIX,api.setting.intl.miui.com
@@ -17730,6 +17731,7 @@ DOMAIN-SUFFIX,log.outbrainimg.com
 DOMAIN-SUFFIX,log.particlenews.com
 DOMAIN-SUFFIX,log.pdfreaders.net
 DOMAIN-SUFFIX,log.perfecttitspics.com
+DOMAIN-SUFFIX,logperf.vnexpress.net
 DOMAIN-SUFFIX,log.pinterest.com
 DOMAIN-SUFFIX,log.pipeline.datarize.io
 DOMAIN-SUFFIX,log-player.arte.tv
@@ -30356,6 +30358,7 @@ DOMAIN-SUFFIX,stats.albert-kropp-gmbh.de
 DOMAIN-SUFFIX,statsale.com
 DOMAIN-SUFFIX,stats.alibhai.co
 DOMAIN-SUFFIX,stats.alleaktien.de
+DOMAIN-SUFFIX,stats.allenai.org
 DOMAIN-SUFFIX,stats.alocreativa.com
 DOMAIN-SUFFIX,stats.amaeya.media
 DOMAIN-SUFFIX,stats.am.ai
