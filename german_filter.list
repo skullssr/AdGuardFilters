@@ -1,16 +1,15 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-08-18 05:56:17
-# DOMAIN-SUFFIX: 435
-# TOTAL: 435
+# UPDATED: 2024-09-14 05:05:51
+# DOMAIN-SUFFIX: 415
+# TOTAL: 415
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
 DOMAIN-SUFFIX,a3.zdg.de
 DOMAIN-SUFFIX,ablida-rotation.com
 DOMAIN-SUFFIX,ablyft.com
-DOMAIN-SUFFIX,achmetsdoenerladen.de
 DOMAIN-SUFFIX,active-tracking.de
 DOMAIN-SUFFIX,ad4cash.de
 DOMAIN-SUFFIX,ad4m.at
@@ -28,7 +27,6 @@ DOMAIN-SUFFIX,ad.dl.mainpost.de
 DOMAIN-SUFFIX,ad.dslr-forum.de
 DOMAIN-SUFFIX,ad.games.ch
 DOMAIN-SUFFIX,adhost.in
-DOMAIN-SUFFIX,adical.de
 DOMAIN-SUFFIX,adiceltic.de
 DOMAIN-SUFFIX,adindex.de
 DOMAIN-SUFFIX,adition.de
@@ -73,9 +71,7 @@ DOMAIN-SUFFIX,affilixxl.de
 DOMAIN-SUFFIX,afl-static-cdn.newbiz-prod.stroeerws.de
 DOMAIN-SUFFIX,agaso.de
 DOMAIN-SUFFIX,allads4you.de
-DOMAIN-SUFFIX,alleswegenmicha.de
 DOMAIN-SUFFIX,alphaads.de
-DOMAIN-SUFFIX,aluhutmafia.de
 DOMAIN-SUFFIX,amunx.de
 DOMAIN-SUFFIX,anzeigenlieferant.de
 DOMAIN-SUFFIX,anzeigen-vor-ort.de
@@ -116,8 +112,6 @@ DOMAIN-SUFFIX,bsheute.de
 DOMAIN-SUFFIX,buywords.de
 DOMAIN-SUFFIX,bwads24.com
 DOMAIN-SUFFIX,cashdorado.de
-DOMAIN-SUFFIX,cdu-offline.de
-DOMAIN-SUFFIX,cduspenden.de
 DOMAIN-SUFFIX,ced.sascdn.com
 DOMAIN-SUFFIX,cgames.de
 DOMAIN-SUFFIX,chatintr.com
@@ -150,7 +144,6 @@ DOMAIN-SUFFIX,def-platform.net
 DOMAIN-SUFFIX,deliver.helpnation.de
 DOMAIN-SUFFIX,delmovip.com
 DOMAIN-SUFFIX,dhads.net
-DOMAIN-SUFFIX,dierussensindschuld.de
 DOMAIN-SUFFIX,digentu.de
 DOMAIN-SUFFIX,druckiad-che.newsmemory.com
 DOMAIN-SUFFIX,ebesucher.de
@@ -176,8 +169,6 @@ DOMAIN-SUFFIX,files.kartenlegen.gratis
 DOMAIN-SUFFIX,finad.de
 DOMAIN-SUFFIX,finative.cloud
 DOMAIN-SUFFIX,firstsponsor.de
-DOMAIN-SUFFIX,flatad.de
-DOMAIN-SUFFIX,flymangoo.com
 DOMAIN-SUFFIX,fotoscaseras.top
 DOMAIN-SUFFIX,frvfrv.com
 DOMAIN-SUFFIX,fsm2.spiegel.de
@@ -186,7 +177,6 @@ DOMAIN-SUFFIX,gamigoads.com
 DOMAIN-SUFFIX,gayads.biz
 DOMAIN-SUFFIX,gbucket.ch
 DOMAIN-SUFFIX,geldcounter.de
-DOMAIN-SUFFIX,gema-online.de
 DOMAIN-SUFFIX,ggbetcasino.de
 DOMAIN-SUFFIX,gg-bet.de
 DOMAIN-SUFFIX,gigapromo.de
@@ -196,8 +186,6 @@ DOMAIN-SUFFIX,goodads.de
 DOMAIN-SUFFIX,green-ads.net
 DOMAIN-SUFFIX,guruads.de
 DOMAIN-SUFFIX,h5v.eu
-DOMAIN-SUFFIX,heias.com
-DOMAIN-SUFFIX,holyjesus.de
 DOMAIN-SUFFIX,hot59.de
 DOMAIN-SUFFIX,hovg.de
 DOMAIN-SUFFIX,hybrid-prd.ad-prd.s.joyn.de
@@ -221,16 +209,13 @@ DOMAIN-SUFFIX,kingads.net
 DOMAIN-SUFFIX,klick4u.de
 DOMAIN-SUFFIX,klicktausch.com
 DOMAIN-SUFFIX,komplads.net
-DOMAIN-SUFFIX,korruptionundpartner.de
 DOMAIN-SUFFIX,ktxtr.com
 DOMAIN-SUFFIX,kunner.wiesentbote.de
 DOMAIN-SUFFIX,ladbrokes.hs-edge.net
 DOMAIN-SUFFIX,lad.sumikai.com
 DOMAIN-SUFFIX,landing.sexkiste.com
 DOMAIN-SUFFIX,lehrer-finden.de
-DOMAIN-SUFFIX,letvertise.com
 DOMAIN-SUFFIX,liferd.de
-DOMAIN-SUFFIX,lilaelefant.de
 DOMAIN-SUFFIX,linkedads.de
 DOMAIN-SUFFIX,linkstation.de
 DOMAIN-SUFFIX,localpoint.ch
@@ -266,7 +251,6 @@ DOMAIN-SUFFIX,network2.aufeminin.com
 DOMAIN-SUFFIX,network.gofeminin.de
 DOMAIN-SUFFIX,network-marketing24.com
 DOMAIN-SUFFIX,network-media.info
-DOMAIN-SUFFIX,networx.me
 DOMAIN-SUFFIX,netzwerk-ad.de
 DOMAIN-SUFFIX,newsticker.save.tv
 DOMAIN-SUFFIX,nonstoppartner.net
@@ -295,7 +279,6 @@ DOMAIN-SUFFIX,partner.simplytel.de
 DOMAIN-SUFFIX,partner.zooplus.de
 DOMAIN-SUFFIX,payclick.it
 DOMAIN-SUFFIX,pear.focus.de
-DOMAIN-SUFFIX,performanceanalyser.net
 DOMAIN-SUFFIX,performance-netzwerk.de
 DOMAIN-SUFFIX,pillendienst.com
 DOMAIN-SUFFIX,planetactive.com
@@ -355,7 +338,6 @@ DOMAIN-SUFFIX,solads.media
 DOMAIN-SUFFIX,spaceeditors.com
 DOMAIN-SUFFIX,sparkads.ws
 DOMAIN-SUFFIX,sparkassen-partner.de
-DOMAIN-SUFFIX,spd-spenden.de
 DOMAIN-SUFFIX,special-sponsor.de
 DOMAIN-SUFFIX,sponsortown.de
 DOMAIN-SUFFIX,spoods.io
@@ -405,7 +387,6 @@ DOMAIN-SUFFIX,w3hoster.de
 DOMAIN-SUFFIX,watergate.tv
 DOMAIN-SUFFIX,wbbanner.mrn-news.de
 DOMAIN-SUFFIX,web20-traffic-system.de
-DOMAIN-SUFFIX,webinstaller.gartenplanze.de
 DOMAIN-SUFFIX,websc.org
 DOMAIN-SUFFIX,webspiration.de
 DOMAIN-SUFFIX,werbeflut.net
@@ -417,7 +398,6 @@ DOMAIN-SUFFIX,widget.s24.com
 DOMAIN-SUFFIX,widgets.cam-content.com
 DOMAIN-SUFFIX,widgets.tracdelight.io
 DOMAIN-SUFFIX,windows-pro.net
-DOMAIN-SUFFIX,wirverkaufennichts.de
 DOMAIN-SUFFIX,wixnm.com
 DOMAIN-SUFFIX,wm-space.youero.com
 DOMAIN-SUFFIX,w-m-w.net
