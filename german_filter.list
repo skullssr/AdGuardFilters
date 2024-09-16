@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-14 05:05:51
-# DOMAIN-SUFFIX: 415
-# TOTAL: 415
+# UPDATED: 2024-09-17 05:09:12
+# DOMAIN-SUFFIX: 416
+# TOTAL: 416
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,adklick.net
 DOMAIN-SUFFIX,admanagement.ch
 DOMAIN-SUFFIX,ad-mix.de
 DOMAIN-SUFFIX,ad.netzquadrat.de
+DOMAIN-SUFFIX,adnx.de
 DOMAIN-SUFFIX,ad-pay.de
 DOMAIN-SUFFIX,adperform.de
 DOMAIN-SUFFIX,adquality.ch
