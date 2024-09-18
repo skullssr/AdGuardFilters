@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-18 04:59:14
-# DOMAIN-SUFFIX: 38394
-# TOTAL: 38394
+# UPDATED: 2024-09-19 05:03:59
+# DOMAIN-SUFFIX: 38396
+# TOTAL: 38396
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3082,6 +3082,7 @@ DOMAIN-SUFFIX,analytics-api.invideo.io
 DOMAIN-SUFFIX,analytics.api.justeattakeaway.com
 DOMAIN-SUFFIX,analytics-api.liveapp.com
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
+DOMAIN-SUFFIX,analytics-api.sconto.cz
 DOMAIN-SUFFIX,analytics-api.smzdm.com
 DOMAIN-SUFFIX,analytics-api.statvoo.com
 DOMAIN-SUFFIX,analytics-api.vanceai.com
@@ -17505,6 +17506,7 @@ DOMAIN-SUFFIX,log.ahamo.com
 DOMAIN-SUFFIX,logaholic.com
 DOMAIN-SUFFIX,log.ajunews.com
 DOMAIN-SUFFIX,log*.aliyuncs.com
+DOMAIN-SUFFIX,log-ana.h3z.jp
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,logapi.tv.naver.com
 DOMAIN-SUFFIX,log.api.useinsider.com
