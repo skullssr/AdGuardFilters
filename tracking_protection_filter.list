@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-19 05:03:59
+# UPDATED: 2024-09-20 05:03:15
 # DOMAIN-SUFFIX: 38396
 # TOTAL: 38396
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -3025,6 +3025,7 @@ DOMAIN-SUFFIX,anaconda.zephyrus.gg
 DOMAIN-SUFFIX,ana.gomtv.com
 DOMAIN-SUFFIX,ana*.inews24.com
 DOMAIN-SUFFIX,anal.doubledouble.top
+DOMAIN-SUFFIX,analitik.pendik.bel.tr
 DOMAIN-SUFFIX,analitits.com
 DOMAIN-SUFFIX,analoganalytics.com
 DOMAIN-SUFFIX,anal.sataniskwijt.be
@@ -5747,7 +5748,6 @@ DOMAIN-SUFFIX,cdn.net.elogia.net
 DOMAIN-SUFFIX,cdn.odoscope.cloud
 DOMAIN-SUFFIX,cdn.pranmcpkx.com
 DOMAIN-SUFFIX,cdn.preciso.net
-DOMAIN-SUFFIX,cdn.pubnub.com
 DOMAIN-SUFFIX,cdn.raekdata.com
 DOMAIN-SUFFIX,cdn-ra.rockcontent.com
 DOMAIN-SUFFIX,cdn-redirector.glopal.com
