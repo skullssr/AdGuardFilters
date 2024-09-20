@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-20 05:03:15
-# DOMAIN-SUFFIX: 38396
-# TOTAL: 38396
+# UPDATED: 2024-09-21 05:06:20
+# DOMAIN-SUFFIX: 38398
+# TOTAL: 38398
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -13838,6 +13838,7 @@ DOMAIN-SUFFIX,go.oddsscanner.com
 DOMAIN-SUFFIX,go.offeravailablehere.com
 DOMAIN-SUFFIX,googleadapis.l.google.com
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,google-analytics.bi.owox.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-pagerank.net
 DOMAIN-SUFFIX,googlerank.info
@@ -20907,6 +20908,7 @@ DOMAIN-SUFFIX,msgtag.com
 DOMAIN-SUFFIX,msg.umengcloud.com
 DOMAIN-SUFFIX,ms.informaengage.com
 DOMAIN-SUFFIX,msioay.backcountry.com
+DOMAIN-SUFFIX,msite.baidu.com
 DOMAIN-SUFFIX,m.smartmatch.email
 DOMAIN-SUFFIX,m.smartnaturalremedies.com
 DOMAIN-SUFFIX,msmetrics.ws.sonos.com
