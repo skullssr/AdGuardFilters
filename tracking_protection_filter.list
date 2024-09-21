@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-21 05:06:20
-# DOMAIN-SUFFIX: 38398
-# TOTAL: 38398
+# UPDATED: 2024-09-22 05:04:28
+# DOMAIN-SUFFIX: 38401
+# TOTAL: 38401
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3520,6 +3520,7 @@ DOMAIN-SUFFIX,analytics.sona-mira.co.jp
 DOMAIN-SUFFIX,analytics.sonjj.com
 DOMAIN-SUFFIX,analytics.spankbang.com
 DOMAIN-SUFFIX,analytics.spark.co.nz
+DOMAIN-SUFFIX,analytics.spearly.com
 DOMAIN-SUFFIX,analytics.sports.ru
 DOMAIN-SUFFIX,analytics-sprint.qoqa.com
 DOMAIN-SUFFIX,analyticsssl.forcepoint.com
@@ -6054,6 +6055,7 @@ DOMAIN-SUFFIX,client-analytics.mts.ru
 DOMAIN-SUFFIX,client.botchk.net
 DOMAIN-SUFFIX,clientengagement.ehpartners.com
 DOMAIN-SUFFIX,client-event-reporter.twitch.tv
+DOMAIN-SUFFIX,client-log.karte.io
 DOMAIN-SUFFIX,clientlog.midomi.com
 DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,client-metrics.chess.com
@@ -24298,6 +24300,7 @@ DOMAIN-SUFFIX,repdata.news10.net
 DOMAIN-SUFFIX,repdata.tallahassee.com
 DOMAIN-SUFFIX,repdata.usatoday.com
 DOMAIN-SUFFIX,repixel.co
+DOMAIN-SUFFIX,replaybird.com
 DOMAIN-SUFFIX,reply.extype2.com
 DOMAIN-SUFFIX,report2.iciba.com
 DOMAIN-SUFFIX,report.apkpure.net
