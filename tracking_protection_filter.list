@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-24 05:09:08
-# DOMAIN-SUFFIX: 39064
-# TOTAL: 39064
+# UPDATED: 2024-09-25 05:10:22
+# DOMAIN-SUFFIX: 39065
+# TOTAL: 39065
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0azuz7373zn0c31f.net.brillen.at
@@ -2269,6 +2269,7 @@ DOMAIN-SUFFIX,adtima-media.zascdn.me
 DOMAIN-SUFFIX,adtima-static.zadn.vn
 DOMAIN-SUFFIX,adtlgc.com
 DOMAIN-SUFFIX,ad.top-max-buy.live
+DOMAIN-SUFFIX,adtrace.ai
 DOMAIN-SUFFIX,adtrack.adleadevent.com
 DOMAIN-SUFFIX,adtrack.alchemy-web.jp
 DOMAIN-SUFFIX,adtrack.appcpi.net
