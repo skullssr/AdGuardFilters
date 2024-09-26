@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-08 05:28:13
-# DOMAIN-SUFFIX: 386
-# TOTAL: 386
+# UPDATED: 2024-09-27 05:11:24
+# DOMAIN-SUFFIX: 372
+# TOTAL: 372
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -39,7 +39,6 @@ DOMAIN-SUFFIX,ad.gunosy.com
 DOMAIN-SUFFIX,ad-hatena.com
 DOMAIN-SUFFIX,adingo.jp
 DOMAIN-SUFFIX,adingo.jp.eimg.jp
-DOMAIN-SUFFIX,ad.jp.ap.g.valuecommerce.com
 DOMAIN-SUFFIX,ad.jp.ap.valuecommerce.com
 DOMAIN-SUFFIX,ad.land.to
 DOMAIN-SUFFIX,adleap.jp
@@ -52,7 +51,6 @@ DOMAIN-SUFFIX,adm.shinobi.jp
 DOMAIN-SUFFIX,ad.netowl.jp
 DOMAIN-SUFFIX,ad.net-tool.jp
 DOMAIN-SUFFIX,ad-nex.com
-DOMAIN-SUFFIX,adntokyo.gunosy.com
 DOMAIN-SUFFIX,ad-optima.com
 DOMAIN-SUFFIX,ad.orange-park.jp
 DOMAIN-SUFFIX,ad.owlair.net
@@ -65,7 +63,6 @@ DOMAIN-SUFFIX,ads-connect.com
 DOMAIN-SUFFIX,ads.contents.fc2.com
 DOMAIN-SUFFIX,ad-seek.jp
 DOMAIN-SUFFIX,adserv2.suumo.jp
-DOMAIN-SUFFIX,ads.jp.ap.g.valuecommerce.com
 DOMAIN-SUFFIX,ads-lite.net
 DOMAIN-SUFFIX,ads.mediams.mb.softbank.jp
 DOMAIN-SUFFIX,ads.metropolis.co.jp
@@ -115,7 +112,6 @@ DOMAIN-SUFFIX,amaprop.net
 DOMAIN-SUFFIX,amazones-tools.com
 DOMAIN-SUFFIX,amazonlogistics.jp
 DOMAIN-SUFFIX,amoad.com
-DOMAIN-SUFFIX,ams900.goo.ne.jp
 DOMAIN-SUFFIX,andhub.jp
 DOMAIN-SUFFIX,antennash.com
 DOMAIN-SUFFIX,ap.ad-feed.com
@@ -125,7 +121,6 @@ DOMAIN-SUFFIX,api.unthem.com
 DOMAIN-SUFFIX,appdraft.link
 DOMAIN-SUFFIX,app.monetrack.com
 DOMAIN-SUFFIX,appollo.jp
-DOMAIN-SUFFIX,arms.livedoor.net
 DOMAIN-SUFFIX,asia-northeast1-affiliate-pr.cloudfunctions.net
 DOMAIN-SUFFIX,askfollow.us
 DOMAIN-SUFFIX,assistads.net
@@ -136,12 +131,10 @@ DOMAIN-SUFFIX,atype.jp
 DOMAIN-SUFFIX,ax.xrea.com
 DOMAIN-SUFFIX,aztool.org
 DOMAIN-SUFFIX,bance.jp
-DOMAIN-SUFFIX,bannerfarm.aolp.jp
 DOMAIN-SUFFIX,bar*.shinobi.jp
 DOMAIN-SUFFIX,bartinkizogrenciyurdu.com
 DOMAIN-SUFFIX,b-click.net
 DOMAIN-SUFFIX,best-lucky-cat.xyz
-DOMAIN-SUFFIX,bestovamk.com
 DOMAIN-SUFFIX,bibincom.com
 DOMAIN-SUFFIX,bizmotion.jp
 DOMAIN-SUFFIX,blog.livelog.biz
@@ -156,7 +149,6 @@ DOMAIN-SUFFIX,cdj-dap.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,cdn.alistcloud.com
 DOMAIN-SUFFIX,cdn.lodeo.io
 DOMAIN-SUFFIX,cdn.mixx-ad.net
-DOMAIN-SUFFIX,cdn.rossoad.com
 DOMAIN-SUFFIX,click-count.info
 DOMAIN-SUFFIX,clickmedias.info
 DOMAIN-SUFFIX,cnt.affiliate.fc2.com
@@ -250,7 +242,6 @@ DOMAIN-SUFFIX,liveads.jp
 DOMAIN-SUFFIX,lmadps.jp
 DOMAIN-SUFFIX,lvtag.com
 DOMAIN-SUFFIX,maio.jp
-DOMAIN-SUFFIX,maist.jp
 DOMAIN-SUFFIX,managedweb.net
 DOMAIN-SUFFIX,manga.boy.jp
 DOMAIN-SUFFIX,mbadv.nan.co.jp
@@ -310,7 +301,6 @@ DOMAIN-SUFFIX,rentracks.jp
 DOMAIN-SUFFIX,roselip-fetish.com
 DOMAIN-SUFFIX,s-ad.rmp.rakuten.co.jp
 DOMAIN-SUFFIX,safemy-ios.com
-DOMAIN-SUFFIX,saltwortokra.com
 DOMAIN-SUFFIX,samuraiclick.com
 DOMAIN-SUFFIX,scadnet.com
 DOMAIN-SUFFIX,sda.seesaa.jp
@@ -332,14 +322,12 @@ DOMAIN-SUFFIX,smv.to
 DOMAIN-SUFFIX,snapdragonox.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,sokmil-ad.com
-DOMAIN-SUFFIX,speead.jp
 DOMAIN-SUFFIX,speee-ad.akamaized.net
 DOMAIN-SUFFIX,spreadlink.net
 DOMAIN-SUFFIX,sprout-ad.com
 DOMAIN-SUFFIX,srv2.trafficgate.net
 DOMAIN-SUFFIX,static.affiliate.rakuten.co.jp
 DOMAIN-SUFFIX,static.mopo.jp
-DOMAIN-SUFFIX,superdeos.com
 DOMAIN-SUFFIX,taggyad.jp
 DOMAIN-SUFFIX,tag.surpha.jp
 DOMAIN-SUFFIX,tcs-asp.net
@@ -360,7 +348,6 @@ DOMAIN-SUFFIX,trustclick.ne.jp
 DOMAIN-SUFFIX,tumabeni.com
 DOMAIN-SUFFIX,twitob.com
 DOMAIN-SUFFIX,twitterfollowers.site
-DOMAIN-SUFFIX,ueuodgnrhb.com
 DOMAIN-SUFFIX,unddeliv.com
 DOMAIN-SUFFIX,v2st.shinobi.jp
 DOMAIN-SUFFIX,v4dwkcv.com
@@ -368,7 +355,6 @@ DOMAIN-SUFFIX,valueclick.jp
 DOMAIN-SUFFIX,valuecommerce.ne.jp
 DOMAIN-SUFFIX,waqool.com
 DOMAIN-SUFFIX,webantenna.info
-DOMAIN-SUFFIX,webtracker.jp
 DOMAIN-SUFFIX,widget.cybershop-affiliate.jp
 DOMAIN-SUFFIX,widget.gooero.jp
 DOMAIN-SUFFIX,widget-view.dmm.co.jp
