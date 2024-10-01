@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-01 05:05:26
-# DOMAIN-SUFFIX: 37800
-# TOTAL: 37800
+# UPDATED: 2024-10-02 05:09:02
+# DOMAIN-SUFFIX: 37805
+# TOTAL: 37805
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0azuz7373zn0c31f.net.brillen.at
@@ -4586,6 +4586,7 @@ DOMAIN-SUFFIX,at.mclaren.com
 DOMAIN-SUFFIX,at.neom.com
 DOMAIN-SUFFIX,at.norisbank.de
 DOMAIN-SUFFIX,atom-log.3.cn
+DOMAIN-SUFFIX,atom.warnermedia.com
 DOMAIN-SUFFIX,at-o.net
 DOMAIN-SUFFIX,a.topgolf.com
 DOMAIN-SUFFIX,atoso.alphatonicoffers.online
@@ -5845,6 +5846,7 @@ DOMAIN-SUFFIX,cdn.defractal.com
 DOMAIN-SUFFIX,cdn.driveback.ru
 DOMAIN-SUFFIX,cdn.dsspn.com
 DOMAIN-SUFFIX,cdn.glassboxcdn.com
+DOMAIN-SUFFIX,cdn.gpmdata.ru
 DOMAIN-SUFFIX,cdn.granify.com
 DOMAIN-SUFFIX,cdn.kaizenplatform.net
 DOMAIN-SUFFIX,cdn.logrocket.com
@@ -7007,6 +7009,7 @@ DOMAIN-SUFFIX,countyou.de
 DOMAIN-SUFFIX,countz.com
 DOMAIN-SUFFIX,co.vaicore.site
 DOMAIN-SUFFIX,co.vaicore.xyz
+DOMAIN-SUFFIX,covatic.io
 DOMAIN-SUFFIX,coviyr.modafurnishings.co.uk
 DOMAIN-SUFFIX,covtk.medtronic.com
 DOMAIN-SUFFIX,coyizl.embracon.com.br
@@ -31354,6 +31357,7 @@ DOMAIN-SUFFIX,t.bceagles.com
 DOMAIN-SUFFIX,t.beop.io
 DOMAIN-SUFFIX,t.bien-vendre-son-terrain.fr
 DOMAIN-SUFFIX,t.biooncology.com
+DOMAIN-SUFFIX,t.blog.livedoor.jp
 DOMAIN-SUFFIX,t.bluehens.com
 DOMAIN-SUFFIX,tbmgyz.centerparcs.de
 DOMAIN-SUFFIX,t.boxoffice.fairfieldstags.com
@@ -37689,6 +37693,7 @@ DOMAIN-SUFFIX,zieyeq.intent24.fr
 DOMAIN-SUFFIX,zikazx.bouwmaat.nl
 DOMAIN-SUFFIX,zilmwz.gsm55.it
 DOMAIN-SUFFIX,zimjmw.hidaily.co.kr
+DOMAIN-SUFFIX,zion.api.cnn.io
 DOMAIN-SUFFIX,zion.qbo.intuit.com
 DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
 DOMAIN-SUFFIX,zion-telemetry-nonprod.api.cnn.io
