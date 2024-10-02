@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-20 05:07:23
-# DOMAIN-SUFFIX: 882
-# TOTAL: 882
+# UPDATED: 2024-10-03 05:10:28
+# DOMAIN-SUFFIX: 886
+# TOTAL: 886
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -89,7 +89,9 @@ DOMAIN-SUFFIX,admicro1.vcmedia.vn
 DOMAIN-SUFFIX,admin.appnext.com
 DOMAIN-SUFFIX,admixer.co.kr
 DOMAIN-SUFFIX,admixer.net
+DOMAIN-SUFFIX,ad.mobiuspace.net
 DOMAIN-SUFFIX,admulti.com
+DOMAIN-SUFFIX,adnami.io
 DOMAIN-SUFFIX,ad*.nexage.com
 DOMAIN-SUFFIX,adn.insight.ucweb.com
 DOMAIN-SUFFIX,ad.nvdvr.cn
@@ -160,6 +162,7 @@ DOMAIN-SUFFIX,ads.mopub.com
 DOMAIN-SUFFIX,adsmo.ru
 DOMAIN-SUFFIX,adsmrapi.imbc.com
 DOMAIN-SUFFIX,ad.snappea.com
+DOMAIN-SUFFIX,ad.snaptube.app
 DOMAIN-SUFFIX,ads-*-nfl.yinzcam.com
 DOMAIN-SUFFIX,adsniper.ru
 DOMAIN-SUFFIX,ads*-normal-lq.zijieapi.com
@@ -239,6 +242,7 @@ DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,aniview.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,api-ad-adapter.wps.com
+DOMAIN-SUFFIX,api-ad-callback.falconnet.app
 DOMAIN-SUFFIX,api-ad-callback.mobiuspace.net
 DOMAIN-SUFFIX,api.ad-locus.com
 DOMAIN-SUFFIX,api.ads.newsdigest.jp
