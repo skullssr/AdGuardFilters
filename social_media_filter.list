@@ -1,9 +1,9 @@
 # NAME: SocialMediaFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-04 05:29:30
-# DOMAIN-SUFFIX: 54
-# TOTAL: 54
+# UPDATED: 2024-10-09 05:04:02
+# DOMAIN-SUFFIX: 53
+# TOTAL: 53
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,button.flattr.com
 DOMAIN-SUFFIX,button-follow.zalo.me
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,jsoon.digitiminimi.com
 DOMAIN-SUFFIX,knopka.fishurl.ru
 DOMAIN-SUFFIX,lessbuttons.com
 DOMAIN-SUFFIX,likebtn.com
-DOMAIN-SUFFIX,linksalpha.com
 DOMAIN-SUFFIX,mailget.net
 DOMAIN-SUFFIX,mediabuttons.ru
 DOMAIN-SUFFIX,my.hellobar.com
