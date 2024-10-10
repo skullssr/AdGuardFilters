@@ -1,9 +1,9 @@
 # NAME: FrenchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-23 05:09:37
-# DOMAIN-SUFFIX: 9605
-# TOTAL: 9605
+# UPDATED: 2024-10-11 05:06:45
+# DOMAIN-SUFFIX: 9606
+# TOTAL: 9606
 DOMAIN-SUFFIX,00280181d0.com
 DOMAIN-SUFFIX,00518b6f0c.com
 DOMAIN-SUFFIX,007a15696d.com
@@ -1107,6 +1107,7 @@ DOMAIN-SUFFIX,ads.dugwood.com
 DOMAIN-SUFFIX,adsearch.pl
 DOMAIN-SUFFIX,adsensecustomsearchads.com
 DOMAIN-SUFFIX,adsenseguard.com
+DOMAIN-SUFFIX,adserve.lasentinelle.mu
 DOMAIN-SUFFIX,adserveradulte.com
 DOMAIN-SUFFIX,adserver.icimedias.ca
 DOMAIN-SUFFIX,adserver.pm
