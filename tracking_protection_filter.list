@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-11 05:03:15
-# DOMAIN-SUFFIX: 33624
-# TOTAL: 33624
+# UPDATED: 2024-10-12 04:59:47
+# DOMAIN-SUFFIX: 33640
+# TOTAL: 33640
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3943,6 +3943,7 @@ DOMAIN-SUFFIX,applogs-v2.pixelfederation.com
 DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,applog.ucdns.uc.cn
 DOMAIN-SUFFIX,applog.zaycev.net
+DOMAIN-SUFFIX,applog.zijieapi.com
 DOMAIN-SUFFIX,apply.catalystfitnessflorida.com
 DOMAIN-SUFFIX,apply.maxlend.com
 DOMAIN-SUFFIX,apply.official-smartphone-program.com
@@ -12234,6 +12235,7 @@ DOMAIN-SUFFIX,febcyv.joshi-spa.jp
 DOMAIN-SUFFIX,febtqp.heidimode.com
 DOMAIN-SUFFIX,fedexfield.redskins.com
 DOMAIN-SUFFIX,feedback.aon.com
+DOMAIN-SUFFIX,feedback-c.zijieapi.com
 DOMAIN-SUFFIX,feedback.nslsc-csnpe.ca
 DOMAIN-SUFFIX,feedcat.net
 DOMAIN-SUFFIX,feedjit.com
@@ -17070,6 +17072,7 @@ DOMAIN-SUFFIX,log.ycapp.yiche.com
 DOMAIN-SUFFIX,log.yougameover.com
 DOMAIN-SUFFIX,log.zdnet.co.kr
 DOMAIN-SUFFIX,log.zepeto.io
+DOMAIN-SUFFIX,log*.zijieapi.com
 DOMAIN-SUFFIX,log.zingnews.vn
 DOMAIN-SUFFIX,log.znews.vn
 DOMAIN-SUFFIX,logz.ru
@@ -18444,6 +18447,7 @@ DOMAIN-SUFFIX,mcs-sg.tiktok.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mcs-va-*.tiktokv.com
 DOMAIN-SUFFIX,mcs-va.tiktokv.com
+DOMAIN-SUFFIX,mcs.zijieapi.com
 DOMAIN-SUFFIX,mc.webvisor.org
 DOMAIN-SUFFIX,mcxihs.owme.com.br
 DOMAIN-SUFFIX,mc.yandex.com
@@ -19140,6 +19144,8 @@ DOMAIN-SUFFIX,mi.miliboo.it
 DOMAIN-SUFFIX,mi.miliboo.lu
 DOMAIN-SUFFIX,mindtake.com
 DOMAIN-SUFFIX,minewhat.com
+DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
+DOMAIN-SUFFIX,minigame5-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,mini-site.larksuite-marketing.com
 DOMAIN-SUFFIX,minisrclink.cool
 DOMAIN-SUFFIX,minkatu.com
@@ -19426,6 +19432,7 @@ DOMAIN-SUFFIX,msr.p-antiaging.com
 DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-SUFFIX,mssdk-sg.byteoversea.com
 DOMAIN-SUFFIX,mssdk-sg.tiktok.com
+DOMAIN-SUFFIX,mssdk.zijieapi.com
 DOMAIN-SUFFIX,mstat.acestream.net
 DOMAIN-SUFFIX,mstm.motorsport.com
 DOMAIN-SUFFIX,ms.topschooljobs.org
@@ -20255,6 +20262,7 @@ DOMAIN-SUFFIX,os.efax.nl
 DOMAIN-SUFFIX,osimg.universalorlando.co.uk
 DOMAIN-SUFFIX,osissmistlytrk.com
 DOMAIN-SUFFIX,ositracker.com
+DOMAIN-SUFFIX,os-mon.zijieapi.com
 DOMAIN-SUFFIX,osnksi.czytam.pl
 DOMAIN-SUFFIX,ostrich.getschools.org
 DOMAIN-SUFFIX,ostrich.hegic-tokenizer.co
@@ -21010,6 +21018,7 @@ DOMAIN-SUFFIX,pciokm.glamuse.com
 DOMAIN-SUFFIX,p.classroombookings.com
 DOMAIN-SUFFIX,pclick.yahoo.com
 DOMAIN-SUFFIX,pclog.3u.com
+DOMAIN-SUFFIX,pc-mon.zijieapi.com
 DOMAIN-SUFFIX,pcnphysio-com.ca-eulerian.net
 DOMAIN-SUFFIX,pcs.capgroup.com
 DOMAIN-SUFFIX,pcspeedup.com
@@ -21467,6 +21476,8 @@ DOMAIN-SUFFIX,pointomatic.com
 DOMAIN-SUFFIX,pol3.cheque-domicile.fr
 DOMAIN-SUFFIX,polarbear.codeday.org
 DOMAIN-SUFFIX,polarbyte.com
+DOMAIN-SUFFIX,polaris*-normal-*.zijieapi.com
+DOMAIN-SUFFIX,polaris.zijieapi.com
 DOMAIN-SUFFIX,polarmobile.com
 DOMAIN-SUFFIX,polhvf.bootbarn.com
 DOMAIN-SUFFIX,pollster.pl
@@ -23057,6 +23068,7 @@ DOMAIN-SUFFIX,s.autopilotapp.com
 DOMAIN-SUFFIX,save.frugalcoverage.ai
 DOMAIN-SUFFIX,save.salary.com.au
 DOMAIN-SUFFIX,save.smartsalary.com.au
+DOMAIN-SUFFIX,saveu5-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,savings.adp.ca
 DOMAIN-SUFFIX,savinguide.info
 DOMAIN-SUFFIX,savvyhouse.info
@@ -26153,6 +26165,7 @@ DOMAIN-SUFFIX,st.anastasija.lt
 DOMAIN-SUFFIX,starfish.taskflow.io
 DOMAIN-SUFFIX,starget.bitdefender.com
 DOMAIN-SUFFIX,starget.huntington.com
+DOMAIN-SUFFIX,starkgame.zijieapi.com
 DOMAIN-SUFFIX,starman.usefathom.com
 DOMAIN-SUFFIX,start.adelaide.edu.au
 DOMAIN-SUFFIX,start.cheerfulhealthyme.com
@@ -28149,6 +28162,7 @@ DOMAIN-SUFFIX,tiglon.davidroessli.com
 DOMAIN-SUFFIX,tikstok.fun
 DOMAIN-SUFFIX,t.imgur.com
 DOMAIN-SUFFIX,tim.nextinpact.com
+DOMAIN-SUFFIX,timon.zijieapi.com
 DOMAIN-SUFFIX,t.indeed.com
 DOMAIN-SUFFIX,t.influ2.com
 DOMAIN-SUFFIX,t.innovaprotect.com
@@ -28443,6 +28457,7 @@ DOMAIN-SUFFIX,tmzcjc.installatievakwinkel.nl
 DOMAIN-SUFFIX,tm.zedo.com
 DOMAIN-SUFFIX,tnative.ru
 DOMAIN-SUFFIX,tnc16-*.byteoversea.com
+DOMAIN-SUFFIX,tnc*.zijieapi.com
 DOMAIN-SUFFIX,tnegqr.bohme.com
 DOMAIN-SUFFIX,t.nevadawolfpack.com
 DOMAIN-SUFFIX,t.newyorklifeinvestments.com
@@ -32112,6 +32127,7 @@ DOMAIN-SUFFIX,views.romaniatv.net
 DOMAIN-SUFFIX,views.sikerlogistics.com
 DOMAIN-SUFFIX,views.sikerproducts.com
 DOMAIN-SUFFIX,views.wioks.com
+DOMAIN-SUFFIX,view.zijieapi.com
 DOMAIN-SUFFIX,vihtori-analytics.fi
 DOMAIN-SUFFIX,vik-analytics.moonactive.net
 DOMAIN-SUFFIX,vilpkc.drkellyann.com
