@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-12 04:59:47
-# DOMAIN-SUFFIX: 33640
-# TOTAL: 33640
+# UPDATED: 2024-10-13 04:56:21
+# DOMAIN-SUFFIX: 33641
+# TOTAL: 33641
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -1669,6 +1669,7 @@ DOMAIN-SUFFIX,access-analyze.org
 DOMAIN-SUFFIX,access.hikaritv.net
 DOMAIN-SUFFIX,accessintel.com
 DOMAIN-SUFFIX,access.sunpower.com
+DOMAIN-SUFFIX,accessv.org
 DOMAIN-SUFFIX,acc-hd.de
 DOMAIN-SUFFIX,acclog001.shop-pro.jp
 DOMAIN-SUFFIX,acclog002.shop-pro.jp
