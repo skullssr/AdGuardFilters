@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-12 05:04:04
+# UPDATED: 2024-10-16 05:17:31
 # DOMAIN-SUFFIX: 888
 # TOTAL: 888
 DOMAIN-SUFFIX,023hysj.com
@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,ad-*.appacc.dbankedge.cn
 DOMAIN-SUFFIX,ad.apps.fm
 DOMAIN-SUFFIX,ad.apsalar.com
 DOMAIN-SUFFIX,ad.auditude.com
-DOMAIN-SUFFIX,adballoon.afreecatv.com
+DOMAIN-SUFFIX,adballoon.sooplive.co.kr
 DOMAIN-SUFFIX,adblade.com
 DOMAIN-SUFFIX,ad-brix.com
 DOMAIN-SUFFIX,ad.buzzvil.com
@@ -165,8 +165,8 @@ DOMAIN-SUFFIX,ad.snappea.com
 DOMAIN-SUFFIX,ad.snaptube.app
 DOMAIN-SUFFIX,ads-*-nfl.yinzcam.com
 DOMAIN-SUFFIX,adsniper.ru
-DOMAIN-SUFFIX,ads*-normal-hl.zijieapi.com
 DOMAIN-SUFFIX,ads*-normal-lq.zijieapi.com
+DOMAIN-SUFFIX,ads*-normal-*.zijieapi.com
 DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN-SUFFIX,ads.pdbarea.com
 DOMAIN-SUFFIX,ads.pinger.com
@@ -398,7 +398,7 @@ DOMAIN-SUFFIX,d830x8j3o1b2k.cloudfront.net
 DOMAIN-SUFFIX,dad-api.dcard.tw
 DOMAIN-SUFFIX,data2.doodlemobile.com
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
-DOMAIN-SUFFIX,deapi.afreecatv.com
+DOMAIN-SUFFIX,deapi.sooplive.co.kr
 DOMAIN-SUFFIX,debojuagug1sf.cloudfront.net
 DOMAIN-SUFFIX,delivery-cdn-cf.adswizz.com
 DOMAIN-SUFFIX,deliveryengine.adswizz.com
@@ -704,7 +704,7 @@ DOMAIN-SUFFIX,questionmarket.com
 DOMAIN-SUFFIX,r2d2.aotter.net
 DOMAIN-SUFFIX,reachableads-av.*.amazonaws.com
 DOMAIN-SUFFIX,redtram.com
-DOMAIN-SUFFIX,reqde.afreecatv.com
+DOMAIN-SUFFIX,reqde.sooplive.co.kr
 DOMAIN-SUFFIX,restartad.com
 DOMAIN-SUFFIX,revcontent.com
 DOMAIN-SUFFIX,richpays.com
