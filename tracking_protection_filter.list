@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-16 05:13:18
-# DOMAIN-SUFFIX: 39553
-# TOTAL: 39553
+# UPDATED: 2024-10-17 05:01:10
+# DOMAIN-SUFFIX: 39561
+# TOTAL: 39561
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -17045,6 +17045,7 @@ DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN-SUFFIX,iosxbl.hotshapers.com
 DOMAIN-SUFFIX,iot-business.vodafone.com
 DOMAIN-SUFFIX,iot-eu-logser.realme.com
+DOMAIN-SUFFIX,iot-in-logser.realme.com
 DOMAIN-SUFFIX,iot-logser.realme.com
 DOMAIN-SUFFIX,ioxqdp.leatherology.com
 DOMAIN-SUFFIX,ip2c.landscape.co.jp
@@ -18473,7 +18474,6 @@ DOMAIN-SUFFIX,lofi.kylnk.com
 DOMAIN-SUFFIX,lofo3l15c674.platform.replai.io
 DOMAIN-SUFFIX,log000.goo.ne.jp
 DOMAIN-SUFFIX,log002.commutil.kr
-DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
 DOMAIN-SUFFIX,log1.apkomega.com
 DOMAIN-SUFFIX,log1.happymod.com
 DOMAIN-SUFFIX,log1.wtlogin.qq.com
@@ -18508,6 +18508,7 @@ DOMAIN-SUFFIX,log.bandi.so
 DOMAIN-SUFFIX,log.baomoi.com
 DOMAIN-SUFFIX,log.bloodppressure.info
 DOMAIN-SUFFIX,log.bloodsugars.live
+DOMAIN-SUFFIX,log-boot.tiktokv.com
 DOMAIN-SUFFIX,logbor.com
 DOMAIN-SUFFIX,log.bunjang.co.kr
 DOMAIN-SUFFIX,log*.byteoversea.com
@@ -18612,6 +18613,7 @@ DOMAIN-SUFFIX,log-music-data.line-apps.com
 DOMAIN-SUFFIX,log.newsbreak.jp
 DOMAIN-SUFFIX,log.newsvine.com
 DOMAIN-SUFFIX,lognormal.net
+DOMAIN-SUFFIX,log*-normal-*.tiktokv.us
 DOMAIN-SUFFIX,lognxc.needen.fr
 DOMAIN-SUFFIX,log.ohou.se
 DOMAIN-SUFFIX,log.olark.com
@@ -18648,6 +18650,7 @@ DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
+DOMAIN-SUFFIX,logsdk.kwai-pro.com
 DOMAIN-SUFFIX,logservice1.dbankcloud.cn
 DOMAIN-SUFFIX,logservice1.hicloud.com
 DOMAIN-SUFFIX,logservice.hicloud.com
@@ -21841,6 +21844,7 @@ DOMAIN-SUFFIX,mtcvyv.webaslan.com
 DOMAIN-SUFFIX,mteme7li1d6r.vertexmarketingagency.com
 DOMAIN-SUFFIX,mtesep.thymematernity.com
 DOMAIN-SUFFIX,mtga.setapp.com
+DOMAIN-SUFFIX,mt.gigazine.net
 DOMAIN-SUFFIX,mtgxgv.fleurancenature.fr
 DOMAIN-SUFFIX,mtkure.gazin.com.br
 DOMAIN-SUFFIX,mtlog.droid4x.cn
@@ -25127,6 +25131,7 @@ DOMAIN-SUFFIX,r4nds.absorba.com
 DOMAIN-SUFFIX,r541.houstonchronicle.com
 DOMAIN-SUFFIX,r7ls.net
 DOMAIN-SUFFIX,r.aachener-zeitung.de
+DOMAIN-SUFFIX,rabbit.meitustat.com
 DOMAIN-SUFFIX,rabbit.radicalxchange.org
 DOMAIN-SUFFIX,rabbit.upwardhomes.net
 DOMAIN-SUFFIX,raccoon.jaronheard.com
@@ -25807,6 +25812,7 @@ DOMAIN-SUFFIX,rtk.usasend.online
 DOMAIN-SUFFIX,rt.lavenderzenpillow.com
 DOMAIN-SUFFIX,rt.livingthegoodlifenaturally.com
 DOMAIN-SUFFIX,rtl.met.vgwort.de
+DOMAIN-SUFFIX,rtlog.isnssdk.com
 DOMAIN-SUFFIX,rtlog*.tiktokv.com
 DOMAIN-SUFFIX,rtlog.tiktokv.com
 DOMAIN-SUFFIX,rtlog*.tiktokv.us
@@ -37181,6 +37187,7 @@ DOMAIN-SUFFIX,units.knotch.it
 DOMAIN-SUFFIX,unixbw.matchesfashion.com
 DOMAIN-SUFFIX,unjqhk.lashkaraa.com
 DOMAIN-SUFFIX,unknowntray.com
+DOMAIN-SUFFIX,unl1zvy2zuyn.franchiseplus.nl
 DOMAIN-SUFFIX,unlock.onedreamsports.de
 DOMAIN-SUFFIX,unloverly.manned.site
 DOMAIN-SUFFIX,unrnai.muenchner-jobanzeiger.de
@@ -37791,6 +37798,7 @@ DOMAIN-SUFFIX,w88.go.com
 DOMAIN-SUFFIX,w88.m.espn.go.com
 DOMAIN-SUFFIX,w88.natgeo.pt
 DOMAIN-SUFFIX,w982.middletownpress.com
+DOMAIN-SUFFIX,w9g7dlhw3kaank.www.eldorado.gg
 DOMAIN-SUFFIX,wa1.otto.de
 DOMAIN-SUFFIX,wa4y.com
 DOMAIN-SUFFIX,waadwt.venum.com
