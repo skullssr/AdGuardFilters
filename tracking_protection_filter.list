@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-22 05:22:57
-# DOMAIN-SUFFIX: 39346
-# TOTAL: 39346
+# UPDATED: 2024-10-23 05:12:49
+# DOMAIN-SUFFIX: 39355
+# TOTAL: 39355
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -6295,6 +6295,7 @@ DOMAIN-SUFFIX,clientmetrics.kik.com
 DOMAIN-SUFFIX,clientservices.grassrootsunwired.com
 DOMAIN-SUFFIX,clients.hermes-investment.com
 DOMAIN-SUFFIX,clients.rainkingonline.com
+DOMAIN-SUFFIX,client-telemetry.hingeprod.net
 DOMAIN-SUFFIX,client-telemetry.roblox.com
 DOMAIN-SUFFIX,client-testing.pl8ypus.com
 DOMAIN-SUFFIX,client.trustaff.com
@@ -14252,6 +14253,7 @@ DOMAIN-SUFFIX,global.raboag.com
 DOMAIN-SUFFIX,globalservices.conde.digital
 DOMAIN-SUFFIX,globalsolutions.risk.lexisnexis.com
 DOMAIN-SUFFIX,global.successfactors.com
+DOMAIN-SUFFIX,global.telemetry.insights.video.a2z.com
 DOMAIN-SUFFIX,globalwebindex.net
 DOMAIN-SUFFIX,global.zenprise.com
 DOMAIN-SUFFIX,globase.com
@@ -18203,6 +18205,7 @@ DOMAIN-SUFFIX,lddt.de
 DOMAIN-SUFFIX,ldhteg.mooihorloge.nl
 DOMAIN-SUFFIX,l.dm.casio.info
 DOMAIN-SUFFIX,ldorlv.seiban.co.jp
+DOMAIN-SUFFIX,ldpsh.fashionnova.com
 DOMAIN-SUFFIX,ldqbuy.sport-express.ru
 DOMAIN-SUFFIX,ldqtdd.peing.net
 DOMAIN-SUFFIX,ldvalc.manzara.cz
@@ -20928,6 +20931,7 @@ DOMAIN-SUFFIX,metrics-ieeexplore.ieee.org
 DOMAIN-SUFFIX,metrics.ifc.org
 DOMAIN-SUFFIX,metrics.ikea.com
 DOMAIN-SUFFIX,metrics.imdb.a2z.com
+DOMAIN-SUFFIX,metrics.imdb.com
 DOMAIN-SUFFIX,metrics.infiniti.com
 DOMAIN-SUFFIX,metrics.infomedics.it
 DOMAIN-SUFFIX,metricsinfoqac.edc.ca
@@ -21691,6 +21695,7 @@ DOMAIN-SUFFIX,mnxgpg.gastro-hero.de
 DOMAIN-SUFFIX,mnxlyo.kinoteatr.ru
 DOMAIN-SUFFIX,mnzogu.leslipfrancais.fr
 DOMAIN-SUFFIX,moa-upload-online.coloros.com
+DOMAIN-SUFFIX,mob2.healthapplines.com
 DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobalyzer.net
 DOMAIN-SUFFIX,mobileanalytics.*.amazonaws.com
@@ -25609,6 +25614,7 @@ DOMAIN-SUFFIX,rlog.popin.cc
 DOMAIN-SUFFIX,rls.regulerlesucre.com
 DOMAIN-SUFFIX,r.miamano.com
 DOMAIN-SUFFIX,rmmskb.fnacspectacles.com
+DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,r.moshimo.com
 DOMAIN-SUFFIX,r.movad.de
 DOMAIN-SUFFIX,rmp4.destinia.uy
@@ -26903,6 +26909,7 @@ DOMAIN-SUFFIX,services.sdiapi.com
 DOMAIN-SUFFIX,services.wetek.com
 DOMAIN-SUFFIX,servicing.business.hsbc.com
 DOMAIN-SUFFIX,servicing.unitedautocredit.net
+DOMAIN-SUFFIX,servo-report.keepstreams.com
 DOMAIN-SUFFIX,servustats.com
 DOMAIN-SUFFIX,se-se.siemensplmevents.com
 DOMAIN-SUFFIX,sessioncam.com
@@ -31097,6 +31104,7 @@ DOMAIN-SUFFIX,stats.johanneswienke.de
 DOMAIN-SUFFIX,stats.jonaslieb.de
 DOMAIN-SUFFIX,stats.jpush.cn
 DOMAIN-SUFFIX,stats.jsbible.com
+DOMAIN-SUFFIX,statsjs.klevu.com
 DOMAIN-SUFFIX,stats.jtrees.io
 DOMAIN-SUFFIX,stats.jun-etan.com
 DOMAIN-SUFFIX,stats.justinwilliams.ca
@@ -32160,6 +32168,7 @@ DOMAIN-SUFFIX,taemhn.zamst-online.jp
 DOMAIN-SUFFIX,t.afi-b.com
 DOMAIN-SUFFIX,tafrebadus.com
 DOMAIN-SUFFIX,tag4arm.com
+DOMAIN-SUFFIX,tag.aftvnews.com
 DOMAIN-SUFFIX,tag.aticdn.net
 DOMAIN-SUFFIX,tag-based.s3.*.amazonaws.com
 DOMAIN-SUFFIX,tag.boulanger.fr

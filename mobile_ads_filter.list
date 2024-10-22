@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-19 05:08:16
-# DOMAIN-SUFFIX: 891
-# TOTAL: 891
+# UPDATED: 2024-10-23 05:17:06
+# DOMAIN-SUFFIX: 894
+# TOTAL: 894
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -222,6 +222,7 @@ DOMAIN-SUFFIX,adxcorp.kr
 DOMAIN-SUFFIX,ad-x.co.uk
 DOMAIN-SUFFIX,adx-*.dbankedge.cn
 DOMAIN-SUFFIX,adx-dre.op.hicloud.com
+DOMAIN-SUFFIX,adx.mossru.com
 DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-SUFFIX,adx-open-service.youku.com
 DOMAIN-SUFFIX,adx-tk.rayjump.com
@@ -522,6 +523,7 @@ DOMAIN-SUFFIX,itdsmr.com
 DOMAIN-SUFFIX,i-vengo.com
 DOMAIN-SUFFIX,iyes.youku.com
 DOMAIN-SUFFIX,jioads.akamaized.net
+DOMAIN-SUFFIX,jjpp.lmtjapi.com
 DOMAIN-SUFFIX,jssdk.rayjump.com
 DOMAIN-SUFFIX,jtbo*.nqxvevk.cn
 DOMAIN-SUFFIX,justad.mobi
@@ -629,6 +631,7 @@ DOMAIN-SUFFIX,networksdk.ssacdn.com
 DOMAIN-SUFFIX,networld.hk
 DOMAIN-SUFFIX,newad.ifeng.com
 DOMAIN-SUFFIX,newfeatureview.perfectionholic.com
+DOMAIN-SUFFIX,news-cdn.site
 DOMAIN-SUFFIX,newsnet.in.ua
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nickhel.com
