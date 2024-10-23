@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-22 05:24:48
-# DOMAIN-SUFFIX: 414
-# TOTAL: 414
+# UPDATED: 2024-10-24 05:18:38
+# DOMAIN-SUFFIX: 415
+# TOTAL: 415
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,4strokemedia.com
 DOMAIN-SUFFIX,a3h.de
@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,chatntr.com
 DOMAIN-SUFFIX,ci-marketing.de
 DOMAIN-SUFFIX,cmadserver.de
 DOMAIN-SUFFIX,cockpit.symplr.de
+DOMAIN-SUFFIX,code.alpin.de
 DOMAIN-SUFFIX,code.bergsteigen.com
 DOMAIN-SUFFIX,codes.wai.it
 DOMAIN-SUFFIX,commsvc.essen-und-trinken.de

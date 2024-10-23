@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-23 05:12:49
-# DOMAIN-SUFFIX: 39355
-# TOTAL: 39355
+# UPDATED: 2024-10-24 05:16:46
+# DOMAIN-SUFFIX: 39358
+# TOTAL: 39358
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -3356,6 +3356,7 @@ DOMAIN-SUFFIX,analytics.ikyu.com
 DOMAIN-SUFFIX,analytic.simplyhealth.co.uk
 DOMAIN-SUFFIX,analytics-ingestion.pbpms.de
 DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
+DOMAIN-SUFFIX,analytics-ingestion-production.tubitv.com
 DOMAIN-SUFFIX,analytics-ingress.bitmovin.com
 DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
 DOMAIN-SUFFIX,analytics.innologica.com
@@ -25545,6 +25546,7 @@ DOMAIN-SUFFIX,ressources.usine-digitale.com
 DOMAIN-SUFFIX,ressources.usine-nouvelle.com
 DOMAIN-SUFFIX,re.stjude.org
 DOMAIN-SUFFIX,res-x.com
+DOMAIN-SUFFIX,retail-client-events-service.internal.salsify.com
 DOMAIN-SUFFIX,retargeter.com.br
 DOMAIN-SUFFIX,retarget.gites-de-france.com
 DOMAIN-SUFFIX,retargeting.biz
@@ -26909,7 +26911,7 @@ DOMAIN-SUFFIX,services.sdiapi.com
 DOMAIN-SUFFIX,services.wetek.com
 DOMAIN-SUFFIX,servicing.business.hsbc.com
 DOMAIN-SUFFIX,servicing.unitedautocredit.net
-DOMAIN-SUFFIX,servo-report.keepstreams.com
+DOMAIN-SUFFIX,servo-report.keepstreams.*
 DOMAIN-SUFFIX,servustats.com
 DOMAIN-SUFFIX,se-se.siemensplmevents.com
 DOMAIN-SUFFIX,sessioncam.com
@@ -27017,6 +27019,7 @@ DOMAIN-SUFFIX,sheep.pixair-survey.com
 DOMAIN-SUFFIX,sheep.vaxstandby.com
 DOMAIN-SUFFIX,sheeta.nrj-play.fr
 DOMAIN-SUFFIX,sheoil.newyorkandcompany.com
+DOMAIN-SUFFIX,shgcdn3.com
 DOMAIN-SUFFIX,shgefd.bilto.fr
 DOMAIN-SUFFIX,shgefd.paris-turf.com
 DOMAIN-SUFFIX,shhh.lol
