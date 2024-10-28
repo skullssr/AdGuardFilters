@@ -1,7 +1,7 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-22 05:23:50
+# UPDATED: 2024-10-29 05:18:15
 # DOMAIN-SUFFIX: 2062
 # TOTAL: 2062
 DOMAIN-SUFFIX,2znp09oa.com
@@ -777,6 +777,7 @@ DOMAIN-SUFFIX,futuristicfold.com
 DOMAIN-SUFFIX,fuzzybasketball.com
 DOMAIN-SUFFIX,fuzzyflavor.com
 DOMAIN-SUFFIX,fuzzyweather.com
+DOMAIN-SUFFIX,ga2.getresponse.com
 DOMAIN-SUFFIX,gacraft.jp
 DOMAIN-SUFFIX,gammamaximum.com
 DOMAIN-SUFFIX,gatecurium.com
@@ -793,7 +794,6 @@ DOMAIN-SUFFIX,getback.ch
 DOMAIN-SUFFIX,getbutton.io
 DOMAIN-SUFFIX,getpushmonkey.com
 DOMAIN-SUFFIX,getpush.net
-DOMAIN-SUFFIX,getresponse.com
 DOMAIN-SUFFIX,giddycoat.com
 DOMAIN-SUFFIX,giftedglue.com
 DOMAIN-SUFFIX,giftedthumb.com
