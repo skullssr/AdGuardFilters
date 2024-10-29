@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-29 05:17:22
-# DOMAIN-SUFFIX: 35908
-# TOTAL: 35908
+# UPDATED: 2024-10-30 05:04:56
+# DOMAIN-SUFFIX: 35912
+# TOTAL: 35912
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2176,6 +2176,7 @@ DOMAIN-SUFFIX,adsettings.com
 DOMAIN-SUFFIX,ad.shinjuku-mens-chuoh.com
 DOMAIN-SUFFIX,adsmeasurement.com
 DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
+DOMAIN-SUFFIX,ads.mythad.com
 DOMAIN-SUFFIX,adsolutions.com
 DOMAIN-SUFFIX,ad-spire.net
 DOMAIN-SUFFIX,adspsp.com
@@ -9832,6 +9833,7 @@ DOMAIN-SUFFIX,data.information.o2.de
 DOMAIN-SUFFIX,data.information.telefonica.de
 DOMAIN-SUFFIX,data.information.whatsappsim.de
 DOMAIN-SUFFIX,data.info.solvenza.hn
+DOMAIN-SUFFIX,data-ingestion.flowgpt.com
 DOMAIN-SUFFIX,data.inswa.coca-cola.com
 DOMAIN-SUFFIX,data.janvanderstorm.de
 DOMAIN-SUFFIX,data.jp-email.princess.com
@@ -22022,6 +22024,7 @@ DOMAIN-SUFFIX,proditor.sparda.de
 DOMAIN-SUFFIX,prod-mhaa.mhtr.be
 DOMAIN-SUFFIX,prodmp.ru
 DOMAIN-SUFFIX,prod.nitrosniffer.ottogroup.io
+DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,prod.report.nacustomerexperience.citi.com
 DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
 DOMAIN-SUFFIX,prod.tahoe-analytics.publishers.advertising.a2z.com
@@ -30107,6 +30110,7 @@ DOMAIN-SUFFIX,thrtle.com
 DOMAIN-SUFFIX,t.huskers.com
 DOMAIN-SUFFIX,t.hypers.com.cn
 DOMAIN-SUFFIX,ti3av8k3ikwm.resume.gerardbosch.xyz
+DOMAIN-SUFFIX,tianji.flowgpt.com
 DOMAIN-SUFFIX,tickets.smu.edu
 DOMAIN-SUFFIX,tick.pcrpriser.se
 DOMAIN-SUFFIX,tick.sculch.app
