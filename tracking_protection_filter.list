@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-30 05:04:56
-# DOMAIN-SUFFIX: 35912
-# TOTAL: 35912
+# UPDATED: 2024-10-31 05:06:38
+# DOMAIN-SUFFIX: 35920
+# TOTAL: 35920
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2963,7 +2963,10 @@ DOMAIN-SUFFIX,amphibian.pinestc.com
 DOMAIN-SUFFIX,amphibian.studionimbus.nl
 DOMAIN-SUFFIX,amphibian.tboa.club
 DOMAIN-SUFFIX,amplifypixel.outbrain.com
+DOMAIN-SUFFIX,amplitude.bandlab.com
 DOMAIN-SUFFIX,amplitude.chess.com
+DOMAIN-SUFFIX,amplitude-experiment.bandlab.com
+DOMAIN-SUFFIX,amplitude.life360.com
 DOMAIN-SUFFIX,ampltd2.medal.tv
 DOMAIN-SUFFIX,ampltd.top.gg
 DOMAIN-SUFFIX,amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -12044,6 +12047,7 @@ DOMAIN-SUFFIX,events.splash-screen.net
 DOMAIN-SUFFIX,events.split.io
 DOMAIN-SUFFIX,events-stream-svc.cordial.com
 DOMAIN-SUFFIX,events-stream-svc.usw2.cordial.com
+DOMAIN-SUFFIX,events.swiftlycontent.net
 DOMAIN-SUFFIX,events.swishapps.ai
 DOMAIN-SUFFIX,events.tafensw.edu.au
 DOMAIN-SUFFIX,events.textme-app.com
@@ -13014,7 +13018,6 @@ DOMAIN-SUFFIX,global.raboag.com
 DOMAIN-SUFFIX,globalservices.conde.digital
 DOMAIN-SUFFIX,globalsolutions.risk.lexisnexis.com
 DOMAIN-SUFFIX,global.successfactors.com
-DOMAIN-SUFFIX,global.telemetry.insights.video.a2z.com
 DOMAIN-SUFFIX,globalwebindex.net
 DOMAIN-SUFFIX,global.zenprise.com
 DOMAIN-SUFFIX,globase.com
@@ -16492,6 +16495,7 @@ DOMAIN-SUFFIX,logbor.com
 DOMAIN-SUFFIX,log.bunjang.co.kr
 DOMAIN-SUFFIX,log*.byteoversea.com
 DOMAIN-SUFFIX,log.classting.com
+DOMAIN-SUFFIX,log.cleandesigner.live
 DOMAIN-SUFFIX,log.cloud.sbs.co.kr
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
@@ -22636,6 +22640,7 @@ DOMAIN-SUFFIX,rejestr.org
 DOMAIN-SUFFIX,rek.rybizak.cz
 DOMAIN-SUFFIX,relacionamento.edpcomunicacao.com.br
 DOMAIN-SUFFIX,relap.io
+DOMAIN-SUFFIX,relay-event.talkie-ai.com
 DOMAIN-SUFFIX,relay.fiverr.com
 DOMAIN-SUFFIX,relay.velpa.pl
 DOMAIN-SUFFIX,relead.com
@@ -24072,6 +24077,7 @@ DOMAIN-SUFFIX,seniors.fairportbaptisthomes.org
 DOMAIN-SUFFIX,senlvg.secretsdujeu.com
 DOMAIN-SUFFIX,sensor.org.ua
 DOMAIN-SUFFIX,sensorsdata.cn
+DOMAIN-SUFFIX,sensorsdata.glowapp.vip
 DOMAIN-SUFFIX,sensorsdata*.read.duokan.com
 DOMAIN-SUFFIX,sensors.ibreader.com
 DOMAIN-SUFFIX,sensors-log.dongqiudi.com
@@ -28226,6 +28232,7 @@ DOMAIN-SUFFIX,stats.healthydirections.com
 DOMAIN-SUFFIX,stats.henkverlinde.com
 DOMAIN-SUFFIX,stats.heyoya.com
 DOMAIN-SUFFIX,stats.his-j.com
+DOMAIN-SUFFIX,stats.hitwebcloud.de
 DOMAIN-SUFFIX,stats.hoeping.de
 DOMAIN-SUFFIX,stats.homepage-2021.askmiso-dev.com
 DOMAIN-SUFFIX,stats.homestow.com
@@ -34878,6 +34885,7 @@ DOMAIN-SUFFIX,web.mapp.whiteaway.se
 DOMAIN-SUFFIX,web.marcotozzi.com
 DOMAIN-SUFFIX,web.marketing.jellybelly.com
 DOMAIN-SUFFIX,webmasterplan.com
+DOMAIN-SUFFIX,webmaxlogger.net
 DOMAIN-SUFFIX,webmet.creditreform.de
 DOMAIN-SUFFIX,webmet.creditreform-mahnwesen.de
 DOMAIN-SUFFIX,webmet.crefotrust.de

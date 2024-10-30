@@ -1,9 +1,9 @@
 # NAME: RussianDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-09-14 05:05:38
-# DOMAIN-SUFFIX: 70
-# TOTAL: 70
+# UPDATED: 2024-10-31 05:08:17
+# DOMAIN-SUFFIX: 71
+# TOTAL: 71
 DOMAIN-SUFFIX,ad.apps.fm
 DOMAIN-SUFFIX,adult-images.ru
 DOMAIN-SUFFIX,anypictures.ru
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,itog.info
 DOMAIN-SUFFIX,kino.mail.ru
 DOMAIN-SUFFIX,knigilub.ru
 DOMAIN-SUFFIX,kttc.ru
+DOMAIN-SUFFIX,limehd.tv
 DOMAIN-SUFFIX,loadercdn.com
 DOMAIN-SUFFIX,login.admitad.com
 DOMAIN-SUFFIX,ltorzhok.ru
