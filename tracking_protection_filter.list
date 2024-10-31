@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-31 05:06:38
-# DOMAIN-SUFFIX: 35920
-# TOTAL: 35920
+# UPDATED: 2024-11-01 05:06:39
+# DOMAIN-SUFFIX: 35925
+# TOTAL: 35925
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -16496,6 +16496,7 @@ DOMAIN-SUFFIX,log.bunjang.co.kr
 DOMAIN-SUFFIX,log*.byteoversea.com
 DOMAIN-SUFFIX,log.classting.com
 DOMAIN-SUFFIX,log.cleandesigner.live
+DOMAIN-SUFFIX,log.cleanertoolboxonline.live
 DOMAIN-SUFFIX,log.cloud.sbs.co.kr
 DOMAIN-SUFFIX,log.codemarketing.cloud
 DOMAIN-SUFFIX,log.cognex.com
@@ -17195,6 +17196,7 @@ DOMAIN-SUFFIX,ma.inglisweden.com
 DOMAIN-SUFFIX,main.inclusivepolicy.com
 DOMAIN-SUFFIX,maintenant.votre-succes.online
 DOMAIN-SUFFIX,mainting-minues.xyz
+DOMAIN-SUFFIX,majime-site-rk.com
 DOMAIN-SUFFIX,makbti.bandofboats.com
 DOMAIN-SUFFIX,ma.kyloepartners.com
 DOMAIN-SUFFIX,ma.lexicon.se
@@ -19851,6 +19853,7 @@ DOMAIN-SUFFIX,networks.balluff.com
 DOMAIN-SUFFIX,network.screen13.com
 DOMAIN-SUFFIX,netzaehler.de
 DOMAIN-SUFFIX,netzstat.ch
+DOMAIN-SUFFIX,new-access802.net
 DOMAIN-SUFFIX,new-collect.albacross.com
 DOMAIN-SUFFIX,newlog.overwolf.com
 DOMAIN-SUFFIX,newrrb.bid
@@ -22667,8 +22670,8 @@ DOMAIN-SUFFIX,reply.osv.com
 DOMAIN-SUFFIX,report2.iciba.com
 DOMAIN-SUFFIX,report.apkpure.net
 DOMAIN-SUFFIX,report*.appmetrica.webvisor.com
+DOMAIN-SUFFIX,report.*.gbqofs.io
 DOMAIN-SUFFIX,report.iciba.com
-DOMAIN-SUFFIX,report.iheartmedia.gbqofs.io
 DOMAIN-SUFFIX,reporting.aatkit.com
 DOMAIN-SUFFIX,reporting-api.gannettinnovation.com
 DOMAIN-SUFFIX,reporting.autographapp.me
@@ -27302,6 +27305,7 @@ DOMAIN-SUFFIX,srsa.srglobal.com
 DOMAIN-SUFFIX,srsg.srglobal.com
 DOMAIN-SUFFIX,sr.studiostack.com
 DOMAIN-SUFFIX,sruk.srglobal.com
+DOMAIN-SUFFIX,srvgl.com
 DOMAIN-SUFFIX,srvr.dmvs-apac.com
 DOMAIN-SUFFIX,srv.stackadapt.com
 DOMAIN-SUFFIX,srvtrck.com
@@ -35690,6 +35694,7 @@ DOMAIN-SUFFIX,yoifwi.levi.com.ph
 DOMAIN-SUFFIX,yoiku-sub.yoiku.support
 DOMAIN-SUFFIX,yolo.philipbjorge.com
 DOMAIN-SUFFIX,y.one.impact-ad.jp
+DOMAIN-SUFFIX,yonemoku.rdy.jp
 DOMAIN-SUFFIX,yoochoose.net
 DOMAIN-SUFFIX,yotlzh.akane-skincare.com
 DOMAIN-SUFFIX,yottlyscript.com
