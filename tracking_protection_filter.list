@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-01 05:06:39
-# DOMAIN-SUFFIX: 35925
-# TOTAL: 35925
+# UPDATED: 2024-11-02 06:18:01
+# DOMAIN-SUFFIX: 35927
+# TOTAL: 35927
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -9734,6 +9734,7 @@ DOMAIN-SUFFIX,data-faf3e659f2.apps.iocnt.de
 DOMAIN-SUFFIX,data.fans.alexalbon.com
 DOMAIN-SUFFIX,data.fans.realmadrid.com
 DOMAIN-SUFFIX,data.fans.williamsf1.com
+DOMAIN-SUFFIX,datafa.st
 DOMAIN-SUFFIX,data-fb37a1e7c3.cannstatter-zeitung.de
 DOMAIN-SUFFIX,data-fb37a1e7c3.esslinger-zeitung.de
 DOMAIN-SUFFIX,data-fb37a1e7c3.frankenpost.de
@@ -19417,6 +19418,7 @@ DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
 DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
 DOMAIN-SUFFIX,mon.snssdk.com
 DOMAIN-SUFFIX,montelena.auction.co.kr
+DOMAIN-SUFFIX,montelena.gmarket.co.kr
 DOMAIN-SUFFIX,montelena-rcv.auction.co.kr
 DOMAIN-SUFFIX,montelena-rcv.gmarket.co.kr
 DOMAIN-SUFFIX,mon-*.tiktokv.com
