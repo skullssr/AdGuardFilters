@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-02 06:18:01
-# DOMAIN-SUFFIX: 35927
-# TOTAL: 35927
+# UPDATED: 2024-11-03 05:16:45
+# DOMAIN-SUFFIX: 35929
+# TOTAL: 35929
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -11928,6 +11928,7 @@ DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,event.condenastdigital.com
 DOMAIN-SUFFIX,event.csdn.net
 DOMAIN-SUFFIX,event.dengage.com
+DOMAIN-SUFFIX,event-dot-learning-piano.appspot.com
 DOMAIN-SUFFIX,event.edb.gov.sg
 DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,event.gitexnigeria.ng
@@ -15392,6 +15393,7 @@ DOMAIN-SUFFIX,insights.algolia.io
 DOMAIN-SUFFIX,insights.atradiuscollections.com
 DOMAIN-SUFFIX,insights.att.com
 DOMAIN-SUFFIX,insights.biallo.de
+DOMAIN-SUFFIX,insights-categorizer-noneu.truecaller.com
 DOMAIN-SUFFIX,insights-collector.newrelic.com
 DOMAIN-SUFFIX,insightseries.redbull.racing
 DOMAIN-SUFFIX,insights.golubcapital.com

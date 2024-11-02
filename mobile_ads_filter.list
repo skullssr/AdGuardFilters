@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-02 06:22:17
-# DOMAIN-SUFFIX: 899
-# TOTAL: 899
+# UPDATED: 2024-11-03 05:21:02
+# DOMAIN-SUFFIX: 900
+# TOTAL: 900
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,adsbynimbus.com
 DOMAIN-SUFFIX,ads-chunks.prod.ihrhls.com
 DOMAIN-SUFFIX,ads-cloud.rovio.com
 DOMAIN-SUFFIX,ads.cocomobi.com
+DOMAIN-SUFFIX,ads-config-engine-noneu.truecaller.com
 DOMAIN-SUFFIX,adsdk.vrvm.com
 DOMAIN-SUFFIX,ads-d.viber.com
 DOMAIN-SUFFIX,ads.edadeal.ru
@@ -225,7 +226,6 @@ DOMAIN-SUFFIX,adxcorp.kr
 DOMAIN-SUFFIX,ad-x.co.uk
 DOMAIN-SUFFIX,adx-*.dbankedge.cn
 DOMAIN-SUFFIX,adx-dre.op.hicloud.com
-DOMAIN-SUFFIX,adx.mossru.com
 DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-SUFFIX,adx-open-service.youku.com
 DOMAIN-SUFFIX,adx-tk.rayjump.com
@@ -607,6 +607,7 @@ DOMAIN-SUFFIX,mofox.com
 DOMAIN-SUFFIX,mo.freeindoapp.com
 DOMAIN-SUFFIX,monitor.adcaffe.com
 DOMAIN-SUFFIX,mopub-win-us-east.bksn.se
+DOMAIN-SUFFIX,mossru.com
 DOMAIN-SUFFIX,ms*.applvn.com
 DOMAIN-SUFFIX,msg.ettoday.net
 DOMAIN-SUFFIX,mtag.mman.kr
