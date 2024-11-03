@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-31 05:08:30
-# DOMAIN-SUFFIX: 416
-# TOTAL: 416
+# UPDATED: 2024-11-04 05:45:25
+# DOMAIN-SUFFIX: 417
+# TOTAL: 417
 DOMAIN-SUFFIX,2t3.alpin.de
 DOMAIN-SUFFIX,2t3.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -308,6 +308,7 @@ DOMAIN-SUFFIX,pre.xlust24.com
 DOMAIN-SUFFIX,probefahrt.gratis
 DOMAIN-SUFFIX,profiliate.net
 DOMAIN-SUFFIX,promotionmaterial.betacash.com
+DOMAIN-SUFFIX,pr.t-online.de
 DOMAIN-SUFFIX,ptadsrv.de
 DOMAIN-SUFFIX,publisher.outtra.com
 DOMAIN-SUFFIX,putenbrust.net
