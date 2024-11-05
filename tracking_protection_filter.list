@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-05 05:19:12
-# DOMAIN-SUFFIX: 37210
-# TOTAL: 37210
+# UPDATED: 2024-11-06 06:28:21
+# DOMAIN-SUFFIX: 37211
+# TOTAL: 37211
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -10084,7 +10084,6 @@ DOMAIN-SUFFIX,data.mediaworld.it
 DOMAIN-SUFFIX,data.member.aware.com.au
 DOMAIN-SUFFIX,data.member.unitedhealthcare.com
 DOMAIN-SUFFIX,data.message.aircanada.com
-DOMAIN-SUFFIX,data.mimikama.at
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
@@ -20022,6 +20021,7 @@ DOMAIN-SUFFIX,mnsfwn.temponabytok.sk
 DOMAIN-SUFFIX,mnxlyo.kinoteatr.ru
 DOMAIN-SUFFIX,moa-upload-online.coloros.com
 DOMAIN-SUFFIX,mob2.healthapplines.com
+DOMAIN-SUFFIX,mob2.healthtrackergroup.com
 DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobalyzer.net
 DOMAIN-SUFFIX,mobileanalytics.*.amazonaws.com
@@ -35347,6 +35347,7 @@ DOMAIN-SUFFIX,usage.influxdata.com
 DOMAIN-SUFFIX,us.auto-financed.com
 DOMAIN-SUFFIX,usb-vna.coppermountaintech.com
 DOMAIN-SUFFIX,us-east-1.paa-reporting-advertising.amazon
+DOMAIN-SUFFIX,useraction.de
 DOMAIN-SUFFIX,user-analysis.7moor.com
 DOMAIN-SUFFIX,user-clicks.com
 DOMAIN-SUFFIX,usercycle.com
