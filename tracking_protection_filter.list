@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-08 05:37:29
-# DOMAIN-SUFFIX: 37212
-# TOTAL: 37212
+# UPDATED: 2024-11-09 05:03:44
+# DOMAIN-SUFFIX: 37215
+# TOTAL: 37215
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -12220,6 +12220,7 @@ DOMAIN-SUFFIX,event.condenastdigital.com
 DOMAIN-SUFFIX,event.csdn.net
 DOMAIN-SUFFIX,event.dengage.com
 DOMAIN-SUFFIX,event-dot-learning-piano.appspot.com
+DOMAIN-SUFFIX,event-dot-procolor-backend.appspot.com
 DOMAIN-SUFFIX,event.edb.gov.sg
 DOMAIN-SUFFIX,event.getblue.io
 DOMAIN-SUFFIX,event.gitexnigeria.ng
@@ -22756,6 +22757,7 @@ DOMAIN-SUFFIX,prod-analytics.royal.drmgms.com
 DOMAIN-SUFFIX,prod-clientlog.fastly.newssuite.sinfony.ne.jp
 DOMAIN-SUFFIX,prodclk.prodentimonline.live
 DOMAIN-SUFFIX,prod-collector.bigbasket.com
+DOMAIN-SUFFIX,prod.event.mwm-asset-manager.mwmwebapis.com
 DOMAIN-SUFFIX,prod.fennec.atp.fox
 DOMAIN-SUFFIX,proditor.sparda.de
 DOMAIN-SUFFIX,prod-mhaa.mhtr.be
@@ -29752,6 +29754,7 @@ DOMAIN-SUFFIX,stats.vattenfall.nl
 DOMAIN-SUFFIX,stats.vattenfall.se
 DOMAIN-SUFFIX,stats.vdsnow.ru
 DOMAIN-SUFFIX,stats.vican.me
+DOMAIN-SUFFIX,stats.vidbinge.com
 DOMAIN-SUFFIX,stats.videodelivery.net
 DOMAIN-SUFFIX,stats.video.globo.com
 DOMAIN-SUFFIX,stats*.videonow.ru
