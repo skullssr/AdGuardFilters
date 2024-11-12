@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-12 05:09:04
+# UPDATED: 2024-11-13 04:57:58
 # DOMAIN-SUFFIX: 38710
 # TOTAL: 38710
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -3224,7 +3224,6 @@ DOMAIN-SUFFIX,analytics.cookiefirst.dev
 DOMAIN-SUFFIX,analytics.corusent.com
 DOMAIN-SUFFIX,analytics.cosmonova.net
 DOMAIN-SUFFIX,analytics.crawfordcountybank.com
-DOMAIN-SUFFIX,analytics.crazygames.com
 DOMAIN-SUFFIX,analytics.crea.ca
 DOMAIN-SUFFIX,analytics.cyrillus.be
 DOMAIN-SUFFIX,analytics.cyrillus.ch
@@ -7306,6 +7305,7 @@ DOMAIN-SUFFIX,cyohmj.catawiki.com
 DOMAIN-SUFFIX,cy-pr.com
 DOMAIN-SUFFIX,cypr.com
 DOMAIN-SUFFIX,cyvxfq.jennikayne.com
+DOMAIN-SUFFIX,cza.crazygames.com
 DOMAIN-SUFFIX,cz-business.vodafone.com
 DOMAIN-SUFFIX,cz-cz.siemensplmevents.com
 DOMAIN-SUFFIX,czdxto.radiopopular.pt
