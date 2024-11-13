@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-12 05:13:21
-# DOMAIN-SUFFIX: 903
-# TOTAL: 903
+# UPDATED: 2024-11-14 05:39:42
+# DOMAIN-SUFFIX: 907
+# TOTAL: 907
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -115,6 +115,7 @@ DOMAIN-SUFFIX,adquota.com
 DOMAIN-SUFFIX,adrouter-charter-vod.cadenttech.tv
 DOMAIN-SUFFIX,ads.ad2iction.com
 DOMAIN-SUFFIX,ads.adadapted.com
+DOMAIN-SUFFIX,ads.adinmotech.com
 DOMAIN-SUFFIX,ads.aerserv.com
 DOMAIN-SUFFIX,ads.aitype.net
 DOMAIN-SUFFIX,ads-api.kidsnote.com
@@ -405,6 +406,7 @@ DOMAIN-SUFFIX,d3hdbjtb1686tn.cloudfront.net
 DOMAIN-SUFFIX,d830x8j3o1b2k.cloudfront.net
 DOMAIN-SUFFIX,dad-api.dcard.tw
 DOMAIN-SUFFIX,data2.doodlemobile.com
+DOMAIN-SUFFIX,dataflow.biliapi.com
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,deapi.sooplive.co.kr
 DOMAIN-SUFFIX,debojuagug1sf.cloudfront.net
@@ -467,6 +469,7 @@ DOMAIN-SUFFIX,go.mobstitialtag.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,go.vrvm.com
+DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN-SUFFIX,gts-ads.twistbox.com
 DOMAIN-SUFFIX,gumgum.com
 DOMAIN-SUFFIX,gwrtdp-tn690BFAdt.tclclouds.com
@@ -482,6 +485,7 @@ DOMAIN-SUFFIX,hostgrater.com
 DOMAIN-SUFFIX,hotapi-va.isnssdk.com
 DOMAIN-SUFFIX,houseads-prod.elasticbeanstalk.com
 DOMAIN-SUFFIX,houseads.ttpsdk.info
+DOMAIN-SUFFIX,httpdns.bilivideo.com
 DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,https-filtering-check.adtidy.org
 DOMAIN-SUFFIX,huntmad.com
