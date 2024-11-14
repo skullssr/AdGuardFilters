@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-13 04:52:35
+# UPDATED: 2024-11-15 05:59:40
 # DOMAIN-SUFFIX: 2843
 # TOTAL: 2843
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -1223,6 +1223,7 @@ DOMAIN-SUFFIX,insurancequotestip.com
 DOMAIN-SUFFIX,intercelestial.com
 DOMAIN-SUFFIX,interssh.com
 DOMAIN-SUFFIX,in-trend.biz
+DOMAIN-SUFFIX,inven.co.kr
 DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,inwepo.co
 DOMAIN-SUFFIX,iol.pt
@@ -1671,7 +1672,6 @@ DOMAIN-SUFFIX,museum-29.dajya-ranger.com
 DOMAIN-SUFFIX,musicpremieres.com
 DOMAIN-SUFFIX,musicradar.com
 DOMAIN-SUFFIX,music.youtube.com
-DOMAIN-SUFFIX,mwpaste.com
 DOMAIN-SUFFIX,mxcity.mx
 DOMAIN-SUFFIX,mx-sh.net
 DOMAIN-SUFFIX,myaccount.google.com

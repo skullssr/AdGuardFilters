@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-14 05:35:27
-# DOMAIN-SUFFIX: 38713
-# TOTAL: 38713
+# UPDATED: 2024-11-15 06:05:06
+# DOMAIN-SUFFIX: 38721
+# TOTAL: 38721
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2212,6 +2212,7 @@ DOMAIN-SUFFIX,adsensedetective.com
 DOMAIN-SUFFIX,adserver.snapads.com
 DOMAIN-SUFFIX,adsettings.com
 DOMAIN-SUFFIX,ad.shinjuku-mens-chuoh.com
+DOMAIN-SUFFIX,ads-image.production-public.tubi.io
 DOMAIN-SUFFIX,adsmeasurement.com
 DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
 DOMAIN-SUFFIX,ads.mythad.com
@@ -4654,6 +4655,7 @@ DOMAIN-SUFFIX,a.trk2trk.org
 DOMAIN-SUFFIX,ats.auction.co.kr
 DOMAIN-SUFFIX,atsfi.de
 DOMAIN-SUFFIX,atsmetrics.adobe.com
+DOMAIN-SUFFIX,atsod.launch.liveramp.com
 DOMAIN-SUFFIX,ats.otto.de
 DOMAIN-SUFFIX,at.swisscom.ch
 DOMAIN-SUFFIX,att1.trk.alexandro.agency
@@ -12456,6 +12458,7 @@ DOMAIN-SUFFIX,eu.spgo.io
 DOMAIN-SUFFIX,eu-survey.com
 DOMAIN-SUFFIX,eu.thtk.temu.com
 DOMAIN-SUFFIX,ev.100calorias.com
+DOMAIN-SUFFIX,ev2.api.bdg.com
 DOMAIN-SUFFIX,evacrb.ecotour.com
 DOMAIN-SUFFIX,ev.api.bdg.com
 DOMAIN-SUFFIX,evelynn.landing.ni.com
@@ -12801,6 +12804,7 @@ DOMAIN-SUFFIX,fahmta.spearswms.com
 DOMAIN-SUFFIX,fahmta.theaa.com
 DOMAIN-SUFFIX,fahmta.theanswerbank.co.uk
 DOMAIN-SUFFIX,faibl.org
+DOMAIN-SUFFIX,fail.adr.ec
 DOMAIN-SUFFIX,fairfaxmedia.sharedcount.com
 DOMAIN-SUFFIX,fal2.carrefour-banque.fr
 DOMAIN-SUFFIX,falcon.designed.org
@@ -17744,6 +17748,7 @@ DOMAIN-SUFFIX,logs.insight.rapid7.com
 DOMAIN-SUFFIX,logs.ironsrc.mobi
 DOMAIN-SUFFIX,logs.juspay.in
 DOMAIN-SUFFIX,log.snapdeal.com
+DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,log.snow.me
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,logs.ntvplus.tv
@@ -30196,6 +30201,7 @@ DOMAIN-SUFFIX,stats.browsertrix.com
 DOMAIN-SUFFIX,stats.brumtechtapas.co.uk
 DOMAIN-SUFFIX,stats.buddiy.net
 DOMAIN-SUFFIX,stats.bungeefit.co.uk
+DOMAIN-SUFFIX,stats.bunkr.ru
 DOMAIN-SUFFIX,stats.burocratin.com
 DOMAIN-SUFFIX,stats.buyersedge.com.au
 DOMAIN-SUFFIX,stats.byma.com.br
@@ -31541,6 +31547,7 @@ DOMAIN-SUFFIX,t.activase.com
 DOMAIN-SUFFIX,t.activeflowprogram.com
 DOMAIN-SUFFIX,t.adbr.io
 DOMAIN-SUFFIX,t.adcell.com
+DOMAIN-SUFFIX,t.adii.se
 DOMAIN-SUFFIX,t.adlpo.com
 DOMAIN-SUFFIX,taduhy.timberland.co.uk
 DOMAIN-SUFFIX,t.adx.opera.com
@@ -36683,6 +36690,7 @@ DOMAIN-SUFFIX,userreplay.net
 DOMAIN-SUFFIX,userreport.com
 DOMAIN-SUFFIX,userreporting.cloud.unity3d.com
 DOMAIN-SUFFIX,users.51.la
+DOMAIN-SUFFIX,user-signals.production-public.tubi.io
 DOMAIN-SUFFIX,user-stats.rbl.ms
 DOMAIN-SUFFIX,usertrack.appcpi.net
 DOMAIN-SUFFIX,usesfathom.com
