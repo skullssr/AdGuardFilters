@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-15 06:05:06
-# DOMAIN-SUFFIX: 38721
-# TOTAL: 38721
+# UPDATED: 2024-11-16 04:51:29
+# DOMAIN-SUFFIX: 38726
+# TOTAL: 38726
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2717,6 +2717,7 @@ DOMAIN-SUFFIX,agility.trutv.com
 DOMAIN-SUFFIX,agillic.eu
 DOMAIN-SUFFIX,agilone.com
 DOMAIN-SUFFIX,aginginplace.vyta.ca
+DOMAIN-SUFFIX,agi-static.indiatimes.com
 DOMAIN-SUFFIX,agkn.com
 DOMAIN-SUFFIX,agoqaa.stockmann.com
 DOMAIN-SUFFIX,agorahtag.tech
@@ -20828,8 +20829,10 @@ DOMAIN-SUFFIX,monitus.net
 DOMAIN-SUFFIX,monkey.colinjohnston.com
 DOMAIN-SUFFIX,monkey.compulsivo.co
 DOMAIN-SUFFIX,monkeytracker.cz
+DOMAIN-SUFFIX,mon*-misc-lf.fqnovel.com
 DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
 DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
+DOMAIN-SUFFIX,monsetting.toutiao.com
 DOMAIN-SUFFIX,mon.snssdk.com
 DOMAIN-SUFFIX,montelena.auction.co.kr
 DOMAIN-SUFFIX,montelena.gmarket.co.kr
@@ -20839,7 +20842,6 @@ DOMAIN-SUFFIX,mon-*.tiktokv.com
 DOMAIN-SUFFIX,mon.tiktokv.com
 DOMAIN-SUFFIX,mon*-*.tiktokv.us
 DOMAIN-SUFFIX,montpalatin.handicap.fr
-DOMAIN-SUFFIX,monu.delivery
 DOMAIN-SUFFIX,mon.us.tiktokv.com
 DOMAIN-SUFFIX,mon-va.byteoversea.com
 DOMAIN-SUFFIX,mon.zijieapi.com
@@ -25601,6 +25603,7 @@ DOMAIN-SUFFIX,sddan.com
 DOMAIN-SUFFIX,s.deepl.com
 DOMAIN-SUFFIX,sdegwynml.bmaci.me
 DOMAIN-SUFFIX,sdj.saudedasjuntas.online
+DOMAIN-SUFFIX,sdk-04.moengage.com
 DOMAIN-SUFFIX,sdk.51.la
 DOMAIN-SUFFIX,sdk.airbridge.io
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
@@ -31963,6 +31966,7 @@ DOMAIN-SUFFIX,taskapi.net
 DOMAIN-SUFFIX,t.assurasphere.org
 DOMAIN-SUFFIX,t.assurepinnacle.com
 DOMAIN-SUFFIX,tatehj.nylaarp.com
+DOMAIN-SUFFIX,tatrack.thinkyeah.com
 DOMAIN-SUFFIX,ta.trs.cn
 DOMAIN-SUFFIX,tatsumi-sys.jp
 DOMAIN-SUFFIX,tattkq.hopelingerie.com.br
@@ -36808,6 +36812,7 @@ DOMAIN-SUFFIX,vcdfve.aroma-butik.ru
 DOMAIN-SUFFIX,vcegpu.libas.com.tr
 DOMAIN-SUFFIX,vch.voyage-prive.ch
 DOMAIN-SUFFIX,v-collector.dp.aws.charter.com
+DOMAIN-SUFFIX,vcs.zijieapi.com
 DOMAIN-SUFFIX,vcxtkb.myomee.com
 DOMAIN-SUFFIX,vdcgmp.dynamicstriking.com
 DOMAIN-SUFFIX,vdc.zoomph.com

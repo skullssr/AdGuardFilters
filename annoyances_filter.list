@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-13 04:58:50
-# DOMAIN-SUFFIX: 2070
-# TOTAL: 2070
+# UPDATED: 2024-11-16 00:26:12
+# DOMAIN-SUFFIX: 2071
+# TOTAL: 2071
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -1274,6 +1274,7 @@ DOMAIN-SUFFIX,policy*.cookieinformation.com
 DOMAIN-SUFFIX,policy.cookiereports.com
 DOMAIN-SUFFIX,politegoldfish.com
 DOMAIN-SUFFIX,popcard.unibuddy.co
+DOMAIN-SUFFIX,pop-convert.com
 DOMAIN-SUFFIX,pop.devil.services
 DOMAIN-SUFFIX,popupmaker.com
 DOMAIN-SUFFIX,popup.wisepops.com
