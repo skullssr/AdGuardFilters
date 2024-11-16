@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-16 04:51:29
-# DOMAIN-SUFFIX: 38726
-# TOTAL: 38726
+# UPDATED: 2024-11-17 04:51:28
+# DOMAIN-SUFFIX: 38732
+# TOTAL: 38732
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -17731,6 +17731,7 @@ DOMAIN-SUFFIX,logs.51cto.com
 DOMAIN-SUFFIX,logs.8thwall.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
+DOMAIN-SUFFIX,logs.chatboost-cv.algoage.co.jp
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
 DOMAIN-SUFFIX,logsdk.kwai-pro.com
@@ -23143,6 +23144,7 @@ DOMAIN-SUFFIX,pixel.clutter.com
 DOMAIN-SUFFIX,pixel.condenastdigital.com
 DOMAIN-SUFFIX,pixel-*.convertagain.net
 DOMAIN-SUFFIX,pixel.convertize.io
+DOMAIN-SUFFIX,pixel.dev.smartnews.com
 DOMAIN-SUFFIX,pixel.digitalspy.co.uk
 DOMAIN-SUFFIX,pixel.dmdi.pl
 DOMAIN-SUFFIX,pixel.embed.su
@@ -23180,6 +23182,7 @@ DOMAIN-SUFFIX,pixel.s3xified.com
 DOMAIN-SUFFIX,pixel.safe-installation.com
 DOMAIN-SUFFIX,pixels.ingbank.com.tr
 DOMAIN-SUFFIX,pixels.livingsocial.com
+DOMAIN-SUFFIX,pixel.smartnews.com
 DOMAIN-SUFFIX,pixel.sojern.com
 DOMAIN-SUFFIX,pixels.spotify.com
 DOMAIN-SUFFIX,pixel.staging.tree.com
@@ -32140,6 +32143,7 @@ DOMAIN-SUFFIX,t.elasticsuite.io
 DOMAIN-SUFFIX,telegraf.detmir-stats.ru
 DOMAIN-SUFFIX,telemetrics.klaviyo.com
 DOMAIN-SUFFIX,telemetry.am.pictet.com
+DOMAIN-SUFFIX,telemetry*.api.playstation.com
 DOMAIN-SUFFIX,telemetry.api.swiftkey.com
 DOMAIN-SUFFIX,telemetry.api.wmcdp.io
 DOMAIN-SUFFIX,telemetry.art19.com
@@ -32171,6 +32175,7 @@ DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry*.transcend.io
 DOMAIN-SUFFIX,telemetry.voxeet.com
 DOMAIN-SUFFIX,telemetry.webasto.com
+DOMAIN-SUFFIX,telemetry.zoom.us
 DOMAIN-SUFFIX,telem.sre.gopuff.com
 DOMAIN-SUFFIX,teleport.soom.la
 DOMAIN-SUFFIX,te.limango.de
@@ -34912,6 +34917,7 @@ DOMAIN-SUFFIX,trend.faxnews.info
 DOMAIN-SUFFIX,tr.enedis-infos.fr
 DOMAIN-SUFFIX,tr.enews.customsolutions.fr
 DOMAIN-SUFFIX,tr.enquetes.actionlogement.fr
+DOMAIN-SUFFIX,t.rentio.jp
 DOMAIN-SUFFIX,tr.entreprise.axa.fr
 DOMAIN-SUFFIX,tr.entreprise-pro.info
 DOMAIN-SUFFIX,tr.eqs.cpam67.net
