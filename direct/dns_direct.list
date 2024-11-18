@@ -1,14 +1,15 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-10-22 05:08:57
-# DOMAIN-SUFFIX: 161
-# TOTAL: 161
+# UPDATED: 2024-11-19 04:37:56
+# DOMAIN-SUFFIX: 162
+# TOTAL: 162
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
 DOMAIN-SUFFIX,ac.ebis.ne.jp
 DOMAIN-SUFFIX,acs-m.daraz.com.bd
+DOMAIN-SUFFIX,action.metaffiliation.com
 DOMAIN-SUFFIX,ad.10010.com
 DOMAIN-SUFFIX,ad.abchina.com
 DOMAIN-SUFFIX,adcdn.pingan.com
