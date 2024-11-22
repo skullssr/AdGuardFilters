@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-22 04:54:40
-# DOMAIN-SUFFIX: 45396
-# TOTAL: 45396
+# UPDATED: 2024-11-23 04:52:25
+# DOMAIN-SUFFIX: 45397
+# TOTAL: 45397
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -4188,6 +4188,7 @@ DOMAIN-SUFFIX,api.publytics.net
 DOMAIN-SUFFIX,api.receptivity.io
 DOMAIN-SUFFIX,api.reproio.com
 DOMAIN-SUFFIX,api.revenuads.com
+DOMAIN-SUFFIX,api.rvere.com
 DOMAIN-SUFFIX,api.ryanyao.design
 DOMAIN-SUFFIX,apis.4bn.xyz
 DOMAIN-SUFFIX,api.sail-personalize.com
@@ -7561,7 +7562,6 @@ DOMAIN-SUFFIX,create.encoreglobal.com
 DOMAIN-SUFFIX,create.encore-mx.com
 DOMAIN-SUFFIX,create.lidstatic.com
 DOMAIN-SUFFIX,creativeassets.asosservices.com
-DOMAIN-SUFFIX,creative.bidease.com
 DOMAIN-SUFFIX,creativecdn.com
 DOMAIN-SUFFIX,crevjy.store-up.com
 DOMAIN-SUFFIX,crfuxo.foeth.com
@@ -38793,6 +38793,7 @@ DOMAIN-SUFFIX,tp.heine.at
 DOMAIN-SUFFIX,tp.heine.ch
 DOMAIN-SUFFIX,tp.heine.de
 DOMAIN-SUFFIX,tp.heine-shop.nl
+DOMAIN-SUFFIX,tpi-app.herokuapp.com
 DOMAIN-SUFFIX,tp.imwalking.de
 DOMAIN-SUFFIX,t.pittsburghpanthers.com
 DOMAIN-SUFFIX,tp.jelmoli-shop.ch
