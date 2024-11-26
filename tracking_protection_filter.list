@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-26 04:52:33
-# DOMAIN-SUFFIX: 46123
-# TOTAL: 46123
+# UPDATED: 2024-11-27 04:52:32
+# DOMAIN-SUFFIX: 46124
+# TOTAL: 46124
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -13635,6 +13635,7 @@ DOMAIN-SUFFIX,events.bendigotafe.edu.au
 DOMAIN-SUFFIX,events.betterhelp.com
 DOMAIN-SUFFIX,events.blackboard.com
 DOMAIN-SUFFIX,events.brightline.tv
+DOMAIN-SUFFIX,events.bsky.app
 DOMAIN-SUFFIX,events.busuu.com
 DOMAIN-SUFFIX,events.caffeine.tv
 DOMAIN-SUFFIX,events.cardsmobile.ru
