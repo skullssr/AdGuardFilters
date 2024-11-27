@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-27 04:52:32
-# DOMAIN-SUFFIX: 46124
-# TOTAL: 46124
+# UPDATED: 2024-11-28 04:52:12
+# DOMAIN-SUFFIX: 46128
+# TOTAL: 46128
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -15951,6 +15951,7 @@ DOMAIN-SUFFIX,healthy.spartanburgregional.com
 DOMAIN-SUFFIX,heapanalytics.com
 DOMAIN-SUFFIX,heap.drop.com
 DOMAIN-SUFFIX,hearob.klix.ba
+DOMAIN-SUFFIX,heartbeat.crackle.com
 DOMAIN-SUFFIX,heartbeats.prd.data.s.joyn.de
 DOMAIN-SUFFIX,heatmap.emma.tools
 DOMAIN-SUFFIX,heatmap-events-collector.instapage.com
@@ -19829,6 +19830,7 @@ DOMAIN-SUFFIX,log.newsbreak.jp
 DOMAIN-SUFFIX,log.newsvine.com
 DOMAIN-SUFFIX,lognormal.net
 DOMAIN-SUFFIX,log*-normal-*.tiktokv.us
+DOMAIN-SUFFIX,log*-normal-useast1a.lemon8-app.com
 DOMAIN-SUFFIX,log.ohou.se
 DOMAIN-SUFFIX,log.olark.com
 DOMAIN-SUFFIX,log.outbrain.com
@@ -24747,6 +24749,7 @@ DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-SUFFIX,mssdk-sg.byteoversea.com
 DOMAIN-SUFFIX,mssdk-sg.tiktok.com
 DOMAIN-SUFFIX,mssdk-*.tiktokw.us
+DOMAIN-SUFFIX,mssdk-va.byteoversea.com
 DOMAIN-SUFFIX,mssdk*.zijieapi.com
 DOMAIN-SUFFIX,mstat.acestream.net
 DOMAIN-SUFFIX,mstfbz.zenklub.com.br
@@ -27501,6 +27504,7 @@ DOMAIN-SUFFIX,planarian.dtesta.com
 DOMAIN-SUFFIX,planarian.fatsackfails.com
 DOMAIN-SUFFIX,planarian.reverberate.org
 DOMAIN-SUFFIX,plan.devbyexample.com
+DOMAIN-SUFFIX,plankton-gtm.a.autoscout24.com
 DOMAIN-SUFFIX,plans.ceteraretirement.com
 DOMAIN-SUFFIX,plans.fundtherebuild.com
 DOMAIN-SUFFIX,plantdigestion.com
