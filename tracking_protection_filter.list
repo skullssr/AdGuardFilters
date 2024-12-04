@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-04 04:52:16
-# DOMAIN-SUFFIX: 46281
-# TOTAL: 46281
+# UPDATED: 2024-12-05 04:52:27
+# DOMAIN-SUFFIX: 46284
+# TOTAL: 46284
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -19939,6 +19939,7 @@ DOMAIN-SUFFIX,log-sg.bytegsdk.com
 DOMAIN-SUFFIX,logs.gshopper.com
 DOMAIN-SUFFIX,log.shufoo.net
 DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
 DOMAIN-SUFFIX,logsink.zedge.net
 DOMAIN-SUFFIX,logs.insight.rapid7.com
 DOMAIN-SUFFIX,logs.ironsrc.mobi
@@ -40448,6 +40449,7 @@ DOMAIN-SUFFIX,tracking.laurelsprings.com
 DOMAIN-SUFFIX,tracking.leadingauthorities.com
 DOMAIN-SUFFIX,tracking.leadlink.de
 DOMAIN-SUFFIX,tracking.lead-plus.jp
+DOMAIN-SUFFIX,tracking.leadspark.io
 DOMAIN-SUFFIX,tracking.learn.oakstreethealth.com
 DOMAIN-SUFFIX,tracking.leeep.jp
 DOMAIN-SUFFIX,tracking.lengow.com
@@ -41342,6 +41344,7 @@ DOMAIN-SUFFIX,traktor.lozkoholicy.pl
 DOMAIN-SUFFIX,tr.allianz-trade.com
 DOMAIN-SUFFIX,tr.allopneus.com
 DOMAIN-SUFFIX,tr.alpari.world
+DOMAIN-SUFFIX,tralut.chatpdf.com
 DOMAIN-SUFFIX,t.ramblinwreck.com
 DOMAIN-SUFFIX,trandgid.com
 DOMAIN-SUFFIX,tr.animation.lexpress.fr
