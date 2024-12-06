@@ -1,14 +1,13 @@
 # NAME: JapaneseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-11-07 05:28:01
-# DOMAIN-SUFFIX: 52
-# TOTAL: 52
+# UPDATED: 2024-12-07 04:55:58
+# DOMAIN-SUFFIX: 51
+# TOTAL: 51
 DOMAIN-SUFFIX,ad-contents.jp
 DOMAIN-SUFFIX,ap-siken.com
-DOMAIN-SUFFIX,b1.best-hit.tv
 DOMAIN-SUFFIX,b.best-hit.tv
-DOMAIN-SUFFIX,bm.best-hit.tv
+DOMAIN-SUFFIX,best-hit.tv
 DOMAIN-SUFFIX,bridalgown.work
 DOMAIN-SUFFIX,cmnw.jp
 DOMAIN-SUFFIX,contents-group.work
