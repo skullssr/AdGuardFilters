@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-07 04:52:13
-# DOMAIN-SUFFIX: 46289
-# TOTAL: 46289
+# UPDATED: 2024-12-08 04:52:21
+# DOMAIN-SUFFIX: 46290
+# TOTAL: 46290
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -39887,6 +39887,7 @@ DOMAIN-SUFFIX,tracker.cdnbye.com
 DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
 DOMAIN-SUFFIX,tracker.citicsinfo.com
 DOMAIN-SUFFIX,tracker.convead.io
+DOMAIN-SUFFIX,tracker.curama.jp
 DOMAIN-SUFFIX,tracker.dalso.org
 DOMAIN-SUFFIX,tracker.dcdn.baidu.com
 DOMAIN-SUFFIX,tracker.decomworld.com
