@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-10 04:52:29
-# DOMAIN-SUFFIX: 46289
-# TOTAL: 46289
+# UPDATED: 2024-12-11 04:52:45
+# DOMAIN-SUFFIX: 46292
+# TOTAL: 46292
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -6612,7 +6612,6 @@ DOMAIN-SUFFIX,click.check-games.com
 DOMAIN-SUFFIX,clickclick.net
 DOMAIN-SUFFIX,click.compli.com
 DOMAIN-SUFFIX,clickdensity.com
-DOMAIN-SUFFIX,clickdimensions.com
 DOMAIN-SUFFIX,click.easycosmetic.at
 DOMAIN-SUFFIX,click.easycosmetic.be
 DOMAIN-SUFFIX,click.easycosmetic.ch
@@ -13661,6 +13660,7 @@ DOMAIN-SUFFIX,eventlog.jackpot.de
 DOMAIN-SUFFIX,eventlog.outbrain.com
 DOMAIN-SUFFIX,event.mazars.nl
 DOMAIN-SUFFIX,event.mrtnsvr.com
+DOMAIN-SUFFIX,event.newsbreak.com
 DOMAIN-SUFFIX,event.ortec.com
 DOMAIN-SUFFIX,eventos.abastur.com
 DOMAIN-SUFFIX,eventos.cihac.com
@@ -27493,6 +27493,7 @@ DOMAIN-SUFFIX,pixel.carambo.la
 DOMAIN-SUFFIX,pixel.cdnwidget.com
 DOMAIN-SUFFIX,pixel.clutter.com
 DOMAIN-SUFFIX,pixel.condenastdigital.com
+DOMAIN-SUFFIX,pixel-config.reddit.com
 DOMAIN-SUFFIX,pixel-*.convertagain.net
 DOMAIN-SUFFIX,pixel.convertize.io
 DOMAIN-SUFFIX,pixel.dev.smartnews.com
@@ -27537,6 +27538,7 @@ DOMAIN-SUFFIX,pixel.smartnews.com
 DOMAIN-SUFFIX,pixel.sojern.com
 DOMAIN-SUFFIX,pixels.spotify.com
 DOMAIN-SUFFIX,pixel.staging.tree.com
+DOMAIN-SUFFIX,pixel-static.spotify.com
 DOMAIN-SUFFIX,pixel.tapad.com
 DOMAIN-SUFFIX,pixel.tatpek.com
 DOMAIN-SUFFIX,pixeltrack.clientgear.com
@@ -43618,6 +43620,7 @@ DOMAIN-SUFFIX,ulhyys.naehwelt.de
 DOMAIN-SUFFIX,ulidoo.montblanc.com
 DOMAIN-SUFFIX,ulinyo.bandito.com.tr
 DOMAIN-SUFFIX,ulogin-stats.ru
+DOMAIN-SUFFIX,ulog*.kwaipros.com
 DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,ultraimpression.jp
