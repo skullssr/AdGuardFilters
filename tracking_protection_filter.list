@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-11 04:52:45
-# DOMAIN-SUFFIX: 46292
-# TOTAL: 46292
+# UPDATED: 2024-12-12 04:52:30
+# DOMAIN-SUFFIX: 46304
+# TOTAL: 46304
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -5362,6 +5362,7 @@ DOMAIN-SUFFIX,b5j6itccyluq.nofluffjobs.com
 DOMAIN-SUFFIX,b90.yahoo.co.jp
 DOMAIN-SUFFIX,b91.yahoo.co.jp
 DOMAIN-SUFFIX,b92.yahoo.co.jp
+DOMAIN-SUFFIX,b932.wesh.com
 DOMAIN-SUFFIX,b94.yahoo.co.jp
 DOMAIN-SUFFIX,b97.yahoo.co.jp
 DOMAIN-SUFFIX,b99.yahoo.co.jp
@@ -6100,7 +6101,6 @@ DOMAIN-SUFFIX,c4tw.net
 DOMAIN-SUFFIX,c615.denverpost.com
 DOMAIN-SUFFIX,c677.wisn.com
 DOMAIN-SUFFIX,c950.chronicle.com
-DOMAIN-SUFFIX,c993.westport-news.com
 DOMAIN-SUFFIX,caamcs.julipet.it
 DOMAIN-SUFFIX,ca-api.cafe24data.com
 DOMAIN-SUFFIX,caclick.baidu.com
@@ -13963,13 +13963,14 @@ DOMAIN-SUFFIX,f35.aliviohoy.org
 DOMAIN-SUFFIX,f361.wvtm13.com
 DOMAIN-SUFFIX,f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 DOMAIN-SUFFIX,f4cebacks.com
+DOMAIN-SUFFIX,f703.twincities.com
 DOMAIN-SUFFIX,f775.thehour.com
+DOMAIN-SUFFIX,f793.inc.com
 DOMAIN-SUFFIX,f7ds.liberation.fr
 DOMAIN-SUFFIX,f80.programa-de-ayuda.com
 DOMAIN-SUFFIX,f82.ayudadedeuda.com
 DOMAIN-SUFFIX,f82.easytodo.org
 DOMAIN-SUFFIX,f84.aliviofacil.com
-DOMAIN-SUFFIX,f857.hearstmediatx.com
 DOMAIN-SUFFIX,fabricww.com
 DOMAIN-SUFFIX,fabryczna.viessmann.pl
 DOMAIN-SUFFIX,fac.fanucamerica.com
@@ -15846,6 +15847,7 @@ DOMAIN-SUFFIX,gvnjrg.tutorcircle.hk
 DOMAIN-SUFFIX,gvxnff.soulara.com.au
 DOMAIN-SUFFIX,gvybin.thevaultproscooters.com
 DOMAIN-SUFFIX,gw-analytics.panasonic.com
+DOMAIN-SUFFIX,gw-dv.vip
 DOMAIN-SUFFIX,gwguyh.edreams.es
 DOMAIN-SUFFIX,g.whatsapp.net.iberostar.com
 DOMAIN-SUFFIX,gwizal.yumbutter.com
@@ -18550,7 +18552,6 @@ DOMAIN-SUFFIX,izsmetrics.wyndhamrewards.com
 DOMAIN-SUFFIX,izwgxw.acordocerto.com.br
 DOMAIN-SUFFIX,izzksf.quraz.com
 DOMAIN-SUFFIX,izzyaa.week9.kr
-DOMAIN-SUFFIX,j158.hearstmediact.com
 DOMAIN-SUFFIX,j178.wmur.com
 DOMAIN-SUFFIX,j198.registercitizen.com
 DOMAIN-SUFFIX,j228.supercriativo.online
@@ -19269,6 +19270,7 @@ DOMAIN-SUFFIX,kzsisc.3.dk
 DOMAIN-SUFFIX,kzutbh.takeappeal.com
 DOMAIN-SUFFIX,kzyljd.jakshoes.com
 DOMAIN-SUFFIX,kzzuaq.liberotech.it
+DOMAIN-SUFFIX,l029.recordpatriot.com
 DOMAIN-SUFFIX,l2k30jsa.theochu.com
 DOMAIN-SUFFIX,l936.expressnews.com
 DOMAIN-SUFFIX,l997.lmtonline.com
@@ -20522,11 +20524,13 @@ DOMAIN-SUFFIX,lzwxzz.chintaistyle.jp
 DOMAIN-SUFFIX,m.1gr.cz
 DOMAIN-SUFFIX,m1ll1c4n0.com
 DOMAIN-SUFFIX,m1tm.motor1.com
+DOMAIN-SUFFIX,m367.michigansthumb.com
 DOMAIN-SUFFIX,m3ds.subarumetropolitain.com
 DOMAIN-SUFFIX,m3uef4b38brmbntdzx.franchiseplus.nl
 DOMAIN-SUFFIX,m4zoxtrcea1k.controlconceptsusa.com
 DOMAIN-SUFFIX,m6c4t9vmqarj.www.cefirates.com
 DOMAIN-SUFFIX,m6r.eu
+DOMAIN-SUFFIX,m700.bigrapidsnews.com
 DOMAIN-SUFFIX,m886.kmbc.com
 DOMAIN-SUFFIX,ma.a3.se
 DOMAIN-SUFFIX,maaiuh.tomorrowland.co.jp
@@ -23890,6 +23894,7 @@ DOMAIN-SUFFIX,metrics.priceless.com
 DOMAIN-SUFFIX,metrics.princess.com
 DOMAIN-SUFFIX,metrics.privilege.com
 DOMAIN-SUFFIX,metrics.probiotaamericas.com
+DOMAIN-SUFFIX,metrics-prod.suno.com
 DOMAIN-SUFFIX,metrics.professionalequipment.com
 DOMAIN-SUFFIX,metrics.proquest.com
 DOMAIN-SUFFIX,metrics.protectmyid.com
@@ -24670,6 +24675,7 @@ DOMAIN-SUFFIX,momotaro.walkkumano.com
 DOMAIN-SUFFIX,momowa.momoshop.com.tw
 DOMAIN-SUFFIX,momyjw.jobninja.com
 DOMAIN-SUFFIX,monactinal.metaurus.store
+DOMAIN-SUFFIX,mon-boot.capcutapi.com
 DOMAIN-SUFFIX,mon.byteoversea.com
 DOMAIN-SUFFIX,monetate.net
 DOMAIN-SUFFIX,moneyclutchtrack.com
@@ -24707,6 +24713,7 @@ DOMAIN-SUFFIX,mon*-*.tiktokv.us
 DOMAIN-SUFFIX,montpalatin.handicap.fr
 DOMAIN-SUFFIX,mon.us.tiktokv.com
 DOMAIN-SUFFIX,mon-va.byteoversea.com
+DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
 DOMAIN-SUFFIX,mon.xactware.com
 DOMAIN-SUFFIX,mon.zijieapi.com
 DOMAIN-SUFFIX,moodlerooms.blackboard.com
@@ -25078,6 +25085,7 @@ DOMAIN-SUFFIX,my.top4sport.cz
 DOMAIN-SUFFIX,my.top4sport.hu
 DOMAIN-SUFFIX,my.top4sport.ro
 DOMAIN-SUFFIX,mytopf.com
+DOMAIN-SUFFIX,mytop.live.vkvideo.ru
 DOMAIN-SUFFIX,my.totaljobs.com
 DOMAIN-SUFFIX,mytracking.dientes-saludables-hoy.com
 DOMAIN-SUFFIX,mytracking.drvisionbreakthrough.com
@@ -38034,6 +38042,7 @@ DOMAIN-SUFFIX,szqbzj.croisieresdiscount.com
 DOMAIN-SUFFIX,szrvop.infoloty.pl
 DOMAIN-SUFFIX,szsmtk.com
 DOMAIN-SUFFIX,sztpmc.branshes.com
+DOMAIN-SUFFIX,t002.myjournalcourier.com
 DOMAIN-SUFFIX,t0ikowg7jg.serverlesslaravelcourse.com
 DOMAIN-SUFFIX,t0y.toyota.ca
 DOMAIN-SUFFIX,t.10er-tagesticket.de
@@ -43430,6 +43439,8 @@ DOMAIN-SUFFIX,u566.chron.com
 DOMAIN-SUFFIX,u578.wlwt.com
 DOMAIN-SUFFIX,u5e.com
 DOMAIN-SUFFIX,u652.myplainview.com
+DOMAIN-SUFFIX,u660.theheraldreview.com
+DOMAIN-SUFFIX,u896.weekand.com
 DOMAIN-SUFFIX,u89.vivirlavidalibre.com
 DOMAIN-SUFFIX,u927.sfgate.com
 DOMAIN-SUFFIX,u939.colgate.com
@@ -43846,6 +43857,7 @@ DOMAIN-SUFFIX,uzhpky.j-lounge.jp
 DOMAIN-SUFFIX,u.zhugeapi.net
 DOMAIN-SUFFIX,uzpkre.connor.com.au
 DOMAIN-SUFFIX,uzrating.com
+DOMAIN-SUFFIX,v063.4029tv.com
 DOMAIN-SUFFIX,v066.wxii12.com
 DOMAIN-SUFFIX,v16m-default.akamaized.net.iberostar.com
 DOMAIN-SUFFIX,v1.bonnesaffaires.top
@@ -43865,6 +43877,7 @@ DOMAIN-SUFFIX,v1.ventreprivefrance.site
 DOMAIN-SUFFIX,v225.ksbw.com
 DOMAIN-SUFFIX,v3cdn.net
 DOMAIN-SUFFIX,v3.fstats.xyz
+DOMAIN-SUFFIX,v812.lakecountystar.com
 DOMAIN-SUFFIX,vafsxc.radioparts.com.au
 DOMAIN-SUFFIX,vagolysis.misdoers.site
 DOMAIN-SUFFIX,vahlnd.bogsfootwear.com
@@ -44303,7 +44316,6 @@ DOMAIN-SUFFIX,vzkjet.klingel.se
 DOMAIN-SUFFIX,vzlogd.doctorpoint.it
 DOMAIN-SUFFIX,vzvswc.savagex.co.uk
 DOMAIN-SUFFIX,vzynem.lamporochljus.se
-DOMAIN-SUFFIX,w020.newmilfordspectrum.com
 DOMAIN-SUFFIX,w110.kcra.com
 DOMAIN-SUFFIX,w1jesu6.package12.com
 DOMAIN-SUFFIX,w38ju82bano4.cv.gerardbosch.xyz
@@ -45712,8 +45724,8 @@ DOMAIN-SUFFIX,xztqfj.dreamvs.jp
 DOMAIN-SUFFIX,xzutow.affordablelamps.com
 DOMAIN-SUFFIX,y000.wyff4.com
 DOMAIN-SUFFIX,y1.arte.tv
+DOMAIN-SUFFIX,y494.wdsu.com
 DOMAIN-SUFFIX,y4e04gql5o1b.www.nookgaming.com
-DOMAIN-SUFFIX,y653.theridgefieldpress.com
 DOMAIN-SUFFIX,y738.nhregister.com
 DOMAIN-SUFFIX,y752.milfordmirror.com
 DOMAIN-SUFFIX,y820.darientimes.com
@@ -46051,10 +46063,10 @@ DOMAIN-SUFFIX,yzvhrn.koelner-jobanzeiger.de
 DOMAIN-SUFFIX,yzvpco.hfashionmall.com
 DOMAIN-SUFFIX,yzyzh7twaa3j3lg2.undiaenlausj.com
 DOMAIN-SUFFIX,yzzqza.vanillashu.co.kr
+DOMAIN-SUFFIX,z210.manisteenews.com
 DOMAIN-SUFFIX,z211.yourconroenews.com
 DOMAIN-SUFFIX,z3617cz9ep.fitness.tappbrothers.com
 DOMAIN-SUFFIX,z492.ctinsider.com
-DOMAIN-SUFFIX,z590.fairfieldcitizenonline.com
 DOMAIN-SUFFIX,z680.beaumontenterprise.com
 DOMAIN-SUFFIX,z89yxner8h.datsumou-beauty-times.com
 DOMAIN-SUFFIX,z929.fuelfix.com
