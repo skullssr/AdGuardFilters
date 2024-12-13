@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-13 04:49:36
-# DOMAIN-SUFFIX: 46369
-# TOTAL: 46369
+# UPDATED: 2024-12-14 04:52:33
+# DOMAIN-SUFFIX: 46370
+# TOTAL: 46370
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -2807,6 +2807,7 @@ DOMAIN-SUFFIX,afi.school.web-marketing.ai
 DOMAIN-SUFFIX,afi.sougou.web-marketing.ai
 DOMAIN-SUFFIX,afi.ssl.gmobb.jp
 DOMAIN-SUFFIX,afizah.eprice.it
+DOMAIN-SUFFIX,afl.rozetka.com.ua
 DOMAIN-SUFFIX,a.flux.jp
 DOMAIN-SUFFIX,afmvms.dealdash.com
 DOMAIN-SUFFIX,afoiak.brasty.de
@@ -4256,7 +4257,6 @@ DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
 DOMAIN-SUFFIX,api.tomi.ai
 DOMAIN-SUFFIX,api.trueaudience.io
 DOMAIN-SUFFIX,api.uca.cloud.unity3d.com
-DOMAIN-SUFFIX,apiv2.moengage.com
 DOMAIN-SUFFIX,api-websystems.landing.ni.com
 DOMAIN-SUFFIX,apkonline.ru
 DOMAIN-SUFFIX,a.plerdy.com
@@ -24691,6 +24691,7 @@ DOMAIN-SUFFIX,mochibot.com
 DOMAIN-SUFFIX,modernus.is
 DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
 DOMAIN-SUFFIX,modus.nike.com
+DOMAIN-SUFFIX,moengage.com
 DOMAIN-SUFFIX,mohamed.net.anwalt.de
 DOMAIN-SUFFIX,mokmof.bricksmasons.com
 DOMAIN-SUFFIX,mokuz.ru
@@ -30488,7 +30489,6 @@ DOMAIN-SUFFIX,s.deepl.com
 DOMAIN-SUFFIX,sdegwynml.bmaci.me
 DOMAIN-SUFFIX,sdj.saudedasjuntas.online
 DOMAIN-SUFFIX,sdjthl.tvguide.dk
-DOMAIN-SUFFIX,sdk-04.moengage.com
 DOMAIN-SUFFIX,sdk.51.la
 DOMAIN-SUFFIX,sdk.airbridge.io
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
@@ -37141,6 +37141,7 @@ DOMAIN-SUFFIX,stats.rymawby.com
 DOMAIN-SUFFIX,stats.safeway.com
 DOMAIN-SUFFIX,stats.sakurasky.com
 DOMAIN-SUFFIX,stats.salzburgerjobs.at
+DOMAIN-SUFFIX,stats.samsungpass.com
 DOMAIN-SUFFIX,stats.sapnininkas.com
 DOMAIN-SUFFIX,stats.sascha-theobald.de
 DOMAIN-SUFFIX,stats.savoirplus-risquermoins.net
