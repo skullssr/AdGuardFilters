@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-17 04:45:21
-# DOMAIN-SUFFIX: 46378
-# TOTAL: 46378
+# UPDATED: 2024-12-18 04:52:32
+# DOMAIN-SUFFIX: 46380
+# TOTAL: 46380
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -25542,6 +25542,7 @@ DOMAIN-SUFFIX,noa0.compteczam.fr
 DOMAIN-SUFFIX,noacqq.joamom.co.kr
 DOMAIN-SUFFIX,noa.yahoo.com
 DOMAIN-SUFFIX,nocaadobefpc.optus.com.au
+DOMAIN-SUFFIX,nocodelytics.com
 DOMAIN-SUFFIX,node.aibeacon.jp
 DOMAIN-SUFFIX,nogxjk.dackonline.se
 DOMAIN-SUFFIX,nohaxn.damattween.com
@@ -38806,6 +38807,7 @@ DOMAIN-SUFFIX,telemetry.commonspirit.org
 DOMAIN-SUFFIX,telemetry.dematic.com
 DOMAIN-SUFFIX,telemetry.goodlifefitness.com
 DOMAIN-SUFFIX,telemetry-in.battle.net
+DOMAIN-SUFFIX,telemetry.insights.video.a2z.com
 DOMAIN-SUFFIX,telemetry.jivosite.com
 DOMAIN-SUFFIX,telemetry.malwarebytes.com
 DOMAIN-SUFFIX,telemetry.marketscope.com
