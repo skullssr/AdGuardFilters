@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-28 04:52:17
-# DOMAIN-SUFFIX: 48485
-# TOTAL: 48485
+# UPDATED: 2024-12-29 04:52:12
+# DOMAIN-SUFFIX: 48486
+# TOTAL: 48486
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -38251,6 +38251,7 @@ DOMAIN-SUFFIX,statpipe.ru
 DOMAIN-SUFFIX,stat.pl
 DOMAIN-SUFFIX,stat.praceamzda.cz
 DOMAIN-SUFFIX,stat.praetor-systems.cz
+DOMAIN-SUFFIX,stat.pravdafrance.com
 DOMAIN-SUFFIX,stat.prawo.pl
 DOMAIN-SUFFIX,stat.profinfo.pl
 DOMAIN-SUFFIX,sta.tracedock.com
