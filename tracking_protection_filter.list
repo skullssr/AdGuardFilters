@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-12-29 04:52:12
-# DOMAIN-SUFFIX: 48486
-# TOTAL: 48486
+# UPDATED: 2024-12-30 04:55:38
+# DOMAIN-SUFFIX: 48488
+# TOTAL: 48488
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -23528,6 +23528,7 @@ DOMAIN-SUFFIX,matheranalytics.com
 DOMAIN-SUFFIX,mathtag.com
 DOMAIN-SUFFIX,mato.clanto.cloud
 DOMAIN-SUFFIX,matomo.a1.by
+DOMAIN-SUFFIX,matomo.akbal.dev
 DOMAIN-SUFFIX,matomo.aksorn.com
 DOMAIN-SUFFIX,matomo.clanto.cloud
 DOMAIN-SUFFIX,matomo.cloudfront.similarweb.io
@@ -32282,6 +32283,7 @@ DOMAIN-SUFFIX,sentiment.icis.com
 DOMAIN-SUFFIX,sentinelbi.com
 DOMAIN-SUFFIX,sentry01.zerg.rambler.ru
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+DOMAIN-SUFFIX,sentry.pnblab.com
 DOMAIN-SUFFIX,seoab.io
 DOMAIN-SUFFIX,seogift.ru
 DOMAIN-SUFFIX,seo-master.net
