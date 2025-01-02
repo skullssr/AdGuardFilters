@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-02 04:53:20
+# UPDATED: 2025-01-03 04:53:21
 # DOMAIN-SUFFIX: 49537
 # TOTAL: 49537
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
@@ -7154,6 +7154,7 @@ DOMAIN-SUFFIX,collect.nature.com
 DOMAIN-SUFFIX,collect.oportun.com
 DOMAIN-SUFFIX,collector1.sooplive.co.kr
 DOMAIN-SUFFIX,collector1.xhamster.com
+DOMAIN-SUFFIX,collector.abc.net.au
 DOMAIN-SUFFIX,collector-analytics.efigence.com
 DOMAIN-SUFFIX,collector-api.frspecifics.com
 DOMAIN-SUFFIX,collector.appconsent.io
@@ -30831,7 +30832,6 @@ DOMAIN-SUFFIX,register-implants.dentsplysirona.com
 DOMAIN-SUFFIX,register.markit.com
 DOMAIN-SUFFIX,register.purina.com
 DOMAIN-SUFFIX,register.redhat.com
-DOMAIN-SUFFIX,register.xmpush.xiaomi.com
 DOMAIN-SUFFIX,registration.promatis.com
 DOMAIN-SUFFIX,registro.omegacrmconsulting.com
 DOMAIN-SUFFIX,regmdr.pref.ims.dialog-direct.com
