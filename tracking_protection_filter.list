@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-03 04:53:21
-# DOMAIN-SUFFIX: 49537
-# TOTAL: 49537
+# UPDATED: 2025-01-04 04:53:29
+# DOMAIN-SUFFIX: 49540
+# TOTAL: 49540
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -14000,6 +14000,7 @@ DOMAIN-SUFFIX,event.togothermany.com
 DOMAIN-SUFFIX,event-tracking.deliverr.com
 DOMAIN-SUFFIX,eventtracking.hubapi.com
 DOMAIN-SUFFIX,event.webcollage.net
+DOMAIN-SUFFIX,event.wondershare.com
 DOMAIN-SUFFIX,everestjs.net
 DOMAIN-SUFFIX,everesttech.net
 DOMAIN-SUFFIX,evergage.com
@@ -40875,6 +40876,7 @@ DOMAIN-SUFFIX,tags.focus.de
 DOMAIN-SUFFIX,tags.foundcollective.com
 DOMAIN-SUFFIX,tags.freedomdebtrelief.com
 DOMAIN-SUFFIX,tags.freedomfinancialnetwork.com
+DOMAIN-SUFFIX,tags.fullcontact.com
 DOMAIN-SUFFIX,tags.glasamerike.net
 DOMAIN-SUFFIX,tags.gnhearing.com
 DOMAIN-SUFFIX,tags.golosameriki.com
@@ -41633,6 +41635,7 @@ DOMAIN-SUFFIX,telemetry.battle.net
 DOMAIN-SUFFIX,telemetry.boxt.co.uk
 DOMAIN-SUFFIX,telemetry.canva.com
 DOMAIN-SUFFIX,telemetry.chrobinson.com
+DOMAIN-SUFFIX,telemetry.codefusion.technology
 DOMAIN-SUFFIX,telemetry.commonspirit.org
 DOMAIN-SUFFIX,telemetry.dematic.com
 DOMAIN-SUFFIX,telemetry.dzen.ru
