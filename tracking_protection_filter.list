@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-07 04:53:33
-# DOMAIN-SUFFIX: 49982
-# TOTAL: 49982
+# UPDATED: 2025-01-08 04:53:19
+# DOMAIN-SUFFIX: 49988
+# TOTAL: 49988
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3448,6 +3448,7 @@ DOMAIN-SUFFIX,analytics*.clickdimensions.com
 DOMAIN-SUFFIX,analytics.clientify.net
 DOMAIN-SUFFIX,analytics.climatizer.cz
 DOMAIN-SUFFIX,analytics.cloud.coveo.com
+DOMAIN-SUFFIX,analytics.cloudevo.ai
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,analytics.clubic.com
 DOMAIN-SUFFIX,analytics.cnnchile.com
@@ -7881,6 +7882,7 @@ DOMAIN-SUFFIX,cppm-kc2.net.jumia.ci
 DOMAIN-SUFFIX,c.pravo.ru
 DOMAIN-SUFFIX,cpt.geniee.jp
 DOMAIN-SUFFIX,cptrack.de
+DOMAIN-SUFFIX,cpu.baidu.com
 DOMAIN-SUFFIX,cpwrbr.blindsgalore.com
 DOMAIN-SUFFIX,cpxl.golem.de
 DOMAIN-SUFFIX,cpx.to
@@ -8019,6 +8021,7 @@ DOMAIN-SUFFIX,cs.nexttv.co.il
 DOMAIN-SUFFIX,c.snow.com
 DOMAIN-SUFFIX,cspmkl.gruppal.com
 DOMAIN-SUFFIX,csp.prod.saga.co.uk
+DOMAIN-SUFFIX,csp-report.marketing.aws.dev
 DOMAIN-SUFFIX,csraeb.naparede.com.br
 DOMAIN-SUFFIX,csr.onet.pl
 DOMAIN-SUFFIX,c.statcounter.com
@@ -20475,6 +20478,7 @@ DOMAIN-SUFFIX,lexvek.gap.ae
 DOMAIN-SUFFIX,leynqj.newport.se
 DOMAIN-SUFFIX,leytsb.marcomen.com.tr
 DOMAIN-SUFFIX,lezntf.heydudeshoesusa.com
+DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
 DOMAIN-SUFFIX,lfapbe.quiksilver.co.jp
 DOMAIN-SUFFIX,lfbowp.talisa.com
 DOMAIN-SUFFIX,lfercl.tcb-beauty.net
@@ -29860,6 +29864,7 @@ DOMAIN-SUFFIX,pixel.tatpek.com
 DOMAIN-SUFFIX,pixeltrack.clientgear.com
 DOMAIN-SUFFIX,pixel.trackverify.com
 DOMAIN-SUFFIX,pixel.watch
+DOMAIN-SUFFIX,pixel.web.roku.com
 DOMAIN-SUFFIX,pixel.wp.com
 DOMAIN-SUFFIX,pixel.yabidos.com
 DOMAIN-SUFFIX,pixelzirkus.gameforge.com
@@ -42048,6 +42053,7 @@ DOMAIN-SUFFIX,telemetry.sentarahealthplans.com
 DOMAIN-SUFFIX,telemetry.soundcloud.com
 DOMAIN-SUFFIX,telemetry.stryker.com
 DOMAIN-SUFFIX,telemetry.stytch.com
+DOMAIN-SUFFIX,telemetry.svc.transifex.net
 DOMAIN-SUFFIX,telemetry.swe.quicinc.com
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry*.transcend.io
