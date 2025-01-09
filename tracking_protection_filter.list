@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-08 04:53:19
-# DOMAIN-SUFFIX: 49988
-# TOTAL: 49988
+# UPDATED: 2025-01-10 04:53:28
+# DOMAIN-SUFFIX: 49998
+# TOTAL: 49998
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3616,6 +3616,7 @@ DOMAIN-SUFFIX,analytics.infosysprize.org
 DOMAIN-SUFFIX,analytics-ingestion.pbpms.de
 DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
 DOMAIN-SUFFIX,analytics-ingestion-production.tubitv.com
+DOMAIN-SUFFIX,analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 DOMAIN-SUFFIX,analytics-ingress.bitmovin.com
 DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
 DOMAIN-SUFFIX,analytics.innologica.com
@@ -5837,7 +5838,6 @@ DOMAIN-SUFFIX,bjpsuk.fray-id.com
 DOMAIN-SUFFIX,bjqnpe.i-office1.net
 DOMAIN-SUFFIX,bjrfcu.kamera-express.be
 DOMAIN-SUFFIX,bjuvux.andgino.jp
-DOMAIN-SUFFIX,b.karte.io
 DOMAIN-SUFFIX,bk.brookeo.fr
 DOMAIN-SUFFIX,bkjxpx.venda.cz
 DOMAIN-SUFFIX,bkmzhr.joint-space.co.jp
@@ -6887,8 +6887,11 @@ DOMAIN-SUFFIX,client.botchk.net
 DOMAIN-SUFFIX,clientengagement.ehpartners.com
 DOMAIN-SUFFIX,client-event-reporter.twitch.tv
 DOMAIN-SUFFIX,client.fastaff.com
+DOMAIN-SUFFIX,clientlog3.music.163.com
+DOMAIN-SUFFIX,clientlogdep.music.163.com
 DOMAIN-SUFFIX,client-log.karte.io
 DOMAIN-SUFFIX,clientlog.midomi.com
+DOMAIN-SUFFIX,clientlogsf.music.163.com
 DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,client-metrics.chess.com
 DOMAIN-SUFFIX,clientmetrics.kik.com
@@ -11243,6 +11246,7 @@ DOMAIN-SUFFIX,data.jp-email.princess.com
 DOMAIN-SUFFIX,data.jp-guest.princess.com
 DOMAIN-SUFFIX,data.keybank.dev.cjmadobe.com
 DOMAIN-SUFFIX,data.knitpicks.com
+DOMAIN-SUFFIX,data.kuiniuca.com
 DOMAIN-SUFFIX,data.kulturkaufhaus.de
 DOMAIN-SUFFIX,data.lagacetadesalamanca.es
 DOMAIN-SUFFIX,data.larioja.com
@@ -12513,6 +12517,7 @@ DOMAIN-SUFFIX,dygassets.dygdigital.com
 DOMAIN-SUFFIX,dyghye.fashionesta.com
 DOMAIN-SUFFIX,dynameex.com
 DOMAIN-SUFFIX,dynamic-content.croquetteland.com
+DOMAIN-SUFFIX,dynatrace.att.com
 DOMAIN-SUFFIX,dynatrace-managed.com
 DOMAIN-SUFFIX,dyntrk.com
 DOMAIN-SUFFIX,d.yorkshirewildlifepark.com
@@ -27391,6 +27396,7 @@ DOMAIN-SUFFIX,net1.netski.com
 DOMAIN-SUFFIX,net.24-ads.com
 DOMAIN-SUFFIX,net4ever.graciaflamenca.es
 DOMAIN-SUFFIX,netagent.cz
+DOMAIN-SUFFIX,netapm.music.163.com
 DOMAIN-SUFFIX,netapplications.com
 DOMAIN-SUFFIX,net.asambeauty.com
 DOMAIN-SUFFIX,netbiscuits.net
@@ -27843,6 +27849,7 @@ DOMAIN-SUFFIX,nsswmetrics.omanair.com
 DOMAIN-SUFFIX,nstat.magazines.com
 DOMAIN-SUFFIX,nstclj.rubylane.com
 DOMAIN-SUFFIX,nsteq.queensland.com
+DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN-SUFFIX,nstracking.com
 DOMAIN-SUFFIX,nst.trex.media
 DOMAIN-SUFFIX,nta1vb6cdlrl.com
@@ -30552,6 +30559,7 @@ DOMAIN-SUFFIX,publicidad.davivienda.com.pa
 DOMAIN-SUFFIX,publicidad.daviviendaintl.com
 DOMAIN-SUFFIX,publicidees.com
 DOMAIN-SUFFIX,public.profitwell.com
+DOMAIN-SUFFIX,publictelemetry.tophat.com
 DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
 DOMAIN-SUFFIX,publishflow.com
@@ -39291,7 +39299,6 @@ DOMAIN-SUFFIX,static.analytics-site.com
 DOMAIN-SUFFIX,static.cloudflareinsights.com
 DOMAIN-SUFFIX,static.fengkongcloud.com
 DOMAIN-SUFFIX,static.herr.io
-DOMAIN-SUFFIX,static.karte.io
 DOMAIN-SUFFIX,static.osalta.eu
 DOMAIN-SUFFIX,static.parsely.com
 DOMAIN-SUFFIX,static.runconverge.com
@@ -46830,6 +46837,7 @@ DOMAIN-SUFFIX,twhkzm.getstact.com
 DOMAIN-SUFFIX,twin-iq.kickfire.com
 DOMAIN-SUFFIX,twiowq.trendhim.hu
 DOMAIN-SUFFIX,twistairclub.net.anwalt.de
+DOMAIN-SUFFIX,twitter.sx
 DOMAIN-SUFFIX,t.wizards.com
 DOMAIN-SUFFIX,t.wiz.meilleurtaux.com
 DOMAIN-SUFFIX,twiz.wizaly.co.uk
@@ -47708,6 +47716,7 @@ DOMAIN-SUFFIX,voice.thewealthadvisor.com
 DOMAIN-SUFFIX,vois.vodafone.com
 DOMAIN-SUFFIX,voixsy.stargift.ro
 DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,vole.contemporaryartlibrary.org
 DOMAIN-SUFFIX,vole.nettskaperne.no
 DOMAIN-SUFFIX,vole.noteapps.info
@@ -49407,6 +49416,7 @@ DOMAIN-SUFFIX,ydtzzw.vocegiallorossa.it
 DOMAIN-SUFFIX,ydvsok.newbalance.jp
 DOMAIN-SUFFIX,ydzlen.mebloo.pl
 DOMAIN-SUFFIX,yebvpc.gardengoodsdirect.com
+DOMAIN-SUFFIX,ye.dun.163yun.com
 DOMAIN-SUFFIX,yefktd.avito.ru
 DOMAIN-SUFFIX,yehyqc.hugoboss.com
 DOMAIN-SUFFIX,yellowbrix.com
