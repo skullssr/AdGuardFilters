@@ -1,9 +1,9 @@
 # NAME: AnnoyancesFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-10 04:54:21
-# DOMAIN-SUFFIX: 2093
-# TOTAL: 2093
+# UPDATED: 2025-01-11 04:54:17
+# DOMAIN-SUFFIX: 2094
+# TOTAL: 2094
 DOMAIN-SUFFIX,2znp09oa.com
 DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,4jnzhl0d0.com
@@ -457,6 +457,7 @@ DOMAIN-SUFFIX,consent.cmp.oath.com
 DOMAIN-SUFFIX,consent.dadoslegais.com.br
 DOMAIN-SUFFIX,consent.dropbox.com
 DOMAIN-SUFFIX,consent.dumont.de
+DOMAIN-SUFFIX,consent.dw.com
 DOMAIN-SUFFIX,consent.economist.com
 DOMAIN-SUFFIX,consent.finanzen.net
 DOMAIN-SUFFIX,consentframework.com
