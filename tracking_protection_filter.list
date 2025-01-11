@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-11 04:53:24
-# DOMAIN-SUFFIX: 50002
-# TOTAL: 50002
+# UPDATED: 2025-01-12 04:53:32
+# DOMAIN-SUFFIX: 50003
+# TOTAL: 50003
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -22561,6 +22561,7 @@ DOMAIN-SUFFIX,mandrill.yellowfruit.co
 DOMAIN-SUFFIX,ma.news.naver.com
 DOMAIN-SUFFIX,manota.feltright.com
 DOMAIN-SUFFIX,mantaray.bullshitgoggles.com
+DOMAIN-SUFFIX,mantis-intelligence.com
 DOMAIN-SUFFIX,manufacturing.autodeskcommunications.com
 DOMAIN-SUFFIX,ma.omniaintranet.com
 DOMAIN-SUFFIX,ma.pasco.com
