@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-08 04:37:36
-# DOMAIN-SUFFIX: 163
-# TOTAL: 163
+# UPDATED: 2025-01-15 04:37:39
+# DOMAIN-SUFFIX: 164
+# TOTAL: 164
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,img.ads.tvb.com
 DOMAIN-SUFFIX,infra-api.newrelic.com
 DOMAIN-SUFFIX,intersport.peerius.com
 DOMAIN-SUFFIX,js.monitor.azure.com
+DOMAIN-SUFFIX,learn.khanacademy.org
 DOMAIN-SUFFIX,leechers-paradise.org
 DOMAIN-SUFFIX,linka.page
 DOMAIN-SUFFIX,link.morningbrew.com
