@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-15 04:53:42
-# DOMAIN-SUFFIX: 50599
-# TOTAL: 50599
+# UPDATED: 2025-01-16 04:53:47
+# DOMAIN-SUFFIX: 50605
+# TOTAL: 50605
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -21914,6 +21914,7 @@ DOMAIN-SUFFIX,log.apk.v-mate.mobi
 DOMAIN-SUFFIX,log.appbundledownload.com
 DOMAIN-SUFFIX,log.appdriver.jp
 DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
+DOMAIN-SUFFIX,log-auth.zztfly.com
 DOMAIN-SUFFIX,log.avlyun.com
 DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
 DOMAIN-SUFFIX,logbak.hicloud.com
@@ -22092,6 +22093,7 @@ DOMAIN-SUFFIX,logsink.zedge.net
 DOMAIN-SUFFIX,logs.insight.rapid7.com
 DOMAIN-SUFFIX,logs.ironsrc.mobi
 DOMAIN-SUFFIX,logs.juspay.in
+DOMAIN-SUFFIX,logs.mezmo.com
 DOMAIN-SUFFIX,log.snapdeal.com
 DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,log.snow.me
@@ -22700,6 +22702,7 @@ DOMAIN-SUFFIX,m700.bigrapidsnews.com
 DOMAIN-SUFFIX,m821.saratogian.com
 DOMAIN-SUFFIX,m886.kmbc.com
 DOMAIN-SUFFIX,ma.a3.se
+DOMAIN-SUFFIX,ma-adx.ctrip.com
 DOMAIN-SUFFIX,maaiuh.tomorrowland.co.jp
 DOMAIN-SUFFIX,maas-*.phunware.com
 DOMAIN-SUFFIX,ma.attollo.se
@@ -33058,6 +33061,7 @@ DOMAIN-SUFFIX,sc.cc.com
 DOMAIN-SUFFIX,sc.cmt.com
 DOMAIN-SUFFIX,sc.comedycentral.com
 DOMAIN-SUFFIX,sc.coutts.com
+DOMAIN-SUFFIX,s.c-ctrip.com
 DOMAIN-SUFFIX,sc.cvent.com
 DOMAIN-SUFFIX,scdcem.hedinbil.se
 DOMAIN-SUFFIX,sc.disneylandparis.com
@@ -43405,6 +43409,7 @@ DOMAIN-SUFFIX,tourism.visitorlando.com
 DOMAIN-SUFFIX,t.overbit.com
 DOMAIN-SUFFIX,tovery.net
 DOMAIN-SUFFIX,t.owlsports.com
+DOMAIN-SUFFIX,tp2p.kg.qq.com
 DOMAIN-SUFFIX,tpa7.iahorro.com
 DOMAIN-SUFFIX,t.paciolan.com
 DOMAIN-SUFFIX,tp.ackermann.ch
@@ -47411,6 +47416,7 @@ DOMAIN-SUFFIX,twkbui.mansion-review.jp
 DOMAIN-SUFFIX,t.wmubroncos.com
 DOMAIN-SUFFIX,twn36gx4109r.loveisblank.com
 DOMAIN-SUFFIX,tw*.netcore.co.in
+DOMAIN-SUFFIX,twns.p2ptun.qq.com
 DOMAIN-SUFFIX,two.betterdomino.com
 DOMAIN-SUFFIX,two.eagermint.com
 DOMAIN-SUFFIX,twoeej.carrefour.fr
