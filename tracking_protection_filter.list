@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-19 04:53:40
-# DOMAIN-SUFFIX: 50610
-# TOTAL: 50610
+# UPDATED: 2025-01-20 04:53:57
+# DOMAIN-SUFFIX: 50611
+# TOTAL: 50611
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3775,6 +3775,7 @@ DOMAIN-SUFFIX,analytics.nextopia.net
 DOMAIN-SUFFIX,analytics-*-nfl.yinzcam.com
 DOMAIN-SUFFIX,analytics.ngs55.ru
 DOMAIN-SUFFIX,analytics.nianticlabs.com
+DOMAIN-SUFFIX,analytics.nike.com
 DOMAIN-SUFFIX,analytics.nodecraft.com
 DOMAIN-SUFFIX,analytics.nordea.com
 DOMAIN-SUFFIX,analytics.nordea.dk
@@ -14788,7 +14789,6 @@ DOMAIN-SUFFIX,flea.elbertsnaturalfoods.com
 DOMAIN-SUFFIX,flea.welikeoliver.com
 DOMAIN-SUFFIX,flexpod.ynsecureserver.net
 DOMAIN-SUFFIX,flibberblat527.glimmerglee.store
-DOMAIN-SUFFIX,flippback.com
 DOMAIN-SUFFIX,flixsyndication.net
 DOMAIN-SUFFIX,fljaxb.chalktalksports.com
 DOMAIN-SUFFIX,flmed0.tranquilpinnacle.com
@@ -15123,6 +15123,7 @@ DOMAIN-SUFFIX,frog.editorx.com
 DOMAIN-SUFFIX,frog.yuanfudao.com
 DOMAIN-SUFFIX,fromhttptohttps.atea.fi
 DOMAIN-SUFFIX,fr-online.met.vgwort.de
+DOMAIN-SUFFIX,frontend-logger.flippback.com
 DOMAIN-SUFFIX,frontierconsul02.tsunagaru-office.com
 DOMAIN-SUFFIX,frontier.musical.ly
 DOMAIN-SUFFIX,front.optimonk.com
