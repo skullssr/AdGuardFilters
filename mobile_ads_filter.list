@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-18 04:57:26
-# DOMAIN-SUFFIX: 913
-# TOTAL: 913
+# UPDATED: 2025-01-22 04:57:34
+# DOMAIN-SUFFIX: 917
+# TOTAL: 917
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -420,6 +420,7 @@ DOMAIN-SUFFIX,dev.appboy.com
 DOMAIN-SUFFIX,diopousg.com
 DOMAIN-SUFFIX,displayio.cloud
 DOMAIN-SUFFIX,disqusads.com
+DOMAIN-SUFFIX,d.kugou.com
 DOMAIN-SUFFIX,dl-adx.op-mobile.opera.com
 DOMAIN-SUFFIX,dm.isnssdk.com
 DOMAIN-SUFFIX,dm.toutiao.com
@@ -639,6 +640,8 @@ DOMAIN-SUFFIX,nativead.s3.amazonaws.com
 DOMAIN-SUFFIX,native.cli.bz
 DOMAIN-SUFFIX,nativex.com
 DOMAIN-SUFFIX,naverpa-phinf.pstatic.net
+DOMAIN-SUFFIX,nbcollect.kugou.com
+DOMAIN-SUFFIX,nbcollectretry.kugou.com
 DOMAIN-SUFFIX,nearbyad.com
 DOMAIN-SUFFIX,nend.net
 DOMAIN-SUFFIX,netavenir.com
@@ -754,6 +757,7 @@ DOMAIN-SUFFIX,search.adcaffe.com
 DOMAIN-SUFFIX,sensors.larkplayerapp.com
 DOMAIN-SUFFIX,servebom.com
 DOMAIN-SUFFIX,servedby.o2.co.uk
+DOMAIN-SUFFIX,serveraddr.service.kugou.com
 DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,setting.rayjump.com
 DOMAIN-SUFFIX,sexpennyauctions.com
