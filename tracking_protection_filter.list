@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-22 04:53:53
-# DOMAIN-SUFFIX: 51561
-# TOTAL: 51561
+# UPDATED: 2025-01-23 05:18:36
+# DOMAIN-SUFFIX: 51567
+# TOTAL: 51567
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -7342,6 +7342,7 @@ DOMAIN-SUFFIX,collector.megaxh.com
 DOMAIN-SUFFIX,collector.pi.spectrum.net
 DOMAIN-SUFFIX,collector.plarium.com
 DOMAIN-SUFFIX,collector.prod.expedia.com
+DOMAIN-SUFFIX,collector-*.px-client.net
 DOMAIN-SUFFIX,collector-pxebumdlwe.px-cdn.net
 DOMAIN-SUFFIX,collector-pxebumdlwe.px-cloud.net
 DOMAIN-SUFFIX,collector.reelevant.com
@@ -14231,6 +14232,7 @@ DOMAIN-SUFFIX,eventlog.jackpot.de
 DOMAIN-SUFFIX,eventlog.outbrain.com
 DOMAIN-SUFFIX,event.mazars.nl
 DOMAIN-SUFFIX,event.mrtnsvr.com
+DOMAIN-SUFFIX,event.msi.com
 DOMAIN-SUFFIX,event.newsbreak.com
 DOMAIN-SUFFIX,event.northghost.com
 DOMAIN-SUFFIX,event.ortec.com
@@ -14253,6 +14255,7 @@ DOMAIN-SUFFIX,events-api*.outfit7.com
 DOMAIN-SUFFIX,events.api.red.wemesh.ca
 DOMAIN-SUFFIX,events-api.soundcloud.com
 DOMAIN-SUFFIX,events-api.towneers.prod.data.krmt.io
+DOMAIN-SUFFIX,events.app-performance.music.amazon.dev
 DOMAIN-SUFFIX,events.appsflyer.com
 DOMAIN-SUFFIX,events.artirix.com
 DOMAIN-SUFFIX,events.askjdhaa.com
@@ -25460,6 +25463,7 @@ DOMAIN-SUFFIX,metric.philosophy.com
 DOMAIN-SUFFIX,metric.polyone.com
 DOMAIN-SUFFIX,metric.postoffice.co.uk
 DOMAIN-SUFFIX,metric.publicstorage.com
+DOMAIN-SUFFIX,metricreceiver.cellrebel.com
 DOMAIN-SUFFIX,metric*.rediff.com
 DOMAIN-SUFFIX,metric.redlobster.com
 DOMAIN-SUFFIX,metric.rent.com
@@ -25633,6 +25637,7 @@ DOMAIN-SUFFIX,metrics.avenue.com
 DOMAIN-SUFFIX,metrics.aviasales.ru
 DOMAIN-SUFFIX,metrics.aviationweek.com
 DOMAIN-SUFFIX,metrics.avnet.com
+DOMAIN-SUFFIX,metrics-a.wbx2.com
 DOMAIN-SUFFIX,metrics.aws.sitepoint.com
 DOMAIN-SUFFIX,metrics.axs.com
 DOMAIN-SUFFIX,metrics.azcompletehealth.com
@@ -50211,6 +50216,7 @@ DOMAIN-SUFFIX,wsbfca.koffermarkt.com
 DOMAIN-SUFFIX,ws-goguardian.pusher.com
 DOMAIN-SUFFIX,wsicmo.bogsfootwear.com.au
 DOMAIN-SUFFIX,wsjwrd.rooseoin.com
+DOMAIN-SUFFIX,wsknow.net
 DOMAIN-SUFFIX,ws.ksmobile.net
 DOMAIN-SUFFIX,wsmetrics.batch.com
 DOMAIN-SUFFIX,wsnjjj.arredinitaly.com
