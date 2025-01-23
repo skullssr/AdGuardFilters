@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-23 05:18:36
-# DOMAIN-SUFFIX: 51567
-# TOTAL: 51567
+# UPDATED: 2025-01-24 04:54:10
+# DOMAIN-SUFFIX: 51574
+# TOTAL: 51574
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4315,6 +4315,7 @@ DOMAIN-SUFFIX,apac.juniper.net
 DOMAIN-SUFFIX,apac.zendesk.com
 DOMAIN-SUFFIX,a-pagerank.net
 DOMAIN-SUFFIX,a.parfumsclub.de
+DOMAIN-SUFFIX,apay-us.amazon.com
 DOMAIN-SUFFIX,apcdp.apnews.com
 DOMAIN-SUFFIX,apcinfo.motorolasolutions.com
 DOMAIN-SUFFIX,apcinfo.vertexstandard.com
@@ -8257,6 +8258,7 @@ DOMAIN-SUFFIX,cure.trueface.org
 DOMAIN-SUFFIX,curiosity-seven.vercel.app
 DOMAIN-SUFFIX,cursos.universidadforense.com
 DOMAIN-SUFFIX,curyhi.chuo-besthome.co.jp
+DOMAIN-SUFFIX,c.us.heap-api.com
 DOMAIN-SUFFIX,custom.dowjones.com
 DOMAIN-SUFFIX,customer.autos
 DOMAIN-SUFFIX,customercare.aircycle.com
@@ -13197,6 +13199,7 @@ DOMAIN-SUFFIX,e.gettyimages.co.nz
 DOMAIN-SUFFIX,e.gettyimages.in
 DOMAIN-SUFFIX,e.gettyimages.nl
 DOMAIN-SUFFIX,e.gettyimages.pt
+DOMAIN-SUFFIX,egg.afisha.ru
 DOMAIN-SUFFIX,eghrbf.immowelt.at
 DOMAIN-SUFFIX,egret.brothers.studio
 DOMAIN-SUFFIX,egret.chankaryik.com
@@ -22280,6 +22283,7 @@ DOMAIN-SUFFIX,logging.api.intuit.com
 DOMAIN-SUFFIX,logging.carambo.la
 DOMAIN-SUFFIX,logging.e-himart.co.kr
 DOMAIN-SUFFIX,logging.goodgamestudios.com
+DOMAIN-SUFFIX,logging.g.sst.secureserver.net
 DOMAIN-SUFFIX,logging.h3z.jp
 DOMAIN-SUFFIX,logging.prefixbox.com
 DOMAIN-SUFFIX,logging.pw.adn.cloud
@@ -30718,6 +30722,7 @@ DOMAIN-SUFFIX,pixel-*.rubiconproject.com
 DOMAIN-SUFFIX,pixel.rubiconproject.com
 DOMAIN-SUFFIX,pixel.s3xified.com
 DOMAIN-SUFFIX,pixel.safe-installation.com
+DOMAIN-SUFFIX,pixels.argusplatform.com
 DOMAIN-SUFFIX,pixels.ingbank.com.tr
 DOMAIN-SUFFIX,pixels.livingsocial.com
 DOMAIN-SUFFIX,pixel.smartnews.com
@@ -44949,6 +44954,7 @@ DOMAIN-SUFFIX,trackingapi.kaufda.de
 DOMAIN-SUFFIX,trackingapi.meinprospekt.de
 DOMAIN-SUFFIX,tracking-api.passeidireto.com
 DOMAIN-SUFFIX,tracking-api.sub100.com.br
+DOMAIN-SUFFIX,tracking-app.diginetica.net
 DOMAIN-SUFFIX,tracking.arbor.edu
 DOMAIN-SUFFIX,tracking.arcadis.com
 DOMAIN-SUFFIX,tracking.arctic-blue.com
@@ -48591,6 +48597,7 @@ DOMAIN-SUFFIX,ulhyys.naehwelt.de
 DOMAIN-SUFFIX,ulidoo.montblanc.com
 DOMAIN-SUFFIX,ulinyo.bandito.com.tr
 DOMAIN-SUFFIX,ulogin-stats.ru
+DOMAIN-SUFFIX,ulog*.kwai-pro.com
 DOMAIN-SUFFIX,ulog*.kwaipros.com
 DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,ulogs.umeng.com
