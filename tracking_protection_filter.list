@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-24 04:54:10
-# DOMAIN-SUFFIX: 51574
-# TOTAL: 51574
+# UPDATED: 2025-01-25 04:54:13
+# DOMAIN-SUFFIX: 51577
+# TOTAL: 51577
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4417,6 +4417,7 @@ DOMAIN-SUFFIX,apkonline.ru
 DOMAIN-SUFFIX,a.plerdy.com
 DOMAIN-SUFFIX,aplobv.xexymix.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,apmplus.ap-southeast-1.volces.com
 DOMAIN-SUFFIX,apm.relationshipone.com
 DOMAIN-SUFFIX,apollofind.com
 DOMAIN-SUFFIX,apollo.plein.nl
@@ -14213,6 +14214,7 @@ DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,event.condenastdigital.com
 DOMAIN-SUFFIX,event.csdn.net
 DOMAIN-SUFFIX,event.dengage.com
+DOMAIN-SUFFIX,event.dfinery.io
 DOMAIN-SUFFIX,event-dot-learning-piano.appspot.com
 DOMAIN-SUFFIX,event-dot-procolor-backend.appspot.com
 DOMAIN-SUFFIX,event.edb.gov.sg
@@ -15303,6 +15305,7 @@ DOMAIN-SUFFIX,ftmsyy.jbl.com.br
 DOMAIN-SUFFIX,ftnnce.autodoc.dk
 DOMAIN-SUFFIX,ftpxha.apoioentrega.com
 DOMAIN-SUFFIX,ftqzgg.jollyroom.de
+DOMAIN-SUFFIX,f-tra.com
 DOMAIN-SUFFIX,ftryyy.ohkuraya.co.jp
 DOMAIN-SUFFIX,ftuart.chomedeynissan.com
 DOMAIN-SUFFIX,ftwnwght.net.anwalt.de
@@ -31026,6 +31029,7 @@ DOMAIN-SUFFIX,pointmediatracker.com
 DOMAIN-SUFFIX,pointomatic.com
 DOMAIN-SUFFIX,poitiers.flyverton.store
 DOMAIN-SUFFIX,pol3.cheque-domicile.fr
+DOMAIN-SUFFIX,polaranalytics.com
 DOMAIN-SUFFIX,polarbear.codeday.org
 DOMAIN-SUFFIX,polarbyte.com
 DOMAIN-SUFFIX,polaris*-normal-*.zijieapi.com
@@ -49205,7 +49209,6 @@ DOMAIN-SUFFIX,voice.thewealthadvisor.com
 DOMAIN-SUFFIX,vois.vodafone.com
 DOMAIN-SUFFIX,voixsy.stargift.ro
 DOMAIN-SUFFIX,volceapplog.com
-DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,vole.contemporaryartlibrary.org
 DOMAIN-SUFFIX,vole.nettskaperne.no
 DOMAIN-SUFFIX,vole.noteapps.info
