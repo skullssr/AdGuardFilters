@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-25 04:54:13
-# DOMAIN-SUFFIX: 51577
-# TOTAL: 51577
+# UPDATED: 2025-01-26 04:54:21
+# DOMAIN-SUFFIX: 51578
+# TOTAL: 51578
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -27475,6 +27475,7 @@ DOMAIN-SUFFIX,mkt.marcom.neogen.com
 DOMAIN-SUFFIX,mkto-*.com
 DOMAIN-SUFFIX,mkt.ocq.com.br
 DOMAIN-SUFFIX,mktoresp.com
+DOMAIN-SUFFIX,mktp-base.mktplatforms.com
 DOMAIN-SUFFIX,mktredtrack.worldscientific.com
 DOMAIN-SUFFIX,mkt.unipega.com
 DOMAIN-SUFFIX,mkt.usz.ch
