@@ -1,9 +1,9 @@
 # NAME: AdGuardBaseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-26 04:46:25
-# DOMAIN-SUFFIX: 48730
-# TOTAL: 48730
+# UPDATED: 2025-01-28 04:50:27
+# DOMAIN-SUFFIX: 49253
+# TOTAL: 49253
 DOMAIN-SUFFIX,0000.5clo0xmbf.com
 DOMAIN-SUFFIX,0000.833enmhob.com
 DOMAIN-SUFFIX,0000.gofenews.com
@@ -856,6 +856,7 @@ DOMAIN-SUFFIX,0206.gofenews.com
 DOMAIN-SUFFIX,0206.reminews.com
 DOMAIN-SUFFIX,0207.jemonews.com
 DOMAIN-SUFFIX,0207.luronews.com
+DOMAIN-SUFFIX,02085170.xyz
 DOMAIN-SUFFIX,0208.gofenews.com
 DOMAIN-SUFFIX,0208.jemonews.com
 DOMAIN-SUFFIX,0208.reminews.com
@@ -1065,6 +1066,7 @@ DOMAIN-SUFFIX,0295.gofenews.com
 DOMAIN-SUFFIX,0295.luronews.com
 DOMAIN-SUFFIX,0296.lookinews.com
 DOMAIN-SUFFIX,0296.luronews.com
+DOMAIN-SUFFIX,0297.lookinews.com
 DOMAIN-SUFFIX,0297.reminews.com
 DOMAIN-SUFFIX,0298.gofenews.com
 DOMAIN-SUFFIX,0299.rookinews.com
@@ -1397,6 +1399,7 @@ DOMAIN-SUFFIX,0453.loopanews.com
 DOMAIN-SUFFIX,0455.reminews.com
 DOMAIN-SUFFIX,0456.jemonews.com
 DOMAIN-SUFFIX,0456.reminews.com
+DOMAIN-SUFFIX,0457.gofenews.com
 DOMAIN-SUFFIX,0457.luronews.com
 DOMAIN-SUFFIX,0457.reminews.com
 DOMAIN-SUFFIX,0458.jemonews.com
@@ -1439,6 +1442,7 @@ DOMAIN-SUFFIX,0489.lookinews.com
 DOMAIN-SUFFIX,0490.lookinews.com
 DOMAIN-SUFFIX,0491.gofenews.com
 DOMAIN-SUFFIX,0491.reminews.com
+DOMAIN-SUFFIX,0492.reminews.com
 DOMAIN-SUFFIX,0493.jemonews.com
 DOMAIN-SUFFIX,0493.reminews.com
 DOMAIN-SUFFIX,0494.jemonews.com
@@ -1469,12 +1473,14 @@ DOMAIN-SUFFIX,0512.gofenews.com
 DOMAIN-SUFFIX,0512.reminews.com
 DOMAIN-SUFFIX,0514.reminews.com
 DOMAIN-SUFFIX,0515.gofenews.com
+DOMAIN-SUFFIX,0515.loopanews.com
 DOMAIN-SUFFIX,0515.lootynews.com
 DOMAIN-SUFFIX,0515.reminews.com
 DOMAIN-SUFFIX,0517.jemonews.com
 DOMAIN-SUFFIX,0517.tegronews.com
 DOMAIN-SUFFIX,0518.luronews.com
 DOMAIN-SUFFIX,0518.reminews.com
+DOMAIN-SUFFIX,0519.reminews.com
 DOMAIN-SUFFIX,0520.deeginews.com
 DOMAIN-SUFFIX,0520.reminews.com
 DOMAIN-SUFFIX,0521.luronews.com
@@ -1501,6 +1507,7 @@ DOMAIN-SUFFIX,0535.gofenews.com
 DOMAIN-SUFFIX,0536.guesswhatnews.com
 DOMAIN-SUFFIX,0536.lookinews.com
 DOMAIN-SUFFIX,0536.reminews.com
+DOMAIN-SUFFIX,0537.jemonews.com
 DOMAIN-SUFFIX,0537.lookinews.com
 DOMAIN-SUFFIX,0538.reminews.com
 DOMAIN-SUFFIX,0539.lookinews.com
@@ -1532,6 +1539,7 @@ DOMAIN-SUFFIX,0550.gofenews.com
 DOMAIN-SUFFIX,0551.gofenews.com
 DOMAIN-SUFFIX,0551.lookinews.com
 DOMAIN-SUFFIX,0552.jemonews.com
+DOMAIN-SUFFIX,0552.loopanews.com
 DOMAIN-SUFFIX,0553.reminews.com
 DOMAIN-SUFFIX,0554.deeginews.com
 DOMAIN-SUFFIX,0555.lookinews.com
@@ -1550,9 +1558,11 @@ DOMAIN-SUFFIX,0565.gofenews.com
 DOMAIN-SUFFIX,0566.gofenews.com
 DOMAIN-SUFFIX,0566.lookinews.com
 DOMAIN-SUFFIX,0566.reminews.com
+DOMAIN-SUFFIX,0566.tegronews.com
 DOMAIN-SUFFIX,0567.reminews.com
 DOMAIN-SUFFIX,0568.79j68qav2.com
 DOMAIN-SUFFIX,0568.gofenews.com
+DOMAIN-SUFFIX,0568.lookinews.com
 DOMAIN-SUFFIX,0569.reminews.com
 DOMAIN-SUFFIX,056a4cfad3.67f02fed6f.com
 DOMAIN-SUFFIX,0570.reminews.com
@@ -1599,6 +1609,7 @@ DOMAIN-SUFFIX,05b29ae553.e68a481d7d.com
 DOMAIN-SUFFIX,05f80459be.910de7044f.com
 DOMAIN-SUFFIX,05fa754f24.com
 DOMAIN-SUFFIX,0600.34gwl8v1a.com
+DOMAIN-SUFFIX,0600abfc6e.7ec3ad2512.com
 DOMAIN-SUFFIX,0601.lookinews.com
 DOMAIN-SUFFIX,0601.luronews.com
 DOMAIN-SUFFIX,0603.gofenews.com
@@ -1624,6 +1635,7 @@ DOMAIN-SUFFIX,0614.reminews.com
 DOMAIN-SUFFIX,0615.reminews.com
 DOMAIN-SUFFIX,0616.lookinews.com
 DOMAIN-SUFFIX,0617.reminews.com
+DOMAIN-SUFFIX,0619.gofenews.com
 DOMAIN-SUFFIX,0619.lookinews.com
 DOMAIN-SUFFIX,0620.reminews.com
 DOMAIN-SUFFIX,0620.tegronews.com
@@ -1631,6 +1643,7 @@ DOMAIN-SUFFIX,0621.jemonews.com
 DOMAIN-SUFFIX,0622.lookinews.com
 DOMAIN-SUFFIX,0622.reminews.com
 DOMAIN-SUFFIX,0623.luronews.com
+DOMAIN-SUFFIX,0625.deeginews.com
 DOMAIN-SUFFIX,0626.deeginews.com
 DOMAIN-SUFFIX,0627.jemonews.com
 DOMAIN-SUFFIX,0628.reminews.com
@@ -1714,6 +1727,7 @@ DOMAIN-SUFFIX,0703.reminews.com
 DOMAIN-SUFFIX,0706.luronews.com
 DOMAIN-SUFFIX,0706.sifenews.com
 DOMAIN-SUFFIX,070880.com
+DOMAIN-SUFFIX,0710.jemonews.com
 DOMAIN-SUFFIX,0710.reminews.com
 DOMAIN-SUFFIX,0711.lootynews.com
 DOMAIN-SUFFIX,0713.gofenews.com
@@ -1786,11 +1800,13 @@ DOMAIN-SUFFIX,0777.reminews.com
 DOMAIN-SUFFIX,0778.833enmhob.com
 DOMAIN-SUFFIX,0781.luronews.com
 DOMAIN-SUFFIX,0783.reminews.com
+DOMAIN-SUFFIX,0784.reminews.com
 DOMAIN-SUFFIX,0785.jemonews.com
 DOMAIN-SUFFIX,0786.jemonews.com
 DOMAIN-SUFFIX,0786.reminews.com
 DOMAIN-SUFFIX,0790.gofenews.com
 DOMAIN-SUFFIX,0792.luronews.com
+DOMAIN-SUFFIX,0792.tegronews.com
 DOMAIN-SUFFIX,0794.lycheenews.com
 DOMAIN-SUFFIX,0797.gofenews.com
 DOMAIN-SUFFIX,0798.lootynews.com
@@ -1800,6 +1816,7 @@ DOMAIN-SUFFIX,07c225f3.online
 DOMAIN-SUFFIX,07d0bc4a48.com
 DOMAIN-SUFFIX,07de571526.e04f630ca8.com
 DOMAIN-SUFFIX,07e197.site
+DOMAIN-SUFFIX,0806gr5cx69topxe.sifenews.com
 DOMAIN-SUFFIX,0808.jemonews.com
 DOMAIN-SUFFIX,0811.gofenews.com
 DOMAIN-SUFFIX,0812.deeginews.com
@@ -1845,9 +1862,11 @@ DOMAIN-SUFFIX,0850.reminews.com
 DOMAIN-SUFFIX,0851.jemonews.com
 DOMAIN-SUFFIX,0851.reminews.com
 DOMAIN-SUFFIX,0856.deeginews.com
+DOMAIN-SUFFIX,0856.reminews.com
 DOMAIN-SUFFIX,0857.lycheenews.com
 DOMAIN-SUFFIX,0858.lookinews.com
 DOMAIN-SUFFIX,0860.lookinews.com
+DOMAIN-SUFFIX,0861.reminews.com
 DOMAIN-SUFFIX,0862.reminews.com
 DOMAIN-SUFFIX,0864.gofenews.com
 DOMAIN-SUFFIX,0864.luronews.com
@@ -1857,6 +1876,7 @@ DOMAIN-SUFFIX,0867.gofenews.com
 DOMAIN-SUFFIX,0869.sifenews.com
 DOMAIN-SUFFIX,086ac7b8b4.60673344be.com
 DOMAIN-SUFFIX,0870.79j68qav2.com
+DOMAIN-SUFFIX,0870.jemonews.com
 DOMAIN-SUFFIX,0870.lookinews.com
 DOMAIN-SUFFIX,0871.lookinews.com
 DOMAIN-SUFFIX,0872.luronews.com
@@ -1867,6 +1887,7 @@ DOMAIN-SUFFIX,0877.reminews.com
 DOMAIN-SUFFIX,0879.jemonews.com
 DOMAIN-SUFFIX,0879.lootynews.com
 DOMAIN-SUFFIX,0880.lookinews.com
+DOMAIN-SUFFIX,0881.jemonews.com
 DOMAIN-SUFFIX,0882.luronews.com
 DOMAIN-SUFFIX,0884.luronews.com
 DOMAIN-SUFFIX,0886.reminews.com
@@ -1899,12 +1920,15 @@ DOMAIN-SUFFIX,0912.reminews.com
 DOMAIN-SUFFIX,0913.huronews.com
 DOMAIN-SUFFIX,0913.luronews.com
 DOMAIN-SUFFIX,0914.lookinews.com
+DOMAIN-SUFFIX,0914.luronews.com
 DOMAIN-SUFFIX,0914.reminews.com
 DOMAIN-SUFFIX,0915.gofenews.com
 DOMAIN-SUFFIX,0915.luronews.com
 DOMAIN-SUFFIX,0919.luronews.com
+DOMAIN-SUFFIX,0921.deeginews.com
 DOMAIN-SUFFIX,0921.jemonews.com
 DOMAIN-SUFFIX,0921.luronews.com
+DOMAIN-SUFFIX,0921.reminews.com
 DOMAIN-SUFFIX,0922.tegronews.com
 DOMAIN-SUFFIX,0923.reminews.com
 DOMAIN-SUFFIX,0924.reminews.com
@@ -1938,10 +1962,13 @@ DOMAIN-SUFFIX,0942.luronews.com
 DOMAIN-SUFFIX,0942.reminews.com
 DOMAIN-SUFFIX,0943.gofenews.com
 DOMAIN-SUFFIX,0944.gofenews.com
+DOMAIN-SUFFIX,0944.lookinews.com
 DOMAIN-SUFFIX,0945.deeginews.com
+DOMAIN-SUFFIX,0945.gofenews.com
 DOMAIN-SUFFIX,0945.reminews.com
 DOMAIN-SUFFIX,0947.lookinews.com
 DOMAIN-SUFFIX,0949.reminews.com
+DOMAIN-SUFFIX,0949.sifenews.com
 DOMAIN-SUFFIX,0950.gofenews.com
 DOMAIN-SUFFIX,0953.lookinews.com
 DOMAIN-SUFFIX,0954.luronews.com
@@ -1975,6 +2002,7 @@ DOMAIN-SUFFIX,0976.sifenews.com
 DOMAIN-SUFFIX,0977.rookinews.com
 DOMAIN-SUFFIX,0978.4puuqeh41.com
 DOMAIN-SUFFIX,097cfe5997.4d9e86640a.com
+DOMAIN-SUFFIX,0980.luronews.com
 DOMAIN-SUFFIX,0980.reminews.com
 DOMAIN-SUFFIX,0986.luronews.com
 DOMAIN-SUFFIX,0986.reminews.com
@@ -1997,6 +2025,7 @@ DOMAIN-SUFFIX,0996.luronews.com
 DOMAIN-SUFFIX,0997.tegronews.com
 DOMAIN-SUFFIX,0998.jemonews.com
 DOMAIN-SUFFIX,0998.lookinews.com
+DOMAIN-SUFFIX,0999.deeginews.com
 DOMAIN-SUFFIX,09a2272385.0760571ca9.com
 DOMAIN-SUFFIX,09b1fcc95e.com
 DOMAIN-SUFFIX,09bd5a69.xyz
@@ -2020,6 +2049,7 @@ DOMAIN-SUFFIX,0byv9mgbn0.com
 DOMAIN-SUFFIX,0c0b6e3f.xyz
 DOMAIN-SUFFIX,0c4c531c62.743fa12700.com
 DOMAIN-SUFFIX,0c550a5031.d9db994995.com
+DOMAIN-SUFFIX,0c6be7f968.com
 DOMAIN-SUFFIX,0c73bb2de3.7e5f2028a6.com
 DOMAIN-SUFFIX,0c74d1e2ed.0342b40dd6.com
 DOMAIN-SUFFIX,0ca528a25b.5bdd71381c.com
@@ -2033,6 +2063,7 @@ DOMAIN-SUFFIX,0d785fd7.xyz
 DOMAIN-SUFFIX,0d9d9a4f8e.b8bc5cd2c1.com
 DOMAIN-SUFFIX,0da14cebab.61c3d331bf.com
 DOMAIN-SUFFIX,0eade9dd8d.com
+DOMAIN-SUFFIX,0ecf6ae27f.39489ef6ae.com
 DOMAIN-SUFFIX,0ef06e4db3.76f74721ab.com
 DOMAIN-SUFFIX,0emn.com
 DOMAIN-SUFFIX,0f20c9da12.b2e0073814.com
@@ -2065,6 +2096,7 @@ DOMAIN-SUFFIX,1002.luronews.com
 DOMAIN-SUFFIX,1003.lycheenews.com
 DOMAIN-SUFFIX,1004.seponews.com
 DOMAIN-SUFFIX,1005.reminews.com
+DOMAIN-SUFFIX,1006.79j68qav2.com
 DOMAIN-SUFFIX,1006.lookinews.com
 DOMAIN-SUFFIX,1007.lookinews.com
 DOMAIN-SUFFIX,1008.jemonews.com
@@ -2205,9 +2237,7 @@ DOMAIN-SUFFIX,1109.rookinews.com
 DOMAIN-SUFFIX,1111.deeginews.com
 DOMAIN-SUFFIX,1111.luronews.com
 DOMAIN-SUFFIX,1111.reminews.com
-DOMAIN-SUFFIX,1111.sanjay44.xyz
 DOMAIN-SUFFIX,1111.selornews.com
-DOMAIN-SUFFIX,1111.sieglinde22.xyz
 DOMAIN-SUFFIX,1111.sifenews.com
 DOMAIN-SUFFIX,1112.gofenews.com
 DOMAIN-SUFFIX,1112.luronews.com
@@ -2243,18 +2273,23 @@ DOMAIN-SUFFIX,112.sifenews.com
 DOMAIN-SUFFIX,112.tegronews.com
 DOMAIN-SUFFIX,112w.reminews.com
 DOMAIN-SUFFIX,1130.lycheenews.com
+DOMAIN-SUFFIX,1131.5clo0xmbf.com
 DOMAIN-SUFFIX,1131.reminews.com
 DOMAIN-SUFFIX,1133.gofenews.com
 DOMAIN-SUFFIX,1134.l5eamr17d.com
+DOMAIN-SUFFIX,1136.gofenews.com
 DOMAIN-SUFFIX,1136.reminews.com
 DOMAIN-SUFFIX,1137.luronews.com
 DOMAIN-SUFFIX,1138.gofenews.com
+DOMAIN-SUFFIX,1138.luronews.com
 DOMAIN-SUFFIX,1138.reminews.com
 DOMAIN-SUFFIX,113.lycheenews.com
 DOMAIN-SUFFIX,1141.sifenews.com
 DOMAIN-SUFFIX,1142.jemonews.com
 DOMAIN-SUFFIX,1143.gofenews.com
+DOMAIN-SUFFIX,1143.sifenews.com
 DOMAIN-SUFFIX,1145.lycheenews.com
+DOMAIN-SUFFIX,1146.deeginews.com
 DOMAIN-SUFFIX,1147.lookinews.com
 DOMAIN-SUFFIX,1148.deeginews.com
 DOMAIN-SUFFIX,1148.gofenews.com
@@ -2280,6 +2315,7 @@ DOMAIN-SUFFIX,1157.reminews.com
 DOMAIN-SUFFIX,1160.luronews.com
 DOMAIN-SUFFIX,1161.lookinews.com
 DOMAIN-SUFFIX,116240c6f1.2cba2742a4.com
+DOMAIN-SUFFIX,1162.luronews.com
 DOMAIN-SUFFIX,1163.rookinews.com
 DOMAIN-SUFFIX,1165.lootynews.com
 DOMAIN-SUFFIX,1165.luronews.com
@@ -2312,6 +2348,7 @@ DOMAIN-SUFFIX,1193.jemonews.com
 DOMAIN-SUFFIX,1193.reminews.com
 DOMAIN-SUFFIX,1197.luronews.com
 DOMAIN-SUFFIX,1198.lookinews.com
+DOMAIN-SUFFIX,1198.reminews.com
 DOMAIN-SUFFIX,119.lycheenews.com
 DOMAIN-SUFFIX,11br.lycheenews.com
 DOMAIN-SUFFIX,11c7a3.xyz
@@ -2324,6 +2361,7 @@ DOMAIN-SUFFIX,11vik.lycheenews.com
 DOMAIN-SUFFIX,11vin.lycheenews.com
 DOMAIN-SUFFIX,11x11.com
 DOMAIN-SUFFIX,11.y2sysv81v.com
+DOMAIN-SUFFIX,1200.deeginews.com
 DOMAIN-SUFFIX,1201.reminews.com
 DOMAIN-SUFFIX,1202bb3601.29972123f3.com
 DOMAIN-SUFFIX,1205.jemonews.com
@@ -2336,6 +2374,7 @@ DOMAIN-SUFFIX,1212.reminews.com
 DOMAIN-SUFFIX,1214.jemonews.com
 DOMAIN-SUFFIX,1214.lookinews.com
 DOMAIN-SUFFIX,1214.reminews.com
+DOMAIN-SUFFIX,12159c9c0b.3009e36989.com
 DOMAIN-SUFFIX,1216.gofenews.com
 DOMAIN-SUFFIX,1216.jemonews.com
 DOMAIN-SUFFIX,1216.lootynews.com
@@ -2366,6 +2405,7 @@ DOMAIN-SUFFIX,1234.huronews.com
 DOMAIN-SUFFIX,1234.luronews.com
 DOMAIN-SUFFIX,1234.sosqboh85.com
 DOMAIN-SUFFIX,1235.gofenews.com
+DOMAIN-SUFFIX,1235.jemonews.com
 DOMAIN-SUFFIX,1238.jemonews.com
 DOMAIN-SUFFIX,1239.cosmicnewspulse.com
 DOMAIN-SUFFIX,1239.reminews.com
@@ -2393,6 +2433,7 @@ DOMAIN-SUFFIX,1244746616.rsc.cdn77.org
 DOMAIN-SUFFIX,1245.jemonews.com
 DOMAIN-SUFFIX,1247.79j68qav2.com
 DOMAIN-SUFFIX,1247.luronews.com
+DOMAIN-SUFFIX,1248.reminews.com
 DOMAIN-SUFFIX,1249.reminews.com
 DOMAIN-SUFFIX,124.lycheenews.com
 DOMAIN-SUFFIX,1250.reminews.com
@@ -2421,6 +2462,7 @@ DOMAIN-SUFFIX,1265.jemonews.com
 DOMAIN-SUFFIX,1265.lookinews.com
 DOMAIN-SUFFIX,1266.gofenews.com
 DOMAIN-SUFFIX,1266.lookinews.com
+DOMAIN-SUFFIX,1267.lookinews.com
 DOMAIN-SUFFIX,1269.jemonews.com
 DOMAIN-SUFFIX,1269.lookinews.com
 DOMAIN-SUFFIX,126a.reminews.com
@@ -2447,6 +2489,7 @@ DOMAIN-SUFFIX,1289.jemonews.com
 DOMAIN-SUFFIX,1292.lycheenews.com
 DOMAIN-SUFFIX,1293.jemonews.com
 DOMAIN-SUFFIX,1294.luronews.com
+DOMAIN-SUFFIX,1295.gofenews.com
 DOMAIN-SUFFIX,1295.luronews.com
 DOMAIN-SUFFIX,1296d5fc2c.971bf5ec60.com
 DOMAIN-SUFFIX,1296.jemonews.com
@@ -2492,6 +2535,7 @@ DOMAIN-SUFFIX,130.sifenews.com
 DOMAIN-SUFFIX,130.tegronews.com
 DOMAIN-SUFFIX,1313.gofenews.com
 DOMAIN-SUFFIX,1313.lootynews.com
+DOMAIN-SUFFIX,1314.reminews.com
 DOMAIN-SUFFIX,1315.luronews.com
 DOMAIN-SUFFIX,1315.reminews.com
 DOMAIN-SUFFIX,1318.deeginews.com
@@ -2584,11 +2628,14 @@ DOMAIN-SUFFIX,1379.luronews.com
 DOMAIN-SUFFIX,1379.reminews.com
 DOMAIN-SUFFIX,1379.rookinews.com
 DOMAIN-SUFFIX,137kfj65k.de
+DOMAIN-SUFFIX,137.tegronews.com
 DOMAIN-SUFFIX,1380.tegronews.com
 DOMAIN-SUFFIX,1381.lycheenews.com
 DOMAIN-SUFFIX,1382.gofenews.com
 DOMAIN-SUFFIX,1384.deeginews.com
+DOMAIN-SUFFIX,1384.reminews.com
 DOMAIN-SUFFIX,1385.lookinews.com
+DOMAIN-SUFFIX,1385.reminews.com
 DOMAIN-SUFFIX,1386bd6fb0.52fa059b20.com
 DOMAIN-SUFFIX,138.guesswhatnews.com
 DOMAIN-SUFFIX,138.sifenews.com
@@ -2603,6 +2650,7 @@ DOMAIN-SUFFIX,1395.jemonews.com
 DOMAIN-SUFFIX,1395.lookinews.com
 DOMAIN-SUFFIX,1396.sifenews.com
 DOMAIN-SUFFIX,1398.jemonews.com
+DOMAIN-SUFFIX,1399.reminews.com
 DOMAIN-SUFFIX,139.tegronews.com
 DOMAIN-SUFFIX,13b3403320.com
 DOMAIN-SUFFIX,13b696a4c1.com
@@ -2631,6 +2679,7 @@ DOMAIN-SUFFIX,1409.reminews.com
 DOMAIN-SUFFIX,140.tegronews.com
 DOMAIN-SUFFIX,1410.lookinews.com
 DOMAIN-SUFFIX,1411.luronews.com
+DOMAIN-SUFFIX,1413.tegronews.com
 DOMAIN-SUFFIX,1414.jemonews.com
 DOMAIN-SUFFIX,1414.reminews.com
 DOMAIN-SUFFIX,1419.jemonews.com
@@ -2645,6 +2694,7 @@ DOMAIN-SUFFIX,1426.reminews.com
 DOMAIN-SUFFIX,1428.jemonews.com
 DOMAIN-SUFFIX,142.sifenews.com
 DOMAIN-SUFFIX,1432.lookinews.com
+DOMAIN-SUFFIX,1433.reminews.com
 DOMAIN-SUFFIX,1434.5clo0xmbf.com
 DOMAIN-SUFFIX,1434.luronews.com
 DOMAIN-SUFFIX,1434.reminews.com
@@ -2657,6 +2707,7 @@ DOMAIN-SUFFIX,1440.lookinews.com
 DOMAIN-SUFFIX,1441.79j68qav2.com
 DOMAIN-SUFFIX,1442.gofenews.com
 DOMAIN-SUFFIX,1445.gofenews.com
+DOMAIN-SUFFIX,1446.reminews.com
 DOMAIN-SUFFIX,1450.5clo0xmbf.com
 DOMAIN-SUFFIX,1451.reminews.com
 DOMAIN-SUFFIX,1453.gofenews.com
@@ -2693,6 +2744,7 @@ DOMAIN-SUFFIX,1482.luronews.com
 DOMAIN-SUFFIX,1482.rookinews.com
 DOMAIN-SUFFIX,1483.reminews.com
 DOMAIN-SUFFIX,1488.deeginews.com
+DOMAIN-SUFFIX,1488.reminews.com
 DOMAIN-SUFFIX,148dfe140d0f3d5e.com
 DOMAIN-SUFFIX,148.tegronews.com
 DOMAIN-SUFFIX,1490.reminews.com
@@ -2701,6 +2753,7 @@ DOMAIN-SUFFIX,1492.jemonews.com
 DOMAIN-SUFFIX,1493.reminews.com
 DOMAIN-SUFFIX,1494.lookinews.com
 DOMAIN-SUFFIX,149549d67c.c759538eb2.com
+DOMAIN-SUFFIX,1495.gofenews.com
 DOMAIN-SUFFIX,1496.gofenews.com
 DOMAIN-SUFFIX,1497.gofenews.com
 DOMAIN-SUFFIX,1497.lookinews.com
@@ -2743,6 +2796,7 @@ DOMAIN-SUFFIX,1524.luronews.com
 DOMAIN-SUFFIX,15272973.xyz
 DOMAIN-SUFFIX,1527.jemonews.com
 DOMAIN-SUFFIX,1527.lookinews.com
+DOMAIN-SUFFIX,1527.reminews.com
 DOMAIN-SUFFIX,1529462937.rsc.cdn77.org
 DOMAIN-SUFFIX,152.guesswhatnews.com
 DOMAIN-SUFFIX,152media.cloud
@@ -2751,7 +2805,9 @@ DOMAIN-SUFFIX,152.sifenews.com
 DOMAIN-SUFFIX,152.tegronews.com
 DOMAIN-SUFFIX,15337f077d.2f6dbda127.com
 DOMAIN-SUFFIX,1533.guesswhatnews.com
+DOMAIN-SUFFIX,1533.reminews.com
 DOMAIN-SUFFIX,1533.sifenews.com
+DOMAIN-SUFFIX,1534.jemonews.com
 DOMAIN-SUFFIX,1534.luronews.com
 DOMAIN-SUFFIX,1536.reminews.com
 DOMAIN-SUFFIX,153.tegronews.com
@@ -2798,6 +2854,7 @@ DOMAIN-SUFFIX,15752525.xyz
 DOMAIN-SUFFIX,1575.reminews.com
 DOMAIN-SUFFIX,1576.tegronews.com
 DOMAIN-SUFFIX,1577.deeginews.com
+DOMAIN-SUFFIX,1578.lookinews.com
 DOMAIN-SUFFIX,157.tegronews.com
 DOMAIN-SUFFIX,1586.jemonews.com
 DOMAIN-SUFFIX,1586.lookinews.com
@@ -2815,6 +2872,7 @@ DOMAIN-SUFFIX,1591.lootynews.com
 DOMAIN-SUFFIX,1591.reminews.com
 DOMAIN-SUFFIX,1593.79j68qav2.com
 DOMAIN-SUFFIX,1595.79j68qav2.com
+DOMAIN-SUFFIX,1598.reminews.com
 DOMAIN-SUFFIX,159f70698e.e806dd6aba.com
 DOMAIN-SUFFIX,159.tegronews.com
 DOMAIN-SUFFIX,15d113e19a.com
@@ -2828,9 +2886,11 @@ DOMAIN-SUFFIX,1602.lookinews.com
 DOMAIN-SUFFIX,1603.gofenews.com
 DOMAIN-SUFFIX,1604.guesswhatnews.com
 DOMAIN-SUFFIX,1605.reminews.com
+DOMAIN-SUFFIX,1607.lookinews.com
 DOMAIN-SUFFIX,1609.gofenews.com
 DOMAIN-SUFFIX,1609.luronews.com
 DOMAIN-SUFFIX,160.tegronews.com
+DOMAIN-SUFFIX,1610.lookinews.com
 DOMAIN-SUFFIX,1610.reminews.com
 DOMAIN-SUFFIX,1611.reminews.com
 DOMAIN-SUFFIX,1617.lookinews.com
@@ -2849,6 +2909,7 @@ DOMAIN-SUFFIX,16327739.xyz
 DOMAIN-SUFFIX,1633.reminews.com
 DOMAIN-SUFFIX,1635.l5eamr17d.com
 DOMAIN-SUFFIX,1637.reminews.com
+DOMAIN-SUFFIX,1638.gofenews.com
 DOMAIN-SUFFIX,1639.gofenews.com
 DOMAIN-SUFFIX,1640.luronews.com
 DOMAIN-SUFFIX,1641.gofenews.com
@@ -2856,6 +2917,7 @@ DOMAIN-SUFFIX,1642.4puuqeh41.com
 DOMAIN-SUFFIX,1642.reminews.com
 DOMAIN-SUFFIX,1646.833enmhob.com
 DOMAIN-SUFFIX,1647.huronews.com
+DOMAIN-SUFFIX,1647.luronews.com
 DOMAIN-SUFFIX,1647.rookinews.com
 DOMAIN-SUFFIX,1648.lootynews.com
 DOMAIN-SUFFIX,164de830.live
@@ -2880,10 +2942,12 @@ DOMAIN-SUFFIX,1675450967.rsc.cdn77.org
 DOMAIN-SUFFIX,1676.luronews.com
 DOMAIN-SUFFIX,1677.5clo0xmbf.com
 DOMAIN-SUFFIX,1677.gofenews.com
+DOMAIN-SUFFIX,1678.luronews.com
 DOMAIN-SUFFIX,1678.reminews.com
 DOMAIN-SUFFIX,1679.luronews.com
 DOMAIN-SUFFIX,167a376b78.f19893fb1c.com
 DOMAIN-SUFFIX,167.lycheenews.com
+DOMAIN-SUFFIX,1680.reminews.com
 DOMAIN-SUFFIX,1681.reminews.com
 DOMAIN-SUFFIX,1682.lookinews.com
 DOMAIN-SUFFIX,1684.luronews.com
@@ -2894,6 +2958,7 @@ DOMAIN-SUFFIX,1692.gofenews.com
 DOMAIN-SUFFIX,1694.guesswhatnews.com
 DOMAIN-SUFFIX,1694.lootynews.com
 DOMAIN-SUFFIX,1695.lookinews.com
+DOMAIN-SUFFIX,1696.reminews.com
 DOMAIN-SUFFIX,16972675.xyz
 DOMAIN-SUFFIX,1698.deeginews.com
 DOMAIN-SUFFIX,16iis7i2p.de
@@ -2926,12 +2991,14 @@ DOMAIN-SUFFIX,1740.reminews.com
 DOMAIN-SUFFIX,1741.gofenews.com
 DOMAIN-SUFFIX,1743.reminews.com
 DOMAIN-SUFFIX,1745.reminews.com
+DOMAIN-SUFFIX,1746.reminews.com
 DOMAIN-SUFFIX,1749.jemonews.com
 DOMAIN-SUFFIX,1750.sosqboh85.com
 DOMAIN-SUFFIX,1751.jemonews.com
 DOMAIN-SUFFIX,1753.lookinews.com
 DOMAIN-SUFFIX,1757.tegronews.com
 DOMAIN-SUFFIX,1758664454.rsc.cdn77.org
+DOMAIN-SUFFIX,1758.jemonews.com
 DOMAIN-SUFFIX,175c0a86c0.07d0bc4a48.com
 DOMAIN-SUFFIX,175c666632.e2af52cae7.com
 DOMAIN-SUFFIX,1760.lootynews.com
@@ -2955,6 +3022,7 @@ DOMAIN-SUFFIX,1776.reminews.com
 DOMAIN-SUFFIX,1777.luronews.com
 DOMAIN-SUFFIX,177.guesswhatnews.com
 DOMAIN-SUFFIX,177.tegronews.com
+DOMAIN-SUFFIX,1782.reminews.com
 DOMAIN-SUFFIX,1783.luronews.com
 DOMAIN-SUFFIX,1783.reminews.com
 DOMAIN-SUFFIX,1784.4puuqeh41.com
@@ -2995,6 +3063,8 @@ DOMAIN-SUFFIX,1829.reminews.com
 DOMAIN-SUFFIX,1829.sifenews.com
 DOMAIN-SUFFIX,182e8ffa40.5b9c4c545d.com
 DOMAIN-SUFFIX,182ff42ced.e1d56c0a5f.com
+DOMAIN-SUFFIX,1831.jemonews.com
+DOMAIN-SUFFIX,1834.lookinews.com
 DOMAIN-SUFFIX,1835.url25fatm.com
 DOMAIN-SUFFIX,1838.jemonews.com
 DOMAIN-SUFFIX,1841.gofenews.com
@@ -3020,10 +3090,12 @@ DOMAIN-SUFFIX,1873.jemonews.com
 DOMAIN-SUFFIX,1873.seponews.com
 DOMAIN-SUFFIX,1876.jemonews.com
 DOMAIN-SUFFIX,18788fdb24.com
+DOMAIN-SUFFIX,1879.gofenews.com
 DOMAIN-SUFFIX,187.guesswhatnews.com
 DOMAIN-SUFFIX,187.sifenews.com
 DOMAIN-SUFFIX,187.tegronews.com
 DOMAIN-SUFFIX,1880.lookinews.com
+DOMAIN-SUFFIX,1883.jemonews.com
 DOMAIN-SUFFIX,1888.79j68qav2.com
 DOMAIN-SUFFIX,1888.lycheenews.com
 DOMAIN-SUFFIX,1890.lookinews.com
@@ -3048,6 +3120,7 @@ DOMAIN-SUFFIX,1903.tegronews.com
 DOMAIN-SUFFIX,1904.deeginews.com
 DOMAIN-SUFFIX,1905.jemonews.com
 DOMAIN-SUFFIX,1906.jemonews.com
+DOMAIN-SUFFIX,1907.jemonews.com
 DOMAIN-SUFFIX,190b1f9880.com
 DOMAIN-SUFFIX,1911.gofenews.com
 DOMAIN-SUFFIX,1912.jemonews.com
@@ -3061,6 +3134,7 @@ DOMAIN-SUFFIX,1918.reminews.com
 DOMAIN-SUFFIX,19199675.xyz
 DOMAIN-SUFFIX,1919f4eccf.08031fef00.com
 DOMAIN-SUFFIX,1919.gofenews.com
+DOMAIN-SUFFIX,1919.reminews.com
 DOMAIN-SUFFIX,191.lycheenews.com
 DOMAIN-SUFFIX,1923.reminews.com
 DOMAIN-SUFFIX,1924.reminews.com
@@ -3100,7 +3174,9 @@ DOMAIN-SUFFIX,1977.deeginews.com
 DOMAIN-SUFFIX,1977.luronews.com
 DOMAIN-SUFFIX,1978.reminews.com
 DOMAIN-SUFFIX,1983.jemonews.com
+DOMAIN-SUFFIX,1984.tegronews.com
 DOMAIN-SUFFIX,1985.lookinews.com
+DOMAIN-SUFFIX,1987.jemonews.com
 DOMAIN-SUFFIX,1988.5clo0xmbf.com
 DOMAIN-SUFFIX,198.guesswhatnews.com
 DOMAIN-SUFFIX,198.sifenews.com
@@ -3374,6 +3450,7 @@ DOMAIN-SUFFIX,2034.reminews.com
 DOMAIN-SUFFIX,2035.luronews.com
 DOMAIN-SUFFIX,2036.gofenews.com
 DOMAIN-SUFFIX,20382207.xyz
+DOMAIN-SUFFIX,2038.reminews.com
 DOMAIN-SUFFIX,2039.4puuqeh41.com
 DOMAIN-SUFFIX,203.guesswhatnews.com
 DOMAIN-SUFFIX,2044.lookinews.com
@@ -3389,9 +3466,11 @@ DOMAIN-SUFFIX,2053.lootynews.com
 DOMAIN-SUFFIX,2055.guesswhatnews.com
 DOMAIN-SUFFIX,2056.reminews.com
 DOMAIN-SUFFIX,2058.deeginews.com
+DOMAIN-SUFFIX,2059.reminews.com
 DOMAIN-SUFFIX,2-05.com
 DOMAIN-SUFFIX,205.guesswhatnews.com
 DOMAIN-SUFFIX,2063.reminews.com
+DOMAIN-SUFFIX,2066.reminews.com
 DOMAIN-SUFFIX,2067.5clo0xmbf.com
 DOMAIN-SUFFIX,2067.gofenews.com
 DOMAIN-SUFFIX,2069.lootynews.com
@@ -3407,12 +3486,15 @@ DOMAIN-SUFFIX,2079.jemonews.com
 DOMAIN-SUFFIX,2081.5clo0xmbf.com
 DOMAIN-SUFFIX,2081.reminews.com
 DOMAIN-SUFFIX,2084.guesswhatnews.com
+DOMAIN-SUFFIX,2086.luronews.com
 DOMAIN-SUFFIX,2088.reminews.com
 DOMAIN-SUFFIX,2089.lookinews.com
 DOMAIN-SUFFIX,2090.jemonews.com
 DOMAIN-SUFFIX,2090.reminews.com
 DOMAIN-SUFFIX,2091.luronews.com
+DOMAIN-SUFFIX,2091.reminews.com
 DOMAIN-SUFFIX,2094.deeginews.com
+DOMAIN-SUFFIX,2095.gofenews.com
 DOMAIN-SUFFIX,2095.lookinews.com
 DOMAIN-SUFFIX,2095.reminews.com
 DOMAIN-SUFFIX,2096.guesswhatnews.com
@@ -3439,6 +3521,7 @@ DOMAIN-SUFFIX,2122aaa0e5.com
 DOMAIN-SUFFIX,2122.reminews.com
 DOMAIN-SUFFIX,2124.gofenews.com
 DOMAIN-SUFFIX,2124.reminews.com
+DOMAIN-SUFFIX,2126.luronews.com
 DOMAIN-SUFFIX,21270a5ec2.a48d53647a.com
 DOMAIN-SUFFIX,21274758.xyz
 DOMAIN-SUFFIX,2129.gofenews.com
@@ -3454,6 +3537,8 @@ DOMAIN-SUFFIX,2138.79j68qav2.com
 DOMAIN-SUFFIX,2138.luronews.com
 DOMAIN-SUFFIX,2138.reminews.com
 DOMAIN-SUFFIX,2140.5clo0xmbf.com
+DOMAIN-SUFFIX,2140.lookinews.com
+DOMAIN-SUFFIX,2141.reminews.com
 DOMAIN-SUFFIX,2143.jemonews.com
 DOMAIN-SUFFIX,2144.guesswhatnews.com
 DOMAIN-SUFFIX,2146.jemonews.com
@@ -3470,6 +3555,7 @@ DOMAIN-SUFFIX,2154.reminews.com
 DOMAIN-SUFFIX,2155.luronews.com
 DOMAIN-SUFFIX,2155.reminews.com
 DOMAIN-SUFFIX,2156.5clo0xmbf.com
+DOMAIN-SUFFIX,2159.jemonews.com
 DOMAIN-SUFFIX,2163.lootynews.com
 DOMAIN-SUFFIX,2165.reminews.com
 DOMAIN-SUFFIX,2166.gofenews.com
@@ -3485,6 +3571,7 @@ DOMAIN-SUFFIX,2176.lookinews.com
 DOMAIN-SUFFIX,2176.lootynews.com
 DOMAIN-SUFFIX,2177.gofenews.com
 DOMAIN-SUFFIX,2178.5clo0xmbf.com
+DOMAIN-SUFFIX,2178.lookinews.com
 DOMAIN-SUFFIX,217eda37ff.eca8bef536.com
 DOMAIN-SUFFIX,2180.reminews.com
 DOMAIN-SUFFIX,21.833enmhob.com
@@ -3513,22 +3600,26 @@ DOMAIN-SUFFIX,21.y2sysv81v.com
 DOMAIN-SUFFIX,2204.jemonews.com
 DOMAIN-SUFFIX,2204.lookinews.com
 DOMAIN-SUFFIX,2204.reminews.com
+DOMAIN-SUFFIX,2206.luronews.com
 DOMAIN-SUFFIX,2207.lookinews.com
+DOMAIN-SUFFIX,2208.gofenews.com
+DOMAIN-SUFFIX,2209.luronews.com
 DOMAIN-SUFFIX,22117898.xyz
+DOMAIN-SUFFIX,2212.selornews.com
 DOMAIN-SUFFIX,2214.jemonews.com
 DOMAIN-SUFFIX,2214.loopanews.com
 DOMAIN-SUFFIX,2217.luronews.com
+DOMAIN-SUFFIX,2218.reminews.com
 DOMAIN-SUFFIX,2218.sifenews.com
 DOMAIN-SUFFIX,221c2e9b83.2adf1530a3.com
 DOMAIN-SUFFIX,221.guesswhatnews.com
 DOMAIN-SUFFIX,2221.reminews.com
 DOMAIN-SUFFIX,2222.jemonews.com
 DOMAIN-SUFFIX,2222.lootynews.com
-DOMAIN-SUFFIX,2222.sanjay44.xyz
-DOMAIN-SUFFIX,2222.sieglinde22.xyz
 DOMAIN-SUFFIX,2223.reminews.com
 DOMAIN-SUFFIX,2227.sifenews.com
 DOMAIN-SUFFIX,222f2632ff.3535d0471e.com
+DOMAIN-SUFFIX,2230.reminews.com
 DOMAIN-SUFFIX,2231.reminews.com
 DOMAIN-SUFFIX,2236.jemonews.com
 DOMAIN-SUFFIX,2238.deeginews.com
@@ -3559,6 +3650,7 @@ DOMAIN-SUFFIX,2273.reminews.com
 DOMAIN-SUFFIX,2274.jemonews.com
 DOMAIN-SUFFIX,2274.selornews.com
 DOMAIN-SUFFIX,2275.gofenews.com
+DOMAIN-SUFFIX,2278.reminews.com
 DOMAIN-SUFFIX,2281.jemonews.com
 DOMAIN-SUFFIX,2281.loopanews.com
 DOMAIN-SUFFIX,2283.reminews.com
@@ -3580,6 +3672,7 @@ DOMAIN-SUFFIX,22lmsi1t5.de
 DOMAIN-SUFFIX,22media.world
 DOMAIN-SUFFIX,22.tegronews.com
 DOMAIN-SUFFIX,2301.reminews.com
+DOMAIN-SUFFIX,2302.jemonews.com
 DOMAIN-SUFFIX,2302.luronews.com
 DOMAIN-SUFFIX,2302.sifenews.com
 DOMAIN-SUFFIX,2304.deeginews.com
@@ -3593,7 +3686,9 @@ DOMAIN-SUFFIX,2311.tegronews.com
 DOMAIN-SUFFIX,231284.79j68qav2.com
 DOMAIN-SUFFIX,2313.jemonews.com
 DOMAIN-SUFFIX,2313.reminews.com
+DOMAIN-SUFFIX,23167df8b3.5e6062e991.com
 DOMAIN-SUFFIX,2317.79j68qav2.com
+DOMAIN-SUFFIX,2319.deeginews.com
 DOMAIN-SUFFIX,2319.lootynews.com
 DOMAIN-SUFFIX,2319.luronews.com
 DOMAIN-SUFFIX,231.guesswhatnews.com
@@ -3614,6 +3709,7 @@ DOMAIN-SUFFIX,2336.luronews.com
 DOMAIN-SUFFIX,2340.reminews.com
 DOMAIN-SUFFIX,2341.reminews.com
 DOMAIN-SUFFIX,2342.5clo0xmbf.com
+DOMAIN-SUFFIX,2342.gofenews.com
 DOMAIN-SUFFIX,2344.reminews.com
 DOMAIN-SUFFIX,234562563d.2f5de272ff.com
 DOMAIN-SUFFIX,2348.reminews.com
@@ -3643,6 +3739,7 @@ DOMAIN-SUFFIX,2376.gofenews.com
 DOMAIN-SUFFIX,2376.luronews.com
 DOMAIN-SUFFIX,2377.sifenews.com
 DOMAIN-SUFFIX,2378.5clo0xmbf.com
+DOMAIN-SUFFIX,2378.luronews.com
 DOMAIN-SUFFIX,2382.gofenews.com
 DOMAIN-SUFFIX,2383.reminews.com
 DOMAIN-SUFFIX,23879858.xyz
@@ -3662,6 +3759,7 @@ DOMAIN-SUFFIX,23.lookinews.com
 DOMAIN-SUFFIX,23.lycheenews.com
 DOMAIN-SUFFIX,23.sifenews.com
 DOMAIN-SUFFIX,2401.jemonews.com
+DOMAIN-SUFFIX,2402.jemonews.com
 DOMAIN-SUFFIX,24052107.live
 DOMAIN-SUFFIX,2405.gofenews.com
 DOMAIN-SUFFIX,240aca2365.com
@@ -3670,6 +3768,7 @@ DOMAIN-SUFFIX,2417.reminews.com
 DOMAIN-SUFFIX,2418.reminews.com
 DOMAIN-SUFFIX,2420.rookinews.com
 DOMAIN-SUFFIX,2422.deeginews.com
+DOMAIN-SUFFIX,2422.jemonews.com
 DOMAIN-SUFFIX,2422.lookinews.com
 DOMAIN-SUFFIX,2424.luronews.com
 DOMAIN-SUFFIX,2427.lootynews.com
@@ -3678,8 +3777,10 @@ DOMAIN-SUFFIX,2435.gofenews.com
 DOMAIN-SUFFIX,2435march2024.com
 DOMAIN-SUFFIX,2438.jemonews.com
 DOMAIN-SUFFIX,2439.gofenews.com
+DOMAIN-SUFFIX,2440.lookinews.com
 DOMAIN-SUFFIX,2440.lootynews.com
 DOMAIN-SUFFIX,2441.luronews.com
+DOMAIN-SUFFIX,2441.rookinews.com
 DOMAIN-SUFFIX,2442.jemonews.com
 DOMAIN-SUFFIX,2445.tegronews.com
 DOMAIN-SUFFIX,2447march2024.com
@@ -3704,8 +3805,10 @@ DOMAIN-SUFFIX,2469april2024.com
 DOMAIN-SUFFIX,2469.deeginews.com
 DOMAIN-SUFFIX,2471april2024.com
 DOMAIN-SUFFIX,2473april2024.com
+DOMAIN-SUFFIX,2473.lootynews.com
 DOMAIN-SUFFIX,2475april2024.com
 DOMAIN-SUFFIX,2477april2024.com
+DOMAIN-SUFFIX,2478.selornews.com
 DOMAIN-SUFFIX,2479april2024.com
 DOMAIN-SUFFIX,2479.lookinews.com
 DOMAIN-SUFFIX,247dbf848b.com
@@ -3738,6 +3841,7 @@ DOMAIN-SUFFIX,24x7report.com
 DOMAIN-SUFFIX,24.y2sysv81v.com
 DOMAIN-SUFFIX,2500.reminews.com
 DOMAIN-SUFFIX,2502.huronews.com
+DOMAIN-SUFFIX,2504.huronews.com
 DOMAIN-SUFFIX,2505.5clo0xmbf.com
 DOMAIN-SUFFIX,2506.deeginews.com
 DOMAIN-SUFFIX,2506.gofenews.com
@@ -3769,6 +3873,7 @@ DOMAIN-SUFFIX,2541.reminews.com
 DOMAIN-SUFFIX,2542.5clo0xmbf.com
 DOMAIN-SUFFIX,2542.jemonews.com
 DOMAIN-SUFFIX,2544.gofenews.com
+DOMAIN-SUFFIX,2544.lookinews.com
 DOMAIN-SUFFIX,25470c9fb7.193bde9ab1.com
 DOMAIN-SUFFIX,2548.gofenews.com
 DOMAIN-SUFFIX,2549.lookinews.com
@@ -3779,6 +3884,8 @@ DOMAIN-SUFFIX,2551.reminews.com
 DOMAIN-SUFFIX,2554.jemonews.com
 DOMAIN-SUFFIX,2555.gofenews.com
 DOMAIN-SUFFIX,2558.reminews.com
+DOMAIN-SUFFIX,2559.selornews.com
+DOMAIN-SUFFIX,2561.tegronews.com
 DOMAIN-SUFFIX,2562.reminews.com
 DOMAIN-SUFFIX,2564.lookinews.com
 DOMAIN-SUFFIX,2565.luronews.com
@@ -3787,11 +3894,13 @@ DOMAIN-SUFFIX,2567.tegronews.com
 DOMAIN-SUFFIX,2568.seponews.com
 DOMAIN-SUFFIX,2571.lycheenews.com
 DOMAIN-SUFFIX,2572.sifenews.com
+DOMAIN-SUFFIX,2573.jemonews.com
 DOMAIN-SUFFIX,2574.5clo0xmbf.com
 DOMAIN-SUFFIX,2574.lookinews.com
 DOMAIN-SUFFIX,2574.luronews.com
 DOMAIN-SUFFIX,2574.rookinews.com
 DOMAIN-SUFFIX,2575.jemonews.com
+DOMAIN-SUFFIX,2575.reminews.com
 DOMAIN-SUFFIX,2576.5clo0xmbf.com
 DOMAIN-SUFFIX,258104d2.live
 DOMAIN-SUFFIX,258482fdb7.0d076be0f4.com
@@ -3811,6 +3920,7 @@ DOMAIN-SUFFIX,25f853e885.d49ae3cc10.com
 DOMAIN-SUFFIX,25.guesswhatnews.com
 DOMAIN-SUFFIX,25obpfr.de
 DOMAIN-SUFFIX,25serve.yourporngod.com
+DOMAIN-SUFFIX,2600.jemonews.com
 DOMAIN-SUFFIX,2602.jemonews.com
 DOMAIN-SUFFIX,2603.lootynews.com
 DOMAIN-SUFFIX,2603.luronews.com
@@ -3818,6 +3928,7 @@ DOMAIN-SUFFIX,2606.sifenews.com
 DOMAIN-SUFFIX,2608.luronews.com
 DOMAIN-SUFFIX,260c0346d4.2a4722f5ee.com
 DOMAIN-SUFFIX,2610.luronews.com
+DOMAIN-SUFFIX,2614.gofenews.com
 DOMAIN-SUFFIX,2614.loopanews.com
 DOMAIN-SUFFIX,2615.gofenews.com
 DOMAIN-SUFFIX,2616.tegronews.com
@@ -3828,6 +3939,7 @@ DOMAIN-SUFFIX,2620.luronews.com
 DOMAIN-SUFFIX,2622.luronews.com
 DOMAIN-SUFFIX,2623.jemonews.com
 DOMAIN-SUFFIX,2628.reminews.com
+DOMAIN-SUFFIX,2629.reminews.com
 DOMAIN-SUFFIX,2630.gofenews.com
 DOMAIN-SUFFIX,2631.reminews.com
 DOMAIN-SUFFIX,2633.lycheenews.com
@@ -3841,6 +3953,7 @@ DOMAIN-SUFFIX,2639iqjkl.de
 DOMAIN-SUFFIX,263ce1e63f.a6947f0e54.com
 DOMAIN-SUFFIX,2641.jemonews.com
 DOMAIN-SUFFIX,2642.jemonews.com
+DOMAIN-SUFFIX,2644.lookinews.com
 DOMAIN-SUFFIX,2646.jemonews.com
 DOMAIN-SUFFIX,2647.reminews.com
 DOMAIN-SUFFIX,26485.top
@@ -3848,6 +3961,7 @@ DOMAIN-SUFFIX,2649.loopanews.com
 DOMAIN-SUFFIX,264c95d3e9.eaed8c304f.com
 DOMAIN-SUFFIX,2651.lookinews.com
 DOMAIN-SUFFIX,2651.lycheenews.com
+DOMAIN-SUFFIX,2653.reminews.com
 DOMAIN-SUFFIX,2655.jemonews.com
 DOMAIN-SUFFIX,2655.reminews.com
 DOMAIN-SUFFIX,2657.gofenews.com
@@ -3858,6 +3972,7 @@ DOMAIN-SUFFIX,2659.reminews.com
 DOMAIN-SUFFIX,2661.reminews.com
 DOMAIN-SUFFIX,2663.luronews.com
 DOMAIN-SUFFIX,2665.guesswhatnews.com
+DOMAIN-SUFFIX,2665.jemonews.com
 DOMAIN-SUFFIX,2666.reminews.com
 DOMAIN-SUFFIX,2668.luronews.com
 DOMAIN-SUFFIX,266.lycheenews.com
@@ -3865,6 +3980,7 @@ DOMAIN-SUFFIX,2671.5clo0xmbf.com
 DOMAIN-SUFFIX,2672.5clo0xmbf.com
 DOMAIN-SUFFIX,2675.reminews.com
 DOMAIN-SUFFIX,2681.tegronews.com
+DOMAIN-SUFFIX,2682.jemonews.com
 DOMAIN-SUFFIX,2683.huronews.com
 DOMAIN-SUFFIX,2683.reminews.com
 DOMAIN-SUFFIX,2685.luronews.com
@@ -3876,11 +3992,16 @@ DOMAIN-SUFFIX,2690.lootynews.com
 DOMAIN-SUFFIX,2691.lookinews.com
 DOMAIN-SUFFIX,2693.huronews.com
 DOMAIN-SUFFIX,2693.reminews.com
+DOMAIN-SUFFIX,2695.sifenews.com
 DOMAIN-SUFFIX,26ea4af114.com
 DOMAIN-SUFFIX,26q4nn691.de
+DOMAIN-SUFFIX,26.y2sysv81v.com
 DOMAIN-SUFFIX,2700.gofenews.com
+DOMAIN-SUFFIX,2700.lookinews.com
+DOMAIN-SUFFIX,2701.gofenews.com
 DOMAIN-SUFFIX,2702.5clo0xmbf.com
 DOMAIN-SUFFIX,2705.deeginews.com
+DOMAIN-SUFFIX,2705.reminews.com
 DOMAIN-SUFFIX,2706.luronews.com
 DOMAIN-SUFFIX,2711.rookinews.com
 DOMAIN-SUFFIX,2712.lootynews.com
@@ -3914,15 +4035,18 @@ DOMAIN-SUFFIX,2752.tegronews.com
 DOMAIN-SUFFIX,2755.jemonews.com
 DOMAIN-SUFFIX,2760.jemonews.com
 DOMAIN-SUFFIX,2761.reminews.com
+DOMAIN-SUFFIX,2765.gofenews.com
 DOMAIN-SUFFIX,2765.lootynews.com
 DOMAIN-SUFFIX,2766.deeginews.com
 DOMAIN-SUFFIX,2766.lookinews.com
+DOMAIN-SUFFIX,2768.luronews.com
 DOMAIN-SUFFIX,2772.luronews.com
 DOMAIN-SUFFIX,2773.reminews.com
 DOMAIN-SUFFIX,2776.lootynews.com
 DOMAIN-SUFFIX,2776.sosqboh85.com
 DOMAIN-SUFFIX,2778.lootynews.com
 DOMAIN-SUFFIX,2779ec7bc8.a6e822f510.com
+DOMAIN-SUFFIX,2779.reminews.com
 DOMAIN-SUFFIX,2780.5clo0xmbf.com
 DOMAIN-SUFFIX,2780.deeginews.com
 DOMAIN-SUFFIX,2780.lootynews.com
@@ -3935,6 +4059,7 @@ DOMAIN-SUFFIX,2790.guesswhatnews.com
 DOMAIN-SUFFIX,2790.lootynews.com
 DOMAIN-SUFFIX,2791.lootynews.com
 DOMAIN-SUFFIX,2792.jemonews.com
+DOMAIN-SUFFIX,2792.reminews.com
 DOMAIN-SUFFIX,2797.833enmhob.com
 DOMAIN-SUFFIX,2797.luronews.com
 DOMAIN-SUFFIX,2799.luronews.com
@@ -3966,13 +4091,16 @@ DOMAIN-SUFFIX,2818.luronews.com
 DOMAIN-SUFFIX,2818.reminews.com
 DOMAIN-SUFFIX,2818.rookinews.com
 DOMAIN-SUFFIX,2818.selornews.com
+DOMAIN-SUFFIX,2818w.gofenews.com
 DOMAIN-SUFFIX,2818w.huronews.com
 DOMAIN-SUFFIX,2818w.loopanews.com
 DOMAIN-SUFFIX,2818w.lootynews.com
 DOMAIN-SUFFIX,2818w.luronews.com
 DOMAIN-SUFFIX,2818w.reminews.com
+DOMAIN-SUFFIX,2819.5clo0xmbf.com
 DOMAIN-SUFFIX,2819.lookinews.com
 DOMAIN-SUFFIX,2819.luronews.com
+DOMAIN-SUFFIX,2819.reminews.com
 DOMAIN-SUFFIX,281a.gofenews.com
 DOMAIN-SUFFIX,281a.reminews.com
 DOMAIN-SUFFIX,2828.deeginews.com
@@ -3990,6 +4118,7 @@ DOMAIN-SUFFIX,2853.reminews.com
 DOMAIN-SUFFIX,2856.deeginews.com
 DOMAIN-SUFFIX,2857.reminews.com
 DOMAIN-SUFFIX,2858.reminews.com
+DOMAIN-SUFFIX,2859.lookinews.com
 DOMAIN-SUFFIX,285b0b37.xyz
 DOMAIN-SUFFIX,2860.jemonews.com
 DOMAIN-SUFFIX,2860.luronews.com
@@ -3999,6 +4128,7 @@ DOMAIN-SUFFIX,2865.reminews.com
 DOMAIN-SUFFIX,2866.reminews.com
 DOMAIN-SUFFIX,2869.jemonews.com
 DOMAIN-SUFFIX,2870.gofenews.com
+DOMAIN-SUFFIX,2870.lootynews.com
 DOMAIN-SUFFIX,2871.deeginews.com
 DOMAIN-SUFFIX,2871.reminews.com
 DOMAIN-SUFFIX,2873.huronews.com
@@ -4035,6 +4165,7 @@ DOMAIN-SUFFIX,2907.rookinews.com
 DOMAIN-SUFFIX,2909.jemonews.com
 DOMAIN-SUFFIX,2917.jemonews.com
 DOMAIN-SUFFIX,2918.jemonews.com
+DOMAIN-SUFFIX,2918.luronews.com
 DOMAIN-SUFFIX,2919.lookinews.com
 DOMAIN-SUFFIX,291hkcido.de
 DOMAIN-SUFFIX,2920.5clo0xmbf.com
@@ -4074,6 +4205,8 @@ DOMAIN-SUFFIX,2968.jemonews.com
 DOMAIN-SUFFIX,2969.sifenews.com
 DOMAIN-SUFFIX,2970.sifenews.com
 DOMAIN-SUFFIX,2971.luronews.com
+DOMAIN-SUFFIX,2973.gofenews.com
+DOMAIN-SUFFIX,2975.luronews.com
 DOMAIN-SUFFIX,2976.luronews.com
 DOMAIN-SUFFIX,2978.reminews.com
 DOMAIN-SUFFIX,2983.5clo0xmbf.com
@@ -4257,6 +4390,7 @@ DOMAIN-SUFFIX,3012.lycheenews.com
 DOMAIN-SUFFIX,3014.jemonews.com
 DOMAIN-SUFFIX,3019.5clo0xmbf.com
 DOMAIN-SUFFIX,3019.jemonews.com
+DOMAIN-SUFFIX,3019.lootynews.com
 DOMAIN-SUFFIX,3019.reminews.com
 DOMAIN-SUFFIX,3026.huronews.com
 DOMAIN-SUFFIX,3026.reminews.com
@@ -4292,6 +4426,7 @@ DOMAIN-SUFFIX,3065.reminews.com
 DOMAIN-SUFFIX,3067.4puuqeh41.com
 DOMAIN-SUFFIX,3069.5clo0xmbf.com
 DOMAIN-SUFFIX,3069.jemonews.com
+DOMAIN-SUFFIX,3069.reminews.com
 DOMAIN-SUFFIX,3070.terranewsblast.com
 DOMAIN-SUFFIX,3071caa5ff.com
 DOMAIN-SUFFIX,3072.sifenews.com
@@ -4315,6 +4450,7 @@ DOMAIN-SUFFIX,3092.jemonews.com
 DOMAIN-SUFFIX,30937261.xyz
 DOMAIN-SUFFIX,3093.luronews.com
 DOMAIN-SUFFIX,3094.jemonews.com
+DOMAIN-SUFFIX,3096.huronews.com
 DOMAIN-SUFFIX,3097.5clo0xmbf.com
 DOMAIN-SUFFIX,30986g8ab.de
 DOMAIN-SUFFIX,3098.deeginews.com
@@ -4354,6 +4490,7 @@ DOMAIN-SUFFIX,3116.tegronews.com
 DOMAIN-SUFFIX,3117.gofenews.com
 DOMAIN-SUFFIX,3120.deeginews.com
 DOMAIN-SUFFIX,3120jpllh.de
+DOMAIN-SUFFIX,3121.lootynews.com
 DOMAIN-SUFFIX,3124.reminews.com
 DOMAIN-SUFFIX,3127e9ed17.bd6afd7ab5.com
 DOMAIN-SUFFIX,3128.reminews.com
@@ -4368,13 +4505,16 @@ DOMAIN-SUFFIX,3141.lookinews.com
 DOMAIN-SUFFIX,3141.tegronews.com
 DOMAIN-SUFFIX,3143.reminews.com
 DOMAIN-SUFFIX,3146.lookinews.com
+DOMAIN-SUFFIX,3146.reminews.com
 DOMAIN-SUFFIX,3147.luronews.com
 DOMAIN-SUFFIX,3147.tegronews.com
 DOMAIN-SUFFIX,314b24ffc5.com
 DOMAIN-SUFFIX,314gqd3es.de
 DOMAIN-SUFFIX,3151.reminews.com
+DOMAIN-SUFFIX,3152.tegronews.com
 DOMAIN-SUFFIX,3153.jemonews.com
 DOMAIN-SUFFIX,3156.lookinews.com
+DOMAIN-SUFFIX,3157.luronews.com
 DOMAIN-SUFFIX,3158.reminews.com
 DOMAIN-SUFFIX,3159.jemonews.com
 DOMAIN-SUFFIX,3161.jemonews.com
@@ -4400,6 +4540,7 @@ DOMAIN-SUFFIX,3165703.notifysrv.com
 DOMAIN-SUFFIX,3165773.notifysrv.com
 DOMAIN-SUFFIX,3165779.notify6.com
 DOMAIN-SUFFIX,3165.jemonews.com
+DOMAIN-SUFFIX,3165.lootynews.com
 DOMAIN-SUFFIX,3166293.notifysrv.com
 DOMAIN-SUFFIX,3166309.notifysrv.com
 DOMAIN-SUFFIX,3166313.notifysrv.com
@@ -4471,6 +4612,7 @@ DOMAIN-SUFFIX,3181222.notifysrv.com
 DOMAIN-SUFFIX,3181924.notifysrv.com
 DOMAIN-SUFFIX,3181932.notifysrv.com
 DOMAIN-SUFFIX,3181.reminews.com
+DOMAIN-SUFFIX,3182.reminews.com
 DOMAIN-SUFFIX,3183803.notifysrv.com
 DOMAIN-SUFFIX,3183.reminews.com
 DOMAIN-SUFFIX,3184333.notifysrv.com
@@ -4568,6 +4710,7 @@ DOMAIN-SUFFIX,3215023.notifysrv.com
 DOMAIN-SUFFIX,3215685.notify6.com
 DOMAIN-SUFFIX,3215685.notifysrv.com
 DOMAIN-SUFFIX,3216263.notifysrv.com
+DOMAIN-SUFFIX,3216.luronews.com
 DOMAIN-SUFFIX,3217033.notifysrv.com
 DOMAIN-SUFFIX,3217213.notifysrv.com
 DOMAIN-SUFFIX,3218.79j68qav2.com
@@ -4607,6 +4750,7 @@ DOMAIN-SUFFIX,3232836.notify6.com
 DOMAIN-SUFFIX,3232836.notifysrv.com
 DOMAIN-SUFFIX,3233.guesswhatnews.com
 DOMAIN-SUFFIX,3234742.notifysrv.com
+DOMAIN-SUFFIX,3234.luronews.com
 DOMAIN-SUFFIX,3235.luronews.com
 DOMAIN-SUFFIX,3237962.notifysrv.com
 DOMAIN-SUFFIX,3237.deeginews.com
@@ -4670,6 +4814,7 @@ DOMAIN-SUFFIX,3273540.notifysrv.com
 DOMAIN-SUFFIX,3276222.notifysrv.com
 DOMAIN-SUFFIX,3278638.notify6.com
 DOMAIN-SUFFIX,327bdba97a.93d6b7d3b1.com
+DOMAIN-SUFFIX,3280.gofenews.com
 DOMAIN-SUFFIX,3280.jemonews.com
 DOMAIN-SUFFIX,3281804.notifysrv.com
 DOMAIN-SUFFIX,3281.luronews.com
@@ -4805,18 +4950,19 @@ DOMAIN-SUFFIX,3329496.notify6.com
 DOMAIN-SUFFIX,3329496.notifysrv.com
 DOMAIN-SUFFIX,3329724.notifysrv.com
 DOMAIN-SUFFIX,3329726.notifysrv.com
+DOMAIN-SUFFIX,3329.gofenews.com
 DOMAIN-SUFFIX,332e4cb7aa.d0e564588b.com
 DOMAIN-SUFFIX,3330.reminews.com
-DOMAIN-SUFFIX,3333.sanjay44.xyz
-DOMAIN-SUFFIX,3333.sieglinde22.xyz
 DOMAIN-SUFFIX,3334828.notify6.com
 DOMAIN-SUFFIX,3334.luronews.com
 DOMAIN-SUFFIX,3335306.notifysrv.com
+DOMAIN-SUFFIX,3335.loopanews.com
 DOMAIN-SUFFIX,3335.reminews.com
 DOMAIN-SUFFIX,3338422.notifysrv.com
 DOMAIN-SUFFIX,3338444.notify6.com
 DOMAIN-SUFFIX,3338444.notifysrv.com
 DOMAIN-SUFFIX,3338.lookinews.com
+DOMAIN-SUFFIX,3338.luronews.com
 DOMAIN-SUFFIX,3339654.notifysrv.com
 DOMAIN-SUFFIX,3339.gofenews.com
 DOMAIN-SUFFIX,3340606.notifysrv.com
@@ -4882,6 +5028,7 @@ DOMAIN-SUFFIX,3364.seponews.com
 DOMAIN-SUFFIX,3364.tegronews.com
 DOMAIN-SUFFIX,3365442.notifysrv.com
 DOMAIN-SUFFIX,3365.reminews.com
+DOMAIN-SUFFIX,3366.gofenews.com
 DOMAIN-SUFFIX,3367.4puuqeh41.com
 DOMAIN-SUFFIX,3370.luronews.com
 DOMAIN-SUFFIX,3372.jemonews.com
@@ -4976,6 +5123,7 @@ DOMAIN-SUFFIX,3411.jemonews.com
 DOMAIN-SUFFIX,3413.lootynews.com
 DOMAIN-SUFFIX,3414351.notifysrv.com
 DOMAIN-SUFFIX,3414369.notifysrv.com
+DOMAIN-SUFFIX,3414.lookinews.com
 DOMAIN-SUFFIX,3414.reminews.com
 DOMAIN-SUFFIX,3415.reminews.com
 DOMAIN-SUFFIX,3416097.notifysrv.com
@@ -5011,6 +5159,7 @@ DOMAIN-SUFFIX,3427951.notifysrv.com
 DOMAIN-SUFFIX,3428069.notifysrv.com
 DOMAIN-SUFFIX,3428.luronews.com
 DOMAIN-SUFFIX,3429075.notify6.com
+DOMAIN-SUFFIX,3429.deeginews.com
 DOMAIN-SUFFIX,3429.luronews.com
 DOMAIN-SUFFIX,3429.reminews.com
 DOMAIN-SUFFIX,3431.guesswhatnews.com
@@ -5032,6 +5181,7 @@ DOMAIN-SUFFIX,3440401.notifysrv.com
 DOMAIN-SUFFIX,3440403.notify6.com
 DOMAIN-SUFFIX,3440403.notifysrv.com
 DOMAIN-SUFFIX,3440407.notifysrv.com
+DOMAIN-SUFFIX,3440409.notify6.com
 DOMAIN-SUFFIX,3440409.notifysrv.com
 DOMAIN-SUFFIX,3440411.notify6.com
 DOMAIN-SUFFIX,3440413.notifysrv.com
@@ -5040,6 +5190,7 @@ DOMAIN-SUFFIX,3440.jemonews.com
 DOMAIN-SUFFIX,3440.luronews.com
 DOMAIN-SUFFIX,3442145.notifysrv.com
 DOMAIN-SUFFIX,3442291.notify6.com
+DOMAIN-SUFFIX,3442.gofenews.com
 DOMAIN-SUFFIX,3442.lootynews.com
 DOMAIN-SUFFIX,3444967.notify6.com
 DOMAIN-SUFFIX,3445.jemonews.com
@@ -5064,6 +5215,7 @@ DOMAIN-SUFFIX,3454909.notifysrv.com
 DOMAIN-SUFFIX,3455.jemonews.com
 DOMAIN-SUFFIX,345636.rhsy174op.com
 DOMAIN-SUFFIX,3456415.notifysrv.com
+DOMAIN-SUFFIX,3456.5clo0xmbf.com
 DOMAIN-SUFFIX,3457083.notifysrv.com
 DOMAIN-SUFFIX,3457323.notifysrv.com
 DOMAIN-SUFFIX,3457693.notifysrv.com
@@ -5106,7 +5258,10 @@ DOMAIN-SUFFIX,3467.luronews.com
 DOMAIN-SUFFIX,3468917.notify6.com
 DOMAIN-SUFFIX,3468917.notifysrv.com
 DOMAIN-SUFFIX,3468.reminews.com
+DOMAIN-SUFFIX,3469.79j68qav2.com
+DOMAIN-SUFFIX,3469.gofenews.com
 DOMAIN-SUFFIX,3469.reminews.com
+DOMAIN-SUFFIX,346.reminews.com
 DOMAIN-SUFFIX,346w.huronews.com
 DOMAIN-SUFFIX,346w.reminews.com
 DOMAIN-SUFFIX,3470933.notifysrv.com
@@ -5149,6 +5304,7 @@ DOMAIN-SUFFIX,3493551.notify6.com
 DOMAIN-SUFFIX,3493551.notifysrv.com
 DOMAIN-SUFFIX,3493753.notifysrv.com
 DOMAIN-SUFFIX,3493.reminews.com
+DOMAIN-SUFFIX,3495.deeginews.com
 DOMAIN-SUFFIX,3495.rookinews.com
 DOMAIN-SUFFIX,3496079.notify6.com
 DOMAIN-SUFFIX,3496.reminews.com
@@ -5165,6 +5321,7 @@ DOMAIN-SUFFIX,3500.lookinews.com
 DOMAIN-SUFFIX,3501655.notify6.com
 DOMAIN-SUFFIX,3501923.notify6.com
 DOMAIN-SUFFIX,3502.deeginews.com
+DOMAIN-SUFFIX,3502.lookinews.com
 DOMAIN-SUFFIX,3503.34gwl8v1a.com
 DOMAIN-SUFFIX,3504.reminews.com
 DOMAIN-SUFFIX,3505119.notify6.com
@@ -5205,10 +5362,12 @@ DOMAIN-SUFFIX,3512159.notifysrv.com
 DOMAIN-SUFFIX,3512165.notifysrv.com
 DOMAIN-SUFFIX,3512423.notifysrv.com
 DOMAIN-SUFFIX,3512929.notifysrv.com
+DOMAIN-SUFFIX,3512.jemonews.com
 DOMAIN-SUFFIX,3513563.notifysrv.com
 DOMAIN-SUFFIX,3515.lycheenews.com
 DOMAIN-SUFFIX,3515.reminews.com
 DOMAIN-SUFFIX,3516163.notifysrv.com
+DOMAIN-SUFFIX,3516.deeginews.com
 DOMAIN-SUFFIX,3516.gofenews.com
 DOMAIN-SUFFIX,3517123.notify6.com
 DOMAIN-SUFFIX,3517123.notifysrv.com
@@ -5313,6 +5472,7 @@ DOMAIN-SUFFIX,3572281.notifysrv.com
 DOMAIN-SUFFIX,3572283.notifysrv.com
 DOMAIN-SUFFIX,3572285.notifysrv.com
 DOMAIN-SUFFIX,3572291.notify6.com
+DOMAIN-SUFFIX,3572293.notify6.com
 DOMAIN-SUFFIX,3572293.notifysrv.com
 DOMAIN-SUFFIX,3572295.notify6.com
 DOMAIN-SUFFIX,3572299.notify6.com
@@ -5320,6 +5480,7 @@ DOMAIN-SUFFIX,3572299.notifysrv.com
 DOMAIN-SUFFIX,3572301.notify6.com
 DOMAIN-SUFFIX,3572303.notifysrv.com
 DOMAIN-SUFFIX,3572904.notifysrv.com
+DOMAIN-SUFFIX,3573.lootynews.com
 DOMAIN-SUFFIX,3573.luronews.com
 DOMAIN-SUFFIX,3575e2d4e6.com
 DOMAIN-SUFFIX,3575.guesswhatnews.com
@@ -5396,6 +5557,7 @@ DOMAIN-SUFFIX,3599727.notify6.com
 DOMAIN-SUFFIX,3599.deeginews.com
 DOMAIN-SUFFIX,35fdef5d29.8abd062147.com
 DOMAIN-SUFFIX,35volitantplimsoles5.com
+DOMAIN-SUFFIX,36006ca3dd.com
 DOMAIN-SUFFIX,3600.jemonews.com
 DOMAIN-SUFFIX,3600.lookinews.com
 DOMAIN-SUFFIX,3603119.notifysrv.com
@@ -5430,6 +5592,7 @@ DOMAIN-SUFFIX,3621607.notifysrv.com
 DOMAIN-SUFFIX,3622691.notify6.com
 DOMAIN-SUFFIX,3622827.notify6.com
 DOMAIN-SUFFIX,3622911ae3.com
+DOMAIN-SUFFIX,3623.jemonews.com
 DOMAIN-SUFFIX,3625.k3718qw08.com
 DOMAIN-SUFFIX,3626e5e71a.305421ba72.com
 DOMAIN-SUFFIX,3629687.notify6.com
@@ -5446,9 +5609,11 @@ DOMAIN-SUFFIX,3635.luronews.com
 DOMAIN-SUFFIX,3636.jemonews.com
 DOMAIN-SUFFIX,3636.reminews.com
 DOMAIN-SUFFIX,3637423.notifysrv.com
+DOMAIN-SUFFIX,3637.rookinews.com
 DOMAIN-SUFFIX,3638de9651.7bb072c1e1.com
 DOMAIN-SUFFIX,3639.jemonews.com
 DOMAIN-SUFFIX,3641.lycheenews.com
+DOMAIN-SUFFIX,3643.gofenews.com
 DOMAIN-SUFFIX,3644.huronews.com
 DOMAIN-SUFFIX,3647443.notifysrv.com
 DOMAIN-SUFFIX,3648599.notifysrv.com
@@ -5507,6 +5672,7 @@ DOMAIN-SUFFIX,3682181.notify6.com
 DOMAIN-SUFFIX,3682345.notifysrv.com
 DOMAIN-SUFFIX,36833185.xyz
 DOMAIN-SUFFIX,3684237.notify6.com
+DOMAIN-SUFFIX,3685.reminews.com
 DOMAIN-SUFFIX,3685.tegronews.com
 DOMAIN-SUFFIX,3687.reminews.com
 DOMAIN-SUFFIX,3693.833enmhob.com
@@ -5514,7 +5680,6 @@ DOMAIN-SUFFIX,3693.lootynews.com
 DOMAIN-SUFFIX,3694.lookinews.com
 DOMAIN-SUFFIX,3694.luronews.com
 DOMAIN-SUFFIX,36b8b096d6.7652c22de1.com
-DOMAIN-SUFFIX,36c4345fdc.c473f6ab10.com
 DOMAIN-SUFFIX,36e2c762e2.6a59fa5129.com
 DOMAIN-SUFFIX,36f0cfe37d.db770a49df.com
 DOMAIN-SUFFIX,36.guesswhatnews.com
@@ -5539,8 +5704,10 @@ DOMAIN-SUFFIX,3717105.notify6.com
 DOMAIN-SUFFIX,3717105.notifysrv.com
 DOMAIN-SUFFIX,3717259.notifysrv.com
 DOMAIN-SUFFIX,3717.jemonews.com
+DOMAIN-SUFFIX,3718.deeginews.com
 DOMAIN-SUFFIX,3718.lookinews.com
 DOMAIN-SUFFIX,3719901.notify6.com
+DOMAIN-SUFFIX,3721.reminews.com
 DOMAIN-SUFFIX,3722.lootynews.com
 DOMAIN-SUFFIX,3722.rookinews.com
 DOMAIN-SUFFIX,3723.sosqboh85.com
@@ -5559,7 +5726,9 @@ DOMAIN-SUFFIX,3731701.notify6.com
 DOMAIN-SUFFIX,3733283.notifysrv.com
 DOMAIN-SUFFIX,3733673.notifysrv.com
 DOMAIN-SUFFIX,3733.lootynews.com
+DOMAIN-SUFFIX,3735.jemonews.com
 DOMAIN-SUFFIX,3735.reminews.com
+DOMAIN-SUFFIX,3738.reminews.com
 DOMAIN-SUFFIX,3739013.notify6.com
 DOMAIN-SUFFIX,3740.5clo0xmbf.com
 DOMAIN-SUFFIX,3740615.notifysrv.com
@@ -5571,6 +5740,7 @@ DOMAIN-SUFFIX,3745191.notify6.com
 DOMAIN-SUFFIX,3745191.notifysrv.com
 DOMAIN-SUFFIX,3745197.notify6.com
 DOMAIN-SUFFIX,3745.luronews.com
+DOMAIN-SUFFIX,3747.gofenews.com
 DOMAIN-SUFFIX,3748.huronews.com
 DOMAIN-SUFFIX,3749331.notify6.com
 DOMAIN-SUFFIX,374.jemonews.com
@@ -5605,6 +5775,7 @@ DOMAIN-SUFFIX,3775247.notifysrv.com
 DOMAIN-SUFFIX,3776.reminews.com
 DOMAIN-SUFFIX,3777.79j68qav2.com
 DOMAIN-SUFFIX,3778.reminews.com
+DOMAIN-SUFFIX,3779.deeginews.com
 DOMAIN-SUFFIX,3779.luronews.com
 DOMAIN-SUFFIX,3780.gofenews.com
 DOMAIN-SUFFIX,3781.reminews.com
@@ -5614,7 +5785,9 @@ DOMAIN-SUFFIX,3783125.notifysrv.com
 DOMAIN-SUFFIX,3787.jemonews.com
 DOMAIN-SUFFIX,3789593.notify6.com
 DOMAIN-SUFFIX,3789703.notifysrv.com
+DOMAIN-SUFFIX,3789861.notifysrv.com
 DOMAIN-SUFFIX,3791967.notify6.com
+DOMAIN-SUFFIX,3791.reminews.com
 DOMAIN-SUFFIX,3792.lycheenews.com
 DOMAIN-SUFFIX,3793871.notifysrv.com
 DOMAIN-SUFFIX,3793875.notify6.com
@@ -5634,6 +5807,7 @@ DOMAIN-SUFFIX,380526f50a.e9a5ed7d7a.com
 DOMAIN-SUFFIX,3805703.notifysrv.com
 DOMAIN-SUFFIX,3807.reminews.com
 DOMAIN-SUFFIX,3808.reminews.com
+DOMAIN-SUFFIX,3809.reminews.com
 DOMAIN-SUFFIX,3810.gofenews.com
 DOMAIN-SUFFIX,3811.jemonews.com
 DOMAIN-SUFFIX,3814695.notifysrv.com
@@ -5645,6 +5819,7 @@ DOMAIN-SUFFIX,3817.loopanews.com
 DOMAIN-SUFFIX,38227.79j68qav2.com
 DOMAIN-SUFFIX,3822855.notifysrv.com
 DOMAIN-SUFFIX,3822893.notifysrv.com
+DOMAIN-SUFFIX,3822.reminews.com
 DOMAIN-SUFFIX,38236a5b03.e770af238b.com
 DOMAIN-SUFFIX,3823.jemonews.com
 DOMAIN-SUFFIX,3827.luronews.com
@@ -5679,6 +5854,8 @@ DOMAIN-SUFFIX,3858841.notify6.com
 DOMAIN-SUFFIX,3858.lookinews.com
 DOMAIN-SUFFIX,3859.reminews.com
 DOMAIN-SUFFIX,3860.deeginews.com
+DOMAIN-SUFFIX,3861.5clo0xmbf.com
+DOMAIN-SUFFIX,3861.reminews.com
 DOMAIN-SUFFIX,3862.luronews.com
 DOMAIN-SUFFIX,3863.reminews.com
 DOMAIN-SUFFIX,3864.huronews.com
@@ -5709,6 +5886,7 @@ DOMAIN-SUFFIX,3873.jemonews.com
 DOMAIN-SUFFIX,3876.jemonews.com
 DOMAIN-SUFFIX,3877.luronews.com
 DOMAIN-SUFFIX,3878176.notify6.com
+DOMAIN-SUFFIX,3880.5clo0xmbf.com
 DOMAIN-SUFFIX,3880638.notify6.com
 DOMAIN-SUFFIX,3880.gofenews.com
 DOMAIN-SUFFIX,3880.luronews.com
@@ -5722,6 +5900,7 @@ DOMAIN-SUFFIX,3887544.notify6.com
 DOMAIN-SUFFIX,3887.5clo0xmbf.com
 DOMAIN-SUFFIX,3887.deeginews.com
 DOMAIN-SUFFIX,3887.reminews.com
+DOMAIN-SUFFIX,3890.jemonews.com
 DOMAIN-SUFFIX,3890.lycheenews.com
 DOMAIN-SUFFIX,3892.deeginews.com
 DOMAIN-SUFFIX,3893.jemonews.com
@@ -5732,6 +5911,7 @@ DOMAIN-SUFFIX,3898244.notify6.com
 DOMAIN-SUFFIX,3898280.notify6.com
 DOMAIN-SUFFIX,3898378.notify6.com
 DOMAIN-SUFFIX,3899.jemonews.com
+DOMAIN-SUFFIX,38a3a42162.25e1657c6a.com
 DOMAIN-SUFFIX,38dbfd540c.com
 DOMAIN-SUFFIX,38ds89f8.de
 DOMAIN-SUFFIX,38eoeyf93dude0nh.8pv9vvi9b.com
@@ -5751,6 +5931,7 @@ DOMAIN-SUFFIX,3909064.notify6.com
 DOMAIN-SUFFIX,3909.reminews.com
 DOMAIN-SUFFIX,3911078.notify6.com
 DOMAIN-SUFFIX,3912.reminews.com
+DOMAIN-SUFFIX,3913.deeginews.com
 DOMAIN-SUFFIX,3914108.notify6.com
 DOMAIN-SUFFIX,3914.reminews.com
 DOMAIN-SUFFIX,3915.reminews.com
@@ -5770,6 +5951,7 @@ DOMAIN-SUFFIX,3921002.notify6.com
 DOMAIN-SUFFIX,39236100.lotre.io
 DOMAIN-SUFFIX,3923.lookinews.com
 DOMAIN-SUFFIX,3923.lycheenews.com
+DOMAIN-SUFFIX,3924.luronews.com
 DOMAIN-SUFFIX,39268ea911.com
 DOMAIN-SUFFIX,3927797c1f.94789b3f8f.com
 DOMAIN-SUFFIX,3927.tsmt5revp.com
@@ -5786,6 +5968,7 @@ DOMAIN-SUFFIX,3938711.notify6.com
 DOMAIN-SUFFIX,3938.deeginews.com
 DOMAIN-SUFFIX,3939960.notify6.com
 DOMAIN-SUFFIX,3943940.notify6.com
+DOMAIN-SUFFIX,3943.gofenews.com
 DOMAIN-SUFFIX,3944044.notify6.com
 DOMAIN-SUFFIX,3944974.notify6.com
 DOMAIN-SUFFIX,3944976.notify6.com
@@ -5801,6 +5984,7 @@ DOMAIN-SUFFIX,3946250.notify6.com
 DOMAIN-SUFFIX,3946260.notify6.com
 DOMAIN-SUFFIX,3946.luronews.com
 DOMAIN-SUFFIX,3948256.notify6.com
+DOMAIN-SUFFIX,3948.5clo0xmbf.com
 DOMAIN-SUFFIX,3949.lookinews.com
 DOMAIN-SUFFIX,3950056.notify6.com
 DOMAIN-SUFFIX,3950664.notify6.com
@@ -5808,6 +5992,7 @@ DOMAIN-SUFFIX,3950808.notify6.com
 DOMAIN-SUFFIX,3951.jemonews.com
 DOMAIN-SUFFIX,3951.lookinews.com
 DOMAIN-SUFFIX,3952.79j68qav2.com
+DOMAIN-SUFFIX,3953.gofenews.com
 DOMAIN-SUFFIX,3955.jemonews.com
 DOMAIN-SUFFIX,3956.deeginews.com
 DOMAIN-SUFFIX,3957976.notify6.com
@@ -5851,6 +6036,7 @@ DOMAIN-SUFFIX,3985.lootynews.com
 DOMAIN-SUFFIX,3985.reminews.com
 DOMAIN-SUFFIX,3986.huronews.com
 DOMAIN-SUFFIX,3987.loopanews.com
+DOMAIN-SUFFIX,3988.gofenews.com
 DOMAIN-SUFFIX,3988.jemonews.com
 DOMAIN-SUFFIX,3989692.notify6.com
 DOMAIN-SUFFIX,3989.luronews.com
@@ -5887,6 +6073,7 @@ DOMAIN-SUFFIX,3bc9b1b89c.com
 DOMAIN-SUFFIX,3bfb3c04e6.6991eeac66.com
 DOMAIN-SUFFIX,3bq57qu8o.com
 DOMAIN-SUFFIX,3br.lycheenews.com
+DOMAIN-SUFFIX,3c1f913b4d.2382a095f4.com
 DOMAIN-SUFFIX,3cb9b57efc.com
 DOMAIN-SUFFIX,3cg6sa78w.com
 DOMAIN-SUFFIX,3d2672504b.d1523a346a.com
@@ -5963,6 +6150,7 @@ DOMAIN-SUFFIX,4010.sifenews.com
 DOMAIN-SUFFIX,4011.luronews.com
 DOMAIN-SUFFIX,4014.jemonews.com
 DOMAIN-SUFFIX,4014.luronews.com
+DOMAIN-SUFFIX,4015.reminews.com
 DOMAIN-SUFFIX,4018398.notify6.com
 DOMAIN-SUFFIX,4019.luronews.com
 DOMAIN-SUFFIX,40209f514e.com
@@ -5974,8 +6162,10 @@ DOMAIN-SUFFIX,4022504.notify6.com
 DOMAIN-SUFFIX,4022684.notify6.com
 DOMAIN-SUFFIX,4022.luronews.com
 DOMAIN-SUFFIX,4024.cosmicnewspulse.com
+DOMAIN-SUFFIX,4024.luronews.com
 DOMAIN-SUFFIX,4026.jemonews.com
 DOMAIN-SUFFIX,4026.reminews.com
+DOMAIN-SUFFIX,4027.jemonews.com
 DOMAIN-SUFFIX,4028412.notify6.com
 DOMAIN-SUFFIX,4028414.notify6.com
 DOMAIN-SUFFIX,4028.deeginews.com
@@ -6052,24 +6242,29 @@ DOMAIN-SUFFIX,4068856.notify6.com
 DOMAIN-SUFFIX,4068860.notify6.com
 DOMAIN-SUFFIX,4069896.notify6.com
 DOMAIN-SUFFIX,4069900.notify6.com
+DOMAIN-SUFFIX,4069.jemonews.com
 DOMAIN-SUFFIX,4069.reminews.com
 DOMAIN-SUFFIX,4070.tegronews.com
 DOMAIN-SUFFIX,4071073a42.ea011c4ae4.com
 DOMAIN-SUFFIX,4073.lookinews.com
 DOMAIN-SUFFIX,4074.lootynews.com
 DOMAIN-SUFFIX,4076.reminews.com
+DOMAIN-SUFFIX,4077.reminews.com
 DOMAIN-SUFFIX,4078544.notify6.com
 DOMAIN-SUFFIX,4078.lootynews.com
+DOMAIN-SUFFIX,4079.reminews.com
 DOMAIN-SUFFIX,4080560.notify6.com
 DOMAIN-SUFFIX,4080606.notify6.com
 DOMAIN-SUFFIX,4080872.notify6.com
 DOMAIN-SUFFIX,4081.deeginews.com
 DOMAIN-SUFFIX,4081.k3718qw08.com
 DOMAIN-SUFFIX,4082.jemonews.com
+DOMAIN-SUFFIX,4082.reminews.com
 DOMAIN-SUFFIX,4084.jemonews.com
 DOMAIN-SUFFIX,4084.reminews.com
 DOMAIN-SUFFIX,4086498.notify6.com
 DOMAIN-SUFFIX,4086.luronews.com
+DOMAIN-SUFFIX,4087.deeginews.com
 DOMAIN-SUFFIX,4088846d50.com
 DOMAIN-SUFFIX,408.luronews.com
 DOMAIN-SUFFIX,4092.jemonews.com
@@ -6110,6 +6305,7 @@ DOMAIN-SUFFIX,4118.reminews.com
 DOMAIN-SUFFIX,4121.lookinews.com
 DOMAIN-SUFFIX,4121.lootynews.com
 DOMAIN-SUFFIX,4122.lookinews.com
+DOMAIN-SUFFIX,4124.reminews.com
 DOMAIN-SUFFIX,4125.deeginews.com
 DOMAIN-SUFFIX,4125.lookinews.com
 DOMAIN-SUFFIX,4125.reminews.com
@@ -6133,10 +6329,12 @@ DOMAIN-SUFFIX,4136.reminews.com
 DOMAIN-SUFFIX,4137.lookinews.com
 DOMAIN-SUFFIX,4138684.notify6.com
 DOMAIN-SUFFIX,4142702.notify6.com
+DOMAIN-SUFFIX,4142.gofenews.com
 DOMAIN-SUFFIX,4143324.notify6.com
 DOMAIN-SUFFIX,4144426.notify6.com
 DOMAIN-SUFFIX,4144.jemonews.com
 DOMAIN-SUFFIX,4144.luronews.com
+DOMAIN-SUFFIX,4144.tegronews.com
 DOMAIN-SUFFIX,4145.jemonews.com
 DOMAIN-SUFFIX,4146994.notify6.com
 DOMAIN-SUFFIX,4146.jemonews.com
@@ -6159,9 +6357,11 @@ DOMAIN-SUFFIX,4152.reminews.com
 DOMAIN-SUFFIX,4153216.notify6.com
 DOMAIN-SUFFIX,4157.5clo0xmbf.com
 DOMAIN-SUFFIX,4157.jemonews.com
+DOMAIN-SUFFIX,4157.reminews.com
 DOMAIN-SUFFIX,4160048.notify6.com
 DOMAIN-SUFFIX,4160112.notify6.com
 DOMAIN-SUFFIX,4161.jemonews.com
+DOMAIN-SUFFIX,4161.lookinews.com
 DOMAIN-SUFFIX,4162032.notify6.com
 DOMAIN-SUFFIX,4162254.notify6.com
 DOMAIN-SUFFIX,4162256.notify6.com
@@ -6183,6 +6383,7 @@ DOMAIN-SUFFIX,4177784.notify6.com
 DOMAIN-SUFFIX,4177.jemonews.com
 DOMAIN-SUFFIX,4179930.notify6.com
 DOMAIN-SUFFIX,4179.luronews.com
+DOMAIN-SUFFIX,4181.sifenews.com
 DOMAIN-SUFFIX,4181.tegronews.com
 DOMAIN-SUFFIX,4182036.notify6.com
 DOMAIN-SUFFIX,4182.reminews.com
@@ -6190,6 +6391,7 @@ DOMAIN-SUFFIX,4182.sosqboh85.com
 DOMAIN-SUFFIX,4186.luronews.com
 DOMAIN-SUFFIX,4187.lootynews.com
 DOMAIN-SUFFIX,4188246.notify6.com
+DOMAIN-SUFFIX,4189280.notify6.com
 DOMAIN-SUFFIX,4189332.notify6.com
 DOMAIN-SUFFIX,4189336.notify6.com
 DOMAIN-SUFFIX,4189910.notify6.com
@@ -6210,6 +6412,7 @@ DOMAIN-SUFFIX,41eak.life
 DOMAIN-SUFFIX,41.lycheenews.com
 DOMAIN-SUFFIX,4200.reminews.com
 DOMAIN-SUFFIX,4205.5clo0xmbf.com
+DOMAIN-SUFFIX,4208.lootynews.com
 DOMAIN-SUFFIX,420db600.xyz
 DOMAIN-SUFFIX,4210.reminews.com
 DOMAIN-SUFFIX,4211854.notify6.com
@@ -6233,6 +6436,7 @@ DOMAIN-SUFFIX,4225290.notify6.com
 DOMAIN-SUFFIX,4225.tegronews.com
 DOMAIN-SUFFIX,422680d506.7d2d5e588a.com
 DOMAIN-SUFFIX,4227.5clo0xmbf.com
+DOMAIN-SUFFIX,4227.gofenews.com
 DOMAIN-SUFFIX,4227.luronews.com
 DOMAIN-SUFFIX,4229.lookinews.com
 DOMAIN-SUFFIX,4230500.notify6.com
@@ -6267,6 +6471,7 @@ DOMAIN-SUFFIX,4258912000.cf76b8779a.com
 DOMAIN-SUFFIX,4258.jemonews.com
 DOMAIN-SUFFIX,4259086.notify6.com
 DOMAIN-SUFFIX,4260738.notify6.com
+DOMAIN-SUFFIX,4260.gofenews.com
 DOMAIN-SUFFIX,4261.jemonews.com
 DOMAIN-SUFFIX,4265.reminews.com
 DOMAIN-SUFFIX,4266030.notify6.com
@@ -6279,6 +6484,7 @@ DOMAIN-SUFFIX,426.jemonews.com
 DOMAIN-SUFFIX,4270600.notify6.com
 DOMAIN-SUFFIX,4270606.notify6.com
 DOMAIN-SUFFIX,4270618.notify6.com
+DOMAIN-SUFFIX,4270.jemonews.com
 DOMAIN-SUFFIX,4274616.notify6.com
 DOMAIN-SUFFIX,4274618.notify6.com
 DOMAIN-SUFFIX,4275.jemonews.com
@@ -6309,6 +6515,7 @@ DOMAIN-SUFFIX,4300970.notify6.com
 DOMAIN-SUFFIX,4302.jemonews.com
 DOMAIN-SUFFIX,4305016.notify6.com
 DOMAIN-SUFFIX,4305094.notify6.com
+DOMAIN-SUFFIX,4306130.notify6.com
 DOMAIN-SUFFIX,4306.jemonews.com
 DOMAIN-SUFFIX,4306.lookinews.com
 DOMAIN-SUFFIX,4306.loopanews.com
@@ -6337,6 +6544,7 @@ DOMAIN-SUFFIX,4329306.notify6.com
 DOMAIN-SUFFIX,4329.jemonews.com
 DOMAIN-SUFFIX,432.guesswhatnews.com
 DOMAIN-SUFFIX,4332.bestinterestings.com
+DOMAIN-SUFFIX,4336.gofenews.com
 DOMAIN-SUFFIX,4337.reminews.com
 DOMAIN-SUFFIX,4338.luronews.com
 DOMAIN-SUFFIX,433bcaa83b.com
@@ -6369,7 +6577,9 @@ DOMAIN-SUFFIX,4373.sifenews.com
 DOMAIN-SUFFIX,4374.reminews.com
 DOMAIN-SUFFIX,4374.sifenews.com
 DOMAIN-SUFFIX,4376.jemonews.com
+DOMAIN-SUFFIX,4376.lookinews.com
 DOMAIN-SUFFIX,4379.luronews.com
+DOMAIN-SUFFIX,4380.gofenews.com
 DOMAIN-SUFFIX,4383.jemonews.com
 DOMAIN-SUFFIX,4384.jemonews.com
 DOMAIN-SUFFIX,4388.reminews.com
@@ -6389,6 +6599,7 @@ DOMAIN-SUFFIX,43t53c9e.de
 DOMAIN-SUFFIX,4400.deeginews.com
 DOMAIN-SUFFIX,4401.gofenews.com
 DOMAIN-SUFFIX,4402.lootynews.com
+DOMAIN-SUFFIX,4402.sifenews.com
 DOMAIN-SUFFIX,4403.jemonews.com
 DOMAIN-SUFFIX,4405.lootynews.com
 DOMAIN-SUFFIX,4406fd3cbb.fad1ef26a9.com
@@ -6399,6 +6610,7 @@ DOMAIN-SUFFIX,4407892.notify6.com
 DOMAIN-SUFFIX,4407.luronews.com
 DOMAIN-SUFFIX,4408.jemonews.com
 DOMAIN-SUFFIX,4410.luronews.com
+DOMAIN-SUFFIX,4411.gofenews.com
 DOMAIN-SUFFIX,4412ed1088.9bdf800214.com
 DOMAIN-SUFFIX,4415.lootynews.com
 DOMAIN-SUFFIX,4415.luronews.com
@@ -6417,19 +6629,19 @@ DOMAIN-SUFFIX,4429788.notify6.com
 DOMAIN-SUFFIX,4429.reminews.com
 DOMAIN-SUFFIX,442fc29954.com
 DOMAIN-SUFFIX,4435.lootynews.com
+DOMAIN-SUFFIX,4437.reminews.com
 DOMAIN-SUFFIX,4439.gofenews.com
 DOMAIN-SUFFIX,4439.ogrt80r65.com
 DOMAIN-SUFFIX,4440.gofenews.com
 DOMAIN-SUFFIX,4441.reminews.com
 DOMAIN-SUFFIX,4442.jemonews.com
 DOMAIN-SUFFIX,4443548.notify6.com
-DOMAIN-SUFFIX,4444.sanjay44.xyz
-DOMAIN-SUFFIX,4444.sieglinde22.xyz
 DOMAIN-SUFFIX,444515f79a.828af6b8ce.com
 DOMAIN-SUFFIX,4446.reminews.com
 DOMAIN-SUFFIX,4447.reminews.com
 DOMAIN-SUFFIX,4448.jemonews.com
 DOMAIN-SUFFIX,4448.lookinews.com
+DOMAIN-SUFFIX,4448.reminews.com
 DOMAIN-SUFFIX,4449ae38c2.ee3d8d5c76.com
 DOMAIN-SUFFIX,4449.reminews.com
 DOMAIN-SUFFIX,4450.huronews.com
@@ -6441,6 +6653,8 @@ DOMAIN-SUFFIX,4456.4puuqeh41.com
 DOMAIN-SUFFIX,4456.tegronews.com
 DOMAIN-SUFFIX,4458.reminews.com
 DOMAIN-SUFFIX,4459.lookinews.com
+DOMAIN-SUFFIX,4462.huronews.com
+DOMAIN-SUFFIX,4464.jemonews.com
 DOMAIN-SUFFIX,4465254.notify6.com
 DOMAIN-SUFFIX,4465.jemonews.com
 DOMAIN-SUFFIX,4466.jemonews.com
@@ -6529,6 +6743,7 @@ DOMAIN-SUFFIX,45496fee.xyz
 DOMAIN-SUFFIX,4553.jemonews.com
 DOMAIN-SUFFIX,4554.gofenews.com
 DOMAIN-SUFFIX,4554.lookinews.com
+DOMAIN-SUFFIX,4560.lookinews.com
 DOMAIN-SUFFIX,4561.deeginews.com
 DOMAIN-SUFFIX,4562.reminews.com
 DOMAIN-SUFFIX,4568.luronews.com
@@ -6579,6 +6794,7 @@ DOMAIN-SUFFIX,4610.jemonews.com
 DOMAIN-SUFFIX,4611.gofenews.com
 DOMAIN-SUFFIX,4611.lootynews.com
 DOMAIN-SUFFIX,4611.reminews.com
+DOMAIN-SUFFIX,4614.lootynews.com
 DOMAIN-SUFFIX,4615884.notify6.com
 DOMAIN-SUFFIX,4616.reminews.com
 DOMAIN-SUFFIX,46186911.vtt
@@ -6642,6 +6858,7 @@ DOMAIN-SUFFIX,4682.luronews.com
 DOMAIN-SUFFIX,4684.jemonews.com
 DOMAIN-SUFFIX,4685.luronews.com
 DOMAIN-SUFFIX,4689.gofenews.com
+DOMAIN-SUFFIX,4689.lookinews.com
 DOMAIN-SUFFIX,4690.reminews.com
 DOMAIN-SUFFIX,4690y10pvpq8.com
 DOMAIN-SUFFIX,4691.luronews.com
@@ -6673,6 +6890,7 @@ DOMAIN-SUFFIX,4718.lootynews.com
 DOMAIN-SUFFIX,4718.reminews.com
 DOMAIN-SUFFIX,4719.deeginews.com
 DOMAIN-SUFFIX,4719.gofenews.com
+DOMAIN-SUFFIX,47206262.xyz
 DOMAIN-SUFFIX,4720.gofenews.com
 DOMAIN-SUFFIX,4720.jemonews.com
 DOMAIN-SUFFIX,4721.reminews.com
@@ -6717,12 +6935,15 @@ DOMAIN-SUFFIX,4756.5clo0xmbf.com
 DOMAIN-SUFFIX,4760.gofenews.com
 DOMAIN-SUFFIX,4763.reminews.com
 DOMAIN-SUFFIX,4764.reminews.com
+DOMAIN-SUFFIX,4765.guesswhatnews.com
+DOMAIN-SUFFIX,4768.jemonews.com
 DOMAIN-SUFFIX,4769.deeginews.com
 DOMAIN-SUFFIX,4770.lootynews.com
 DOMAIN-SUFFIX,4770.reminews.com
 DOMAIN-SUFFIX,4771.gofenews.com
 DOMAIN-SUFFIX,4771.guesswhatnews.com
 DOMAIN-SUFFIX,4773.rookinews.com
+DOMAIN-SUFFIX,4774.reminews.com
 DOMAIN-SUFFIX,4775.5clo0xmbf.com
 DOMAIN-SUFFIX,4776.reminews.com
 DOMAIN-SUFFIX,4780.reminews.com
@@ -6761,6 +6982,7 @@ DOMAIN-SUFFIX,4798638.notify6.com
 DOMAIN-SUFFIX,4798.jemonews.com
 DOMAIN-SUFFIX,4799078.notify6.com
 DOMAIN-SUFFIX,47c8d48301.com
+DOMAIN-SUFFIX,47.deeginews.com
 DOMAIN-SUFFIX,47df036031.47b2b18670.com
 DOMAIN-SUFFIX,47dff461d7.5afd9ec0ab.com
 DOMAIN-SUFFIX,4800.jemonews.com
@@ -6798,6 +7020,7 @@ DOMAIN-SUFFIX,4836762.notify6.com
 DOMAIN-SUFFIX,4836.jemonews.com
 DOMAIN-SUFFIX,4836.reminews.com
 DOMAIN-SUFFIX,4838.deeginews.com
+DOMAIN-SUFFIX,4840.jemonews.com
 DOMAIN-SUFFIX,4841896.notify6.com
 DOMAIN-SUFFIX,4841.cosmicnewspulse.com
 DOMAIN-SUFFIX,4841.k3718qw08.com
@@ -6807,6 +7030,8 @@ DOMAIN-SUFFIX,4844.deeginews.com
 DOMAIN-SUFFIX,4845.gofenews.com
 DOMAIN-SUFFIX,4847642.notify6.com
 DOMAIN-SUFFIX,4847.gofenews.com
+DOMAIN-SUFFIX,4848.reminews.com
+DOMAIN-SUFFIX,4850.reminews.com
 DOMAIN-SUFFIX,4851.reminews.com
 DOMAIN-SUFFIX,4852.lookinews.com
 DOMAIN-SUFFIX,4855.guesswhatnews.com
@@ -6831,6 +7056,7 @@ DOMAIN-SUFFIX,4867.reminews.com
 DOMAIN-SUFFIX,4872274.notify6.com
 DOMAIN-SUFFIX,4872816.notify6.com
 DOMAIN-SUFFIX,4873.gofenews.com
+DOMAIN-SUFFIX,4876.luronews.com
 DOMAIN-SUFFIX,4877.reminews.com
 DOMAIN-SUFFIX,4880.5clo0xmbf.com
 DOMAIN-SUFFIX,4881146.notify6.com
@@ -6879,8 +7105,10 @@ DOMAIN-SUFFIX,49333767.xyz
 DOMAIN-SUFFIX,4934.reminews.com
 DOMAIN-SUFFIX,4938.reminews.com
 DOMAIN-SUFFIX,493.lycheenews.com
+DOMAIN-SUFFIX,4942.luronews.com
 DOMAIN-SUFFIX,4944.guesswhatnews.com
 DOMAIN-SUFFIX,4945.5clo0xmbf.com
+DOMAIN-SUFFIX,4945.jemonews.com
 DOMAIN-SUFFIX,4945.lycheenews.com
 DOMAIN-SUFFIX,4947244.notify6.com
 DOMAIN-SUFFIX,4947.jemonews.com
@@ -6921,6 +7149,7 @@ DOMAIN-SUFFIX,4997.loopanews.com
 DOMAIN-SUFFIX,4998.5clo0xmbf.com
 DOMAIN-SUFFIX,4999.selornews.com
 DOMAIN-SUFFIX,499ad88d2d.03eea1b6dd.com
+DOMAIN-SUFFIX,49b5412749.cdf057ad83.com
 DOMAIN-SUFFIX,49b6b77e56.com
 DOMAIN-SUFFIX,49.bestinterestings.com
 DOMAIN-SUFFIX,49d4db4864.com
@@ -7017,8 +7246,11 @@ DOMAIN-SUFFIX,5006.tegronews.com
 DOMAIN-SUFFIX,5011.reminews.com
 DOMAIN-SUFFIX,5012.luronews.com
 DOMAIN-SUFFIX,5013.gofenews.com
+DOMAIN-SUFFIX,5015.reminews.com
 DOMAIN-SUFFIX,5017.jemonews.com
 DOMAIN-SUFFIX,5017.lookinews.com
+DOMAIN-SUFFIX,5018.deeginews.com
+DOMAIN-SUFFIX,5020.luronews.com
 DOMAIN-SUFFIX,5024.5clo0xmbf.com
 DOMAIN-SUFFIX,5024.lookinews.com
 DOMAIN-SUFFIX,5030.jemonews.com
@@ -7068,6 +7300,7 @@ DOMAIN-SUFFIX,5102.jemonews.com
 DOMAIN-SUFFIX,5103.luronews.com
 DOMAIN-SUFFIX,5104.gofenews.com
 DOMAIN-SUFFIX,5109c939a4.307ea19306.com
+DOMAIN-SUFFIX,5109.reminews.com
 DOMAIN-SUFFIX,5111734.notify6.com
 DOMAIN-SUFFIX,5114166.notify6.com
 DOMAIN-SUFFIX,5117.jemonews.com
@@ -7089,6 +7322,7 @@ DOMAIN-SUFFIX,5132062.notify6.com
 DOMAIN-SUFFIX,5132.deeginews.com
 DOMAIN-SUFFIX,51332.deeginews.com
 DOMAIN-SUFFIX,5135.luronews.com
+DOMAIN-SUFFIX,5135.selornews.com
 DOMAIN-SUFFIX,5142.reminews.com
 DOMAIN-SUFFIX,5143.luronews.com
 DOMAIN-SUFFIX,5145.lookinews.com
@@ -7105,6 +7339,7 @@ DOMAIN-SUFFIX,5159.5clo0xmbf.com
 DOMAIN-SUFFIX,5160.reminews.com
 DOMAIN-SUFFIX,5161.gofenews.com
 DOMAIN-SUFFIX,5163.gofenews.com
+DOMAIN-SUFFIX,5164.lookinews.com
 DOMAIN-SUFFIX,5165c0c080.com
 DOMAIN-SUFFIX,5167.lookinews.com
 DOMAIN-SUFFIX,5167.reminews.com
@@ -7134,6 +7369,7 @@ DOMAIN-SUFFIX,51.tegronews.com
 DOMAIN-SUFFIX,5200.luronews.com
 DOMAIN-SUFFIX,5201.k3718qw08.com
 DOMAIN-SUFFIX,5204.lookinews.com
+DOMAIN-SUFFIX,5208.lookinews.com
 DOMAIN-SUFFIX,5209.reminews.com
 DOMAIN-SUFFIX,5210.reminews.com
 DOMAIN-SUFFIX,5211.gofenews.com
@@ -7165,13 +7401,16 @@ DOMAIN-SUFFIX,5260.reminews.com
 DOMAIN-SUFFIX,5263.4puuqeh41.com
 DOMAIN-SUFFIX,5264.deeginews.com
 DOMAIN-SUFFIX,5265.lycheenews.com
+DOMAIN-SUFFIX,5266.lookinews.com
 DOMAIN-SUFFIX,5267.jemonews.com
+DOMAIN-SUFFIX,5268.lookinews.com
 DOMAIN-SUFFIX,5274.reminews.com
 DOMAIN-SUFFIX,5276648.notify6.com
 DOMAIN-SUFFIX,5276.jemonews.com
 DOMAIN-SUFFIX,5281.jemonews.com
 DOMAIN-SUFFIX,5281.reminews.com
 DOMAIN-SUFFIX,5283.guesswhatnews.com
+DOMAIN-SUFFIX,5283.rookinews.com
 DOMAIN-SUFFIX,5284.gofenews.com
 DOMAIN-SUFFIX,5288.lycheenews.com
 DOMAIN-SUFFIX,5289086.notify6.com
@@ -7211,6 +7450,7 @@ DOMAIN-SUFFIX,5348.5clo0xmbf.com
 DOMAIN-SUFFIX,5350536.notify6.com
 DOMAIN-SUFFIX,5353.79j68qav2.com
 DOMAIN-SUFFIX,5354.5clo0xmbf.com
+DOMAIN-SUFFIX,5354.lycheenews.com
 DOMAIN-SUFFIX,5356.jemonews.com
 DOMAIN-SUFFIX,5356.luronews.com
 DOMAIN-SUFFIX,5356.reminews.com
@@ -7228,6 +7468,7 @@ DOMAIN-SUFFIX,536fbeeea4.com
 DOMAIN-SUFFIX,5370.luronews.com
 DOMAIN-SUFFIX,5373.833enmhob.com
 DOMAIN-SUFFIX,5374.gofenews.com
+DOMAIN-SUFFIX,5374.lootynews.com
 DOMAIN-SUFFIX,5378.l5eamr17d.com
 DOMAIN-SUFFIX,5378.luronews.com
 DOMAIN-SUFFIX,537d86931e.dfd55780d6.com
@@ -7236,6 +7477,7 @@ DOMAIN-SUFFIX,5381.lootynews.com
 DOMAIN-SUFFIX,5381.reminews.com
 DOMAIN-SUFFIX,5382.5clo0xmbf.com
 DOMAIN-SUFFIX,5385.reminews.com
+DOMAIN-SUFFIX,5387.gofenews.com
 DOMAIN-SUFFIX,5389.jemonews.com
 DOMAIN-SUFFIX,5390.jemonews.com
 DOMAIN-SUFFIX,5396.jemonews.com
@@ -7260,6 +7502,7 @@ DOMAIN-SUFFIX,5408.jemonews.com
 DOMAIN-SUFFIX,5410.huronews.com
 DOMAIN-SUFFIX,5410.lookinews.com
 DOMAIN-SUFFIX,5414.deeginews.com
+DOMAIN-SUFFIX,5414.reminews.com
 DOMAIN-SUFFIX,5416461.4puuqeh41.com
 DOMAIN-SUFFIX,541653.lycheenews.com
 DOMAIN-SUFFIX,541653.rhsy174op.com
@@ -7283,6 +7526,7 @@ DOMAIN-SUFFIX,5438.reminews.com
 DOMAIN-SUFFIX,5438w.gofenews.com
 DOMAIN-SUFFIX,5438w.reminews.com
 DOMAIN-SUFFIX,543.lycheenews.com
+DOMAIN-SUFFIX,5440.lootynews.com
 DOMAIN-SUFFIX,5440.luronews.com
 DOMAIN-SUFFIX,5444.reminews.com
 DOMAIN-SUFFIX,5445.huronews.com
@@ -7290,6 +7534,7 @@ DOMAIN-SUFFIX,5446.lookinews.com
 DOMAIN-SUFFIX,5449.5clo0xmbf.com
 DOMAIN-SUFFIX,5449.lookinews.com
 DOMAIN-SUFFIX,544c1a86a1.com
+DOMAIN-SUFFIX,5450.gofenews.com
 DOMAIN-SUFFIX,5452.833enmhob.com
 DOMAIN-SUFFIX,5454.lookinews.com
 DOMAIN-SUFFIX,5455.sifenews.com
@@ -7311,6 +7556,7 @@ DOMAIN-SUFFIX,5476.lookinews.com
 DOMAIN-SUFFIX,5477.5clo0xmbf.com
 DOMAIN-SUFFIX,5477.jemonews.com
 DOMAIN-SUFFIX,5477.reminews.com
+DOMAIN-SUFFIX,5478.tegronews.com
 DOMAIN-SUFFIX,5481.jemonews.com
 DOMAIN-SUFFIX,5484.gofenews.com
 DOMAIN-SUFFIX,5485.jemonews.com
@@ -7327,20 +7573,27 @@ DOMAIN-SUFFIX,54d6a7edfb.218cc08472.com
 DOMAIN-SUFFIX,54e4e31106.6e10268cd2.com
 DOMAIN-SUFFIX,54ee1.reminews.com
 DOMAIN-SUFFIX,54eeeadb.xyz
+DOMAIN-SUFFIX,54f10.reminews.com
 DOMAIN-SUFFIX,54kefu.net
 DOMAIN-SUFFIX,54tr1.reminews.com
+DOMAIN-SUFFIX,5501.jemonews.com
 DOMAIN-SUFFIX,5502fb67e7.e395ce5e52.com
 DOMAIN-SUFFIX,5502.reminews.com
 DOMAIN-SUFFIX,5503.reminews.com
+DOMAIN-SUFFIX,5508.gofenews.com
 DOMAIN-SUFFIX,5510.jemonews.com
+DOMAIN-SUFFIX,5510.lycheenews.com
 DOMAIN-SUFFIX,5515.jemonews.com
+DOMAIN-SUFFIX,5515.luronews.com
 DOMAIN-SUFFIX,5516.jemonews.com
 DOMAIN-SUFFIX,551ba6c442.com
 DOMAIN-SUFFIX,551.lycheenews.com
+DOMAIN-SUFFIX,5521.lookinews.com
 DOMAIN-SUFFIX,5521.sifenews.com
 DOMAIN-SUFFIX,5523.reminews.com
 DOMAIN-SUFFIX,5524.reminews.com
 DOMAIN-SUFFIX,5525.reminews.com
+DOMAIN-SUFFIX,5528.luronews.com
 DOMAIN-SUFFIX,5530.reminews.com
 DOMAIN-SUFFIX,5531.reminews.com
 DOMAIN-SUFFIX,5538.5clo0xmbf.com
@@ -7363,6 +7616,7 @@ DOMAIN-SUFFIX,5568.jemonews.com
 DOMAIN-SUFFIX,5568.lookinews.com
 DOMAIN-SUFFIX,5569.loopanews.com
 DOMAIN-SUFFIX,5572.lycheenews.com
+DOMAIN-SUFFIX,5572.reminews.com
 DOMAIN-SUFFIX,5574.gofenews.com
 DOMAIN-SUFFIX,5574.jemonews.com
 DOMAIN-SUFFIX,5574.reminews.com
@@ -7376,6 +7630,7 @@ DOMAIN-SUFFIX,5579.reminews.com
 DOMAIN-SUFFIX,5580.deeginews.com
 DOMAIN-SUFFIX,5581.4puuqeh41.com
 DOMAIN-SUFFIX,5581.reminews.com
+DOMAIN-SUFFIX,5582.jemonews.com
 DOMAIN-SUFFIX,5582.lootynews.com
 DOMAIN-SUFFIX,5582.reminews.com
 DOMAIN-SUFFIX,5583.luronews.com
@@ -7418,6 +7673,7 @@ DOMAIN-SUFFIX,5611.lookinews.com
 DOMAIN-SUFFIX,5612.gofenews.com
 DOMAIN-SUFFIX,5612.rookinews.com
 DOMAIN-SUFFIX,5613.833enmhob.com
+DOMAIN-SUFFIX,5613.lookinews.com
 DOMAIN-SUFFIX,5615.huronews.com
 DOMAIN-SUFFIX,5619.deeginews.com
 DOMAIN-SUFFIX,5621.deeginews.com
@@ -7430,6 +7686,7 @@ DOMAIN-SUFFIX,5624.jemonews.com
 DOMAIN-SUFFIX,5624.lookinews.com
 DOMAIN-SUFFIX,5624.reminews.com
 DOMAIN-SUFFIX,5626.reminews.com
+DOMAIN-SUFFIX,5628.luronews.com
 DOMAIN-SUFFIX,5629.tegronews.com
 DOMAIN-SUFFIX,562i7aqkxu.com
 DOMAIN-SUFFIX,5630.4puuqeh41.com
@@ -7447,6 +7704,7 @@ DOMAIN-SUFFIX,5651.reminews.com
 DOMAIN-SUFFIX,5653.lookinews.com
 DOMAIN-SUFFIX,5653.luronews.com
 DOMAIN-SUFFIX,5657.l5eamr17d.com
+DOMAIN-SUFFIX,5659.luronews.com
 DOMAIN-SUFFIX,5660.deeginews.com
 DOMAIN-SUFFIX,5661c81449.com
 DOMAIN-SUFFIX,5663.reminews.com
@@ -7471,8 +7729,12 @@ DOMAIN-SUFFIX,567xxxp1orh7.lycheenews.com
 DOMAIN-SUFFIX,5682.reminews.com
 DOMAIN-SUFFIX,5684.sifenews.com
 DOMAIN-SUFFIX,5685.reminews.com
+DOMAIN-SUFFIX,5689.jemonews.com
+DOMAIN-SUFFIX,5691.rookinews.com
+DOMAIN-SUFFIX,5695.reminews.com
 DOMAIN-SUFFIX,5696.jemonews.com
 DOMAIN-SUFFIX,5696.reminews.com
+DOMAIN-SUFFIX,5697.reminews.com
 DOMAIN-SUFFIX,5698.deeginews.com
 DOMAIN-SUFFIX,5698.reminews.com
 DOMAIN-SUFFIX,5699.reminews.com
@@ -7502,6 +7764,7 @@ DOMAIN-SUFFIX,5718.reminews.com
 DOMAIN-SUFFIX,571a16a42b.a7a2789124.com
 DOMAIN-SUFFIX,5720.reminews.com
 DOMAIN-SUFFIX,5720.tegronews.com
+DOMAIN-SUFFIX,5721.lookinews.com
 DOMAIN-SUFFIX,57236.79j68qav2.com
 DOMAIN-SUFFIX,5723.jemonews.com
 DOMAIN-SUFFIX,5726.luronews.com
@@ -7541,16 +7804,19 @@ DOMAIN-SUFFIX,5777.lootynews.com
 DOMAIN-SUFFIX,577c231052.a91e9c75f8.com
 DOMAIN-SUFFIX,577.notify.optimizesrv.com
 DOMAIN-SUFFIX,5781.reminews.com
+DOMAIN-SUFFIX,5782.jemonews.com
 DOMAIN-SUFFIX,5789.4puuqeh41.com
 DOMAIN-SUFFIX,578d72001a.com
 DOMAIN-SUFFIX,5790.gofenews.com
 DOMAIN-SUFFIX,5792.reminews.com
+DOMAIN-SUFFIX,5793.reminews.com
 DOMAIN-SUFFIX,5795.gofenews.com
 DOMAIN-SUFFIX,5795.lookinews.com
 DOMAIN-SUFFIX,5795.lootynews.com
 DOMAIN-SUFFIX,5795.luronews.com
 DOMAIN-SUFFIX,5798.luronews.com
 DOMAIN-SUFFIX,57b47e6979.4885e2e6f7.com
+DOMAIN-SUFFIX,57c1ac48f2.7b5f77dbb5.com
 DOMAIN-SUFFIX,57d38e3023.com
 DOMAIN-SUFFIX,57.deeginews.com
 DOMAIN-SUFFIX,5808.luronews.com
@@ -7561,6 +7827,7 @@ DOMAIN-SUFFIX,5811.deeginews.com
 DOMAIN-SUFFIX,5813.5clo0xmbf.com
 DOMAIN-SUFFIX,5815.gofenews.com
 DOMAIN-SUFFIX,5815.luronews.com
+DOMAIN-SUFFIX,5818.reminews.com
 DOMAIN-SUFFIX,5819.gofenews.com
 DOMAIN-SUFFIX,5819.reminews.com
 DOMAIN-SUFFIX,582155316e.com
@@ -7581,6 +7848,7 @@ DOMAIN-SUFFIX,5833.reminews.com
 DOMAIN-SUFFIX,5834.luronews.com
 DOMAIN-SUFFIX,5834.reminews.com
 DOMAIN-SUFFIX,5835.gofenews.com
+DOMAIN-SUFFIX,5835.lookinews.com
 DOMAIN-SUFFIX,5837941a19.d1f76eb5a4.com
 DOMAIN-SUFFIX,583.notify.optimizesrv.com
 DOMAIN-SUFFIX,5840.jemonews.com
@@ -7588,6 +7856,7 @@ DOMAIN-SUFFIX,5843.reminews.com
 DOMAIN-SUFFIX,5844.jemonews.com
 DOMAIN-SUFFIX,5847.sifenews.com
 DOMAIN-SUFFIX,5847.tegronews.com
+DOMAIN-SUFFIX,5848.reminews.com
 DOMAIN-SUFFIX,5848.tegronews.com
 DOMAIN-SUFFIX,5849.5clo0xmbf.com
 DOMAIN-SUFFIX,5849.jemonews.com
@@ -7605,10 +7874,15 @@ DOMAIN-SUFFIX,5865.jemonews.com
 DOMAIN-SUFFIX,5865.luronews.com
 DOMAIN-SUFFIX,5868.reminews.com
 DOMAIN-SUFFIX,5871.reminews.com
+DOMAIN-SUFFIX,5872.reminews.com
 DOMAIN-SUFFIX,58745.clicknplay.to
 DOMAIN-SUFFIX,5874.jemonews.com
+DOMAIN-SUFFIX,5874.reminews.com
+DOMAIN-SUFFIX,5877.reminews.com
+DOMAIN-SUFFIX,5879.tegronews.com
 DOMAIN-SUFFIX,587b0060ba.ca2686564a.com
 DOMAIN-SUFFIX,5882.gofenews.com
+DOMAIN-SUFFIX,5883.reminews.com
 DOMAIN-SUFFIX,5888.lookinews.com
 DOMAIN-SUFFIX,5889.5clo0xmbf.com
 DOMAIN-SUFFIX,5890.lookinews.com
@@ -7621,6 +7895,7 @@ DOMAIN-SUFFIX,5901.lycheenews.com
 DOMAIN-SUFFIX,5902.jemonews.com
 DOMAIN-SUFFIX,5903.lycheenews.com
 DOMAIN-SUFFIX,5904.lookinews.com
+DOMAIN-SUFFIX,5904.loopanews.com
 DOMAIN-SUFFIX,590578zugbr8.com
 DOMAIN-SUFFIX,5905.jemonews.com
 DOMAIN-SUFFIX,5907.jemonews.com
@@ -7631,6 +7906,7 @@ DOMAIN-SUFFIX,5912.reminews.com
 DOMAIN-SUFFIX,5915.lookinews.com
 DOMAIN-SUFFIX,5915.luronews.com
 DOMAIN-SUFFIX,5916.lookinews.com
+DOMAIN-SUFFIX,5918.luronews.com
 DOMAIN-SUFFIX,5920.lookinews.com
 DOMAIN-SUFFIX,5922.huronews.com
 DOMAIN-SUFFIX,5924.jemonews.com
@@ -7643,6 +7919,7 @@ DOMAIN-SUFFIX,5929.jemonews.com
 DOMAIN-SUFFIX,5929.reminews.com
 DOMAIN-SUFFIX,592fd0d4b9.70be76b98c.com
 DOMAIN-SUFFIX,5930107e7f.e890f5e345.com
+DOMAIN-SUFFIX,5930.gofenews.com
 DOMAIN-SUFFIX,5930.lootynews.com
 DOMAIN-SUFFIX,5930.reminews.com
 DOMAIN-SUFFIX,5931.reminews.com
@@ -7664,6 +7941,7 @@ DOMAIN-SUFFIX,5946.sifenews.com
 DOMAIN-SUFFIX,5947.jemonews.com
 DOMAIN-SUFFIX,5947.reminews.com
 DOMAIN-SUFFIX,5948.deeginews.com
+DOMAIN-SUFFIX,5952.lookinews.com
 DOMAIN-SUFFIX,5954.deeginews.com
 DOMAIN-SUFFIX,5954.lootynews.com
 DOMAIN-SUFFIX,5957.deeginews.com
@@ -7690,6 +7968,7 @@ DOMAIN-SUFFIX,5981397f6e.63f2778501.com
 DOMAIN-SUFFIX,5981.gofenews.com
 DOMAIN-SUFFIX,5981.lookinews.com
 DOMAIN-SUFFIX,5984927702.3071caa5ff.com
+DOMAIN-SUFFIX,5987.jemonews.com
 DOMAIN-SUFFIX,5988.gofenews.com
 DOMAIN-SUFFIX,598f0ce32f.com
 DOMAIN-SUFFIX,5990.reminews.com
@@ -7700,6 +7979,7 @@ DOMAIN-SUFFIX,5994.luronews.com
 DOMAIN-SUFFIX,5996.reminews.com
 DOMAIN-SUFFIX,5999.gofenews.com
 DOMAIN-SUFFIX,5999.tegronews.com
+DOMAIN-SUFFIX,59d6c6aa6f.c4ef1d1343.com
 DOMAIN-SUFFIX,59.deeginews.com
 DOMAIN-SUFFIX,59e6ea7248001c.com
 DOMAIN-SUFFIX,59.guesswhatnews.com
@@ -7748,6 +8028,7 @@ DOMAIN-SUFFIX,5f1c44aaf7.9d603009eb.com
 DOMAIN-SUFFIX,5f631bb110.com
 DOMAIN-SUFFIX,5f6dmzflgqso.com
 DOMAIN-SUFFIX,5f6efdfc05.com
+DOMAIN-SUFFIX,5f7717b605.d29ddeae47.com
 DOMAIN-SUFFIX,5f93004b68.com
 DOMAIN-SUFFIX,5fd5fd02f8.0da9c10970.com
 DOMAIN-SUFFIX,5fd6bc.xyz
@@ -7790,6 +8071,7 @@ DOMAIN-SUFFIX,6002.lootynews.com
 DOMAIN-SUFFIX,6002.luronews.com
 DOMAIN-SUFFIX,6003.lootynews.com
 DOMAIN-SUFFIX,6004.luronews.com
+DOMAIN-SUFFIX,6005.jemonews.com
 DOMAIN-SUFFIX,6006.lootynews.com
 DOMAIN-SUFFIX,6008.jemonews.com
 DOMAIN-SUFFIX,6008.lootynews.com
@@ -7810,6 +8092,7 @@ DOMAIN-SUFFIX,6022.lookinews.com
 DOMAIN-SUFFIX,6023.833enmhob.com
 DOMAIN-SUFFIX,6023.lootynews.com
 DOMAIN-SUFFIX,6027.34gwl8v1a.com
+DOMAIN-SUFFIX,6027.reminews.com
 DOMAIN-SUFFIX,6029.reminews.com
 DOMAIN-SUFFIX,6035.luronews.com
 DOMAIN-SUFFIX,6035.sosqboh85.com
@@ -7823,9 +8106,11 @@ DOMAIN-SUFFIX,6042.reminews.com
 DOMAIN-SUFFIX,6046.gofenews.com
 DOMAIN-SUFFIX,6046.reminews.com
 DOMAIN-SUFFIX,6047.luronews.com
+DOMAIN-SUFFIX,6048.reminews.com
 DOMAIN-SUFFIX,6049.gofenews.com
 DOMAIN-SUFFIX,6052.reminews.com
 DOMAIN-SUFFIX,6054.reminews.com
+DOMAIN-SUFFIX,6056.tegronews.com
 DOMAIN-SUFFIX,60571086.xyz
 DOMAIN-SUFFIX,6057.luronews.com
 DOMAIN-SUFFIX,6057.reminews.com
@@ -7840,6 +8125,7 @@ DOMAIN-SUFFIX,6065.lycheenews.com
 DOMAIN-SUFFIX,6066.lootynews.com
 DOMAIN-SUFFIX,6066.reminews.com
 DOMAIN-SUFFIX,6068a17eed25.com
+DOMAIN-SUFFIX,6069.gofenews.com
 DOMAIN-SUFFIX,6070.jemonews.com
 DOMAIN-SUFFIX,6070.reminews.com
 DOMAIN-SUFFIX,6071.reminews.com
@@ -7859,6 +8145,7 @@ DOMAIN-SUFFIX,6089.jemonews.com
 DOMAIN-SUFFIX,6089.lycheenews.com
 DOMAIN-SUFFIX,6094.luronews.com
 DOMAIN-SUFFIX,6095.lookinews.com
+DOMAIN-SUFFIX,6096.loopanews.com
 DOMAIN-SUFFIX,6097.reminews.com
 DOMAIN-SUFFIX,6098.lookinews.com
 DOMAIN-SUFFIX,60ce55878b.62c013248b.com
@@ -7867,6 +8154,7 @@ DOMAIN-SUFFIX,6101.rookinews.com
 DOMAIN-SUFFIX,6101.tegronews.com
 DOMAIN-SUFFIX,6103.jemonews.com
 DOMAIN-SUFFIX,6104.jemonews.com
+DOMAIN-SUFFIX,6105.jemonews.com
 DOMAIN-SUFFIX,6111.jemonews.com
 DOMAIN-SUFFIX,6111.luronews.com
 DOMAIN-SUFFIX,6113.jemonews.com
@@ -7906,6 +8194,7 @@ DOMAIN-SUFFIX,6178.5clo0xmbf.com
 DOMAIN-SUFFIX,6178.loopanews.com
 DOMAIN-SUFFIX,6179b859b8.com
 DOMAIN-SUFFIX,6179.luronews.com
+DOMAIN-SUFFIX,6180.notify.optimizesrv.com
 DOMAIN-SUFFIX,6181.deeginews.com
 DOMAIN-SUFFIX,6183.jemonews.com
 DOMAIN-SUFFIX,6185ca4d40.e0e5bc8f81.com
@@ -7920,10 +8209,12 @@ DOMAIN-SUFFIX,61t2ll6yy.com
 DOMAIN-SUFFIX,61.tegronews.com
 DOMAIN-SUFFIX,61zdn1c9.skin
 DOMAIN-SUFFIX,6205.5clo0xmbf.com
+DOMAIN-SUFFIX,6206.gofenews.com
 DOMAIN-SUFFIX,6206.luronews.com
 DOMAIN-SUFFIX,6206.lycheenews.com
 DOMAIN-SUFFIX,6207.reminews.com
 DOMAIN-SUFFIX,6209.gofenews.com
+DOMAIN-SUFFIX,6209.reminews.com
 DOMAIN-SUFFIX,6210.reminews.com
 DOMAIN-SUFFIX,6211.5clo0xmbf.com
 DOMAIN-SUFFIX,6212.l5eamr17d.com
@@ -7933,9 +8224,12 @@ DOMAIN-SUFFIX,6215.tegronews.com
 DOMAIN-SUFFIX,6217.gofenews.com
 DOMAIN-SUFFIX,6220.lookinews.com
 DOMAIN-SUFFIX,6221881285.7378a03ff8.com
+DOMAIN-SUFFIX,6221.jemonews.com
 DOMAIN-SUFFIX,6221.reminews.com
 DOMAIN-SUFFIX,6222.lookinews.com
 DOMAIN-SUFFIX,6222.luronews.com
+DOMAIN-SUFFIX,6226.jemonews.com
+DOMAIN-SUFFIX,6228.reminews.com
 DOMAIN-SUFFIX,6232.5clo0xmbf.com
 DOMAIN-SUFFIX,6232.tegronews.com
 DOMAIN-SUFFIX,6238.gofenews.com
@@ -7961,6 +8255,7 @@ DOMAIN-SUFFIX,6277.luronews.com
 DOMAIN-SUFFIX,6278.reminews.com
 DOMAIN-SUFFIX,6279.seponews.com
 DOMAIN-SUFFIX,6283.reminews.com
+DOMAIN-SUFFIX,62842068.xyz
 DOMAIN-SUFFIX,6288.jemonews.com
 DOMAIN-SUFFIX,6288.reminews.com
 DOMAIN-SUFFIX,6291.lookinews.com
@@ -7994,7 +8289,9 @@ DOMAIN-SUFFIX,6318.5clo0xmbf.com
 DOMAIN-SUFFIX,6319.reminews.com
 DOMAIN-SUFFIX,6323.jemonews.com
 DOMAIN-SUFFIX,6329.gofenews.com
+DOMAIN-SUFFIX,6337.reminews.com
 DOMAIN-SUFFIX,6338.luronews.com
+DOMAIN-SUFFIX,6340.reminews.com
 DOMAIN-SUFFIX,6341.reminews.com
 DOMAIN-SUFFIX,634369.xyz
 DOMAIN-SUFFIX,6343.loopanews.com
@@ -8011,6 +8308,7 @@ DOMAIN-SUFFIX,6373.luronews.com
 DOMAIN-SUFFIX,6375.reminews.com
 DOMAIN-SUFFIX,6377.reminews.com
 DOMAIN-SUFFIX,637.jemonews.com
+DOMAIN-SUFFIX,63801782.xyz
 DOMAIN-SUFFIX,6380.lootynews.com
 DOMAIN-SUFFIX,6381.5clo0xmbf.com
 DOMAIN-SUFFIX,6383.luronews.com
@@ -8067,6 +8365,7 @@ DOMAIN-SUFFIX,6452.huronews.com
 DOMAIN-SUFFIX,6457.jemonews.com
 DOMAIN-SUFFIX,64580df84b.com
 DOMAIN-SUFFIX,6459.gofenews.com
+DOMAIN-SUFFIX,6464.reminews.com
 DOMAIN-SUFFIX,6470.k3718qw08.com
 DOMAIN-SUFFIX,6471e7f7.xyz
 DOMAIN-SUFFIX,6472.jemonews.com
@@ -8088,6 +8387,8 @@ DOMAIN-SUFFIX,6506.cosmicnewspulse.com
 DOMAIN-SUFFIX,6506.jemonews.com
 DOMAIN-SUFFIX,6507.luronews.com
 DOMAIN-SUFFIX,6507.selornews.com
+DOMAIN-SUFFIX,6511.5clo0xmbf.com
+DOMAIN-SUFFIX,65122038.xyz
 DOMAIN-SUFFIX,6514.lookinews.com
 DOMAIN-SUFFIX,6514.lootynews.com
 DOMAIN-SUFFIX,6514.reminews.com
@@ -8099,9 +8400,11 @@ DOMAIN-SUFFIX,65209f7351.a0905c77de.com
 DOMAIN-SUFFIX,6520.reminews.com
 DOMAIN-SUFFIX,6521.jemonews.com
 DOMAIN-SUFFIX,6522.lookinews.com
+DOMAIN-SUFFIX,6523.deeginews.com
 DOMAIN-SUFFIX,6523.selornews.com
 DOMAIN-SUFFIX,6525.lookinews.com
 DOMAIN-SUFFIX,6527.luronews.com
+DOMAIN-SUFFIX,6533.reminews.com
 DOMAIN-SUFFIX,6533.tegronews.com
 DOMAIN-SUFFIX,6535.5clo0xmbf.com
 DOMAIN-SUFFIX,6538.luronews.com
@@ -8111,6 +8414,7 @@ DOMAIN-SUFFIX,6544.lookinews.com
 DOMAIN-SUFFIX,654629.4puuqeh41.com
 DOMAIN-SUFFIX,6549.tegronews.com
 DOMAIN-SUFFIX,654b11e34e.2eb4977fca.com
+DOMAIN-SUFFIX,6552.lookinews.com
 DOMAIN-SUFFIX,6553.gofenews.com
 DOMAIN-SUFFIX,6553.reminews.com
 DOMAIN-SUFFIX,6554.jemonews.com
@@ -8135,6 +8439,7 @@ DOMAIN-SUFFIX,6579.5clo0xmbf.com
 DOMAIN-SUFFIX,6579.79j68qav2.com
 DOMAIN-SUFFIX,6582.luronews.com
 DOMAIN-SUFFIX,6585.luronews.com
+DOMAIN-SUFFIX,6585.reminews.com
 DOMAIN-SUFFIX,6585.url25fatm.com
 DOMAIN-SUFFIX,6587.lootynews.com
 DOMAIN-SUFFIX,65894140.xyz
@@ -8150,15 +8455,19 @@ DOMAIN-SUFFIX,65a3a55b73.85fef60641.com
 DOMAIN-SUFFIX,65d9b4a4ad.433bcaa83b.com
 DOMAIN-SUFFIX,65wenv5f.xyz
 DOMAIN-SUFFIX,6600.5clo0xmbf.com
+DOMAIN-SUFFIX,6600.gofenews.com
 DOMAIN-SUFFIX,6604.rookinews.com
 DOMAIN-SUFFIX,6610.guesswhatnews.com
 DOMAIN-SUFFIX,6614.lootynews.com
+DOMAIN-SUFFIX,6617.luronews.com
 DOMAIN-SUFFIX,6618.deeginews.com
 DOMAIN-SUFFIX,6618.gofenews.com
+DOMAIN-SUFFIX,6618.reminews.com
 DOMAIN-SUFFIX,6619.luronews.com
 DOMAIN-SUFFIX,6621.reminews.com
 DOMAIN-SUFFIX,6624.reminews.com
 DOMAIN-SUFFIX,6630.lookinews.com
+DOMAIN-SUFFIX,6635.luronews.com
 DOMAIN-SUFFIX,6636.lookinews.com
 DOMAIN-SUFFIX,663.notify.optimizesrv.com
 DOMAIN-SUFFIX,6644.luronews.com
@@ -8169,10 +8478,13 @@ DOMAIN-SUFFIX,6652.reminews.com
 DOMAIN-SUFFIX,6654.luronews.com
 DOMAIN-SUFFIX,6654.reminews.com
 DOMAIN-SUFFIX,6657e4f5c2.com
+DOMAIN-SUFFIX,6657.gofenews.com
+DOMAIN-SUFFIX,6658.deeginews.com
 DOMAIN-SUFFIX,6659.tegronews.com
 DOMAIN-SUFFIX,665.notify.optimizesrv.com
 DOMAIN-SUFFIX,6661.reminews.com
 DOMAIN-SUFFIX,6662.jemonews.com
+DOMAIN-SUFFIX,6668.luronews.com
 DOMAIN-SUFFIX,6669.reminews.com
 DOMAIN-SUFFIX,6669.rookinews.com
 DOMAIN-SUFFIX,666.lycheenews.com
@@ -8180,10 +8492,13 @@ DOMAIN-SUFFIX,6670.jemonews.com
 DOMAIN-SUFFIX,6671.jemonews.com
 DOMAIN-SUFFIX,6679.deeginews.com
 DOMAIN-SUFFIX,6680.guesswhatnews.com
+DOMAIN-SUFFIX,6681.luronews.com
 DOMAIN-SUFFIX,6685.guesswhatnews.com
 DOMAIN-SUFFIX,6685.reminews.com
+DOMAIN-SUFFIX,6686.lookinews.com
 DOMAIN-SUFFIX,6686.reminews.com
 DOMAIN-SUFFIX,6687.luronews.com
+DOMAIN-SUFFIX,6689.tegronews.com
 DOMAIN-SUFFIX,6692.gofenews.com
 DOMAIN-SUFFIX,6692.luronews.com
 DOMAIN-SUFFIX,6694.reminews.com
@@ -8196,6 +8511,7 @@ DOMAIN-SUFFIX,66ac068b15.5500a1052e.com
 DOMAIN-SUFFIX,6701.deeginews.com
 DOMAIN-SUFFIX,6701.reminews.com
 DOMAIN-SUFFIX,6703.jemonews.com
+DOMAIN-SUFFIX,6705.lookinews.com
 DOMAIN-SUFFIX,6706.tegronews.com
 DOMAIN-SUFFIX,6707.luronews.com
 DOMAIN-SUFFIX,670d3773bc.bf4f3dc283.com
@@ -8204,9 +8520,12 @@ DOMAIN-SUFFIX,6711.jemonews.com
 DOMAIN-SUFFIX,6711.lookinews.com
 DOMAIN-SUFFIX,6714.jemonews.com
 DOMAIN-SUFFIX,6715.jemonews.com
+DOMAIN-SUFFIX,6716.jemonews.com
+DOMAIN-SUFFIX,6718.jemonews.com
 DOMAIN-SUFFIX,6723.reminews.com
 DOMAIN-SUFFIX,67267d3de4.c67cfc8b87.com
 DOMAIN-SUFFIX,6728.lookinews.com
+DOMAIN-SUFFIX,6734.gofenews.com
 DOMAIN-SUFFIX,6740.lycheenews.com
 DOMAIN-SUFFIX,6740.reminews.com
 DOMAIN-SUFFIX,6743.gofenews.com
@@ -8225,11 +8544,15 @@ DOMAIN-SUFFIX,6774.reminews.com
 DOMAIN-SUFFIX,6775.lookinews.com
 DOMAIN-SUFFIX,6775.reminews.com
 DOMAIN-SUFFIX,6776.gofenews.com
+DOMAIN-SUFFIX,6776.reminews.com
 DOMAIN-SUFFIX,6777.jemonews.com
+DOMAIN-SUFFIX,6777.luronews.com
 DOMAIN-SUFFIX,6778.lycheenews.com
 DOMAIN-SUFFIX,6779.tegronews.com
 DOMAIN-SUFFIX,6780.5clo0xmbf.com
 DOMAIN-SUFFIX,6781.reminews.com
+DOMAIN-SUFFIX,6783.gofenews.com
+DOMAIN-SUFFIX,6784.gofenews.com
 DOMAIN-SUFFIX,6785.gofenews.com
 DOMAIN-SUFFIX,6786.79j68qav2.com
 DOMAIN-SUFFIX,6786.reminews.com
@@ -8243,7 +8566,9 @@ DOMAIN-SUFFIX,67trackdomain.com
 DOMAIN-SUFFIX,6803.jemonews.com
 DOMAIN-SUFFIX,68069795d1.com
 DOMAIN-SUFFIX,6806.reminews.com
+DOMAIN-SUFFIX,6810.gofenews.com
 DOMAIN-SUFFIX,6812.gofenews.com
+DOMAIN-SUFFIX,6813.gofenews.com
 DOMAIN-SUFFIX,6815.luronews.com
 DOMAIN-SUFFIX,6815.lycheenews.com
 DOMAIN-SUFFIX,6816.seponews.com
@@ -8281,11 +8606,14 @@ DOMAIN-SUFFIX,6868.gofenews.com
 DOMAIN-SUFFIX,6868.reminews.com
 DOMAIN-SUFFIX,6873.lootynews.com
 DOMAIN-SUFFIX,6873.luronews.com
+DOMAIN-SUFFIX,6875.lootynews.com
 DOMAIN-SUFFIX,6876.sifenews.com
+DOMAIN-SUFFIX,6877.luronews.com
 DOMAIN-SUFFIX,6877.reminews.com
 DOMAIN-SUFFIX,6882.5clo0xmbf.com
 DOMAIN-SUFFIX,6885.jemonews.com
 DOMAIN-SUFFIX,6886.5clo0xmbf.com
+DOMAIN-SUFFIX,6886.lycheenews.com
 DOMAIN-SUFFIX,6886.reminews.com
 DOMAIN-SUFFIX,6887.79j68qav2.com
 DOMAIN-SUFFIX,688de7b3822de.com
@@ -8304,6 +8632,7 @@ DOMAIN-SUFFIX,6907.reminews.com
 DOMAIN-SUFFIX,6908.luronews.com
 DOMAIN-SUFFIX,6913.lootynews.com
 DOMAIN-SUFFIX,6914.jemonews.com
+DOMAIN-SUFFIX,6914.lookinews.com
 DOMAIN-SUFFIX,6915.luronews.com
 DOMAIN-SUFFIX,6917.lycheenews.com
 DOMAIN-SUFFIX,6919.gofenews.com
@@ -8313,6 +8642,7 @@ DOMAIN-SUFFIX,6921.sifenews.com
 DOMAIN-SUFFIX,6925.huronews.com
 DOMAIN-SUFFIX,6927.5clo0xmbf.com
 DOMAIN-SUFFIX,6930.jemonews.com
+DOMAIN-SUFFIX,6930.lycheenews.com
 DOMAIN-SUFFIX,69322ba5bb.fc7c8be451.com
 DOMAIN-SUFFIX,6937.reminews.com
 DOMAIN-SUFFIX,6939.reminews.com
@@ -8381,6 +8711,7 @@ DOMAIN-SUFFIX,6e5f34gf3f.lycheenews.com
 DOMAIN-SUFFIX,6e6cd153a6.com
 DOMAIN-SUFFIX,6e8a9948e0.6e391732a2.com
 DOMAIN-SUFFIX,6e8db01a49.26c42ca1c2.com
+DOMAIN-SUFFIX,6ea5cb0615.b12c99852d.com
 DOMAIN-SUFFIX,6ee3994103.cdb670d960.com
 DOMAIN-SUFFIX,6eec76752e.adfaae31e2.com
 DOMAIN-SUFFIX,6f0e0a9e80.5f6efdfc05.com
@@ -8401,6 +8732,7 @@ DOMAIN-SUFFIX,6-partner.com
 DOMAIN-SUFFIX,6ped2nd3yp.com
 DOMAIN-SUFFIX,6r9ahe6qb.com
 DOMAIN-SUFFIX,6snjvxkawrtolv2x.pro
+DOMAIN-SUFFIX,6.tegronews.com
 DOMAIN-SUFFIX,6ujk8x9soxhm.com
 DOMAIN-SUFFIX,6v41p4bsq.com
 DOMAIN-SUFFIX,6vik.lycheenews.com
@@ -8409,6 +8741,8 @@ DOMAIN-SUFFIX,6w4ddqwxuy0r3rnq.l5eamr17d.com
 DOMAIN-SUFFIX,6.wemakebestnews.com
 DOMAIN-SUFFIX,6.y2sysv81v.com
 DOMAIN-SUFFIX,6zy9yqe1ew.com
+DOMAIN-SUFFIX,7002.reminews.com
+DOMAIN-SUFFIX,7004.jemonews.com
 DOMAIN-SUFFIX,7004.luronews.com
 DOMAIN-SUFFIX,7005.deeginews.com
 DOMAIN-SUFFIX,7007.deeginews.com
@@ -8417,9 +8751,11 @@ DOMAIN-SUFFIX,7009.lootynews.com
 DOMAIN-SUFFIX,7010.jemonews.com
 DOMAIN-SUFFIX,7011.jemonews.com
 DOMAIN-SUFFIX,7011.luronews.com
+DOMAIN-SUFFIX,7012.lootynews.com
 DOMAIN-SUFFIX,7014.jemonews.com
 DOMAIN-SUFFIX,7014.lookinews.com
 DOMAIN-SUFFIX,7014.reminews.com
+DOMAIN-SUFFIX,7018.reminews.com
 DOMAIN-SUFFIX,7019.lootynews.com
 DOMAIN-SUFFIX,7021.gofenews.com
 DOMAIN-SUFFIX,7022.selornews.com
@@ -8462,9 +8798,12 @@ DOMAIN-SUFFIX,7087.reminews.com
 DOMAIN-SUFFIX,7089.reminews.com
 DOMAIN-SUFFIX,7091.reminews.com
 DOMAIN-SUFFIX,7093.jemonews.com
+DOMAIN-SUFFIX,7093.reminews.com
 DOMAIN-SUFFIX,7093.rookinews.com
 DOMAIN-SUFFIX,7094.reminews.com
+DOMAIN-SUFFIX,7096.jemonews.com
 DOMAIN-SUFFIX,7098.jemonews.com
+DOMAIN-SUFFIX,7098.reminews.com
 DOMAIN-SUFFIX,7099.reminews.com
 DOMAIN-SUFFIX,70b25fad84.ecaecc3e17.com
 DOMAIN-SUFFIX,70b927c8.live
@@ -8491,6 +8830,7 @@ DOMAIN-SUFFIX,7135.reminews.com
 DOMAIN-SUFFIX,7137.reminews.com
 DOMAIN-SUFFIX,7138.reminews.com
 DOMAIN-SUFFIX,7139.5clo0xmbf.com
+DOMAIN-SUFFIX,7139.lookinews.com
 DOMAIN-SUFFIX,7141.reminews.com
 DOMAIN-SUFFIX,7143.lycheenews.com
 DOMAIN-SUFFIX,7145.loopanews.com
@@ -8512,6 +8852,7 @@ DOMAIN-SUFFIX,7166.l5eamr17d.com
 DOMAIN-SUFFIX,7168.jemonews.com
 DOMAIN-SUFFIX,7170.seponews.com
 DOMAIN-SUFFIX,7173.reminews.com
+DOMAIN-SUFFIX,7176.reminews.com
 DOMAIN-SUFFIX,7177.bestinterestings.com
 DOMAIN-SUFFIX,7177.jemonews.com
 DOMAIN-SUFFIX,717.lycheenews.com
@@ -8545,6 +8886,7 @@ DOMAIN-SUFFIX,7224.reminews.com
 DOMAIN-SUFFIX,7229.reminews.com
 DOMAIN-SUFFIX,722cba612c.com
 DOMAIN-SUFFIX,7230.gofenews.com
+DOMAIN-SUFFIX,7230.lookinews.com
 DOMAIN-SUFFIX,7230.reminews.com
 DOMAIN-SUFFIX,7231.tegronews.com
 DOMAIN-SUFFIX,7233.5clo0xmbf.com
@@ -8555,6 +8897,7 @@ DOMAIN-SUFFIX,7234.reminews.com
 DOMAIN-SUFFIX,72356275.xyz
 DOMAIN-SUFFIX,7237.jemonews.com
 DOMAIN-SUFFIX,7237.lootynews.com
+DOMAIN-SUFFIX,7237.sifenews.com
 DOMAIN-SUFFIX,7238.reminews.com
 DOMAIN-SUFFIX,7239.reminews.com
 DOMAIN-SUFFIX,7240.luronews.com
@@ -8600,6 +8943,8 @@ DOMAIN-SUFFIX,7282.jemonews.com
 DOMAIN-SUFFIX,72888710.xyz
 DOMAIN-SUFFIX,7292.reminews.com
 DOMAIN-SUFFIX,7294.luronews.com
+DOMAIN-SUFFIX,7296.jemonews.com
+DOMAIN-SUFFIX,7297.reminews.com
 DOMAIN-SUFFIX,72c3d44e4d.4632c60a96.com
 DOMAIN-SUFFIX,72d6526e68.8e323e599c.com
 DOMAIN-SUFFIX,72.guesswhatnews.com
@@ -8616,6 +8961,7 @@ DOMAIN-SUFFIX,7310.jemonews.com
 DOMAIN-SUFFIX,7311700270.f53d954cc5.com
 DOMAIN-SUFFIX,7313.luronews.com
 DOMAIN-SUFFIX,7316.reminews.com
+DOMAIN-SUFFIX,7317.gofenews.com
 DOMAIN-SUFFIX,7318.gofenews.com
 DOMAIN-SUFFIX,7320.reminews.com
 DOMAIN-SUFFIX,7321.lootynews.com
@@ -8637,10 +8983,12 @@ DOMAIN-SUFFIX,73503921.xyz
 DOMAIN-SUFFIX,7354.gofenews.com
 DOMAIN-SUFFIX,7354.rookinews.com
 DOMAIN-SUFFIX,7355.sosqboh85.com
+DOMAIN-SUFFIX,7356.jemonews.com
 DOMAIN-SUFFIX,7359.jemonews.com
 DOMAIN-SUFFIX,7360.reminews.com
 DOMAIN-SUFFIX,7361.jemonews.com
 DOMAIN-SUFFIX,7363.l5eamr17d.com
+DOMAIN-SUFFIX,7366.deeginews.com
 DOMAIN-SUFFIX,7367.tegronews.com
 DOMAIN-SUFFIX,7368.reminews.com
 DOMAIN-SUFFIX,736.jemonews.com
@@ -8648,6 +8996,7 @@ DOMAIN-SUFFIX,7370.reminews.com
 DOMAIN-SUFFIX,7372.gofenews.com
 DOMAIN-SUFFIX,7372.jemonews.com
 DOMAIN-SUFFIX,7374.lootynews.com
+DOMAIN-SUFFIX,7374.reminews.com
 DOMAIN-SUFFIX,7375.reminews.com
 DOMAIN-SUFFIX,7376.gofenews.com
 DOMAIN-SUFFIX,7378e81adf.com
@@ -8659,6 +9008,7 @@ DOMAIN-SUFFIX,7389.reminews.com
 DOMAIN-SUFFIX,738.jemonews.com
 DOMAIN-SUFFIX,7393.reminews.com
 DOMAIN-SUFFIX,7397.jemonews.com
+DOMAIN-SUFFIX,7398.deeginews.com
 DOMAIN-SUFFIX,73a70e581b.com
 DOMAIN-SUFFIX,73fd98f528.897300f105.com
 DOMAIN-SUFFIX,73.lycheenews.com
@@ -8674,7 +9024,9 @@ DOMAIN-SUFFIX,74142961.xyz
 DOMAIN-SUFFIX,7416.k3718qw08.com
 DOMAIN-SUFFIX,74172faf8e.350c2478fb.com
 DOMAIN-SUFFIX,741a18df39.com
+DOMAIN-SUFFIX,7424.luronews.com
 DOMAIN-SUFFIX,7425.jemonews.com
+DOMAIN-SUFFIX,7425.reminews.com
 DOMAIN-SUFFIX,7428.sosqboh85.com
 DOMAIN-SUFFIX,7429.lookinews.com
 DOMAIN-SUFFIX,742ba1f9a9.com
@@ -8701,6 +9053,7 @@ DOMAIN-SUFFIX,7452c605e9.02ea6adc36.com
 DOMAIN-SUFFIX,7461.luronews.com
 DOMAIN-SUFFIX,7462.deeginews.com
 DOMAIN-SUFFIX,7462.jemonews.com
+DOMAIN-SUFFIX,7463.jemonews.com
 DOMAIN-SUFFIX,7465.gofenews.com
 DOMAIN-SUFFIX,7465.tegronews.com
 DOMAIN-SUFFIX,7466.huronews.com
@@ -8714,11 +9067,14 @@ DOMAIN-SUFFIX,7476.reminews.com
 DOMAIN-SUFFIX,7478.4puuqeh41.com
 DOMAIN-SUFFIX,747dc46a4d.8428db03e3.com
 DOMAIN-SUFFIX,7480.jemonews.com
+DOMAIN-SUFFIX,7482.jemonews.com
 DOMAIN-SUFFIX,7486.reminews.com
+DOMAIN-SUFFIX,7488.lookinews.com
 DOMAIN-SUFFIX,7493.deeginews.com
 DOMAIN-SUFFIX,7493.reminews.com
 DOMAIN-SUFFIX,7494.5clo0xmbf.com
 DOMAIN-SUFFIX,7496.jemonews.com
+DOMAIN-SUFFIX,7497.luronews.com
 DOMAIN-SUFFIX,7499.gofenews.com
 DOMAIN-SUFFIX,7499.reminews.com
 DOMAIN-SUFFIX,74db9ff414.921b6384ac.com
@@ -8743,6 +9099,7 @@ DOMAIN-SUFFIX,7529.tegronews.com
 DOMAIN-SUFFIX,7532.sifenews.com
 DOMAIN-SUFFIX,7533.reminews.com
 DOMAIN-SUFFIX,75357f7aec.f5ea66a9f7.com
+DOMAIN-SUFFIX,7535.jemonews.com
 DOMAIN-SUFFIX,7537.lookinews.com
 DOMAIN-SUFFIX,7539.reminews.com
 DOMAIN-SUFFIX,7540.tegronews.com
@@ -8769,6 +9126,7 @@ DOMAIN-SUFFIX,7574.huronews.com
 DOMAIN-SUFFIX,7578.reminews.com
 DOMAIN-SUFFIX,7580.luronews.com
 DOMAIN-SUFFIX,7583.jemonews.com
+DOMAIN-SUFFIX,7584.luronews.com
 DOMAIN-SUFFIX,7588.lookinews.com
 DOMAIN-SUFFIX,7591.gofenews.com
 DOMAIN-SUFFIX,7592.luronews.com
@@ -8791,6 +9149,7 @@ DOMAIN-SUFFIX,761.deeginews.com
 DOMAIN-SUFFIX,7621.luronews.com
 DOMAIN-SUFFIX,7623.luronews.com
 DOMAIN-SUFFIX,7625.huronews.com
+DOMAIN-SUFFIX,7626.reminews.com
 DOMAIN-SUFFIX,7628.gofenews.com
 DOMAIN-SUFFIX,7629.tegronews.com
 DOMAIN-SUFFIX,7630.gofenews.com
@@ -8820,6 +9179,7 @@ DOMAIN-SUFFIX,7668d948f1.c7811683cc.com
 DOMAIN-SUFFIX,7670.reminews.com
 DOMAIN-SUFFIX,7671.79j68qav2.com
 DOMAIN-SUFFIX,7671.loopanews.com
+DOMAIN-SUFFIX,7673.lookinews.com
 DOMAIN-SUFFIX,7674.selornews.com
 DOMAIN-SUFFIX,7676.lookinews.com
 DOMAIN-SUFFIX,7676.reminews.com
@@ -8871,6 +9231,7 @@ DOMAIN-SUFFIX,7729.5clo0xmbf.com
 DOMAIN-SUFFIX,7729.luronews.com
 DOMAIN-SUFFIX,7732.deeginews.com
 DOMAIN-SUFFIX,7733.luronews.com
+DOMAIN-SUFFIX,7736.lookinews.com
 DOMAIN-SUFFIX,7736.loopanews.com
 DOMAIN-SUFFIX,7737.luronews.com
 DOMAIN-SUFFIX,7738.reminews.com
@@ -8883,6 +9244,7 @@ DOMAIN-SUFFIX,7750.luronews.com
 DOMAIN-SUFFIX,7754.reminews.com
 DOMAIN-SUFFIX,7756.jemonews.com
 DOMAIN-SUFFIX,7757139f7b.com
+DOMAIN-SUFFIX,7757.reminews.com
 DOMAIN-SUFFIX,775cf6f1ae.com
 DOMAIN-SUFFIX,776173f9e6.com
 DOMAIN-SUFFIX,7761.jemonews.com
@@ -8913,13 +9275,16 @@ DOMAIN-SUFFIX,7782.lookinews.com
 DOMAIN-SUFFIX,7784.lookinews.com
 DOMAIN-SUFFIX,7784.reminews.com
 DOMAIN-SUFFIX,7785.lookinews.com
+DOMAIN-SUFFIX,7787.jemonews.com
 DOMAIN-SUFFIX,77886044.xyz
 DOMAIN-SUFFIX,7789.gofenews.com
 DOMAIN-SUFFIX,7789.lycheenews.com
 DOMAIN-SUFFIX,7790.gofenews.com
 DOMAIN-SUFFIX,7790.lookinews.com
 DOMAIN-SUFFIX,7790.sifenews.com
+DOMAIN-SUFFIX,7791.reminews.com
 DOMAIN-SUFFIX,7793.lookinews.com
+DOMAIN-SUFFIX,7793.luronews.com
 DOMAIN-SUFFIX,779449770f.f8b536a2e6.com
 DOMAIN-SUFFIX,7797.reminews.com
 DOMAIN-SUFFIX,7799.reminews.com
@@ -8939,6 +9304,7 @@ DOMAIN-SUFFIX,7807.reminews.com
 DOMAIN-SUFFIX,7808.lycheenews.com
 DOMAIN-SUFFIX,780bcb6370.679aa5fd02.com
 DOMAIN-SUFFIX,7811.5clo0xmbf.com
+DOMAIN-SUFFIX,7811.lootynews.com
 DOMAIN-SUFFIX,7812.833enmhob.com
 DOMAIN-SUFFIX,7813.jemonews.com
 DOMAIN-SUFFIX,7816.lookinews.com
@@ -8948,12 +9314,14 @@ DOMAIN-SUFFIX,7818.lookinews.com
 DOMAIN-SUFFIX,781.deeginews.com
 DOMAIN-SUFFIX,7822.5clo0xmbf.com
 DOMAIN-SUFFIX,7822.jemonews.com
+DOMAIN-SUFFIX,7823.tegronews.com
 DOMAIN-SUFFIX,7824.jemonews.com
 DOMAIN-SUFFIX,7829.gofenews.com
 DOMAIN-SUFFIX,7830.reminews.com
 DOMAIN-SUFFIX,7831.gofenews.com
 DOMAIN-SUFFIX,7831.lootynews.com
 DOMAIN-SUFFIX,7834.luronews.com
+DOMAIN-SUFFIX,7836.lootynews.com
 DOMAIN-SUFFIX,7837.5clo0xmbf.com
 DOMAIN-SUFFIX,7838d6a4aa.48e455384a.com
 DOMAIN-SUFFIX,7839.jemonews.com
@@ -8990,6 +9358,7 @@ DOMAIN-SUFFIX,7876.reminews.com
 DOMAIN-SUFFIX,78847798.xyz
 DOMAIN-SUFFIX,78847f3987.20211144a8.com
 DOMAIN-SUFFIX,7884.jemonews.com
+DOMAIN-SUFFIX,7891.reminews.com
 DOMAIN-SUFFIX,7892.5clo0xmbf.com
 DOMAIN-SUFFIX,7893.jemonews.com
 DOMAIN-SUFFIX,7894.79j68qav2.com
@@ -9005,6 +9374,7 @@ DOMAIN-SUFFIX,78bk5iji.de
 DOMAIN-SUFFIX,78ca0e1d37.d592971f36.com
 DOMAIN-SUFFIX,7900.reminews.com
 DOMAIN-SUFFIX,7901.reminews.com
+DOMAIN-SUFFIX,7903.gofenews.com
 DOMAIN-SUFFIX,7904.jemonews.com
 DOMAIN-SUFFIX,7905.jemonews.com
 DOMAIN-SUFFIX,7913fb877d.15d113e19a.com
@@ -9020,6 +9390,7 @@ DOMAIN-SUFFIX,792.jemonews.com
 DOMAIN-SUFFIX,7931.reminews.com
 DOMAIN-SUFFIX,7931.selornews.com
 DOMAIN-SUFFIX,7932.reminews.com
+DOMAIN-SUFFIX,7933.sifenews.com
 DOMAIN-SUFFIX,7935.reminews.com
 DOMAIN-SUFFIX,7936.luronews.com
 DOMAIN-SUFFIX,7938.sifenews.com
@@ -9027,6 +9398,7 @@ DOMAIN-SUFFIX,7942.lootynews.com
 DOMAIN-SUFFIX,7944bcc817.com
 DOMAIN-SUFFIX,7944.reminews.com
 DOMAIN-SUFFIX,7945.luronews.com
+DOMAIN-SUFFIX,7945.reminews.com
 DOMAIN-SUFFIX,7946.reminews.com
 DOMAIN-SUFFIX,7947.jemonews.com
 DOMAIN-SUFFIX,7948.lootynews.com
@@ -9041,6 +9413,7 @@ DOMAIN-SUFFIX,7954.reminews.com
 DOMAIN-SUFFIX,7957.lookinews.com
 DOMAIN-SUFFIX,7957.reminews.com
 DOMAIN-SUFFIX,7958.reminews.com
+DOMAIN-SUFFIX,7959.lookinews.com
 DOMAIN-SUFFIX,7965.lookinews.com
 DOMAIN-SUFFIX,7969.jemonews.com
 DOMAIN-SUFFIX,7969.loopanews.com
@@ -9051,6 +9424,8 @@ DOMAIN-SUFFIX,7980.5clo0xmbf.com
 DOMAIN-SUFFIX,7980.reminews.com
 DOMAIN-SUFFIX,7982.jemonews.com
 DOMAIN-SUFFIX,7982.lootynews.com
+DOMAIN-SUFFIX,7982.luronews.com
+DOMAIN-SUFFIX,7982.reminews.com
 DOMAIN-SUFFIX,7984.5clo0xmbf.com
 DOMAIN-SUFFIX,7984.luronews.com
 DOMAIN-SUFFIX,7984.reminews.com
@@ -9154,6 +9529,7 @@ DOMAIN-SUFFIX,801b52ee68.9da095044f.com
 DOMAIN-SUFFIX,8022.935ft4j96.com
 DOMAIN-SUFFIX,8025.lookinews.com
 DOMAIN-SUFFIX,8027.rookinews.com
+DOMAIN-SUFFIX,8027.selornews.com
 DOMAIN-SUFFIX,8028.huronews.com
 DOMAIN-SUFFIX,8028.luronews.com
 DOMAIN-SUFFIX,8031.jemonews.com
@@ -9165,6 +9541,7 @@ DOMAIN-SUFFIX,8044.tegronews.com
 DOMAIN-SUFFIX,8045.lootynews.com
 DOMAIN-SUFFIX,8046.lookinews.com
 DOMAIN-SUFFIX,8047.tegronews.com
+DOMAIN-SUFFIX,8048.luronews.com
 DOMAIN-SUFFIX,8051.5clo0xmbf.com
 DOMAIN-SUFFIX,8052.lookinews.com
 DOMAIN-SUFFIX,8055.gofenews.com
@@ -9196,6 +9573,7 @@ DOMAIN-SUFFIX,8090.lootynews.com
 DOMAIN-SUFFIX,8091.lookinews.com
 DOMAIN-SUFFIX,8094.reminews.com
 DOMAIN-SUFFIX,8095.jemonews.com
+DOMAIN-SUFFIX,8095.sifenews.com
 DOMAIN-SUFFIX,8096.deeginews.com
 DOMAIN-SUFFIX,8097.luronews.com
 DOMAIN-SUFFIX,8098.luronews.com
@@ -9204,20 +9582,25 @@ DOMAIN-SUFFIX,80c6b3a134.03505ed0f4.com
 DOMAIN-SUFFIX,80.tegronews.com
 DOMAIN-SUFFIX,80xmedia.com
 DOMAIN-SUFFIX,8100.luronews.com
+DOMAIN-SUFFIX,8100.selornews.com
 DOMAIN-SUFFIX,8101.jemonews.com
 DOMAIN-SUFFIX,8102.jemonews.com
 DOMAIN-SUFFIX,8102.luronews.com
 DOMAIN-SUFFIX,8103.jemonews.com
 DOMAIN-SUFFIX,8103.reminews.com
+DOMAIN-SUFFIX,8104.jemonews.com
 DOMAIN-SUFFIX,8105.reminews.com
 DOMAIN-SUFFIX,8110.5clo0xmbf.com
 DOMAIN-SUFFIX,8110.loopanews.com
 DOMAIN-SUFFIX,8112.lootynews.com
+DOMAIN-SUFFIX,8114.jemonews.com
+DOMAIN-SUFFIX,8115.deeginews.com
 DOMAIN-SUFFIX,8117.reminews.com
 DOMAIN-SUFFIX,8120.deeginews.com
 DOMAIN-SUFFIX,8121.reminews.com
 DOMAIN-SUFFIX,8122.lookinews.com
 DOMAIN-SUFFIX,8124.5clo0xmbf.com
+DOMAIN-SUFFIX,8125.selornews.com
 DOMAIN-SUFFIX,8126.jemonews.com
 DOMAIN-SUFFIX,8128.lookinews.com
 DOMAIN-SUFFIX,8129.reminews.com
@@ -9237,6 +9620,7 @@ DOMAIN-SUFFIX,814272c4.xyz
 DOMAIN-SUFFIX,81438456aa.com
 DOMAIN-SUFFIX,8143.lookinews.com
 DOMAIN-SUFFIX,8146.5clo0xmbf.com
+DOMAIN-SUFFIX,8147.luronews.com
 DOMAIN-SUFFIX,8148.jemonews.com
 DOMAIN-SUFFIX,8151.deeginews.com
 DOMAIN-SUFFIX,8151.jemonews.com
@@ -9264,6 +9648,7 @@ DOMAIN-SUFFIX,8185.5clo0xmbf.com
 DOMAIN-SUFFIX,8185.luronews.com
 DOMAIN-SUFFIX,8185.reminews.com
 DOMAIN-SUFFIX,8186.jemonews.com
+DOMAIN-SUFFIX,8189.jemonews.com
 DOMAIN-SUFFIX,8189.lootynews.com
 DOMAIN-SUFFIX,8190.jemonews.com
 DOMAIN-SUFFIX,8191.lookinews.com
@@ -9281,9 +9666,11 @@ DOMAIN-SUFFIX,8202.jemonews.com
 DOMAIN-SUFFIX,8202.lootynews.com
 DOMAIN-SUFFIX,8204.gofenews.com
 DOMAIN-SUFFIX,8206.reminews.com
+DOMAIN-SUFFIX,8209.deeginews.com
 DOMAIN-SUFFIX,8209.lootynews.com
 DOMAIN-SUFFIX,8210.jemonews.com
 DOMAIN-SUFFIX,8210.reminews.com
+DOMAIN-SUFFIX,8212.jemonews.com
 DOMAIN-SUFFIX,8214.reminews.com
 DOMAIN-SUFFIX,8218.guesswhatnews.com
 DOMAIN-SUFFIX,8219.5clo0xmbf.com
@@ -9315,8 +9702,10 @@ DOMAIN-SUFFIX,8244.reminews.com
 DOMAIN-SUFFIX,8247.jemonews.com
 DOMAIN-SUFFIX,8252.79j68qav2.com
 DOMAIN-SUFFIX,8255.lookinews.com
+DOMAIN-SUFFIX,8256.gofenews.com
 DOMAIN-SUFFIX,8260.lookinews.com
 DOMAIN-SUFFIX,8262.gofenews.com
+DOMAIN-SUFFIX,8264.lookinews.com
 DOMAIN-SUFFIX,8265.jemonews.com
 DOMAIN-SUFFIX,8270.luronews.com
 DOMAIN-SUFFIX,8275.lootynews.com
@@ -9360,6 +9749,7 @@ DOMAIN-SUFFIX,8334.luronews.com
 DOMAIN-SUFFIX,8338.reminews.com
 DOMAIN-SUFFIX,83409127.xyz
 DOMAIN-SUFFIX,8341.jemonews.com
+DOMAIN-SUFFIX,8344.gofenews.com
 DOMAIN-SUFFIX,8344.luronews.com
 DOMAIN-SUFFIX,8345efe11f.8d742929b8.com
 DOMAIN-SUFFIX,8347.loopanews.com
@@ -9368,6 +9758,7 @@ DOMAIN-SUFFIX,8349.79j68qav2.com
 DOMAIN-SUFFIX,834.jemonews.com
 DOMAIN-SUFFIX,8355.833enmhob.com
 DOMAIN-SUFFIX,8355.deeginews.com
+DOMAIN-SUFFIX,8355.jemonews.com
 DOMAIN-SUFFIX,8355.tegronews.com
 DOMAIN-SUFFIX,8357.lootynews.com
 DOMAIN-SUFFIX,8357.reminews.com
@@ -9375,6 +9766,7 @@ DOMAIN-SUFFIX,8359.guesswhatnews.com
 DOMAIN-SUFFIX,8363.gofenews.com
 DOMAIN-SUFFIX,8363.sifenews.com
 DOMAIN-SUFFIX,8365.jemonews.com
+DOMAIN-SUFFIX,8366.lookinews.com
 DOMAIN-SUFFIX,8368.deeginews.com
 DOMAIN-SUFFIX,8368.jemonews.com
 DOMAIN-SUFFIX,8368.reminews.com
@@ -9403,6 +9795,7 @@ DOMAIN-SUFFIX,8389.gofenews.com
 DOMAIN-SUFFIX,838ccf095c.02f9838600.com
 DOMAIN-SUFFIX,8390.lycheenews.com
 DOMAIN-SUFFIX,8391.5clo0xmbf.com
+DOMAIN-SUFFIX,8391.huronews.com
 DOMAIN-SUFFIX,8396.seponews.com
 DOMAIN-SUFFIX,8397.lookinews.com
 DOMAIN-SUFFIX,8398.jemonews.com
@@ -9416,6 +9809,7 @@ DOMAIN-SUFFIX,8402.5clo0xmbf.com
 DOMAIN-SUFFIX,8403.lootynews.com
 DOMAIN-SUFFIX,8403.lycheenews.com
 DOMAIN-SUFFIX,8407.reminews.com
+DOMAIN-SUFFIX,8411.reminews.com
 DOMAIN-SUFFIX,8411.tegronews.com
 DOMAIN-SUFFIX,8412.reminews.com
 DOMAIN-SUFFIX,8413.deeginews.com
@@ -9433,6 +9827,7 @@ DOMAIN-SUFFIX,8420.sifenews.com
 DOMAIN-SUFFIX,8421.guesswhatnews.com
 DOMAIN-SUFFIX,8423.reminews.com
 DOMAIN-SUFFIX,8425.reminews.com
+DOMAIN-SUFFIX,8428.lookinews.com
 DOMAIN-SUFFIX,8430.reminews.com
 DOMAIN-SUFFIX,8431.luronews.com
 DOMAIN-SUFFIX,8431.reminews.com
@@ -9453,6 +9848,7 @@ DOMAIN-SUFFIX,8456.reminews.com
 DOMAIN-SUFFIX,845d6bbf60.com
 DOMAIN-SUFFIX,8461.5clo0xmbf.com
 DOMAIN-SUFFIX,8461.deeginews.com
+DOMAIN-SUFFIX,8461.lootynews.com
 DOMAIN-SUFFIX,8462.reminews.com
 DOMAIN-SUFFIX,84631949.xyz
 DOMAIN-SUFFIX,8463.lookinews.com
@@ -9492,12 +9888,15 @@ DOMAIN-SUFFIX,8499583.com
 DOMAIN-SUFFIX,8499.luronews.com
 DOMAIN-SUFFIX,84a0e8beca.5ede78f7a0.com
 DOMAIN-SUFFIX,84aa71fc7c.com
+DOMAIN-SUFFIX,84c6a87c91.5be7319a8b.com
+DOMAIN-SUFFIX,84c7da3976.c4c3c988ad.com
 DOMAIN-SUFFIX,84f101d1bb.com
 DOMAIN-SUFFIX,84gs08xe1.com
 DOMAIN-SUFFIX,84.tegronews.com
 DOMAIN-SUFFIX,8500.gofenews.com
 DOMAIN-SUFFIX,8501.reminews.com
 DOMAIN-SUFFIX,8503.5clo0xmbf.com
+DOMAIN-SUFFIX,8503.luronews.com
 DOMAIN-SUFFIX,8504.deeginews.com
 DOMAIN-SUFFIX,8505.lookinews.com
 DOMAIN-SUFFIX,8505.loopanews.com
@@ -9548,11 +9947,13 @@ DOMAIN-SUFFIX,8557.reminews.com
 DOMAIN-SUFFIX,8558.lootynews.com
 DOMAIN-SUFFIX,8560.jemonews.com
 DOMAIN-SUFFIX,8563.lookinews.com
+DOMAIN-SUFFIX,8564.selornews.com
 DOMAIN-SUFFIX,8568392.79j68qav2.com
 DOMAIN-SUFFIX,8568.reminews.com
 DOMAIN-SUFFIX,8569.jemonews.com
 DOMAIN-SUFFIX,8569.luronews.com
 DOMAIN-SUFFIX,8570.reminews.com
+DOMAIN-SUFFIX,8572.reminews.com
 DOMAIN-SUFFIX,8572.sosqboh85.com
 DOMAIN-SUFFIX,8574.luronews.com
 DOMAIN-SUFFIX,8576.lookinews.com
@@ -9569,6 +9970,7 @@ DOMAIN-SUFFIX,8588.4puuqeh41.com
 DOMAIN-SUFFIX,8589.sosqboh85.com
 DOMAIN-SUFFIX,858e7ade92.06a21eff24.com
 DOMAIN-SUFFIX,8590.sifenews.com
+DOMAIN-SUFFIX,8593.gofenews.com
 DOMAIN-SUFFIX,8594.5clo0xmbf.com
 DOMAIN-SUFFIX,8594.833enmhob.com
 DOMAIN-SUFFIX,8594.reminews.com
@@ -9590,8 +9992,10 @@ DOMAIN-SUFFIX,86124673.xyz
 DOMAIN-SUFFIX,8612.5clo0xmbf.com
 DOMAIN-SUFFIX,8612.luronews.com
 DOMAIN-SUFFIX,8613.selornews.com
+DOMAIN-SUFFIX,8615.luronews.com
 DOMAIN-SUFFIX,8615.lycheenews.com
 DOMAIN-SUFFIX,8620.79j68qav2.com
+DOMAIN-SUFFIX,8621.gofenews.com
 DOMAIN-SUFFIX,8622.deeginews.com
 DOMAIN-SUFFIX,8623.5clo0xmbf.com
 DOMAIN-SUFFIX,8624.luronews.com
@@ -9605,6 +10009,7 @@ DOMAIN-SUFFIX,8639.reminews.com
 DOMAIN-SUFFIX,8640.jemonews.com
 DOMAIN-SUFFIX,8642.34gwl8v1a.com
 DOMAIN-SUFFIX,8643.lookinews.com
+DOMAIN-SUFFIX,8643.loopanews.com
 DOMAIN-SUFFIX,8645.luronews.com
 DOMAIN-SUFFIX,8647.jemonews.com
 DOMAIN-SUFFIX,8647.luronews.com
@@ -9612,7 +10017,9 @@ DOMAIN-SUFFIX,8647.lycheenews.com
 DOMAIN-SUFFIX,864feb57ruary.com
 DOMAIN-SUFFIX,864.lycheenews.com
 DOMAIN-SUFFIX,8650.reminews.com
+DOMAIN-SUFFIX,8654.gofenews.com
 DOMAIN-SUFFIX,8655.reminews.com
+DOMAIN-SUFFIX,8658.reminews.com
 DOMAIN-SUFFIX,8660.guesswhatnews.com
 DOMAIN-SUFFIX,8660.jemonews.com
 DOMAIN-SUFFIX,8660.lootynews.com
@@ -9692,6 +10099,7 @@ DOMAIN-SUFFIX,8781.reminews.com
 DOMAIN-SUFFIX,8782.reminews.com
 DOMAIN-SUFFIX,878324314f.d3cfa97c95.com
 DOMAIN-SUFFIX,8784.luronews.com
+DOMAIN-SUFFIX,8787.reminews.com
 DOMAIN-SUFFIX,8792.lookinews.com
 DOMAIN-SUFFIX,8793.deeginews.com
 DOMAIN-SUFFIX,8793.reminews.com
@@ -9704,6 +10112,7 @@ DOMAIN-SUFFIX,879.thebussybandit.com
 DOMAIN-SUFFIX,87c96e5e53.f74f316370.com
 DOMAIN-SUFFIX,87f81e4343.d7ea5cbf87.com
 DOMAIN-SUFFIX,8805.lookinews.com
+DOMAIN-SUFFIX,8807.luronews.com
 DOMAIN-SUFFIX,88129513.xyz
 DOMAIN-SUFFIX,8812.lootynews.com
 DOMAIN-SUFFIX,8818.79j68qav2.com
@@ -9727,6 +10136,7 @@ DOMAIN-SUFFIX,8858.guesswhatnews.com
 DOMAIN-SUFFIX,8858.reminews.com
 DOMAIN-SUFFIX,8858.tegronews.com
 DOMAIN-SUFFIX,8859.reminews.com
+DOMAIN-SUFFIX,8863.jemonews.com
 DOMAIN-SUFFIX,8863.reminews.com
 DOMAIN-SUFFIX,8864.jemonews.com
 DOMAIN-SUFFIX,8864.luronews.com
@@ -9744,6 +10154,8 @@ DOMAIN-SUFFIX,887.jemonews.com
 DOMAIN-SUFFIX,8882.tegronews.com
 DOMAIN-SUFFIX,8884.luronews.com
 DOMAIN-SUFFIX,8884.selornews.com
+DOMAIN-SUFFIX,8884.sifenews.com
+DOMAIN-SUFFIX,8886.jemonews.com
 DOMAIN-SUFFIX,8886.reminews.com
 DOMAIN-SUFFIX,8887.deeginews.com
 DOMAIN-SUFFIX,888.deeginews.com
@@ -9778,6 +10190,7 @@ DOMAIN-SUFFIX,892e84a94b.e94377cdef.com
 DOMAIN-SUFFIX,8933.5clo0xmbf.com
 DOMAIN-SUFFIX,8935.jemonews.com
 DOMAIN-SUFFIX,8935.reminews.com
+DOMAIN-SUFFIX,8936.reminews.com
 DOMAIN-SUFFIX,893.jemonews.com
 DOMAIN-SUFFIX,89407765.xyz
 DOMAIN-SUFFIX,8942.luronews.com
@@ -9787,6 +10200,7 @@ DOMAIN-SUFFIX,8944.lootynews.com
 DOMAIN-SUFFIX,8945.reminews.com
 DOMAIN-SUFFIX,8947.reminews.com
 DOMAIN-SUFFIX,8950.deeginews.com
+DOMAIN-SUFFIX,8951.gofenews.com
 DOMAIN-SUFFIX,8951.reminews.com
 DOMAIN-SUFFIX,8952.gofenews.com
 DOMAIN-SUFFIX,89532bb63a.5075971fc6.com
@@ -9804,6 +10218,8 @@ DOMAIN-SUFFIX,8973.gofenews.com
 DOMAIN-SUFFIX,8975.luronews.com
 DOMAIN-SUFFIX,8975.selornews.com
 DOMAIN-SUFFIX,8977.jemonews.com
+DOMAIN-SUFFIX,8978.reminews.com
+DOMAIN-SUFFIX,8979.lookinews.com
 DOMAIN-SUFFIX,8980.guesswhatnews.com
 DOMAIN-SUFFIX,8983.guesswhatnews.com
 DOMAIN-SUFFIX,89871256.xyz
@@ -9890,11 +10306,13 @@ DOMAIN-SUFFIX,9011.jemonews.com
 DOMAIN-SUFFIX,9012.lookinews.com
 DOMAIN-SUFFIX,9012.rookinews.com
 DOMAIN-SUFFIX,9013.5clo0xmbf.com
+DOMAIN-SUFFIX,9013.deeginews.com
 DOMAIN-SUFFIX,9014.jemonews.com
 DOMAIN-SUFFIX,9014.lootynews.com
 DOMAIN-SUFFIX,9017.jemonews.com
 DOMAIN-SUFFIX,9018.79j68qav2.com
 DOMAIN-SUFFIX,901.lycheenews.com
+DOMAIN-SUFFIX,9021.reminews.com
 DOMAIN-SUFFIX,9023.deeginews.com
 DOMAIN-SUFFIX,9023.jemonews.com
 DOMAIN-SUFFIX,9029.jemonews.com
@@ -9902,11 +10320,15 @@ DOMAIN-SUFFIX,902cd90852.616e9503a3.com
 DOMAIN-SUFFIX,9031.l5eamr17d.com
 DOMAIN-SUFFIX,9031.sifenews.com
 DOMAIN-SUFFIX,9034.luronews.com
+DOMAIN-SUFFIX,9035.reminews.com
 DOMAIN-SUFFIX,9039.luronews.com
+DOMAIN-SUFFIX,9041.deeginews.com
 DOMAIN-SUFFIX,9043.luronews.com
 DOMAIN-SUFFIX,9045.lookinews.com
+DOMAIN-SUFFIX,9045.reminews.com
 DOMAIN-SUFFIX,9047.deeginews.com
 DOMAIN-SUFFIX,9048.gofenews.com
+DOMAIN-SUFFIX,9048.jemonews.com
 DOMAIN-SUFFIX,9054.luronews.com
 DOMAIN-SUFFIX,905.notify.optimizesrv.com
 DOMAIN-SUFFIX,905trk.com
@@ -9915,6 +10337,7 @@ DOMAIN-SUFFIX,9062.luronews.com
 DOMAIN-SUFFIX,9064.jemonews.com
 DOMAIN-SUFFIX,9065.gofenews.com
 DOMAIN-SUFFIX,9068.935ft4j96.com
+DOMAIN-SUFFIX,9069.gofenews.com
 DOMAIN-SUFFIX,9070.sifenews.com
 DOMAIN-SUFFIX,9071.79j68qav2.com
 DOMAIN-SUFFIX,9077.guesswhatnews.com
@@ -9942,11 +10365,14 @@ DOMAIN-SUFFIX,9099.reminews.com
 DOMAIN-SUFFIX,909.notify.optimizesrv.com
 DOMAIN-SUFFIX,90e78be4ad.f250b37f9e.com
 DOMAIN-SUFFIX,90e7fd481d.com
+DOMAIN-SUFFIX,9100.reminews.com
 DOMAIN-SUFFIX,9100.tegronews.com
+DOMAIN-SUFFIX,9103.gofenews.com
 DOMAIN-SUFFIX,9103.reminews.com
 DOMAIN-SUFFIX,9104.5clo0xmbf.com
 DOMAIN-SUFFIX,9104.sifenews.com
 DOMAIN-SUFFIX,9105.lootynews.com
+DOMAIN-SUFFIX,9106.jemonews.com
 DOMAIN-SUFFIX,9108.gofenews.com
 DOMAIN-SUFFIX,910de7044f.com
 DOMAIN-SUFFIX,9110.lookinews.com
@@ -9977,11 +10403,14 @@ DOMAIN-SUFFIX,9138.loopanews.com
 DOMAIN-SUFFIX,9139.gofenews.com
 DOMAIN-SUFFIX,913.notify.optimizesrv.com
 DOMAIN-SUFFIX,9141.l5eamr17d.com
+DOMAIN-SUFFIX,9141.lootynews.com
 DOMAIN-SUFFIX,9144.reminews.com
+DOMAIN-SUFFIX,9146.luronews.com
 DOMAIN-SUFFIX,9147.selornews.com
 DOMAIN-SUFFIX,9149.luronews.com
 DOMAIN-SUFFIX,9149.reminews.com
 DOMAIN-SUFFIX,9151.deeginews.com
+DOMAIN-SUFFIX,9155.huronews.com
 DOMAIN-SUFFIX,9156.luronews.com
 DOMAIN-SUFFIX,9157.selornews.com
 DOMAIN-SUFFIX,91588ba267.4125ce3497.com
@@ -9996,6 +10425,7 @@ DOMAIN-SUFFIX,9170.gofenews.com
 DOMAIN-SUFFIX,9172.lookinews.com
 DOMAIN-SUFFIX,9172.reminews.com
 DOMAIN-SUFFIX,9179ef7ec3.6778056ac3.com
+DOMAIN-SUFFIX,9182.jemonews.com
 DOMAIN-SUFFIX,9184.5clo0xmbf.com
 DOMAIN-SUFFIX,9184.jemonews.com
 DOMAIN-SUFFIX,9186.gofenews.com
@@ -10006,6 +10436,7 @@ DOMAIN-SUFFIX,9189.reminews.com
 DOMAIN-SUFFIX,9190.jemonews.com
 DOMAIN-SUFFIX,9192.5clo0xmbf.com
 DOMAIN-SUFFIX,9194.luronews.com
+DOMAIN-SUFFIX,9197.reminews.com
 DOMAIN-SUFFIX,9198.5clo0xmbf.com
 DOMAIN-SUFFIX,91cd3khn.de
 DOMAIN-SUFFIX,91ceadfe3f.3854704790.com
@@ -10017,6 +10448,7 @@ DOMAIN-SUFFIX,9206.lootynews.com
 DOMAIN-SUFFIX,9207.bestinterestings.com
 DOMAIN-SUFFIX,9208.5clo0xmbf.com
 DOMAIN-SUFFIX,9210.reminews.com
+DOMAIN-SUFFIX,9212a2eca1.36006ca3dd.com
 DOMAIN-SUFFIX,9212.lookinews.com
 DOMAIN-SUFFIX,9212.lycheenews.com
 DOMAIN-SUFFIX,9212.reminews.com
@@ -10024,8 +10456,11 @@ DOMAIN-SUFFIX,9213.lycheenews.com
 DOMAIN-SUFFIX,9214.guesswhatnews.com
 DOMAIN-SUFFIX,9215.gofenews.com
 DOMAIN-SUFFIX,9216.jemonews.com
+DOMAIN-SUFFIX,9216.reminews.com
+DOMAIN-SUFFIX,9216.sifenews.com
 DOMAIN-SUFFIX,9218.reminews.com
 DOMAIN-SUFFIX,921b6384ac.com
+DOMAIN-SUFFIX,9224.guesswhatnews.com
 DOMAIN-SUFFIX,9226.luronews.com
 DOMAIN-SUFFIX,9227.lookinews.com
 DOMAIN-SUFFIX,9229.rookinews.com
@@ -10036,6 +10471,7 @@ DOMAIN-SUFFIX,9236.gofenews.com
 DOMAIN-SUFFIX,9237.jemonews.com
 DOMAIN-SUFFIX,923.jemonews.com
 DOMAIN-SUFFIX,9243.lycheenews.com
+DOMAIN-SUFFIX,9244.jemonews.com
 DOMAIN-SUFFIX,9244.lookinews.com
 DOMAIN-SUFFIX,9248.jemonews.com
 DOMAIN-SUFFIX,9248.reminews.com
@@ -10056,6 +10492,7 @@ DOMAIN-SUFFIX,9273.tegronews.com
 DOMAIN-SUFFIX,9274.reminews.com
 DOMAIN-SUFFIX,9277.reminews.com
 DOMAIN-SUFFIX,92790388.xyz
+DOMAIN-SUFFIX,9280.bestinterestings.com
 DOMAIN-SUFFIX,9280.loopanews.com
 DOMAIN-SUFFIX,9281.rookinews.com
 DOMAIN-SUFFIX,9283.deeginews.com
@@ -10069,6 +10506,7 @@ DOMAIN-SUFFIX,92e6136b5d.com
 DOMAIN-SUFFIX,92e703f830.com
 DOMAIN-SUFFIX,92f77b89a1b2df1b539ff2772282e19b.com
 DOMAIN-SUFFIX,9301.jemonews.com
+DOMAIN-SUFFIX,9301.luronews.com
 DOMAIN-SUFFIX,9302.reminews.com
 DOMAIN-SUFFIX,9303.reminews.com
 DOMAIN-SUFFIX,9307.l5eamr17d.com
@@ -10081,6 +10519,7 @@ DOMAIN-SUFFIX,9313.lookinews.com
 DOMAIN-SUFFIX,9313.luronews.com
 DOMAIN-SUFFIX,9314.deeginews.com
 DOMAIN-SUFFIX,9314.luronews.com
+DOMAIN-SUFFIX,9316.gofenews.com
 DOMAIN-SUFFIX,9318.jemonews.com
 DOMAIN-SUFFIX,9319.lookinews.com
 DOMAIN-SUFFIX,9320.luronews.com
@@ -10095,6 +10534,7 @@ DOMAIN-SUFFIX,9343.luronews.com
 DOMAIN-SUFFIX,9346.huronews.com
 DOMAIN-SUFFIX,9346.jemonews.com
 DOMAIN-SUFFIX,934tgg.sosqboh85.com
+DOMAIN-SUFFIX,9350.gofenews.com
 DOMAIN-SUFFIX,9351.rookinews.com
 DOMAIN-SUFFIX,9354ee72.xyz
 DOMAIN-SUFFIX,9361.jemonews.com
@@ -10102,6 +10542,7 @@ DOMAIN-SUFFIX,9363.rookinews.com
 DOMAIN-SUFFIX,9365.deeginews.com
 DOMAIN-SUFFIX,9367.jemonews.com
 DOMAIN-SUFFIX,9369.lookinews.com
+DOMAIN-SUFFIX,9370.gofenews.com
 DOMAIN-SUFFIX,9379.jemonews.com
 DOMAIN-SUFFIX,937e30a10b.com
 DOMAIN-SUFFIX,9382.deeginews.com
@@ -10113,22 +10554,29 @@ DOMAIN-SUFFIX,938az.xyz
 DOMAIN-SUFFIX,9390.luronews.com
 DOMAIN-SUFFIX,9391.luronews.com
 DOMAIN-SUFFIX,9393.deeginews.com
+DOMAIN-SUFFIX,9394.luronews.com
 DOMAIN-SUFFIX,9394.reminews.com
 DOMAIN-SUFFIX,9395.5clo0xmbf.com
 DOMAIN-SUFFIX,9397.lookinews.com
 DOMAIN-SUFFIX,93.deeginews.com
 DOMAIN-SUFFIX,9400.4puuqeh41.com
+DOMAIN-SUFFIX,9400.luronews.com
+DOMAIN-SUFFIX,9403.reminews.com
 DOMAIN-SUFFIX,9405.gofenews.com
 DOMAIN-SUFFIX,9406.deeginews.com
 DOMAIN-SUFFIX,9407.tegronews.com
 DOMAIN-SUFFIX,9409.deeginews.com
+DOMAIN-SUFFIX,9409.jemonews.com
 DOMAIN-SUFFIX,9410.loopanews.com
+DOMAIN-SUFFIX,9412.jemonews.com
 DOMAIN-SUFFIX,9416.reminews.com
+DOMAIN-SUFFIX,9417.jemonews.com
 DOMAIN-SUFFIX,9418b95070.845d6bbf60.com
 DOMAIN-SUFFIX,941.jemonews.com
 DOMAIN-SUFFIX,9420.lootynews.com
 DOMAIN-SUFFIX,9424.reminews.com
 DOMAIN-SUFFIX,9428.deeginews.com
+DOMAIN-SUFFIX,9429.selornews.com
 DOMAIN-SUFFIX,9433.lookinews.com
 DOMAIN-SUFFIX,943d6e0643.com
 DOMAIN-SUFFIX,9441.reminews.com
@@ -10140,7 +10588,9 @@ DOMAIN-SUFFIX,9450.jemonews.com
 DOMAIN-SUFFIX,9452.79j68qav2.com
 DOMAIN-SUFFIX,9453.reminews.com
 DOMAIN-SUFFIX,9454.sifenews.com
+DOMAIN-SUFFIX,9457.sifenews.com
 DOMAIN-SUFFIX,94597672.xyz
+DOMAIN-SUFFIX,9459.deeginews.com
 DOMAIN-SUFFIX,945.lycheenews.com
 DOMAIN-SUFFIX,9461.loopanews.com
 DOMAIN-SUFFIX,9466.reminews.com
@@ -10158,6 +10608,7 @@ DOMAIN-SUFFIX,9484.reminews.com
 DOMAIN-SUFFIX,9486.loopanews.com
 DOMAIN-SUFFIX,9488.833enmhob.com
 DOMAIN-SUFFIX,9489.bestinterestings.com
+DOMAIN-SUFFIX,9493.reminews.com
 DOMAIN-SUFFIX,9493.tegronews.com
 DOMAIN-SUFFIX,9494.reminews.com
 DOMAIN-SUFFIX,9496.selornews.com
@@ -10173,6 +10624,7 @@ DOMAIN-SUFFIX,9507.lookinews.com
 DOMAIN-SUFFIX,9507.sifenews.com
 DOMAIN-SUFFIX,9509.5clo0xmbf.com
 DOMAIN-SUFFIX,9509.reminews.com
+DOMAIN-SUFFIX,9510.jemonews.com
 DOMAIN-SUFFIX,9510.luronews.com
 DOMAIN-SUFFIX,9513.gofenews.com
 DOMAIN-SUFFIX,9516.jemonews.com
@@ -10191,6 +10643,7 @@ DOMAIN-SUFFIX,9550.jemonews.com
 DOMAIN-SUFFIX,9556.reminews.com
 DOMAIN-SUFFIX,9557.5clo0xmbf.com
 DOMAIN-SUFFIX,9557.luronews.com
+DOMAIN-SUFFIX,9558.reminews.com
 DOMAIN-SUFFIX,9559.jemonews.com
 DOMAIN-SUFFIX,955.notify.optimizesrv.com
 DOMAIN-SUFFIX,9566.lycheenews.com
@@ -10248,6 +10701,7 @@ DOMAIN-SUFFIX,9653.deeginews.com
 DOMAIN-SUFFIX,9653.sifenews.com
 DOMAIN-SUFFIX,9654.gofenews.com
 DOMAIN-SUFFIX,9655.lootynews.com
+DOMAIN-SUFFIX,9656.luronews.com
 DOMAIN-SUFFIX,9659.jemonews.com
 DOMAIN-SUFFIX,9661.jemonews.com
 DOMAIN-SUFFIX,9662.l5eamr17d.com
@@ -10263,9 +10717,11 @@ DOMAIN-SUFFIX,9687.gofenews.com
 DOMAIN-SUFFIX,9688.jemonews.com
 DOMAIN-SUFFIX,9690.jemonews.com
 DOMAIN-SUFFIX,9692.5clo0xmbf.com
+DOMAIN-SUFFIX,9698.reminews.com
 DOMAIN-SUFFIX,96a70a4ce7.cde5138b76.com
 DOMAIN-SUFFIX,96b600f50a.a0e351a3aa.com
 DOMAIN-SUFFIX,9704.5clo0xmbf.com
+DOMAIN-SUFFIX,9704.reminews.com
 DOMAIN-SUFFIX,9706.reminews.com
 DOMAIN-SUFFIX,9707f751b9.56b1db5afb.com
 DOMAIN-SUFFIX,9707.reminews.com
@@ -10281,6 +10737,7 @@ DOMAIN-SUFFIX,9728.luronews.com
 DOMAIN-SUFFIX,9728.rookinews.com
 DOMAIN-SUFFIX,9730.seponews.com
 DOMAIN-SUFFIX,9735.jemonews.com
+DOMAIN-SUFFIX,9735.lootynews.com
 DOMAIN-SUFFIX,9737.selornews.com
 DOMAIN-SUFFIX,9739.luronews.com
 DOMAIN-SUFFIX,9741.luronews.com
@@ -10297,6 +10754,7 @@ DOMAIN-SUFFIX,9754.lootynews.com
 DOMAIN-SUFFIX,9756.jemonews.com
 DOMAIN-SUFFIX,9762.rookinews.com
 DOMAIN-SUFFIX,9765.reminews.com
+DOMAIN-SUFFIX,9769.tegronews.com
 DOMAIN-SUFFIX,9771.lookinews.com
 DOMAIN-SUFFIX,9772.lookinews.com
 DOMAIN-SUFFIX,9772.tsmt5revp.com
@@ -10310,6 +10768,7 @@ DOMAIN-SUFFIX,9782.reminews.com
 DOMAIN-SUFFIX,9784.5clo0xmbf.com
 DOMAIN-SUFFIX,9785.jemonews.com
 DOMAIN-SUFFIX,9790.jemonews.com
+DOMAIN-SUFFIX,9793.selornews.com
 DOMAIN-SUFFIX,9798.lootynews.com
 DOMAIN-SUFFIX,97b448.xyz
 DOMAIN-SUFFIX,97.deeginews.com
@@ -10354,6 +10813,7 @@ DOMAIN-SUFFIX,9854.reminews.com
 DOMAIN-SUFFIX,9855.sifenews.com
 DOMAIN-SUFFIX,9858.reminews.com
 DOMAIN-SUFFIX,9859.guesswhatnews.com
+DOMAIN-SUFFIX,9859.luronews.com
 DOMAIN-SUFFIX,9862.lootynews.com
 DOMAIN-SUFFIX,9864.luronews.com
 DOMAIN-SUFFIX,9867.luronews.com
@@ -10405,9 +10865,12 @@ DOMAIN-SUFFIX,9947.5clo0xmbf.com
 DOMAIN-SUFFIX,9949.4puuqeh41.com
 DOMAIN-SUFFIX,994e4a6044.com
 DOMAIN-SUFFIX,9950.jemonews.com
+DOMAIN-SUFFIX,9951.reminews.com
 DOMAIN-SUFFIX,99525f9c96.cfd546b20a.com
 DOMAIN-SUFFIX,9952.reminews.com
 DOMAIN-SUFFIX,9954.deeginews.com
+DOMAIN-SUFFIX,9954.lookinews.com
+DOMAIN-SUFFIX,9958.reminews.com
 DOMAIN-SUFFIX,995f631c96.3ad2ae645c.com
 DOMAIN-SUFFIX,9962.gofenews.com
 DOMAIN-SUFFIX,9964.reminews.com
@@ -10430,6 +10893,7 @@ DOMAIN-SUFFIX,9992.4puuqeh41.com
 DOMAIN-SUFFIX,9992.tegronews.com
 DOMAIN-SUFFIX,9993.luronews.com
 DOMAIN-SUFFIX,9996777888.com
+DOMAIN-SUFFIX,9997.jemonews.com
 DOMAIN-SUFFIX,9999.ohhmyoffers.com
 DOMAIN-SUFFIX,99bdce1056.970824fa47.com
 DOMAIN-SUFFIX,99bithcoins.com
@@ -10466,6 +10930,7 @@ DOMAIN-SUFFIX,9d2cca15e4.com
 DOMAIN-SUFFIX,9d3464a212.eac77b4889.com
 DOMAIN-SUFFIX,9d5ed16be3.2f2bef3deb.com
 DOMAIN-SUFFIX,9d603009eb.com
+DOMAIN-SUFFIX,9d6d1163fa.8c2012e141.com
 DOMAIN-SUFFIX,9d87b35397.com
 DOMAIN-SUFFIX,9db1ac1992.9d8880ca57.com
 DOMAIN-SUFFIX,9dccbda825.com
@@ -10597,6 +11062,7 @@ DOMAIN-SUFFIX,a77e9cff2b.25c487db78.com
 DOMAIN-SUFFIX,a788d8a3de.7411603f57.com
 DOMAIN-SUFFIX,a78e8782bd.0d0c3ccf54.com
 DOMAIN-SUFFIX,a7dfd3c64a.84f101d1bb.com
+DOMAIN-SUFFIX,a7e48ab5ca.b9f26bbf80.com
 DOMAIN-SUFFIX,a7.guesswhatnews.com
 DOMAIN-SUFFIX,a7.lookinews.com
 DOMAIN-SUFFIX,a82b3391ad.cba6182add.com
@@ -10627,7 +11093,6 @@ DOMAIN-SUFFIX,aaacdbf17d.com
 DOMAIN-SUFFIX,aaacompany.net
 DOMAIN-SUFFIX,aaae5b9ee0.d3aa46b2e8.com
 DOMAIN-SUFFIX,a.aahen.site
-DOMAIN-SUFFIX,aaa.sieglinde22.xyz
 DOMAIN-SUFFIX,aaa.vidox.net
 DOMAIN-SUFFIX,aab1.a.asg.maxx.ddac.ru
 DOMAIN-SUFFIX,aabb.faperoni.com
@@ -10670,6 +11135,7 @@ DOMAIN-SUFFIX,aardwolf.meinsmartplan.de
 DOMAIN-SUFFIX,aardwolf.relaycorp.tech
 DOMAIN-SUFFIX,aarghclothy.com
 DOMAIN-SUFFIX,aarswtcnoz.com
+DOMAIN-SUFFIX,a.asgtrk.click
 DOMAIN-SUFFIX,a.asvsm.com
 DOMAIN-SUFFIX,a.atris.xyz
 DOMAIN-SUFFIX,a.avrom.xyz
@@ -10697,6 +11163,7 @@ DOMAIN-SUFFIX,abarbollidate.com
 DOMAIN-SUFFIX,abashfireworks.com
 DOMAIN-SUFFIX,abasshowish.guru
 DOMAIN-SUFFIX,abattoirpleatsprinkle.com
+DOMAIN-SUFFIX,abattuehagbuts.com
 DOMAIN-SUFFIX,abazelfan.com
 DOMAIN-SUFFIX,abbasidquippy.shop
 DOMAIN-SUFFIX,abbateerupted.com
@@ -12189,6 +12656,7 @@ DOMAIN-SUFFIX,adzpower.com
 DOMAIN-SUFFIX,adzs.com
 DOMAIN-SUFFIX,adzshield.info
 DOMAIN-SUFFIX,adzs.nl
+DOMAIN-SUFFIX,adztech-images.reviveservers.com
 DOMAIN-SUFFIX,adzyou.com
 DOMAIN-SUFFIX,ae0ab46046.6ce02869b9.com
 DOMAIN-SUFFIX,ae277b422a.45cb7b8453.com
@@ -12602,6 +13070,7 @@ DOMAIN-SUFFIX,aj2555.bid
 DOMAIN-SUFFIX,aj2627.bid
 DOMAIN-SUFFIX,aj3038.bid
 DOMAIN-SUFFIX,ajaiguhubeh.com
+DOMAIN-SUFFIX,a.jamez.site
 DOMAIN-SUFFIX,a.jamni.xyz
 DOMAIN-SUFFIX,ajar-substance.com
 DOMAIN-SUFFIX,a.jeniz.xyz
@@ -12619,8 +13088,12 @@ DOMAIN-SUFFIX,ajmpeuf.com
 DOMAIN-SUFFIX,ajoosheg.com
 DOMAIN-SUFFIX,ajrkm1.com
 DOMAIN-SUFFIX,ajrkm3.com
+DOMAIN-SUFFIX,ajs.allnestinfinite.com
+DOMAIN-SUFFIX,ajs.bowintelligence.com
 DOMAIN-SUFFIX,ajscdn.com
+DOMAIN-SUFFIX,ajs.laketrend.com
 DOMAIN-SUFFIX,ajs.selecttopoff.com
+DOMAIN-SUFFIX,ajs.statelinear.com
 DOMAIN-SUFFIX,ajump2.com
 DOMAIN-SUFFIX,ajvjpupava.com
 DOMAIN-SUFFIX,ajvnragtua.com
@@ -12665,6 +13138,7 @@ DOMAIN-SUFFIX,alaeshire.com
 DOMAIN-SUFFIX,alagaodealing.com
 DOMAIN-SUFFIX,a.lakmus.xyz
 DOMAIN-SUFFIX,alanibelen.com
+DOMAIN-SUFFIX,alaoena.xyz
 DOMAIN-SUFFIX,alaot.com
 DOMAIN-SUFFIX,alargeredrubygsw.info
 DOMAIN-SUFFIX,alarmsportsnetwork.com
@@ -12788,6 +13262,7 @@ DOMAIN-SUFFIX,allhugenewz.com
 DOMAIN-SUFFIX,allhypefeed.com
 DOMAIN-SUFFIX,alliancejoyousbloat.com
 DOMAIN-SUFFIX,allicinarenig.com
+DOMAIN-SUFFIX,alligator.bluehorn.digital
 DOMAIN-SUFFIX,alligator.remotecyberwork.com
 DOMAIN-SUFFIX,allimpactdesign.com
 DOMAIN-SUFFIX,allloveydovey.fun
@@ -13277,6 +13752,7 @@ DOMAIN-SUFFIX,ape.smartplanschema.se
 DOMAIN-SUFFIX,apex-ad.com
 DOMAIN-SUFFIX,apexcdn.com
 DOMAIN-SUFFIX,ap.frarychazan.com
+DOMAIN-SUFFIX,apgate.hubhubhub.name
 DOMAIN-SUFFIX,apglinks.net
 DOMAIN-SUFFIX,aphid.nihilnegativum.com
 DOMAIN-SUFFIX,aphid.polarcop.com
@@ -13668,6 +14144,7 @@ DOMAIN-SUFFIX,asg.pornomoglie.com
 DOMAIN-SUFFIX,asg.pornoplay.online
 DOMAIN-SUFFIX,asg.pornvids.fr
 DOMAIN-SUFFIX,asg.prettytube.net
+DOMAIN-SUFFIX,asg.redfans.org
 DOMAIN-SUFFIX,asg.sdtraff.com
 DOMAIN-SUFFIX,asg.shudhdesiporn.com
 DOMAIN-SUFFIX,asg.soundrussian.com
@@ -14346,9 +14823,9 @@ DOMAIN-SUFFIX,b3mccglf4zqz.shop
 DOMAIN-SUFFIX,b3stcond1tions.com
 DOMAIN-SUFFIX,b3z29k1uxb.com
 DOMAIN-SUFFIX,b41732fb1b.com
+DOMAIN-SUFFIX,b41eaf5815.197ca1c853.com
 DOMAIN-SUFFIX,b42rracj.com
 DOMAIN-SUFFIX,b43bc6681c.4bad5cdf48.com
-DOMAIN-SUFFIX,b43gf.sanjay44.xyz
 DOMAIN-SUFFIX,b44261ea37.1be76e820d.com
 DOMAIN-SUFFIX,b479c48f5b.2a1b3d0e95.com
 DOMAIN-SUFFIX,b4c340b5c1.8db4fde90b.com
@@ -14389,12 +14866,14 @@ DOMAIN-SUFFIX,b8pfulzbyj7h.com
 DOMAIN-SUFFIX,b903c2.xyz
 DOMAIN-SUFFIX,b99d6ab38b.d15a035f27.com
 DOMAIN-SUFFIX,b9f25b.site
+DOMAIN-SUFFIX,b9f26bbf80.com
 DOMAIN-SUFFIX,ba0bf98c.xyz
 DOMAIN-SUFFIX,ba31f372b1.6d0ce9a973.com
 DOMAIN-SUFFIX,ba3b545f57.43541f6026.com
 DOMAIN-SUFFIX,ba3f423e4f.4111ae9ec0.com
 DOMAIN-SUFFIX,ba46b70722.com
 DOMAIN-SUFFIX,ba8bed274a.0daa70aafd.com
+DOMAIN-SUFFIX,ba9e239613.dd0254aae5.com
 DOMAIN-SUFFIX,ba9ee99d4f.9d9a354450.com
 DOMAIN-SUFFIX,baaomenaltho.com
 DOMAIN-SUFFIX,babbnrs.com
@@ -14412,7 +14891,6 @@ DOMAIN-SUFFIX,babyniceshark.com
 DOMAIN-SUFFIX,babysittingrainyoffend.com
 DOMAIN-SUFFIX,baccarat112.com
 DOMAIN-SUFFIX,baccarat212.com
-DOMAIN-SUFFIX,b.accided.online
 DOMAIN-SUFFIX,bachelorfondleenrapture.com
 DOMAIN-SUFFIX,bachelorfranz.com
 DOMAIN-SUFFIX,bacishushaby.com
@@ -14713,7 +15191,6 @@ DOMAIN-SUFFIX,bb3f11de52.2ecfa1db15.com
 DOMAIN-SUFFIX,bb3.lookinews.com
 DOMAIN-SUFFIX,bb73db8996.7857ab56f4.com
 DOMAIN-SUFFIX,bbangads.b-cdn.net
-DOMAIN-SUFFIX,bbb.dagobert33.xyz
 DOMAIN-SUFFIX,bbccn.org
 DOMAIN-SUFFIX,bbcrgate.com
 DOMAIN-SUFFIX,bbd834il.de
@@ -14746,6 +15223,7 @@ DOMAIN-SUFFIX,bcdn.cpmstar.com
 DOMAIN-SUFFIX,bcec266926.5d22c28634.com
 DOMAIN-SUFFIX,bceptemujahb.com
 DOMAIN-SUFFIX,bcf8b298d8.6ce5e6f9fc.com
+DOMAIN-SUFFIX,bcfd48bbca.660a9baa02.com
 DOMAIN-SUFFIX,b.cinvetica.com
 DOMAIN-SUFFIX,bcjikwflahufgo.xyz
 DOMAIN-SUFFIX,bclikeqt.com
@@ -14811,7 +15289,6 @@ DOMAIN-SUFFIX,beauty1.xyz
 DOMAIN-SUFFIX,beaverads.com
 DOMAIN-SUFFIX,beaver.bluebunnypaper.com
 DOMAIN-SUFFIX,beaver.brush.ninja
-DOMAIN-SUFFIX,beaver.ecosecretariat.org
 DOMAIN-SUFFIX,beaver.livechatlabs.com
 DOMAIN-SUFFIX,beavertron.com
 DOMAIN-SUFFIX,beaxewr.com
@@ -15335,6 +15812,7 @@ DOMAIN-SUFFIX,birthday3452.fun
 DOMAIN-SUFFIX,birthdayinhale.com
 DOMAIN-SUFFIX,biserka.xyz
 DOMAIN-SUFFIX,bisetsoliped.com
+DOMAIN-SUFFIX,bi.sifenews.com
 DOMAIN-SUFFIX,biskerando.com
 DOMAIN-SUFFIX,bison.equals.community
 DOMAIN-SUFFIX,bison.joshhanley.com.au
@@ -15840,6 +16318,7 @@ DOMAIN-SUFFIX,bptracking.com
 DOMAIN-SUFFIX,bqeuffmdobmpoe.xyz
 DOMAIN-SUFFIX,bqkwfioyd.xyz
 DOMAIN-SUFFIX,bqsnmpwxwd.buzz
+DOMAIN-SUFFIX,bqtnnnrqysv.com
 DOMAIN-SUFFIX,br1.guesswhatnews.com
 DOMAIN-SUFFIX,br3azil334nutsz.com
 DOMAIN-SUFFIX,br3i.space
@@ -16043,6 +16522,7 @@ DOMAIN-SUFFIX,brunetteattendanceawful.com
 DOMAIN-SUFFIX,brunettemattersrefused.com
 DOMAIN-SUFFIX,bruntstabulae.com
 DOMAIN-SUFFIX,brutishlylifevoicing.com
+DOMAIN-SUFFIX,brutus.clicknplay.to
 DOMAIN-SUFFIX,brygella.com
 DOMAIN-SUFFIX,bryny.xyz
 DOMAIN-SUFFIX,bryond.com
@@ -16431,6 +16911,7 @@ DOMAIN-SUFFIX,cab367ba55.44e29c19ac.com
 DOMAIN-SUFFIX,cabackoverlax.com
 DOMAIN-SUFFIX,cabbagereporterpayroll.com
 DOMAIN-SUFFIX,cabbagesemestergeoffrey.com
+DOMAIN-SUFFIX,cabd7480b0.93f886b93e.com
 DOMAIN-SUFFIX,cabhwq.com
 DOMAIN-SUFFIX,cabnnr.com
 DOMAIN-SUFFIX,cabombaskopets.life
@@ -16803,7 +17284,6 @@ DOMAIN-SUFFIX,cc72fceb4f.com
 DOMAIN-SUFFIX,cc8110e902.78343186b9.com
 DOMAIN-SUFFIX,ccaa0e51d8.com
 DOMAIN-SUFFIX,ccaahdancza.com
-DOMAIN-SUFFIX,cca.sanjay44.xyz
 DOMAIN-SUFFIX,ccdb6d3e12.cb3251add6.com
 DOMAIN-SUFFIX,cc-dt.com
 DOMAIN-SUFFIX,ccffeff137.2d439ab93e.com
@@ -16823,6 +17303,7 @@ DOMAIN-SUFFIX,cc.sexgeschichten-xxx.com
 DOMAIN-SUFFIX,cc.sexstories-xxx.com
 DOMAIN-SUFFIX,cc.sexverhalen-gratis.com
 DOMAIN-SUFFIX,ccypzigf.com
+DOMAIN-SUFFIX,cd037385e0.b67f1b04e9.com
 DOMAIN-SUFFIX,cd57296e.xyz
 DOMAIN-SUFFIX,cd7211716b.935eadb976.com
 DOMAIN-SUFFIX,cd828.com
@@ -17423,6 +17904,7 @@ DOMAIN-SUFFIX,chickadee.serverlessfirst.com
 DOMAIN-SUFFIX,chicken.alpla.info
 DOMAIN-SUFFIX,chicken.clerklabs.com
 DOMAIN-SUFFIX,chicken.couleur.io
+DOMAIN-SUFFIX,chicken.p2pmarketdata.com
 DOMAIN-SUFFIX,chicken.redbrushart.com
 DOMAIN-SUFFIX,chicken.tjsoler.dev
 DOMAIN-SUFFIX,chicken.zwei.haus
@@ -17495,6 +17977,7 @@ DOMAIN-SUFFIX,chokeweaknessheat.com
 DOMAIN-SUFFIX,cholatetapalos.com
 DOMAIN-SUFFIX,choobatchautoo.net
 DOMAIN-SUFFIX,choocmailt.com
+DOMAIN-SUFFIX,choodrawiwa.net
 DOMAIN-SUFFIX,choogeet.net
 DOMAIN-SUFFIX,choomsiesurvey.top
 DOMAIN-SUFFIX,choongou.com
@@ -19158,7 +19641,6 @@ DOMAIN-SUFFIX,cvaetfspprbnt.com
 DOMAIN-SUFFIX,cvastico.com
 DOMAIN-SUFFIX,cvgto-akmk.fun
 DOMAIN-SUFFIX,cvk.supklik.com
-DOMAIN-SUFFIX,cvsd.tjaard11.xyz
 DOMAIN-SUFFIX,cvvemdvrojgo.com
 DOMAIN-SUFFIX,cvxwaslonejulyha.info
 DOMAIN-SUFFIX,cwchmb.com
@@ -20213,11 +20695,11 @@ DOMAIN-SUFFIX,damgurwdblf.xyz
 DOMAIN-SUFFIX,damnightmareleery.com
 DOMAIN-SUFFIX,dampapproach.com
 DOMAIN-SUFFIX,dampedvisored.com
-DOMAIN-SUFFIX,damselfly.clk.click
 DOMAIN-SUFFIX,damselfly.vegenook.com
 DOMAIN-SUFFIX,dana123.com
 DOMAIN-SUFFIX,danbo.org
 DOMAIN-SUFFIX,dancefordamazed.com
+DOMAIN-SUFFIX,dance.javgle.tokyo
 DOMAIN-SUFFIX,dandelionnoddingoffended.com
 DOMAIN-SUFFIX,dandinterpersona.com
 DOMAIN-SUFFIX,dandyblondewinding.com
@@ -20432,7 +20914,6 @@ DOMAIN-SUFFIX,ddb6f742cc.f3010e5e7a.com
 DOMAIN-SUFFIX,ddbhm.pro
 DOMAIN-SUFFIX,ddd0273cf4.a85d43cd02.com
 DOMAIN-SUFFIX,ddd38c80c8.366378fd1d.com
-DOMAIN-SUFFIX,ddd.adil23.xyz
 DOMAIN-SUFFIX,dddashasledopyt.com
 DOMAIN-SUFFIX,dddashasledopyt.xyz
 DOMAIN-SUFFIX,ddd.contoseroticoscnn.com
@@ -20844,12 +21325,10 @@ DOMAIN-SUFFIX,df63c9d77a.2619374464.com
 DOMAIN-SUFFIX,df80k0z3fi8zg.cloudfront.net
 DOMAIN-SUFFIX,df85f70078.ad4905c1db.com
 DOMAIN-SUFFIX,dfb55a5491.d3edbb478c.com
-DOMAIN-SUFFIX,dfbdfh4w3.sanjay44.xyz
 DOMAIN-SUFFIX,dfc1a3c2c3.8de4cb9cb7.com
 DOMAIN-SUFFIX,dfd55780d6.com
 DOMAIN-SUFFIX,dfdgfruitie.xyz
 DOMAIN-SUFFIX,dffa09cade.com
-DOMAIN-SUFFIX,dfgw.neigh11.xyz
 DOMAIN-SUFFIX,dfh48z16zqvm6.cloudfront.net
 DOMAIN-SUFFIX,dfidhqoaunepq.cloudfront.net
 DOMAIN-SUFFIX,dfiqvf0syzl54.cloudfront.net
@@ -20867,7 +21346,6 @@ DOMAIN-SUFFIX,dfwbfr2blhmr5.cloudfront.net
 DOMAIN-SUFFIX,dfyui8r5rs.click
 DOMAIN-SUFFIX,dfyvcihusajf.com
 DOMAIN-SUFFIX,dg0hrtzcus4q4.cloudfront.net
-DOMAIN-SUFFIX,dg3qtwew.sanjay44.xyz
 DOMAIN-SUFFIX,dg6gu9iqplusg.cloudfront.net
 DOMAIN-SUFFIX,dg7k1tpeaxzcq.cloudfront.net
 DOMAIN-SUFFIX,dg9sw33hxt5i7.cloudfront.net
@@ -22090,6 +22568,7 @@ DOMAIN-SUFFIX,earthworm.makethemdebate.com
 DOMAIN-SUFFIX,earthworm.mxdvl.com
 DOMAIN-SUFFIX,earthworm.robbevanpetegem.be
 DOMAIN-SUFFIX,earwig.architecturesofhiding.com
+DOMAIN-SUFFIX,earwig.oofi.es
 DOMAIN-SUFFIX,eas696r.xyz
 DOMAIN-SUFFIX,easctmguafe.global
 DOMAIN-SUFFIX,easeavailandpro.info
@@ -22219,6 +22698,7 @@ DOMAIN-SUFFIX,edacityedacitystrawcrook.com
 DOMAIN-SUFFIX,edaightutaitlastwe.info
 DOMAIN-SUFFIX,edalloverwiththinl.info
 DOMAIN-SUFFIX,edallthroughthe.info
+DOMAIN-SUFFIX,edb6b4f82b.21b90dc4f5.com
 DOMAIN-SUFFIX,edbehindforhewa.info
 DOMAIN-SUFFIX,edbritingsynt.info
 DOMAIN-SUFFIX,edchargina.pro
@@ -22271,6 +22751,7 @@ DOMAIN-SUFFIX,edvxygh.com
 DOMAIN-SUFFIX,edwmpt.com
 DOMAIN-SUFFIX,edzj9b6fjmhw3kt4.production.bloblohub.com
 DOMAIN-SUFFIX,ee0ca7f291.b41732fb1b.com
+DOMAIN-SUFFIX,ee2eb00cc5.5707f9766c.com
 DOMAIN-SUFFIX,ee625e4b1d.com
 DOMAIN-SUFFIX,ee694ce73a.c11e6856d0.com
 DOMAIN-SUFFIX,ee768d2e27.0f9be2e1ef.com
@@ -22286,7 +22767,6 @@ DOMAIN-SUFFIX,eeco.xyz
 DOMAIN-SUFFIX,eedsaung.net
 DOMAIN-SUFFIX,eeedbcd951.914e9c7d17.com
 DOMAIN-SUFFIX,eeee1d61e9.39aecdfbc0.com
-DOMAIN-SUFFIX,eee.sanjay44.xyz
 DOMAIN-SUFFIX,eefa308edc.com
 DOMAIN-SUFFIX,eegamaub.net
 DOMAIN-SUFFIX,eegeeglou.com
@@ -22552,6 +23032,7 @@ DOMAIN-SUFFIX,employmentpersons.com
 DOMAIN-SUFFIX,empond.com
 DOMAIN-SUFFIX,emptieskischen.shop
 DOMAIN-SUFFIX,empusacooner.com
+DOMAIN-SUFFIX,emqcjvva.com
 DOMAIN-SUFFIX,emsservice.de
 DOMAIN-SUFFIX,emu.blitzpower.com
 DOMAIN-SUFFIX,emu.cortexfutura.com
@@ -23498,6 +23979,7 @@ DOMAIN-SUFFIX,fazanppq.com
 DOMAIN-SUFFIX,fb06e67da1.30ff4cb531.com
 DOMAIN-SUFFIX,fb55957409.com
 DOMAIN-SUFFIX,fbappi.co
+DOMAIN-SUFFIX,fbbfde9989.fc9fef32e2.com
 DOMAIN-SUFFIX,fbcdn2.com
 DOMAIN-SUFFIX,fbd077ad20.fee2ceeee7.com
 DOMAIN-SUFFIX,fbd25d3328.9a71b08258.com
@@ -23543,7 +24025,6 @@ DOMAIN-SUFFIX,fdolspwa.my
 DOMAIN-SUFFIX,fdxbilemeofrx.com
 DOMAIN-SUFFIX,fe30a5b4.xyz
 DOMAIN-SUFFIX,fe313be9ba.61598081d6.com
-DOMAIN-SUFFIX,fe34.sieglinde22.xyz
 DOMAIN-SUFFIX,fe7qygqi2p2h.com
 DOMAIN-SUFFIX,fe807f067c.3183af8c1d.com
 DOMAIN-SUFFIX,fe9a1074c9.8d96fe2f01.com
@@ -23683,21 +24164,17 @@ DOMAIN-SUFFIX,ffbvhlc.com
 DOMAIN-SUFFIX,ffc661579f.c2dffe940b.com
 DOMAIN-SUFFIX,fffbaeef93.b12f1b0346.com
 DOMAIN-SUFFIX,fffbd1538e.com
-DOMAIN-SUFFIX,fff.sieglinde22.xyz
 DOMAIN-SUFFIX,ffofcetgurwrd.com
 DOMAIN-SUFFIX,ffsewzk.com
 DOMAIN-SUFFIX,fftgasxe.xyz
 DOMAIN-SUFFIX,fgbnnholonge.info
 DOMAIN-SUFFIX,fgbthrsxnlo.xyz
 DOMAIN-SUFFIX,fgeivosgjk.com
-DOMAIN-SUFFIX,fgf3312xcx.sanjay44.xyz
-DOMAIN-SUFFIX,fght3322.sieglinde22.xyz
 DOMAIN-SUFFIX,fgigrmle.xyz
 DOMAIN-SUFFIX,fgk-jheepn.site
 DOMAIN-SUFFIX,f-g-l-j.22yy6.com
 DOMAIN-SUFFIX,fgoqnva.com
 DOMAIN-SUFFIX,fgpmxwbxnpww.xyz
-DOMAIN-SUFFIX,fgr3edff.sieglinde22.xyz
 DOMAIN-SUFFIX,fh259by01r25.com
 DOMAIN-SUFFIX,fhahujwafaf.com
 DOMAIN-SUFFIX,fharfyqacn.com
@@ -23809,6 +24286,7 @@ DOMAIN-SUFFIX,filter.clicktoring.com
 DOMAIN-SUFFIX,filter.clixcrafts.com
 DOMAIN-SUFFIX,filter.clixportal.com
 DOMAIN-SUFFIX,filter.clixwells.com
+DOMAIN-SUFFIX,filter.contentsrch.com
 DOMAIN-SUFFIX,filter.cpmvibes.com
 DOMAIN-SUFFIX,filter.datadrives.ai
 DOMAIN-SUFFIX,filter.digiteci.com
@@ -23822,6 +24300,7 @@ DOMAIN-SUFFIX,filter-eu.adportonic.com
 DOMAIN-SUFFIX,filter-eu.adright.co
 DOMAIN-SUFFIX,filter-eu.adsailor.com
 DOMAIN-SUFFIX,filter-eu.adzreach.com
+DOMAIN-SUFFIX,filter-eu.appmonsta.ai
 DOMAIN-SUFFIX,filter-eu.boffoadsfeeds.com
 DOMAIN-SUFFIX,filter-eu.chameleostudios.com
 DOMAIN-SUFFIX,filter-eu.cpmvibes.com
@@ -23841,6 +24320,7 @@ DOMAIN-SUFFIX,filter-eu.hueadsxml.com
 DOMAIN-SUFFIX,filter-eu.kunvertads.com
 DOMAIN-SUFFIX,filter-eu.mobipromote.com
 DOMAIN-SUFFIX,filter-eu.nexrtb.com
+DOMAIN-SUFFIX,filter-eu.optumads.com
 DOMAIN-SUFFIX,filter-eu.pops.gg
 DOMAIN-SUFFIX,filter-eu.qksrv.cc
 DOMAIN-SUFFIX,filter-eu.realtime-bid.com
@@ -23904,7 +24384,7 @@ DOMAIN-SUFFIX,filter.push-sense.com
 DOMAIN-SUFFIX,filter.pyrrhicmechntech.com
 DOMAIN-SUFFIX,filter.q32167.com
 DOMAIN-SUFFIX,filter.qksrv.cc
-DOMAIN-SUFFIX,filter.reachclicks.net
+DOMAIN-SUFFIX,filter.rastyclick.com
 DOMAIN-SUFFIX,filter.realtime-bid.com
 DOMAIN-SUFFIX,filter.reklama.network
 DOMAIN-SUFFIX,filter.re-media.info
@@ -24752,7 +25232,6 @@ DOMAIN-SUFFIX,g0-get-s0me.net
 DOMAIN-SUFFIX,g0gr67p.de
 DOMAIN-SUFFIX,g0wow.net
 DOMAIN-SUFFIX,g2afse.com
-DOMAIN-SUFFIX,g33f.neigh11.xyz
 DOMAIN-SUFFIX,g33ktr4ck.com
 DOMAIN-SUFFIX,g33tr4c3r.com
 DOMAIN-SUFFIX,g4s.nfss.my.id
@@ -24901,6 +25380,7 @@ DOMAIN-SUFFIX,gatekeeper.aomg5bzv7.com
 DOMAIN-SUFFIX,gatetocontent.com
 DOMAIN-SUFFIX,gatetodisplaycontent.com
 DOMAIN-SUFFIX,gatetotrustednetwork.com
+DOMAIN-SUFFIX,gateway.paradoxgroup.co
 DOMAIN-SUFFIX,gateway.wearetopple.com
 DOMAIN-SUFFIX,gatherjames.com
 DOMAIN-SUFFIX,gatsbybooger.shop
@@ -25411,6 +25891,7 @@ DOMAIN-SUFFIX,glorialoft.com
 DOMAIN-SUFFIX,glorifyfactor.com
 DOMAIN-SUFFIX,glorifytravelling.com
 DOMAIN-SUFFIX,gloriousboileldest.com
+DOMAIN-SUFFIX,glorious-dependent.pro
 DOMAIN-SUFFIX,gloriousmemory.pro
 DOMAIN-SUFFIX,glorsugn.net
 DOMAIN-SUFFIX,glossydollyknock.com
@@ -25548,7 +26029,6 @@ DOMAIN-SUFFIX,godacepic.com
 DOMAIN-SUFFIX,godforsakensubordinatewiped.com
 DOMAIN-SUFFIX,godlessabberant.com
 DOMAIN-SUFFIX,godmotherelectricity.com
-DOMAIN-SUFFIX,godogle.steeelm.online
 DOMAIN-SUFFIX,godpvqnszo.com
 DOMAIN-SUFFIX,godroonrefrig.com
 DOMAIN-SUFFIX,godspeaks.net
@@ -25667,7 +26147,6 @@ DOMAIN-SUFFIX,go.showmeyouradsnow.com
 DOMAIN-SUFFIX,gositego.live
 DOMAIN-SUFFIX,gosoeos2314.tsmt5revp.com
 DOMAIN-SUFFIX,gosoftwarenow.com
-DOMAIN-SUFFIX,gosoo.steeelm.xyz
 DOMAIN-SUFFIX,gosorte4321.tsmt5revp.com
 DOMAIN-SUFFIX,go.splashandsunshine.com
 DOMAIN-SUFFIX,gosrv.cl
@@ -26792,7 +27271,6 @@ DOMAIN-SUFFIX,hizanpwhexw.com
 DOMAIN-SUFFIX,hizlireklam.com
 DOMAIN-SUFFIX,hj6y7jrhnysuchtjhw.info
 DOMAIN-SUFFIX,hjalma.com
-DOMAIN-SUFFIX,hjdw.tjaard11.xyz
 DOMAIN-SUFFIX,hjklq.com
 DOMAIN-SUFFIX,hjmawbrxzq.space
 DOMAIN-SUFFIX,hjrvsw.info
@@ -27294,6 +27772,7 @@ DOMAIN-SUFFIX,hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com
 DOMAIN-SUFFIX,hzr0dm28m17c.com
 DOMAIN-SUFFIX,h-zrhgpygrkj.fun
 DOMAIN-SUFFIX,hzychcvdmjo.com
+DOMAIN-SUFFIX,i0.lookinews.com
 DOMAIN-SUFFIX,i192.cosmicnewspulse.com
 DOMAIN-SUFFIX,i1cshi.axxxfeee.lat
 DOMAIN-SUFFIX,i1i.heyaiii111iidsfsdbfjb132222ffco.xyz
@@ -27475,7 +27954,9 @@ DOMAIN-SUFFIX,ijhyugb.com
 DOMAIN-SUFFIX,ijjorsrnydjcwx.com
 DOMAIN-SUFFIX,ijobloemotherofh.com
 DOMAIN-SUFFIX,ijogkae.churchserviceplanner.co.uk
+DOMAIN-SUFFIX,ijs.allnestinfinite.com
 DOMAIN-SUFFIX,ijs.selecttopoff.com
+DOMAIN-SUFFIX,ijs.statelinear.com
 DOMAIN-SUFFIX,ijtlu.tech
 DOMAIN-SUFFIX,ijwkdmzru.com
 DOMAIN-SUFFIX,ikahnruntx.com
@@ -27535,6 +28016,7 @@ DOMAIN-SUFFIX,images.informatm.com
 DOMAIN-SUFFIX,images.jacilla.no
 DOMAIN-SUFFIX,images.mannenmedia.nl
 DOMAIN-SUFFIX,images.proxena-adserver.com
+DOMAIN-SUFFIX,images.swiss-equestrian.ch
 DOMAIN-SUFFIX,images.worldofshowjumping.com
 DOMAIN-SUFFIX,imagiflex.com
 DOMAIN-SUFFIX,imaginableblushsensor.com
@@ -28213,7 +28695,6 @@ DOMAIN-SUFFIX,isbycgqyhsze.world
 DOMAIN-SUFFIX,isdrzkoyvrcao.com
 DOMAIN-SUFFIX,isgost.com
 DOMAIN-SUFFIX,isgqw56nfi.zzaqqwecd.lat
-DOMAIN-SUFFIX,ishikawa.steeelm.online
 DOMAIN-SUFFIX,ishousumo.com
 DOMAIN-SUFFIX,isiu0w9gv.com
 DOMAIN-SUFFIX,islamiclyricallyvariable.com
@@ -28232,7 +28713,6 @@ DOMAIN-SUFFIX,isolatedransom.com
 DOMAIN-SUFFIX,isolationoranges.com
 DOMAIN-SUFFIX,isparkmedia.com
 DOMAIN-SUFFIX,isreputysolomo.com
-DOMAIN-SUFFIX,isshi.steeelm.xyz
 DOMAIN-SUFFIX,issomeoneinth.info
 DOMAIN-SUFFIX,issuedindiscreetcounsel.com
 DOMAIN-SUFFIX,ist.aomg5bzv7.com
@@ -28386,6 +28866,7 @@ DOMAIN-SUFFIX,j74y03g8u.com
 DOMAIN-SUFFIX,j7.tegronews.com
 DOMAIN-SUFFIX,j83ad.speedrun.com
 DOMAIN-SUFFIX,j8.tegronews.com
+DOMAIN-SUFFIX,j9.tegronews.com
 DOMAIN-SUFFIX,ja2n2u30a6rgyd.com
 DOMAIN-SUFFIX,jaabviwvh.com
 DOMAIN-SUFFIX,jaadms.com
@@ -28974,7 +29455,6 @@ DOMAIN-SUFFIX,jybaekajjmqrz.top
 DOMAIN-SUFFIX,jycrjkuspyv.fun
 DOMAIN-SUFFIX,jycrmvvyplmq.com
 DOMAIN-SUFFIX,jyfirjqojg.xyz
-DOMAIN-SUFFIX,jyfvt.neigh11.xyz
 DOMAIN-SUFFIX,jygcv.sbs
 DOMAIN-SUFFIX,jygotubvpyguak.com
 DOMAIN-SUFFIX,jyusesoionsglear.info
@@ -29104,6 +29584,7 @@ DOMAIN-SUFFIX,kczu-ohhuf.site
 DOMAIN-SUFFIX,kdlktswsqhpd.com
 DOMAIN-SUFFIX,kdmjvnk.com
 DOMAIN-SUFFIX,keajs.com
+DOMAIN-SUFFIX,keboorsootch.net
 DOMAIN-SUFFIX,kedasensiblem.info
 DOMAIN-SUFFIX,kedasensiblemot.com
 DOMAIN-SUFFIX,kedsabou.net
@@ -29547,6 +30028,7 @@ DOMAIN-SUFFIX,kw3y5otoeuniv7e9rsi.com
 DOMAIN-SUFFIX,kwbgmufi.com
 DOMAIN-SUFFIX,kwdflqos.com
 DOMAIN-SUFFIX,kwedzcq.com
+DOMAIN-SUFFIX,kwi18ah9r60yjb70.notify6.com
 DOMAIN-SUFFIX,kwiydaw.com
 DOMAIN-SUFFIX,kwkrptykad.xyz
 DOMAIN-SUFFIX,kwtnhdrmbx.com
@@ -29597,6 +30079,7 @@ DOMAIN-SUFFIX,lacklesslacklesscringe.com
 DOMAIN-SUFFIX,lacmoudoossaiss.net
 DOMAIN-SUFFIX,lacquerreddeform.com
 DOMAIN-SUFFIX,lactantsurety.top
+DOMAIN-SUFFIX,lactasetooth.shop
 DOMAIN-SUFFIX,lacycuratedhil.org
 DOMAIN-SUFFIX,ladbrokesaffiliates.com.au
 DOMAIN-SUFFIX,ladiesforyou.net
@@ -29861,6 +30344,7 @@ DOMAIN-SUFFIX,leech.stargate-project.de
 DOMAIN-SUFFIX,leefosto.com
 DOMAIN-SUFFIX,leegaroo.xyz
 DOMAIN-SUFFIX,leegreemula.net
+DOMAIN-SUFFIX,leekoleesasar.net
 DOMAIN-SUFFIX,leepephah.com
 DOMAIN-SUFFIX,leeptoadeesh.net
 DOMAIN-SUFFIX,leesaushoah.net
@@ -29932,8 +30416,10 @@ DOMAIN-SUFFIX,leopardfaithfulbetray.com
 DOMAIN-SUFFIX,leopard.laszlo.cloud
 DOMAIN-SUFFIX,leopard.ui-snippets.dev
 DOMAIN-SUFFIX,leopard.understandit.se
+DOMAIN-SUFFIX,leopon.jmk.wtf
 DOMAIN-SUFFIX,leopon.luckycasts.com
 DOMAIN-SUFFIX,leopon.originalmineral.com
+DOMAIN-SUFFIX,leopon.thingsin.space
 DOMAIN-SUFFIX,leoyard.com
 DOMAIN-SUFFIX,lepetitdiary.com
 DOMAIN-SUFFIX,lephaush.net
@@ -30256,6 +30742,7 @@ DOMAIN-SUFFIX,llama.eniston.io
 DOMAIN-SUFFIX,llama.growthinkers.nl
 DOMAIN-SUFFIX,llama.lobbly.com
 DOMAIN-SUFFIX,llama.mallardbay.com
+DOMAIN-SUFFIX,llama.whatcha.io
 DOMAIN-SUFFIX,llbonxcqltulds.xyz
 DOMAIN-SUFFIX,lljultmdl.xyz
 DOMAIN-SUFFIX,llog.pl
@@ -30387,7 +30874,6 @@ DOMAIN-SUFFIX,login.adopt.media
 DOMAIN-SUFFIX,login.adqva.com
 DOMAIN-SUFFIX,login.adsimilate.com
 DOMAIN-SUFFIX,login.adxnexus.com
-DOMAIN-SUFFIX,login.amtechads.com
 DOMAIN-SUFFIX,login.artilleryads.com
 DOMAIN-SUFFIX,login.bappaads.com
 DOMAIN-SUFFIX,login.bat-ads.com
@@ -30992,6 +31478,7 @@ DOMAIN-SUFFIX,makujugalny.com
 DOMAIN-SUFFIX,makumva.all-usanomination.com
 DOMAIN-SUFFIX,malay.buzz
 DOMAIN-SUFFIX,maldini.xyz
+DOMAIN-SUFFIX,maleenhancement.top
 DOMAIN-SUFFIX,maleliteral.com
 DOMAIN-SUFFIX,malelocated.com
 DOMAIN-SUFFIX,malignantbriefcaseleading.com
@@ -31602,7 +32089,6 @@ DOMAIN-SUFFIX,midlk.online
 DOMAIN-SUFFIX,midmaintee.com
 DOMAIN-SUFFIX,midnightcontemn.com
 DOMAIN-SUFFIX,midootib.net
-DOMAIN-SUFFIX,mido.steeelm.online
 DOMAIN-SUFFIX,midpopedge.com
 DOMAIN-SUFFIX,midstconductcanned.com
 DOMAIN-SUFFIX,midstrelate.com
@@ -31621,6 +32107,7 @@ DOMAIN-SUFFIX,migraira.net
 DOMAIN-SUFFIX,migrantacknowledged.com
 DOMAIN-SUFFIX,migrantfarewellmoan.com
 DOMAIN-SUFFIX,migrantspiteconnecting.com
+DOMAIN-SUFFIX,mihaivibsaz.net
 DOMAIN-SUFFIX,mikop.xyz
 DOMAIN-SUFFIX,mildcauliflower.com
 DOMAIN-SUFFIX,mildjav11.fun
@@ -31783,6 +32270,7 @@ DOMAIN-SUFFIX,mjxlfwvirjmt.com
 DOMAIN-SUFFIX,mk-ads.com
 DOMAIN-SUFFIX,mkaff.com
 DOMAIN-SUFFIX,mkcsjgtfej.com
+DOMAIN-SUFFIX,mkehcocw.com
 DOMAIN-SUFFIX,mkenativji.com
 DOMAIN-SUFFIX,mkepacotck.com
 DOMAIN-SUFFIX,mkhoj.com
@@ -32038,6 +32526,7 @@ DOMAIN-SUFFIX,moonrocketaffiliates.com
 DOMAIN-SUFFIX,mooptoasinudy.net
 DOMAIN-SUFFIX,mooroore.xyz
 DOMAIN-SUFFIX,moose.cloverlearning.com
+DOMAIN-SUFFIX,moose.octo.app
 DOMAIN-SUFFIX,mootermedia.com
 DOMAIN-SUFFIX,moowhaufipt.net
 DOMAIN-SUFFIX,mooxar.com
@@ -32199,7 +32688,6 @@ DOMAIN-SUFFIX,mscoldness.com
 DOMAIN-SUFFIX,msehm.com
 DOMAIN-SUFFIX,msgose.com
 DOMAIN-SUFFIX,mshago.com
-DOMAIN-SUFFIX,msioi.steeelm.xyz
 DOMAIN-SUFFIX,msre2lp.com
 DOMAIN-SUFFIX,msrehcmpeme.com
 DOMAIN-SUFFIX,msrvt.net
@@ -32353,6 +32841,7 @@ DOMAIN-SUFFIX,mycdn2.co
 DOMAIN-SUFFIX,mycdn.co
 DOMAIN-SUFFIX,mycelesterno.com
 DOMAIN-SUFFIX,myckdom.com
+DOMAIN-SUFFIX,mycljbrbwx.com
 DOMAIN-SUFFIX,mycloudreference.com
 DOMAIN-SUFFIX,mycoolfeed.com
 DOMAIN-SUFFIX,mycoolnewz.com
@@ -32591,6 +33080,7 @@ DOMAIN-SUFFIX,naybreath.com
 DOMAIN-SUFFIX,nb09pypu4.com
 DOMAIN-SUFFIX,n.bloblohub.com
 DOMAIN-SUFFIX,nbmramf.de
+DOMAIN-SUFFIX,nbnrsa.manrec.cc
 DOMAIN-SUFFIX,nboclympics.com
 DOMAIN-SUFFIX,nbottkauyy.com
 DOMAIN-SUFFIX,nbstatic.com
@@ -33344,6 +33834,7 @@ DOMAIN-SUFFIX,nwseiihafvyl.com
 DOMAIN-SUFFIX,nwwais.com
 DOMAIN-SUFFIX,nwwrtbbit.com
 DOMAIN-SUFFIX,nx7.hdxxxclips.com
+DOMAIN-SUFFIX,nxem4c4sag7bxx48.rookinews.com
 DOMAIN-SUFFIX,nxexydg.com
 DOMAIN-SUFFIX,nxgzeejhs.com
 DOMAIN-SUFFIX,nxhfkfyy.xyz
@@ -34712,6 +35203,7 @@ DOMAIN-SUFFIX,pamphletredhead.com
 DOMAIN-SUFFIX,pamphletthump.com
 DOMAIN-SUFFIX,pampopholf.com
 DOMAIN-SUFFIX,pamwrymm.live
+DOMAIN-SUFFIX,pan107.guesswhatnews.com
 DOMAIN-SUFFIX,p-analytics.life
 DOMAIN-SUFFIX,panamakeq.info
 DOMAIN-SUFFIX,panaservers.com
@@ -34824,6 +35316,7 @@ DOMAIN-SUFFIX,parrot.lovably.com
 DOMAIN-SUFFIX,parsec.media
 DOMAIN-SUFFIX,parserskiotomy.com
 DOMAIN-SUFFIX,parsimoniousinvincible.net
+DOMAIN-SUFFIX,parteonroll.xyz
 DOMAIN-SUFFIX,partiallyexploitrabbit.com
 DOMAIN-SUFFIX,partiallyguardedascension.com
 DOMAIN-SUFFIX,partial-pair.pro
@@ -36786,6 +37279,7 @@ DOMAIN-SUFFIX,pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 DOMAIN-SUFFIX,pub-81f2b77f5bc841c5ae64221394d67f53.r2.dev
 DOMAIN-SUFFIX,pubadx.one
 DOMAIN-SUFFIX,pubaka5.com
+DOMAIN-SUFFIX,pubcircle.ai
 DOMAIN-SUFFIX,pub.contexthub.net
 DOMAIN-SUFFIX,pubdirecte.com
 DOMAIN-SUFFIX,pubdisturbance.com
@@ -37193,6 +37687,7 @@ DOMAIN-SUFFIX,qizjkwx9klim.com
 DOMAIN-SUFFIX,qjmlmaffrqj.com
 DOMAIN-SUFFIX,qjrhacxxk.xyz
 DOMAIN-SUFFIX,qjukphe.com
+DOMAIN-SUFFIX,qjvksieybn.vip
 DOMAIN-SUFFIX,qksrv1.com
 DOMAIN-SUFFIX,qksrv.cc
 DOMAIN-SUFFIX,qksrv.net
@@ -38004,7 +38499,6 @@ DOMAIN-SUFFIX,reluraun.com
 DOMAIN-SUFFIX,remaininghurtful.com
 DOMAIN-SUFFIX,remainnovicei.com
 DOMAIN-SUFFIX,remainsuggested.com
-DOMAIN-SUFFIX,rema.neigh11.xyz
 DOMAIN-SUFFIX,remansice.top
 DOMAIN-SUFFIX,remarkable-assistant.pro
 DOMAIN-SUFFIX,remarkableflashseptember.com
@@ -38075,6 +38569,7 @@ DOMAIN-SUFFIX,reporo.net
 DOMAIN-SUFFIX,report1.biz
 DOMAIN-SUFFIX,report.beta.bloblohub.com
 DOMAIN-SUFFIX,reportbulletindaybreak.com
+DOMAIN-SUFFIX,reporting.notify6.com
 DOMAIN-SUFFIX,reportions.club
 DOMAIN-SUFFIX,report.seznamzpravy.cz
 DOMAIN-SUFFIX,reposefearful.com
@@ -38810,6 +39305,7 @@ DOMAIN-SUFFIX,rtb-apac-v4.ezmob.com
 DOMAIN-SUFFIX,rtb-apac-v4.pubsfusion.com
 DOMAIN-SUFFIX,rtb-apac-v4.ras-trk.com
 DOMAIN-SUFFIX,rtb-apac-v4.revbid.net
+DOMAIN-SUFFIX,rtb-apac-v4.rxnetwork.net
 DOMAIN-SUFFIX,rtb-apac-v4.voisetech.com
 DOMAIN-SUFFIX,rtb-apac.voisetech.com
 DOMAIN-SUFFIX,rtb-apac.wxadserve.xyz
@@ -38929,6 +39425,7 @@ DOMAIN-SUFFIX,rtb-useast.babanetwork.net
 DOMAIN-SUFFIX,rtb-useast.bidderads.com
 DOMAIN-SUFFIX,rtb-useast.blueparrot.media
 DOMAIN-SUFFIX,rtb-useast.boffoadsapi.com
+DOMAIN-SUFFIX,rtb-useast.clickmi.net
 DOMAIN-SUFFIX,rtb-useast.convertise.io
 DOMAIN-SUFFIX,rtb-useast.crowdegic.com
 DOMAIN-SUFFIX,rtb-useast.denakop.com
@@ -38969,6 +39466,7 @@ DOMAIN-SUFFIX,rtb-useast-v4.admozartexchange.com
 DOMAIN-SUFFIX,rtb-useast-v4.adsfloow.net
 DOMAIN-SUFFIX,rtb-useast-v4.afkwa.com
 DOMAIN-SUFFIX,rtb-useast-v4.agilitydigitalmedia.com
+DOMAIN-SUFFIX,rtb-useast-v4.appbroda.com
 DOMAIN-SUFFIX,rtb-useast-v4.applixir.com
 DOMAIN-SUFFIX,rtb-useast-v4.clickmi.net
 DOMAIN-SUFFIX,rtb-useast-v4.cpmme.com
@@ -38991,6 +39489,7 @@ DOMAIN-SUFFIX,rtb-useast-v4.pteamrtbdir.com
 DOMAIN-SUFFIX,rtb-useast-v4.pubsfusion.com
 DOMAIN-SUFFIX,rtb-useast-v4.ras-trk.com
 DOMAIN-SUFFIX,rtb-useast-v4.revbid.net
+DOMAIN-SUFFIX,rtb-useast-v4.rxnetwork.net
 DOMAIN-SUFFIX,rtb-useast-v4.sahrel-server.com
 DOMAIN-SUFFIX,rtb-useast-v4.trackifyy.com
 DOMAIN-SUFFIX,rtb-useast-v4.tri.media
@@ -39293,6 +39792,7 @@ DOMAIN-SUFFIX,saigreetoudi.xyz
 DOMAIN-SUFFIX,saikeela.net
 DOMAIN-SUFFIX,sailcovertend.com
 DOMAIN-SUFFIX,saileepsigeh.com
+DOMAIN-SUFFIX,sailfish.deck9.co
 DOMAIN-SUFFIX,sailfish.hoap.com
 DOMAIN-SUFFIX,sailfish.kentcdodds.com
 DOMAIN-SUFFIX,sailfish.lifelines-film.com
@@ -39629,7 +40129,6 @@ DOMAIN-SUFFIX,sdbvveonb1.com
 DOMAIN-SUFFIX,sddan.com
 DOMAIN-SUFFIX,sdegwynml.bmaci.me
 DOMAIN-SUFFIX,sdfdsd.click
-DOMAIN-SUFFIX,sdfgggse.sieglinde22.xyz
 DOMAIN-SUFFIX,sdfgsdf.cfd
 DOMAIN-SUFFIX,sdfsdvc.com
 DOMAIN-SUFFIX,sdg.desihamster.pro
@@ -39648,7 +40147,7 @@ DOMAIN-SUFFIX,s.ds3jbr.com
 DOMAIN-SUFFIX,s.ds6ulg.com
 DOMAIN-SUFFIX,s.ds7eji.com
 DOMAIN-SUFFIX,s.ds8wql.com
-DOMAIN-SUFFIX,sdtg.tjaard11.xyz
+DOMAIN-SUFFIX,s.dsa9k5.com
 DOMAIN-SUFFIX,sdxtxvq.com
 DOMAIN-SUFFIX,se05.biz
 DOMAIN-SUFFIX,s.eaalink.com
@@ -40091,7 +40590,6 @@ DOMAIN-SUFFIX,s.freeonlinegayporn.com
 DOMAIN-SUFFIX,s.freeporncave.com
 DOMAIN-SUFFIX,sftapi.com
 DOMAIN-SUFFIX,sfwehgedquq.com
-DOMAIN-SUFFIX,sfwe.tjaard11.xyz
 DOMAIN-SUFFIX,sgad.site
 DOMAIN-SUFFIX,sgbm.info
 DOMAIN-SUFFIX,sgfinery.com
@@ -40207,6 +40705,7 @@ DOMAIN-SUFFIX,sheesimo.net
 DOMAIN-SUFFIX,sheetvibe.com
 DOMAIN-SUFFIX,sheewoamsaun.com
 DOMAIN-SUFFIX,shegraptekry.com
+DOMAIN-SUFFIX,shelfcandler.shop
 DOMAIN-SUFFIX,shelfoka.com
 DOMAIN-SUFFIX,shelourdoals.net
 DOMAIN-SUFFIX,sheltermilligrammillions.com
@@ -41386,7 +41885,6 @@ DOMAIN-SUFFIX,s.rocoads.net
 DOMAIN-SUFFIX,srsxwdadzsrf.world
 DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,srtrak.com
-DOMAIN-SUFFIX,srtw.neigh11.xyz
 DOMAIN-SUFFIX,sruyjn-pa.one
 DOMAIN-SUFFIX,srv01.notifysrv.com
 DOMAIN-SUFFIX,srv224.com
@@ -41401,6 +41899,7 @@ DOMAIN-SUFFIX,ss0uu1lpirig.com
 DOMAIN-SUFFIX,ss1.notifysrv.com
 DOMAIN-SUFFIX,ssedonthep.info
 DOMAIN-SUFFIX,ssindserving.com
+DOMAIN-SUFFIX,s.sistube.site
 DOMAIN-SUFFIX,s*.skencituer.com
 DOMAIN-SUFFIX,sskzlabs.com
 DOMAIN-SUFFIX,ssl2anyone5.com
@@ -41544,6 +42043,7 @@ DOMAIN-SUFFIX,static.ahk.de
 DOMAIN-SUFFIX,static.ak.bonanza.com
 DOMAIN-SUFFIX,static.altitudemarketing.com
 DOMAIN-SUFFIX,static.ammoland.com
+DOMAIN-SUFFIX,static.appbroda.com
 DOMAIN-SUFFIX,static.applixir.com
 DOMAIN-SUFFIX,static.aqua-adserver.com
 DOMAIN-SUFFIX,static.barcelona-backlinks.es
@@ -41563,6 +42063,7 @@ DOMAIN-SUFFIX,static.creativethingsdoneright.top
 DOMAIN-SUFFIX,static.danarimedia.com
 DOMAIN-SUFFIX,static.degpeg.com
 DOMAIN-SUFFIX,static.denakop.com
+DOMAIN-SUFFIX,static.digidayin.com
 DOMAIN-SUFFIX,static.digiteci.com
 DOMAIN-SUFFIX,static.directrankcl.com
 DOMAIN-SUFFIX,static.dollopsdigital.com
@@ -41612,6 +42113,7 @@ DOMAIN-SUFFIX,static.kunvertads.com
 DOMAIN-SUFFIX,static.laheatads.com
 DOMAIN-SUFFIX,static.landingpaged.com
 DOMAIN-SUFFIX,static.livingmagonline.com
+DOMAIN-SUFFIX,static.lot-tissimo.com
 DOMAIN-SUFFIX,static.mannixmarketing.com
 DOMAIN-SUFFIX,static.marketjar.ca
 DOMAIN-SUFFIX,static.mediataggus.com
@@ -41640,7 +42142,6 @@ DOMAIN-SUFFIX,static.pyrrhicmechntech.com
 DOMAIN-SUFFIX,static.qksrv.cc
 DOMAIN-SUFFIX,static.rapidbidhub.com
 DOMAIN-SUFFIX,static.ras-trk.com
-DOMAIN-SUFFIX,static.reachclicks.net
 DOMAIN-SUFFIX,static.readywind.media
 DOMAIN-SUFFIX,static.realtime-bid.com
 DOMAIN-SUFFIX,static.reklama.network
@@ -41677,6 +42178,7 @@ DOMAIN-SUFFIX,static.rvndigital.com
 DOMAIN-SUFFIX,static.schrotundkorn.de
 DOMAIN-SUFFIX,static.sedodna.com
 DOMAIN-SUFFIX,static.servingserved.com
+DOMAIN-SUFFIX,static.skycommission.com
 DOMAIN-SUFFIX,static.smoads.com
 DOMAIN-SUFFIX,static.sonicplug.com
 DOMAIN-SUFFIX,static-srv.com
@@ -41704,6 +42206,7 @@ DOMAIN-SUFFIX,static.walaplusadserver.com
 DOMAIN-SUFFIX,static.webfindi.com
 DOMAIN-SUFFIX,static.westcom.tv
 DOMAIN-SUFFIX,static.win-bidding.com
+DOMAIN-SUFFIX,static.wwoz.org
 DOMAIN-SUFFIX,static.xeloop.com
 DOMAIN-SUFFIX,static.xmlking.com
 DOMAIN-SUFFIX,static.xmlmonetize.com
@@ -42215,6 +42718,7 @@ DOMAIN-SUFFIX,supersedeforbes.com
 DOMAIN-SUFFIX,supersedeowetraumatic.com
 DOMAIN-SUFFIX,superservercellarchin.com
 DOMAIN-SUFFIX,superserverwarrior.com
+DOMAIN-SUFFIX,superset.rookinews.com
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,superstitiouscoherencemadame.com
 DOMAIN-SUFFIX,superstriker.net
@@ -42324,7 +42828,6 @@ DOMAIN-SUFFIX,suzbcnh.com
 DOMAIN-SUFFIX,sv2.biz
 DOMAIN-SUFFIX,sv3.notifysrv.com
 DOMAIN-SUFFIX,sv6.aomg5bzv7.com
-DOMAIN-SUFFIX,s.valuemedia-ltd.com
 DOMAIN-SUFFIX,svanh-xqh.com
 DOMAIN-SUFFIX,svaohpdxn.xyz
 DOMAIN-SUFFIX,sviakavgwjg.xyz
@@ -42800,6 +43303,7 @@ DOMAIN-SUFFIX,teamshilarious.com
 DOMAIN-SUFFIX,teamsmarched.com
 DOMAIN-SUFFIX,teamsoutspoken.com
 DOMAIN-SUFFIX,teamsperilous.com
+DOMAIN-SUFFIX,teanlaxzia.cyou
 DOMAIN-SUFFIX,teapotripencorridor.com
 DOMAIN-SUFFIX,teapotsobbing.com
 DOMAIN-SUFFIX,tearingsinnerprinciples.com
@@ -43404,7 +43908,6 @@ DOMAIN-SUFFIX,tkbo.com
 DOMAIN-SUFFIX,tkidcigitrte.com
 DOMAIN-SUFFIX,tkmrdtcfoid.com
 DOMAIN-SUFFIX,tktujhhc.com
-DOMAIN-SUFFIX,tkwe.tjaard11.xyz
 DOMAIN-SUFFIX,tl2go.com
 DOMAIN-SUFFIX,tlads.midtc.com
 DOMAIN-SUFFIX,tlingitlaisse.top
@@ -43629,6 +44132,7 @@ DOMAIN-SUFFIX,torrent-protection.com
 DOMAIN-SUFFIX,torrentsuperintend.com
 DOMAIN-SUFFIX,tortoise.mdx.one
 DOMAIN-SUFFIX,tortoisesun.com
+DOMAIN-SUFFIX,tortoise.trysmartplan.com
 DOMAIN-SUFFIX,toscytheran.com
 DOMAIN-SUFFIX,tosfeed.com
 DOMAIN-SUFFIX,tossoffads.com
@@ -43727,7 +44231,7 @@ DOMAIN-SUFFIX,tq-eu.clouback-3.online
 DOMAIN-SUFFIX,tq-eu.clouback-4.online
 DOMAIN-SUFFIX,tq-eu.donkstar2.online
 DOMAIN-SUFFIX,tq-eu.lensgard-2.online
-DOMAIN-SUFFIX,tq-eu.lensgard-3.online
+DOMAIN-SUFFIX,tq-eu.lensgard-4.online
 DOMAIN-SUFFIX,tq-eu.minsonbar2.online
 DOMAIN-SUFFIX,tq-eu.mpds-smart1.online
 DOMAIN-SUFFIX,tq-eu.mpds-smart2.online
@@ -43745,7 +44249,7 @@ DOMAIN-SUFFIX,tq-eu.starvalue-4.online
 DOMAIN-SUFFIX,tq-eu.uclpointer.online
 DOMAIN-SUFFIX,tq.ldnpointer.online
 DOMAIN-SUFFIX,tq.lensgard-2.online
-DOMAIN-SUFFIX,tq.lensgard-3.online
+DOMAIN-SUFFIX,tq.lensgard-4.online
 DOMAIN-SUFFIX,tqlkg.com
 DOMAIN-SUFFIX,tq.minsonbar2.online
 DOMAIN-SUFFIX,tq.mpds-smart1.online
@@ -45035,8 +45539,11 @@ DOMAIN-SUFFIX,uz-kqtecqs.space
 DOMAIN-SUFFIX,uzvcffe-aw.vip
 DOMAIN-SUFFIX,v040419.badjojo.com
 DOMAIN-SUFFIX,v124mers.com
+DOMAIN-SUFFIX,v1.allnestinfinite.com
+DOMAIN-SUFFIX,v1.bowintelligence.com
 DOMAIN-SUFFIX,v1.guesswhatnews.com
 DOMAIN-SUFFIX,v1.sellbuy.click
+DOMAIN-SUFFIX,v1.statelinear.com
 DOMAIN-SUFFIX,v2cigs.com
 DOMAIN-SUFFIX,v2.guesswhatnews.com
 DOMAIN-SUFFIX,v3.guesswhatnews.com
@@ -45653,6 +46160,7 @@ DOMAIN-SUFFIX,vmring.cc
 DOMAIN-SUFFIX,vmszxzvk.mysecondchancechurch.com
 DOMAIN-SUFFIX,vmuid.com
 DOMAIN-SUFFIX,vmvajwc.com
+DOMAIN-SUFFIX,vn1.lookinews.com
 DOMAIN-SUFFIX,vndcrknbh.xyz
 DOMAIN-SUFFIX,vnie0kj3.cfd
 DOMAIN-SUFFIX,vnpxxrqlhpre.com
@@ -45921,6 +46429,7 @@ DOMAIN-SUFFIX,wallstrads.com
 DOMAIN-SUFFIX,wall.vgr.com
 DOMAIN-SUFFIX,walrus.fetzcolor.at
 DOMAIN-SUFFIX,walrus.oscaroarevalo.com
+DOMAIN-SUFFIX,walrus.scalue.com
 DOMAIN-SUFFIX,walter-larence.com
 DOMAIN-SUFFIX,waltzersurvise.com
 DOMAIN-SUFFIX,waltzprescriptionplate.com
@@ -45960,6 +46469,7 @@ DOMAIN-SUFFIX,warilycommercialconstitutional.com
 DOMAIN-SUFFIX,warilydigestionauction.com
 DOMAIN-SUFFIX,warindifferent.com
 DOMAIN-SUFFIX,warkop4dx.com
+DOMAIN-SUFFIX,warlike-abroad.pro
 DOMAIN-SUFFIX,warliketruck.com
 DOMAIN-SUFFIX,warlockstallioniso.com
 DOMAIN-SUFFIX,warlockstudent.com
@@ -46295,6 +46805,7 @@ DOMAIN-SUFFIX,whale.gdebrauwer.dev
 DOMAIN-SUFFIX,whaleman.ru
 DOMAIN-SUFFIX,whalems.com
 DOMAIN-SUFFIX,whalepeacockwailing.com
+DOMAIN-SUFFIX,whaleplayful.com
 DOMAIN-SUFFIX,whamauft.com
 DOMAIN-SUFFIX,whampamp.com
 DOMAIN-SUFFIX,whandpolista.com
@@ -46976,6 +47487,7 @@ DOMAIN-SUFFIX,wwpon365.ru
 DOMAIN-SUFFIX,wwqssmg.com
 DOMAIN-SUFFIX,wwvxdhbmlqcgk.xyz
 DOMAIN-SUFFIX,www.01045395.xyz
+DOMAIN-SUFFIX,www.02085170.xyz
 DOMAIN-SUFFIX,www.0420.loopanews.com
 DOMAIN-SUFFIX,www.0433.lookinews.com
 DOMAIN-SUFFIX,www.0490.reminews.com
@@ -46987,36 +47499,39 @@ DOMAIN-SUFFIX,www.08f8f073.xyz
 DOMAIN-SUFFIX,www.0918.gofenews.com
 DOMAIN-SUFFIX,www.0s09t235s.com
 DOMAIN-SUFFIX,www.10288299.xyz
+DOMAIN-SUFFIX,www.10753990.xyz
 DOMAIN-SUFFIX,www.124512.lycheenews.com
 DOMAIN-SUFFIX,www.1564.gofenews.com
+DOMAIN-SUFFIX,www.15752525.xyz
 DOMAIN-SUFFIX,www.1577.gofenews.com
 DOMAIN-SUFFIX,www.1644.lookinews.com
 DOMAIN-SUFFIX,www.16972675.xyz
+DOMAIN-SUFFIX,www.1723.reminews.com
 DOMAIN-SUFFIX,www.1762.lookinews.com
+DOMAIN-SUFFIX,www.1869.gofenews.com
 DOMAIN-SUFFIX,www.19009143.xyz
+DOMAIN-SUFFIX,www.19199675.xyz
 DOMAIN-SUFFIX,www.1936.lookinews.com
 DOMAIN-SUFFIX,www.1957.reminews.com
 DOMAIN-SUFFIX,www.19706903.xyz
 DOMAIN-SUFFIX,www.2016.lookinews.com
 DOMAIN-SUFFIX,www.2018.luronews.com
 DOMAIN-SUFFIX,www.2024.jemonews.com
-DOMAIN-SUFFIX,www.2095.gofenews.com
-DOMAIN-SUFFIX,www.2126.luronews.com
+DOMAIN-SUFFIX,www.2213.gofenews.com
 DOMAIN-SUFFIX,www.2229.jemonews.com
 DOMAIN-SUFFIX,www.224cc86d.xyz
 DOMAIN-SUFFIX,www.2363.jemonews.com
+DOMAIN-SUFFIX,www.24052107.live
 DOMAIN-SUFFIX,www.2431.lookinews.com
 DOMAIN-SUFFIX,www.2442.reminews.com
 DOMAIN-SUFFIX,www.2445.jemonews.com
 DOMAIN-SUFFIX,www.2500.luronews.com
-DOMAIN-SUFFIX,www.2644.lookinews.com
-DOMAIN-SUFFIX,www.2695.sifenews.com
 DOMAIN-SUFFIX,www.2704.reminews.com
 DOMAIN-SUFFIX,www.2706.lycheenews.com
 DOMAIN-SUFFIX,www.2711.luronews.com
+DOMAIN-SUFFIX,www.27714296.xyz
 DOMAIN-SUFFIX,www.2806.reminews.com
 DOMAIN-SUFFIX,www.2815.reminews.com
-DOMAIN-SUFFIX,www.2859.lookinews.com
 DOMAIN-SUFFIX,www.2903.luronews.com
 DOMAIN-SUFFIX,www.2979.loopanews.com
 DOMAIN-SUFFIX,www.3154.selornews.com
@@ -47024,10 +47539,8 @@ DOMAIN-SUFFIX,www.3160.luronews.com
 DOMAIN-SUFFIX,www.3262.lookinews.com
 DOMAIN-SUFFIX,www.3359.jemonews.com
 DOMAIN-SUFFIX,www.33862684.xyz
-DOMAIN-SUFFIX,www.3442.gofenews.com
 DOMAIN-SUFFIX,www.34gwl8v1a.com
 DOMAIN-SUFFIX,www.3598461.notify6.com
-DOMAIN-SUFFIX,www.3643.gofenews.com
 DOMAIN-SUFFIX,www.3765.gofenews.com
 DOMAIN-SUFFIX,www.38167473.xyz
 DOMAIN-SUFFIX,www.3904.jemonews.com
@@ -47036,24 +47549,27 @@ DOMAIN-SUFFIX,www.3nrbkpvra.com
 DOMAIN-SUFFIX,www.4029.lookinews.com
 DOMAIN-SUFFIX,www.40451343.xyz
 DOMAIN-SUFFIX,www.4062.luronews.com
+DOMAIN-SUFFIX,www.4126fe80.xyz
+DOMAIN-SUFFIX,www.41818491.xyz
+DOMAIN-SUFFIX,www.4194382.notify6.com
 DOMAIN-SUFFIX,www.4397.loopanews.com
-DOMAIN-SUFFIX,www.4464.jemonews.com
 DOMAIN-SUFFIX,www.45496fee.xyz
+DOMAIN-SUFFIX,www.46276192.xyz
 DOMAIN-SUFFIX,www.4669.luronews.com
 DOMAIN-SUFFIX,www.4696.lookinews.com
 DOMAIN-SUFFIX,www.4710.gofenews.com
+DOMAIN-SUFFIX,www.47206262.xyz
 DOMAIN-SUFFIX,www.47235645.xyz
 DOMAIN-SUFFIX,www.4778.jemonews.com
 DOMAIN-SUFFIX,www.4783.reminews.com
 DOMAIN-SUFFIX,www4.hentaigamecg.com
 DOMAIN-SUFFIX,www4.hentai-rpg.com
 DOMAIN-SUFFIX,www.4puuqeh41.com
-DOMAIN-SUFFIX,www.5109.reminews.com
 DOMAIN-SUFFIX,www.5121.lookinews.com
 DOMAIN-SUFFIX,www.5248.gofenews.com
 DOMAIN-SUFFIX,www.5330.jemonews.com
+DOMAIN-SUFFIX,www.54019033.xyz
 DOMAIN-SUFFIX,www.5437.luronews.com
-DOMAIN-SUFFIX,www.5508.gofenews.com
 DOMAIN-SUFFIX,www.5526.lookinews.com
 DOMAIN-SUFFIX,www.5681.gofenews.com
 DOMAIN-SUFFIX,www.5896.loopanews.com
@@ -47062,21 +47578,23 @@ DOMAIN-SUFFIX,www.59768910.xyz
 DOMAIN-SUFFIX,www.5clo0xmbf.com
 DOMAIN-SUFFIX,www.6140.jemonews.com
 DOMAIN-SUFFIX,www.6268.reminews.com
+DOMAIN-SUFFIX,www.62842068.xyz
 DOMAIN-SUFFIX,www.6300.jemonews.com
 DOMAIN-SUFFIX,www.6308.jemonews.com
 DOMAIN-SUFFIX,www.6328.jemonews.com
+DOMAIN-SUFFIX,www.63801782.xyz
 DOMAIN-SUFFIX,www.6434.gofenews.com
 DOMAIN-SUFFIX,www.6484.jemonews.com
+DOMAIN-SUFFIX,www.65122038.xyz
 DOMAIN-SUFFIX,www.6550.gofenews.com
 DOMAIN-SUFFIX,www.656f1ba3.xyz
 DOMAIN-SUFFIX,www.6610.loopanews.com
-DOMAIN-SUFFIX,www.6657.gofenews.com
 DOMAIN-SUFFIX,www.6738.jemonews.com
+DOMAIN-SUFFIX,www.6748.gofenews.com
 DOMAIN-SUFFIX,www.6832.lookinews.com
 DOMAIN-SUFFIX,www.6864.gofenews.com
 DOMAIN-SUFFIX,www6.freeanimesource.com
 DOMAIN-SUFFIX,www6.hentai-zone.com
-DOMAIN-SUFFIX,www.7004.jemonews.com
 DOMAIN-SUFFIX,www.7052.gofenews.com
 DOMAIN-SUFFIX,www.7063.luronews.com
 DOMAIN-SUFFIX,www.7064.jemonews.com
@@ -47091,6 +47609,7 @@ DOMAIN-SUFFIX,www.7390.deeginews.com
 DOMAIN-SUFFIX,www.7395.reminews.com
 DOMAIN-SUFFIX,www.7490.jemonews.com
 DOMAIN-SUFFIX,www.7740.reminews.com
+DOMAIN-SUFFIX,www.7757.gofenews.com
 DOMAIN-SUFFIX,www.7765.selornews.com
 DOMAIN-SUFFIX,www.7768.reminews.com
 DOMAIN-SUFFIX,www.7779.gofenews.com
@@ -47122,34 +47641,40 @@ DOMAIN-SUFFIX,www.8584.gofenews.com
 DOMAIN-SUFFIX,www.8631.jemonews.com
 DOMAIN-SUFFIX,www.8741.jemonews.com
 DOMAIN-SUFFIX,www.8786.lookinews.com
+DOMAIN-SUFFIX,www.8884.gofenews.com
+DOMAIN-SUFFIX,www.89871256.xyz
 DOMAIN-SUFFIX,www.8988.jemonews.com
 DOMAIN-SUFFIX,www.8992.gofenews.com
+DOMAIN-SUFFIX,www.8994.gofenews.com
 DOMAIN-SUFFIX,www.8eef59a5.live
 DOMAIN-SUFFIX,www.8pv9vvi9b.com
 DOMAIN-SUFFIX,www8.upload-pics.com
-DOMAIN-SUFFIX,www.9013.deeginews.com
 DOMAIN-SUFFIX,www.9310.lookinews.com
+DOMAIN-SUFFIX,www.9321.gofenews.com
 DOMAIN-SUFFIX,www.9327.jemonews.com
 DOMAIN-SUFFIX,www.935ft4j96.com
 DOMAIN-SUFFIX,www.9369.jemonews.com
 DOMAIN-SUFFIX,www.9393.gofenews.com
+DOMAIN-SUFFIX,www.9420.lookinews.com
 DOMAIN-SUFFIX,www.9480.reminews.com
 DOMAIN-SUFFIX,www.9614.jemonews.com
 DOMAIN-SUFFIX,www.9625.reminews.com
 DOMAIN-SUFFIX,www.9664.lookinews.com
 DOMAIN-SUFFIX,www.9696.lookinews.com
 DOMAIN-SUFFIX,www.9708.reminews.com
+DOMAIN-SUFFIX,www.9801.gofenews.com
 DOMAIN-SUFFIX,www.9855.reminews.com
 DOMAIN-SUFFIX,www.9992.gofenews.com
 DOMAIN-SUFFIX,www9.downloadani.me
 DOMAIN-SUFFIX,www.9xvqogvtf.com
+DOMAIN-SUFFIX,www.a49ebd.xyz
+DOMAIN-SUFFIX,www.a67d12.xyz
 DOMAIN-SUFFIX,www.a908a849.xyz
 DOMAIN-SUFFIX,wwwadcntr.com
 DOMAIN-SUFFIX,www.adprudence.com
 DOMAIN-SUFFIX,www.amusingporn.com
 DOMAIN-SUFFIX,www.android.notifysrv.com
 DOMAIN-SUFFIX,www.aomg5bzv7.com
-DOMAIN-SUFFIX,www.apgate.hubhubhub.name
 DOMAIN-SUFFIX,www.awfulmorning.pro
 DOMAIN-SUFFIX,www.b0f2f18e.xyz
 DOMAIN-SUFFIX,www.b1181fb1.site
@@ -47163,7 +47688,6 @@ DOMAIN-SUFFIX,www.bloblohub.com
 DOMAIN-SUFFIX,www.boilingtrust.pro
 DOMAIN-SUFFIX,www.bokep.su
 DOMAIN-SUFFIX,www.bollyocean.com
-DOMAIN-SUFFIX,www.boringoccasion.pro
 DOMAIN-SUFFIX,www.bortanews.com
 DOMAIN-SUFFIX,www.brandnewapp.pro
 DOMAIN-SUFFIX,www.ca9246.xyz
@@ -47171,7 +47695,6 @@ DOMAIN-SUFFIX,www.cdn.metrike.com
 DOMAIN-SUFFIX,www.cephei-b.com
 DOMAIN-SUFFIX,www.cosmicnewspulse.com
 DOMAIN-SUFFIX,www.cqyj3ii7r.com
-DOMAIN-SUFFIX,www.cumbersomeduty.pro
 DOMAIN-SUFFIX,www.dcad1d97.xyz
 DOMAIN-SUFFIX,www.deeginews.com
 DOMAIN-SUFFIX,www.disfigured-survey.pro
@@ -47181,7 +47704,6 @@ DOMAIN-SUFFIX,www.e8e2063b.xyz
 DOMAIN-SUFFIX,www.ea6c0ac4.xyz
 DOMAIN-SUFFIX,www.exaapi.com
 DOMAIN-SUFFIX,www.exasrv.com
-DOMAIN-SUFFIX,www.exoticfarmer.pro
 DOMAIN-SUFFIX,www.extrasmallpersonal.pro
 DOMAIN-SUFFIX,www.f54cd504.xyz
 DOMAIN-SUFFIX,www.fetanews.com
@@ -47196,8 +47718,7 @@ DOMAIN-SUFFIX,www.grizzled-reality.pro
 DOMAIN-SUFFIX,www.guesswhatnews.com
 DOMAIN-SUFFIX,www.gumanews.com
 DOMAIN-SUFFIX,www.hubhubhub.name
-DOMAIN-SUFFIX,www.i0.lookinews.com
-DOMAIN-SUFFIX,www.j9.tegronews.com
+DOMAIN-SUFFIX,www.ilviaggionellatesta.hubhubhub.name
 DOMAIN-SUFFIX,www.javtvnow.xyz
 DOMAIN-SUFFIX,www.jemonews.com
 DOMAIN-SUFFIX,www.jf11oowny.com
@@ -47215,11 +47736,11 @@ DOMAIN-SUFFIX,www.metaadserving.com
 DOMAIN-SUFFIX,www.monsoonlassi.com
 DOMAIN-SUFFIX,www.mysalo.store
 DOMAIN-SUFFIX,www.n3kijf75r.com
-DOMAIN-SUFFIX,www.negative-speed.pro
 DOMAIN-SUFFIX,www.notify6.com
 DOMAIN-SUFFIX,www.notify.bizonads-ssp.com
 DOMAIN-SUFFIX,www.notifysrv.com
 DOMAIN-SUFFIX,www.novanewsburst.com
+DOMAIN-SUFFIX,www.numb-price.pro
 DOMAIN-SUFFIX,www.ogrt80r65.com
 DOMAIN-SUFFIX,www.ohhmyoffers.com
 DOMAIN-SUFFIX,www.online-adnetwork.com
@@ -47236,21 +47757,21 @@ DOMAIN-SUFFIX,www.rapidnewscraze.com
 DOMAIN-SUFFIX,www.readywind.media
 DOMAIN-SUFFIX,www.reminews.com
 DOMAIN-SUFFIX,www.rhsy174op.com
+DOMAIN-SUFFIX,www.rookinews.com
 DOMAIN-SUFFIX,www.rtnews.pro
 DOMAIN-SUFFIX,www.selornews.com
 DOMAIN-SUFFIX,www.seponews.com
 DOMAIN-SUFFIX,www.sexualitydates.com
-DOMAIN-SUFFIX,www.shamelesspop.pro
 DOMAIN-SUFFIX,www.shortestgoodnews.com
 DOMAIN-SUFFIX,www.sosqboh85.com
 DOMAIN-SUFFIX,www.station54k.brandnewapp.pro
 DOMAIN-SUFFIX,www.terranewsblast.com
 DOMAIN-SUFFIX,www.th2mbxzqe.com
 DOMAIN-SUFFIX,www.tsmt5revp.com
-DOMAIN-SUFFIX,www.unlinedmake.pro
 DOMAIN-SUFFIX,www.url25fatm.com
 DOMAIN-SUFFIX,www.uyybde07w.com
 DOMAIN-SUFFIX,www.vashoot.com
+DOMAIN-SUFFIX,www.warlike-abroad.pro
 DOMAIN-SUFFIX,wwww.bollyocean.com
 DOMAIN-SUFFIX,www.web18781.hubhubhub.name
 DOMAIN-SUFFIX,www.wemakebestnews.com
@@ -47512,6 +48033,7 @@ DOMAIN-SUFFIX,xml-eu.adsailor.com
 DOMAIN-SUFFIX,xml-eu.adverttise.com
 DOMAIN-SUFFIX,xml-eu.audienceye.com
 DOMAIN-SUFFIX,xml-eu.bidderads.com
+DOMAIN-SUFFIX,xml-eu.blastmedia.site
 DOMAIN-SUFFIX,xml-eu.blueparrot.media
 DOMAIN-SUFFIX,xml-eu.boardpress-a.online
 DOMAIN-SUFFIX,xml-eu.boardpress-c.online
@@ -47552,8 +48074,10 @@ DOMAIN-SUFFIX,xml-eu-v4.adverttise.com
 DOMAIN-SUFFIX,xml-eu-v4.adxpoint.com
 DOMAIN-SUFFIX,xml-eu-v4.adzreach.com
 DOMAIN-SUFFIX,xml-eu-v4.agilitydigitalmedia.com
+DOMAIN-SUFFIX,xml-eu-v4.appmonsta.ai
 DOMAIN-SUFFIX,xml-eu-v4.audienceye.com
 DOMAIN-SUFFIX,xml-eu-v4.bidderads.com
+DOMAIN-SUFFIX,xml-eu-v4.blastmedia.site
 DOMAIN-SUFFIX,xml-eu-v4.boardpress-a.online
 DOMAIN-SUFFIX,xml-eu-v4.boardpress-b.online
 DOMAIN-SUFFIX,xml-eu-v4.boardpress-c.online
@@ -47579,7 +48103,6 @@ DOMAIN-SUFFIX,xml-eu-v4.fstsrv19.com
 DOMAIN-SUFFIX,xml-eu-v4.fstsrv20.com
 DOMAIN-SUFFIX,xml-eu-v4.fstsrv21.com
 DOMAIN-SUFFIX,xml-eu-v4.fstsrv5.com
-DOMAIN-SUFFIX,xml-eu-v4.fstsrv8.com
 DOMAIN-SUFFIX,xml-eu-v4.fstsrv9.com
 DOMAIN-SUFFIX,xml-eu-v4.goclickz.net
 DOMAIN-SUFFIX,xml-eu-v4.h12ads.net
@@ -47588,7 +48111,7 @@ DOMAIN-SUFFIX,xml-eu-v4.insightadz.com
 DOMAIN-SUFFIX,xml-eu-v4.kunvertads.com
 DOMAIN-SUFFIX,xml-eu-v4.ldnpointer.online
 DOMAIN-SUFFIX,xml-eu-v4.lensgard-2.online
-DOMAIN-SUFFIX,xml-eu-v4.lensgard-3.online
+DOMAIN-SUFFIX,xml-eu-v4.lensgard-4.online
 DOMAIN-SUFFIX,xml-eu-v4.minsonbar2.online
 DOMAIN-SUFFIX,xml-eu-v4.mpds-smart1.online
 DOMAIN-SUFFIX,xml-eu-v4.mpds-smart2.online
@@ -47600,6 +48123,7 @@ DOMAIN-SUFFIX,xml-eu-v4.ngcluster-c.site
 DOMAIN-SUFFIX,xml-eu-v4.optargone-3.online
 DOMAIN-SUFFIX,xml-eu-v4.optimalscreen1.online
 DOMAIN-SUFFIX,xml-eu-v4.optimalscreen2.online
+DOMAIN-SUFFIX,xml-eu-v4.optumads.com
 DOMAIN-SUFFIX,xml-eu-v4.otbackstage1.online
 DOMAIN-SUFFIX,xml-eu-v4.otbackstage2.online
 DOMAIN-SUFFIX,xml-eu-v4.pushub.net
@@ -47663,7 +48187,7 @@ DOMAIN-SUFFIX,xml.kunvertads.com
 DOMAIN-SUFFIX,xml.laheatads.com
 DOMAIN-SUFFIX,xml.landingpaged.com
 DOMAIN-SUFFIX,xml.lensgard-2.online
-DOMAIN-SUFFIX,xml.lensgard-3.online
+DOMAIN-SUFFIX,xml.lensgard-4.online
 DOMAIN-SUFFIX,xml.leoback.com
 DOMAIN-SUFFIX,xml.leofback.com
 DOMAIN-SUFFIX,xml.leoyard.com
@@ -47713,7 +48237,6 @@ DOMAIN-SUFFIX,xml.pushub.net
 DOMAIN-SUFFIX,xml.pyrrhicmechntech.com
 DOMAIN-SUFFIX,xml.q32167.com
 DOMAIN-SUFFIX,xml.qksrv.cc
-DOMAIN-SUFFIX,xml.reachclicks.net
 DOMAIN-SUFFIX,xml.readywind.media
 DOMAIN-SUFFIX,xml.realtime-bid.com
 DOMAIN-SUFFIX,xml.reklama.network
@@ -47787,6 +48310,7 @@ DOMAIN-SUFFIX,xml-v4.appmonsta.ai
 DOMAIN-SUFFIX,xml-v4.audienceye.com
 DOMAIN-SUFFIX,xml-v4.barcelona-backlinks.es
 DOMAIN-SUFFIX,xml-v4.bidderads.com
+DOMAIN-SUFFIX,xml-v4.blastmedia.site
 DOMAIN-SUFFIX,xml-v4.boardpress-a.online
 DOMAIN-SUFFIX,xml-v4.boardpress-b.online
 DOMAIN-SUFFIX,xml-v4.boardpress-c.online
@@ -47798,6 +48322,7 @@ DOMAIN-SUFFIX,xml-v4.clkfst.com
 DOMAIN-SUFFIX,xml-v4.clouback-1.online
 DOMAIN-SUFFIX,xml-v4.clouback-3.online
 DOMAIN-SUFFIX,xml-v4.clouback-4.online
+DOMAIN-SUFFIX,xml-v4.contentsrch.com
 DOMAIN-SUFFIX,xml-v4.conxstream.com
 DOMAIN-SUFFIX,xml-v4.cpmvibes.com
 DOMAIN-SUFFIX,xml-v4.datadrives.ai
@@ -47805,6 +48330,7 @@ DOMAIN-SUFFIX,xml-v4.digiteci.com
 DOMAIN-SUFFIX,xml-v4.dollopsdigital.com
 DOMAIN-SUFFIX,xml-v4.domains-traffic.com
 DOMAIN-SUFFIX,xml-v4.donkstar2.online
+DOMAIN-SUFFIX,xml-v4.epikads.com
 DOMAIN-SUFFIX,xml-v4.exdirectopl.com
 DOMAIN-SUFFIX,xml-v4.ezmob.com
 DOMAIN-SUFFIX,xml-v4.fstsrv11.com
@@ -47816,11 +48342,8 @@ DOMAIN-SUFFIX,xml-v4.fstsrv17.com
 DOMAIN-SUFFIX,xml-v4.fstsrv19.com
 DOMAIN-SUFFIX,xml-v4.fstsrv20.com
 DOMAIN-SUFFIX,xml-v4.fstsrv21.com
-DOMAIN-SUFFIX,xml-v4.fstsrv2.com
-DOMAIN-SUFFIX,xml-v4.fstsrv3.com
 DOMAIN-SUFFIX,xml-v4.fstsrv4.com
 DOMAIN-SUFFIX,xml-v4.fstsrv5.com
-DOMAIN-SUFFIX,xml-v4.fstsrv8.com
 DOMAIN-SUFFIX,xml-v4.fstsrv9.com
 DOMAIN-SUFFIX,xml-v4.glcsrv.com
 DOMAIN-SUFFIX,xml-v4.goclickz.net
@@ -47831,7 +48354,7 @@ DOMAIN-SUFFIX,xml-v4.kunvertads.com
 DOMAIN-SUFFIX,xml-v4.kvicads.com
 DOMAIN-SUFFIX,xml-v4.ldnpointer.online
 DOMAIN-SUFFIX,xml-v4.lensgard-2.online
-DOMAIN-SUFFIX,xml-v4.lensgard-3.online
+DOMAIN-SUFFIX,xml-v4.lensgard-4.online
 DOMAIN-SUFFIX,xml-v4.medialabs.info
 DOMAIN-SUFFIX,xml-v4.mediataggus.com
 DOMAIN-SUFFIX,xml-v4.minsonbar2.online
@@ -47853,6 +48376,7 @@ DOMAIN-SUFFIX,xml-v4.pops.gg
 DOMAIN-SUFFIX,xml-v4.programmaticnexus.com
 DOMAIN-SUFFIX,xml-v4.pushub.net
 DOMAIN-SUFFIX,xml-v4.qksrv.cc
+DOMAIN-SUFFIX,xml-v4.rastyclick.com
 DOMAIN-SUFFIX,xmlv4.reklama.network
 DOMAIN-SUFFIX,xml-v4.re-media.info
 DOMAIN-SUFFIX,xml-v4.ripamatic.com
@@ -48038,7 +48562,6 @@ DOMAIN-SUFFIX,y1jxiqds7v.com
 DOMAIN-SUFFIX,y1zoxngxp.com
 DOMAIN-SUFFIX,y2g5yj23g52i.lycheenews.com
 DOMAIN-SUFFIX,y3g5yj13g92i.lycheenews.com
-DOMAIN-SUFFIX,y43wd34.dagobert33.xyz
 DOMAIN-SUFFIX,y5.tegronews.com
 DOMAIN-SUFFIX,y6zqw.boyspornpics.com
 DOMAIN-SUFFIX,y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me

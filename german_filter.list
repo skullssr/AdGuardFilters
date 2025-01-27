@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-10 04:55:20
-# DOMAIN-SUFFIX: 412
-# TOTAL: 412
+# UPDATED: 2025-01-28 05:00:25
+# DOMAIN-SUFFIX: 410
+# TOTAL: 410
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -56,7 +56,6 @@ DOMAIN-SUFFIX,ad-sun.de
 DOMAIN-SUFFIX,adsushi.de
 DOMAIN-SUFFIX,advendi.de
 DOMAIN-SUFFIX,advert-layer.de
-DOMAIN-SUFFIX,advolution.biz
 DOMAIN-SUFFIX,advolution.de
 DOMAIN-SUFFIX,adworx.at
 DOMAIN-SUFFIX,aff.carvertical.com
@@ -336,7 +335,6 @@ DOMAIN-SUFFIX,smsdate.com
 DOMAIN-SUFFIX,solads.media
 DOMAIN-SUFFIX,sparkads.ws
 DOMAIN-SUFFIX,sparkassen-partner.de
-DOMAIN-SUFFIX,special-sponsor.de
 DOMAIN-SUFFIX,sponsortown.de
 DOMAIN-SUFFIX,spoods.io
 DOMAIN-SUFFIX,spotlight.offerista.com
