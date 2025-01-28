@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-28 05:00:25
-# DOMAIN-SUFFIX: 410
-# TOTAL: 410
+# UPDATED: 2025-01-29 04:58:36
+# DOMAIN-SUFFIX: 411
+# TOTAL: 411
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -376,6 +376,7 @@ DOMAIN-SUFFIX,visit2visit.de
 DOMAIN-SUFFIX,vodafone-direkt.de
 DOMAIN-SUFFIX,vulkanbet.pro
 DOMAIN-SUFFIX,vulkanbetting.biz
+DOMAIN-SUFFIX,vulkanvegascasino.at
 DOMAIN-SUFFIX,vulkanvegas-de.com
 DOMAIN-SUFFIX,w3hoster.de
 DOMAIN-SUFFIX,watergate.tv
