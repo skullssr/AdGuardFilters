@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-29 04:56:43
-# DOMAIN-SUFFIX: 52354
-# TOTAL: 52354
+# UPDATED: 2025-01-31 04:57:20
+# DOMAIN-SUFFIX: 52355
+# TOTAL: 52355
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -5897,6 +5897,7 @@ DOMAIN-SUFFIX,bia.brightinfo.com
 DOMAIN-SUFFIX,bibglj.timberland.fr
 DOMAIN-SUFFIX,bichtf.in-themode.com
 DOMAIN-SUFFIX,bi.concordesolutions.com
+DOMAIN-SUFFIX,bicp-analytics.postscript.io
 DOMAIN-SUFFIX,bidder.mdspinc.com
 DOMAIN-SUFFIX,biddingmax.apse.trk.rixserv.com
 DOMAIN-SUFFIX,bideuw.polyrattan24.de
@@ -14355,6 +14356,7 @@ DOMAIN-SUFFIX,eventbus.intuit.com
 DOMAIN-SUFFIX,event.chitai-gorod.ru
 DOMAIN-SUFFIX,event.clientgear.com
 DOMAIN-SUFFIX,event-collector.analytics.onedio.com
+DOMAIN-SUFFIX,eventcollector.mcf-prod.a.intuit.com
 DOMAIN-SUFFIX,event-collector.moviesanywhere.com
 DOMAIN-SUFFIX,event-collector.prd.data.s.joyn.de
 DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
@@ -29167,7 +29169,6 @@ DOMAIN-SUFFIX,nsswmetrics.omanair.com
 DOMAIN-SUFFIX,nstat.magazines.com
 DOMAIN-SUFFIX,nstclj.rubylane.com
 DOMAIN-SUFFIX,nsteq.queensland.com
-DOMAIN-SUFFIX,nstool.netease.com
 DOMAIN-SUFFIX,nstracking.com
 DOMAIN-SUFFIX,nst.trex.media
 DOMAIN-SUFFIX,nta1vb6cdlrl.com
