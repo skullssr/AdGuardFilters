@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-31 04:57:20
-# DOMAIN-SUFFIX: 52355
-# TOTAL: 52355
+# UPDATED: 2025-02-01 04:56:25
+# DOMAIN-SUFFIX: 52359
+# TOTAL: 52359
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3424,6 +3424,7 @@ DOMAIN-SUFFIX,analytics.audioeye.com
 DOMAIN-SUFFIX,analytics.audionow.de
 DOMAIN-SUFFIX,analytics.autoeauto.it
 DOMAIN-SUFFIX,analytics.autozone.com
+DOMAIN-SUFFIX,analytics.avcdn.net
 DOMAIN-SUFFIX,analytics.avis.de
 DOMAIN-SUFFIX,analytics.aweber.com
 DOMAIN-SUFFIX,analytics.awhr.com
@@ -30924,6 +30925,7 @@ DOMAIN-SUFFIX,pbc.programbrokerage.com
 DOMAIN-SUFFIX,pbcs.decider.com
 DOMAIN-SUFFIX,pbcs.nypost.com
 DOMAIN-SUFFIX,pbcs.pagesix.com
+DOMAIN-SUFFIX,pbc.wsj.com
 DOMAIN-SUFFIX,pbecrm.aquanet.ru
 DOMAIN-SUFFIX,pbhcaq.nursery.co.jp
 DOMAIN-SUFFIX,pb.i.sogou.com
@@ -43110,6 +43112,7 @@ DOMAIN-SUFFIX,t.adx.opera.com
 DOMAIN-SUFFIX,taemhn.zamst-online.jp
 DOMAIN-SUFFIX,t.afi-b.com
 DOMAIN-SUFFIX,tafrebadus.com
+DOMAIN-SUFFIX,t.aftermath.site
 DOMAIN-SUFFIX,tafuow.lyke.cz
 DOMAIN-SUFFIX,tag4arm.com
 DOMAIN-SUFFIX,tag.aftvnews.com
@@ -45605,6 +45608,7 @@ DOMAIN-SUFFIX,trackingapi.hype-haven.de
 DOMAIN-SUFFIX,trackingapi.kaufda.de
 DOMAIN-SUFFIX,trackingapi.meinprospekt.de
 DOMAIN-SUFFIX,tracking-api.passeidireto.com
+DOMAIN-SUFFIX,tracking.api.shoppinggives.com
 DOMAIN-SUFFIX,tracking-api.sub100.com.br
 DOMAIN-SUFFIX,tracking-app.diginetica.net
 DOMAIN-SUFFIX,tracking.arbor.edu
