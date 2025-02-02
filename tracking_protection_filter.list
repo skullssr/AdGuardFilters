@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-02 04:54:30
-# DOMAIN-SUFFIX: 52359
-# TOTAL: 52359
+# UPDATED: 2025-02-03 05:18:11
+# DOMAIN-SUFFIX: 52361
+# TOTAL: 52361
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -17215,6 +17215,7 @@ DOMAIN-SUFFIX,gvnjrg.tutorcircle.hk
 DOMAIN-SUFFIX,gvxnff.soulara.com.au
 DOMAIN-SUFFIX,gvybin.thevaultproscooters.com
 DOMAIN-SUFFIX,gw-analytics.panasonic.com
+DOMAIN-SUFFIX,gw.conversionsapigateway.com
 DOMAIN-SUFFIX,gwdlvv.renefurtererusa.com
 DOMAIN-SUFFIX,gw-dv.vip
 DOMAIN-SUFFIX,gwguyh.edreams.es
@@ -22804,6 +22805,7 @@ DOMAIN-SUFFIX,log.umsns.com
 DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,log-upload-os.hoyolab.com
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,log-upload-os.mihoyo.com
 DOMAIN-SUFFIX,log-v4-insight.kaizenplatform.net
