@@ -1,9 +1,9 @@
 # NAME: AdGuardDNSDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-28 04:42:05
-# DOMAIN-SUFFIX: 169
-# TOTAL: 169
+# UPDATED: 2025-02-05 04:37:50
+# DOMAIN-SUFFIX: 170
+# TOTAL: 170
 DOMAIN-SUFFIX,5471782.fls.doubleclick.net
 DOMAIN-SUFFIX,79423.analytics.edgekey.net
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,f-gear.ec-optimizer.com
 DOMAIN-SUFFIX,forum.notebookreview.com
 DOMAIN-SUFFIX,ftp.bmp.ovh
 DOMAIN-SUFFIX,gate.first-id.fr
+DOMAIN-SUFFIX,get.neofinancial.com
 DOMAIN-SUFFIX,go.adjust.com
 DOMAIN-SUFFIX,go.scorptec.com.au
 DOMAIN-SUFFIX,goto.target.com
