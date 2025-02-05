@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-05 04:54:20
-# DOMAIN-SUFFIX: 52675
-# TOTAL: 52675
+# UPDATED: 2025-02-06 04:54:15
+# DOMAIN-SUFFIX: 52679
+# TOTAL: 52679
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -2184,6 +2184,7 @@ DOMAIN-SUFFIX,adelixir.com
 DOMAIN-SUFFIX,a.demco.com
 DOMAIN-SUFFIX,ad*.ettoday.net
 DOMAIN-SUFFIX,a.dev-ajo.caixabank.com
+DOMAIN-SUFFIX,ad-events.flashtalking.com
 DOMAIN-SUFFIX,adeventtrackermonitoring.spotify.com
 DOMAIN-SUFFIX,adeventtracker.spotify.com
 DOMAIN-SUFFIX,adex.kintetsu-re.co.jp
@@ -4030,6 +4031,7 @@ DOMAIN-SUFFIX,analytics.styria.hr
 DOMAIN-SUFFIX,analytics.superstation.com
 DOMAIN-SUFFIX,analytics.superstructure.ai
 DOMAIN-SUFFIX,analytics.surfline.com
+DOMAIN-SUFFIX,analytics.sve.cc
 DOMAIN-SUFFIX,analytics.sydney.edu.au
 DOMAIN-SUFFIX,analytics.syf.com
 DOMAIN-SUFFIX,analytics.synchronyannualreport.com
@@ -4444,6 +4446,7 @@ DOMAIN-SUFFIX,api.setting.intl.miui.com
 DOMAIN-SUFFIX,api.share.mob.com
 DOMAIN-SUFFIX,api.sprig.com
 DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,api.taboola.sve.cc
 DOMAIN-SUFFIX,apitad.townshoes.ca
 DOMAIN-SUFFIX,api.taggrs.io
 DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
@@ -39432,6 +39435,7 @@ DOMAIN-SUFFIX,so.desertschools.org
 DOMAIN-SUFFIX,sodoit.com
 DOMAIN-SUFFIX,soejzg.efe.com.pe
 DOMAIN-SUFFIX,soelui.butosklep.pl
+DOMAIN-SUFFIX,sofire.1024tera.com
 DOMAIN-SUFFIX,sofire.bdstatic.com
 DOMAIN-SUFFIX,softonic-analytics.net
 DOMAIN-SUFFIX,sohiuc.sheego.de

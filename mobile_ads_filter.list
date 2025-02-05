@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-28 05:02:13
-# DOMAIN-SUFFIX: 919
-# TOTAL: 919
+# UPDATED: 2025-02-06 04:57:58
+# DOMAIN-SUFFIX: 926
+# TOTAL: 926
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -232,6 +232,8 @@ DOMAIN-SUFFIX,adx-*.dbankedge.cn
 DOMAIN-SUFFIX,adx-dre.op.hicloud.com
 DOMAIN-SUFFIX,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-SUFFIX,adx-open-service.youku.com
+DOMAIN-SUFFIX,adx-os.bridgeoos.com
+DOMAIN-SUFFIX,adx-sg-req.bridgeoos.com
 DOMAIN-SUFFIX,adx-tk.rayjump.com
 DOMAIN-SUFFIX,ad.youku.com
 DOMAIN-SUFFIX,adzerk.net
@@ -266,17 +268,22 @@ DOMAIN-SUFFIX,api.appnxt.net
 DOMAIN-SUFFIX,api*.batmobil.net
 DOMAIN-SUFFIX,api*.batmobi.net
 DOMAIN-SUFFIX,api*.bidmachine.io
+DOMAIN-SUFFIX,api.bridgeoos.com
 DOMAIN-SUFFIX,api.brs.intl.miui.com
 DOMAIN-SUFFIX,api.cloudmobi.net
 DOMAIN-SUFFIX,api.fusepowered.com
 DOMAIN-SUFFIX,api.itpub.cloud
+DOMAIN-SUFFIX,api.kickoffo.site
 DOMAIN-SUFFIX,api.mediation.amberweather.com
 DOMAIN-SUFFIX,api.mobula.ds.duapps.com
 DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
+DOMAIN-SUFFIX,api.myadsget.com
 DOMAIN-SUFFIX,api.newsfeed.intl.miui.com
 DOMAIN-SUFFIX,api.pingstart.com
 DOMAIN-SUFFIX,apis.appnxt.net
+DOMAIN-SUFFIX,api.sve.cc
 DOMAIN-SUFFIX,api.usebutton.com
+DOMAIN-SUFFIX,api.youngle.tech
 DOMAIN-SUFFIX,app.adjust.net.in
 DOMAIN-SUFFIX,app.adjust.world
 DOMAIN-SUFFIX,appboy-images.com
