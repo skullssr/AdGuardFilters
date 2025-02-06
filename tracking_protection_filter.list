@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-06 04:54:15
-# DOMAIN-SUFFIX: 52679
-# TOTAL: 52679
+# UPDATED: 2025-02-07 04:54:09
+# DOMAIN-SUFFIX: 52681
+# TOTAL: 52681
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4724,6 +4724,7 @@ DOMAIN-SUFFIX,apple-*.le.com
 DOMAIN-SUFFIX,app.libertyfirstcreditunionarena.com
 DOMAIN-SUFFIX,app.libertyflames.com
 DOMAIN-SUFFIX,applicatifs.ricoh.fr
+DOMAIN-SUFFIX,applicationinsights.azure.com
 DOMAIN-SUFFIX,application.rasmussen.edu
 DOMAIN-SUFFIX,application.ricoh.co.uk
 DOMAIN-SUFFIX,application.ricoh.co.za
@@ -15311,6 +15312,7 @@ DOMAIN-SUFFIX,fortnight.space
 DOMAIN-SUFFIX,fortnitechat.site
 DOMAIN-SUFFIX,fouanalytics.com
 DOMAIN-SUFFIX,foundry42.com
+DOMAIN-SUFFIX,fourier.aliexpress.com
 DOMAIN-SUFFIX,fourier.taobao.com
 DOMAIN-SUFFIX,fout.jp
 DOMAIN-SUFFIX,fowl.saulhardman.com
