@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-12 04:53:56
-# DOMAIN-SUFFIX: 51670
-# TOTAL: 51670
+# UPDATED: 2025-02-13 04:53:55
+# DOMAIN-SUFFIX: 51677
+# TOTAL: 51677
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4148,6 +4148,7 @@ DOMAIN-SUFFIX,analytics.villagehouse.jp
 DOMAIN-SUFFIX,analytics.virginaustralia.com
 DOMAIN-SUFFIX,analytics.virginmobileusa.com
 DOMAIN-SUFFIX,analytics.visible.com
+DOMAIN-SUFFIX,analytics.viture.dev
 DOMAIN-SUFFIX,analytics.vixcloud.co
 DOMAIN-SUFFIX,analytics.vodgc.net
 DOMAIN-SUFFIX,analytics.voxbusinesscard.com
@@ -6156,6 +6157,7 @@ DOMAIN-SUFFIX,bopmkf.lolahome.es
 DOMAIN-SUFFIX,boqufs.2nn.jp
 DOMAIN-SUFFIX,boss-www.com
 DOMAIN-SUFFIX,botfaqtor.ru
+DOMAIN-SUFFIX,botradar.tech
 DOMAIN-SUFFIX,botscanner.com
 DOMAIN-SUFFIX,botsvisit.com
 DOMAIN-SUFFIX,bot.trackall.site
@@ -22915,6 +22917,7 @@ DOMAIN-SUFFIX,log.tpns.tencent.com
 DOMAIN-SUFFIX,log.trackingio.com
 DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
 DOMAIN-SUFFIX,logua.com
+DOMAIN-SUFFIX,log.ultimatecleaner.pro
 DOMAIN-SUFFIX,log.umsns.com
 DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
@@ -23606,6 +23609,7 @@ DOMAIN-SUFFIX,ma.lekab.com
 DOMAIN-SUFFIX,maling.dn.no
 DOMAIN-SUFFIX,maling.ue.dn.no
 DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
+DOMAIN-SUFFIX,malog.byapps.co.kr
 DOMAIN-SUFFIX,ma.meritgo.se
 DOMAIN-SUFFIX,ma.meritmind.de
 DOMAIN-SUFFIX,ma.meritmind.se
@@ -38545,6 +38549,8 @@ DOMAIN-SUFFIX,soejzg.efe.com.pe
 DOMAIN-SUFFIX,soelui.butosklep.pl
 DOMAIN-SUFFIX,sofire.1024tera.com
 DOMAIN-SUFFIX,sofire.bdstatic.com
+DOMAIN-SUFFIX,sofire.terabox.app
+DOMAIN-SUFFIX,sofire.terabox.com
 DOMAIN-SUFFIX,softonic-analytics.net
 DOMAIN-SUFFIX,sohiuc.sheego.de
 DOMAIN-SUFFIX,sojjtp.e-wheels.no
@@ -41738,6 +41744,7 @@ DOMAIN-SUFFIX,statuscake.com
 DOMAIN-SUFFIX,stat.videonow.ru
 DOMAIN-SUFFIX,stat.vocus.com
 DOMAIN-SUFFIX,stat.vzornepravo.cz
+DOMAIN-SUFFIX,stat.weamvideo.com
 DOMAIN-SUFFIX,stat.wioau.com
 DOMAIN-SUFFIX,stat.wkf.fr
 DOMAIN-SUFFIX,stat.wk-formation.fr

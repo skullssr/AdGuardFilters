@@ -1,7 +1,7 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-11 04:57:40
+# UPDATED: 2025-02-13 04:57:34
 # DOMAIN-SUFFIX: 927
 # TOTAL: 927
 DOMAIN-SUFFIX,023hysj.com
@@ -609,7 +609,7 @@ DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobfox.com
 DOMAIN-SUFFIX,mobiads.ru
-DOMAIN-SUFFIX,mobiadvert.livesportmedia.eu
+DOMAIN-SUFFIX,mobiadvert*.livesportmedia.eu
 DOMAIN-SUFFIX,mobidriven.com
 DOMAIN-SUFFIX,mobile333.com
 DOMAIN-SUFFIX,mobilebanner.ru
