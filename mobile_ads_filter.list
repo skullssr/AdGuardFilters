@@ -1,19 +1,16 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-13 04:57:34
-# DOMAIN-SUFFIX: 927
-# TOTAL: 927
+# UPDATED: 2025-02-14 04:57:33
+# DOMAIN-SUFFIX: 925
+# TOTAL: 925
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
 DOMAIN-SUFFIX,360yield.com
 DOMAIN-SUFFIX,883.engine.mobileapptracking.com
 DOMAIN-SUFFIX,92by17snes4.cc
-DOMAIN-SUFFIX,a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
 DOMAIN-SUFFIX,a2dfp.net
-DOMAIN-SUFFIX,a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
-DOMAIN-SUFFIX,a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 DOMAIN-SUFFIX,aag.yahooapis.jp
 DOMAIN-SUFFIX,aan.amazon.*
 DOMAIN-SUFFIX,a.applvn.com
@@ -121,6 +118,7 @@ DOMAIN-SUFFIX,ads.aitype.net
 DOMAIN-SUFFIX,ads-api.kidsnote.com
 DOMAIN-SUFFIX,adsapi.manhuaren.com
 DOMAIN-SUFFIX,adsapi.snapchat.com
+DOMAIN-SUFFIX,ads.appbundledownload.com
 DOMAIN-SUFFIX,ads.appsgeyser.com
 DOMAIN-SUFFIX,ads-ap-venues.yinzcam.com
 DOMAIN-SUFFIX,adsassets-ipv6.waze.com

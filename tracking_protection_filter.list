@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-13 04:53:55
-# DOMAIN-SUFFIX: 51677
-# TOTAL: 51677
+# UPDATED: 2025-02-14 04:53:53
+# DOMAIN-SUFFIX: 51679
+# TOTAL: 51679
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -4475,6 +4475,7 @@ DOMAIN-SUFFIX,aplobv.xexymix.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,apmplus.ap-southeast-1.volces.com
 DOMAIN-SUFFIX,apm.relationshipone.com
+DOMAIN-SUFFIX,apm.yahoo.co.jp
 DOMAIN-SUFFIX,apollofind.com
 DOMAIN-SUFFIX,apollo.miniclip.com
 DOMAIN-SUFFIX,apollo.plein.nl
@@ -15164,6 +15165,7 @@ DOMAIN-SUFFIX,flashadengine.com
 DOMAIN-SUFFIX,flash-counter.com
 DOMAIN-SUFFIX,flashplayerfeedback.adobe.com
 DOMAIN-SUFFIX,flash.sec.intl.miui.com
+DOMAIN-SUFFIX,flashtalking.com
 DOMAIN-SUFFIX,flask.us.nextdoor.com
 DOMAIN-SUFFIX,flbuhz.justlease.be
 DOMAIN-SUFFIX,flcounter.com
@@ -15335,6 +15337,7 @@ DOMAIN-SUFFIX,fortnight.space
 DOMAIN-SUFFIX,fortnitechat.site
 DOMAIN-SUFFIX,fouanalytics.com
 DOMAIN-SUFFIX,foundry42.com
+DOMAIN-SUFFIX,fourier.alibaba.com
 DOMAIN-SUFFIX,fourier.aliexpress.com
 DOMAIN-SUFFIX,fourier.taobao.com
 DOMAIN-SUFFIX,fout.jp
@@ -22902,7 +22905,6 @@ DOMAIN-SUFFIX,logs.thebloggernetwork.com
 DOMAIN-SUFFIX,logs.theccaa.com
 DOMAIN-SUFFIX,log.strm.yandex.ru
 DOMAIN-SUFFIX,logs.unchecky.com
-DOMAIN-SUFFIX,log.suumo.jp
 DOMAIN-SUFFIX,logs.viadata.store
 DOMAIN-SUFFIX,logtake.weidian.com
 DOMAIN-SUFFIX,log.talkie-ai.com
