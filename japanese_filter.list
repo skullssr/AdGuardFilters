@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-10 04:57:36
-# DOMAIN-SUFFIX: 387
-# TOTAL: 387
+# UPDATED: 2025-02-17 04:56:26
+# DOMAIN-SUFFIX: 381
+# TOTAL: 381
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -159,13 +159,11 @@ DOMAIN-SUFFIX,cdn.alistcloud.com
 DOMAIN-SUFFIX,cdn.lodeo.io
 DOMAIN-SUFFIX,cdn.mixx-ad.net
 DOMAIN-SUFFIX,click-count.info
-DOMAIN-SUFFIX,clickmedias.info
 DOMAIN-SUFFIX,cnt.affiliate.fc2.com
 DOMAIN-SUFFIX,colossal.jp
 DOMAIN-SUFFIX,compass-fit.jp
 DOMAIN-SUFFIX,congrab.com
 DOMAIN-SUFFIX,connead.net
-DOMAIN-SUFFIX,corectcustom.com
 DOMAIN-SUFFIX,cpro.baidu.com
 DOMAIN-SUFFIX,creative-klepon-3f0ecb.netlify.app
 DOMAIN-SUFFIX,creative.live.tktube.com
@@ -203,7 +201,6 @@ DOMAIN-SUFFIX,genieedmp.com
 DOMAIN-SUFFIX,geniee.jp
 DOMAIN-SUFFIX,genieesspv.jp
 DOMAIN-SUFFIX,geotg.jp
-DOMAIN-SUFFIX,givesthtosb.com
 DOMAIN-SUFFIX,gmossp-sp.jp
 DOMAIN-SUFFIX,goldenssp.com
 DOMAIN-SUFFIX,googleailesi.com
@@ -212,6 +209,7 @@ DOMAIN-SUFFIX,gsspcln.jp
 DOMAIN-SUFFIX,gusion.space
 DOMAIN-SUFFIX,gyro-n.com
 DOMAIN-SUFFIX,hananokai.tv
+DOMAIN-SUFFIX,hatoltd.com
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,hbb.afl.rakuten.co.jp
 DOMAIN-SUFFIX,hitgraph.jp
@@ -230,7 +228,6 @@ DOMAIN-SUFFIX,infohimatalk77.net
 DOMAIN-SUFFIX,infotop.jp
 DOMAIN-SUFFIX,itgear.jp
 DOMAIN-SUFFIX,j-a-net.jp
-DOMAIN-SUFFIX,japanofficial.jp
 DOMAIN-SUFFIX,jp1media.com
 DOMAIN-SUFFIX,js.click-plus.net
 DOMAIN-SUFFIX,js.glossom.jp
@@ -252,7 +249,6 @@ DOMAIN-SUFFIX,link-medias.com
 DOMAIN-SUFFIX,link-trade.net
 DOMAIN-SUFFIX,liveads.jp
 DOMAIN-SUFFIX,lmadps.jp
-DOMAIN-SUFFIX,lvtag.com
 DOMAIN-SUFFIX,maio.jp
 DOMAIN-SUFFIX,managedweb.net
 DOMAIN-SUFFIX,manga.boy.jp
@@ -324,7 +320,6 @@ DOMAIN-SUFFIX,sdqoi2d.com
 DOMAIN-SUFFIX,search.jword.jp
 DOMAIN-SUFFIX,seedapp-creative.s3.amazonaws.com
 DOMAIN-SUFFIX,seogreat.net
-DOMAIN-SUFFIX,seo.linel.top
 DOMAIN-SUFFIX,seoparts.com
 DOMAIN-SUFFIX,seoparts.net
 DOMAIN-SUFFIX,sexpixbox.com
@@ -359,7 +354,6 @@ DOMAIN-SUFFIX,traffic-exchange.tv
 DOMAIN-SUFFIX,trafficstars.com
 DOMAIN-SUFFIX,trigraff.com
 DOMAIN-SUFFIX,trigs-sockets.com
-DOMAIN-SUFFIX,trustclick.ne.jp
 DOMAIN-SUFFIX,tumabeni.com
 DOMAIN-SUFFIX,twitob.com
 DOMAIN-SUFFIX,twitterfollowers.site
