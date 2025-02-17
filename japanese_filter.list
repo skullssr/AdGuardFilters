@@ -1,9 +1,9 @@
 # NAME: JapaneseFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-17 04:56:26
-# DOMAIN-SUFFIX: 381
-# TOTAL: 381
+# UPDATED: 2025-02-18 04:56:19
+# DOMAIN-SUFFIX: 383
+# TOTAL: 383
 DOMAIN-SUFFIX,6ms.biz
 DOMAIN-SUFFIX,a8.net
 DOMAIN-SUFFIX,a-affiliate.net
@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,api.unthem.com
 DOMAIN-SUFFIX,appdraft.link
 DOMAIN-SUFFIX,app.monetrack.com
 DOMAIN-SUFFIX,appollo.jp
+DOMAIN-SUFFIX,araklet.mediagene.co.jp
 DOMAIN-SUFFIX,asia-northeast1-affiliate-pr.cloudfunctions.net
 DOMAIN-SUFFIX,askfollow.us
 DOMAIN-SUFFIX,asp.m-live.jp
@@ -336,6 +337,7 @@ DOMAIN-SUFFIX,speee-ad.akamaized.net
 DOMAIN-SUFFIX,spreadlink.net
 DOMAIN-SUFFIX,sprout-ad.com
 DOMAIN-SUFFIX,srv2.trafficgate.net
+DOMAIN-SUFFIX,ssdsp.smt.docomo.ne.jp
 DOMAIN-SUFFIX,static.affiliate.rakuten.co.jp
 DOMAIN-SUFFIX,static.mopo.jp
 DOMAIN-SUFFIX,taggyad.jp
