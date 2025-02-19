@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-19 04:53:18
-# DOMAIN-SUFFIX: 51552
-# TOTAL: 51552
+# UPDATED: 2025-02-20 04:53:14
+# DOMAIN-SUFFIX: 51567
+# TOTAL: 51567
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -1998,6 +1998,7 @@ DOMAIN-SUFFIX,adara.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adash.m.taobao.com
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
+DOMAIN-SUFFIX,adashx.ut.alibaba.com
 DOMAIN-SUFFIX,adat.freemail.hu
 DOMAIN-SUFFIX,ad.aucfan.com
 DOMAIN-SUFFIX,ad.aucview.com
@@ -4376,6 +4377,7 @@ DOMAIN-SUFFIX,api2.appsflyer.com
 DOMAIN-SUFFIX,api2.branch.io
 DOMAIN-SUFFIX,api2.poperblocker.com
 DOMAIN-SUFFIX,api3.branch.io
+DOMAIN-SUFFIX,api.abcsinsights.com
 DOMAIN-SUFFIX,api.acquirewithus.com
 DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
 DOMAIN-SUFFIX,api.ad-platform.jmty.jp
@@ -4416,6 +4418,7 @@ DOMAIN-SUFFIX,api.fuck.education
 DOMAIN-SUFFIX,api.gameanalytics.com
 DOMAIN-SUFFIX,api.gimbal.com
 DOMAIN-SUFFIX,api-*.hismarttv.com
+DOMAIN-SUFFIX,apihorizon.nnmtools.com
 DOMAIN-SUFFIX,api.iterable.com
 DOMAIN-SUFFIX,api.iterative.ly
 DOMAIN-SUFFIX,a.pikabu.ru
@@ -6654,6 +6657,7 @@ DOMAIN-SUFFIX,cattle.weiss-bregenz.at
 DOMAIN-SUFFIX,causecherry.com
 DOMAIN-SUFFIX,ca.video-cdn.net
 DOMAIN-SUFFIX,caxtsk.russoraffaele.it
+DOMAIN-SUFFIX,c.bazo.io
 DOMAIN-SUFFIX,cbdatatracker.com
 DOMAIN-SUFFIX,cbeflg.eberhardt-travel.de
 DOMAIN-SUFFIX,cbheuy.wishraiser.com
@@ -6723,6 +6727,7 @@ DOMAIN-SUFFIX,cdn.glassboxcdn.com
 DOMAIN-SUFFIX,cdn.gpmdata.ru
 DOMAIN-SUFFIX,cdn.granify.com
 DOMAIN-SUFFIX,cdn-gw-dv.vip
+DOMAIN-SUFFIX,cdnhorizon.nnmtools.com
 DOMAIN-SUFFIX,cdn.hotelbaiadidiamante.it
 DOMAIN-SUFFIX,cdn.kaizenplatform.net
 DOMAIN-SUFFIX,cdn.logrocket.com
@@ -7450,6 +7455,7 @@ DOMAIN-SUFFIX,collector.plarium.com
 DOMAIN-SUFFIX,collector.prod.expedia.com
 DOMAIN-SUFFIX,collector-*.px-client.net
 DOMAIN-SUFFIX,collector-pxebumdlwe.px-cdn.net
+DOMAIN-SUFFIX,collector-pxebumdlwe.pxchk.net
 DOMAIN-SUFFIX,collector-pxebumdlwe.px-cloud.net
 DOMAIN-SUFFIX,collector.reelevant.com
 DOMAIN-SUFFIX,collector.retailcrm.pro
@@ -7479,6 +7485,7 @@ DOMAIN-SUFFIX,collect.stadtwerke-dueren.de
 DOMAIN-SUFFIX,collect.stepstone.co.uk
 DOMAIN-SUFFIX,collect.tommy.com
 DOMAIN-SUFFIX,collect.ucl.dk
+DOMAIN-SUFFIX,collect.ureca-lab.com
 DOMAIN-SUFFIX,collect.usefathom.com
 DOMAIN-SUFFIX,collect-v*.51.la
 DOMAIN-SUFFIX,collect.vans.com.cn
@@ -17377,6 +17384,7 @@ DOMAIN-SUFFIX,h562.pasadenastarnews.com
 DOMAIN-SUFFIX,h5.eagllwin.com
 DOMAIN-SUFFIX,h689.nydailynews.com
 DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com
+DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
 DOMAIN-SUFFIX,haddock.affilimate.com
 DOMAIN-SUFFIX,haddock.jeffreyknox.dev
 DOMAIN-SUFFIX,haddock.simgenie.app
@@ -30469,6 +30477,7 @@ DOMAIN-SUFFIX,payroll.smartsalary.com.au
 DOMAIN-SUFFIX,pb.adriver.ru
 DOMAIN-SUFFIX,pbbl.co
 DOMAIN-SUFFIX,pbclyu.akewatu.fr
+DOMAIN-SUFFIX,pbc.realtor.com
 DOMAIN-SUFFIX,pbcs.decider.com
 DOMAIN-SUFFIX,pbcs.nypost.com
 DOMAIN-SUFFIX,pbcs.pagesix.com
@@ -31278,6 +31287,7 @@ DOMAIN-SUFFIX,privacy.online.heineken.co.za
 DOMAIN-SUFFIX,privacyoptout.zoominformation.com
 DOMAIN-SUFFIX,privacy.owllabs.com
 DOMAIN-SUFFIX,privacy.purgruen.de
+DOMAIN-SUFFIX,privacy-sandbox.appsflyersdk.com
 DOMAIN-SUFFIX,privacy.sekuremerchants.com
 DOMAIN-SUFFIX,privacy.tigerbeer.com
 DOMAIN-SUFFIX,privacy.umiloans.com.au
@@ -31569,6 +31579,7 @@ DOMAIN-SUFFIX,px.gfycat.com
 DOMAIN-SUFFIX,pxgpnp.angara.com
 DOMAIN-SUFFIX,pxhqoy.clothingshoponline.com
 DOMAIN-SUFFIX,pxinqe.koffer-to-go.de
+DOMAIN-SUFFIX,px-intl.ucweb.com
 DOMAIN-SUFFIX,pxi.pub
 DOMAIN-SUFFIX,pxjkbj.bostonproper.com
 DOMAIN-SUFFIX,pxjuix.tekzen.com.tr
@@ -33689,6 +33700,7 @@ DOMAIN-SUFFIX,scripts.jixie.media
 DOMAIN-SUFFIX,scripts-repo.reelevant.com
 DOMAIN-SUFFIX,scripttags.jst.ai
 DOMAIN-SUFFIX,scs.arcteryx.com
+DOMAIN-SUFFIX,sc.sc-analytics.jp
 DOMAIN-SUFFIX,scs.lifenet-seimei.co.jp
 DOMAIN-SUFFIX,scsmetrics.ho-mobile.it
 DOMAIN-SUFFIX,scsmetrics.vodafone.it
@@ -40732,6 +40744,7 @@ DOMAIN-SUFFIX,stats.buyersedge.com.au
 DOMAIN-SUFFIX,stats.byma.com.br
 DOMAIN-SUFFIX,stats.byterocket.dev
 DOMAIN-SUFFIX,stats.cafepress.com
+DOMAIN-SUFFIX,stats.calldorado.com
 DOMAIN-SUFFIX,stats.callum.fyi
 DOMAIN-SUFFIX,stats.canadapost.ca
 DOMAIN-SUFFIX,stats.canadapost-postescanada.ca
@@ -44913,6 +44926,7 @@ DOMAIN-SUFFIX,tracking.campaigns.opusenergy.com
 DOMAIN-SUFFIX,tracking.capitalbank.jo
 DOMAIN-SUFFIX,tracking-capitalbank-jo-877029.p06.elqsandbox.com
 DOMAIN-SUFFIX,tracking.capterra.com
+DOMAIN-SUFFIX,tracking.carbonatixaudio.com
 DOMAIN-SUFFIX,trackingcareers.accenture.com
 DOMAIN-SUFFIX,tracking.care.essentiahealth.org
 DOMAIN-SUFFIX,tracking.care.muschealth.org
@@ -46002,6 +46016,7 @@ DOMAIN-SUFFIX,trafex.net
 DOMAIN-SUFFIX,traffic4u.nl
 DOMAIN-SUFFIX,traffic.ausfuellhilfe.com
 DOMAIN-SUFFIX,trafficby.net
+DOMAIN-SUFFIX,traffic.calldorado.com
 DOMAIN-SUFFIX,trafficengine.net
 DOMAIN-SUFFIX,trafficfacts.com
 DOMAIN-SUFFIX,traffic.hostedstatus.page
