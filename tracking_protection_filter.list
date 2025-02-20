@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-20 04:53:14
-# DOMAIN-SUFFIX: 51567
-# TOTAL: 51567
+# UPDATED: 2025-02-21 04:53:18
+# DOMAIN-SUFFIX: 51570
+# TOTAL: 51570
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -19774,6 +19774,7 @@ DOMAIN-SUFFIX,insights.affilimate.com
 DOMAIN-SUFFIX,insights.aiu.edu.au
 DOMAIN-SUFFIX,insights.aiu.sg
 DOMAIN-SUFFIX,insights.algolia.io
+DOMAIN-SUFFIX,insights.alibaba.com
 DOMAIN-SUFFIX,insights.alley.com
 DOMAIN-SUFFIX,insights.atradiuscollections.com
 DOMAIN-SUFFIX,insights.att.com
@@ -27671,6 +27672,7 @@ DOMAIN-SUFFIX,mon*-*.tiktokv.us
 DOMAIN-SUFFIX,montpalatin.handicap.fr
 DOMAIN-SUFFIX,mon.us.tiktokv.com
 DOMAIN-SUFFIX,mon-va.byteoversea.com
+DOMAIN-SUFFIX,mon-va.capcutapi.com
 DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
 DOMAIN-SUFFIX,mon.xactware.com
 DOMAIN-SUFFIX,mon.zijieapi.com
@@ -27812,6 +27814,7 @@ DOMAIN-SUFFIX,m.sm.princess.com
 DOMAIN-SUFFIX,msmt.tomcare.be
 DOMAIN-SUFFIX,msmwtl.bennemann.com.br
 DOMAIN-SUFFIX,msolss.yopagomenos.co
+DOMAIN-SUFFIX,mssdk-boot.cpacutapi.com
 DOMAIN-SUFFIX,mssdk.bytedance.com
 DOMAIN-SUFFIX,mssdk*.capcutapi.com
 DOMAIN-SUFFIX,mssdk-sg.byteoversea.com

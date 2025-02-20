@@ -1,9 +1,9 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-19 04:54:55
-# DOMAIN-SUFFIX: 2471
-# TOTAL: 2471
+# UPDATED: 2025-02-21 04:54:54
+# DOMAIN-SUFFIX: 2472
+# TOTAL: 2472
 DOMAIN-SUFFIX,0427d7.se
 DOMAIN-SUFFIX,079301eaff0975107716716fd1cb0dcd.com
 DOMAIN-SUFFIX,0816bvh.ru
@@ -141,6 +141,7 @@ DOMAIN-SUFFIX,adlift.ru
 DOMAIN-SUFFIX,adlmerge.com
 DOMAIN-SUFFIX,adlook.me
 DOMAIN-SUFFIX,adlook.net
+DOMAIN-SUFFIX,adlook.tech
 DOMAIN-SUFFIX,admachina.com
 DOMAIN-SUFFIX,admaster.net
 DOMAIN-SUFFIX,admediator.ru
