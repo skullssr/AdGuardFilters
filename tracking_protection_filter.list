@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-21 04:53:18
-# DOMAIN-SUFFIX: 51570
-# TOTAL: 51570
+# UPDATED: 2025-02-22 04:53:13
+# DOMAIN-SUFFIX: 51576
+# TOTAL: 51576
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -15784,6 +15784,7 @@ DOMAIN-SUFFIX,gebjrr.ironstudios.com.br
 DOMAIN-SUFFIX,gecfnc.foresight.jp
 DOMAIN-SUFFIX,gecko.rrrelax.app
 DOMAIN-SUFFIX,gecko-sg.byteoversea.com
+DOMAIN-SUFFIX,gecko*.tiktov.us
 DOMAIN-SUFFIX,gecko.withclarify.com
 DOMAIN-SUFFIX,gedozw.autoscout24.cz
 DOMAIN-SUFFIX,gefkkw.cyberport.de
@@ -22888,6 +22889,7 @@ DOMAIN-SUFFIX,logs.51cto.com
 DOMAIN-SUFFIX,logs.8thwall.com
 DOMAIN-SUFFIX,logs.adplay.ru
 DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,logs.appsource.microsoft.com
 DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,logs.chatboost-cv.algoage.co.jp
 DOMAIN-SUFFIX,logs.datadoghq.com
@@ -25154,6 +25156,7 @@ DOMAIN-SUFFIX,mcs-*.lemon8-app.com
 DOMAIN-SUFFIX,mcs-*.lemon8-app.us
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mcs-*.tiktok.com
+DOMAIN-SUFFIX,mcs-va.capcutapi.com
 DOMAIN-SUFFIX,mcs-va-*.tiktokv.com
 DOMAIN-SUFFIX,mcs-va.tiktokv.com
 DOMAIN-SUFFIX,mcs.zijieapi.com
@@ -28812,6 +28815,7 @@ DOMAIN-SUFFIX,nwbpsg.amso.pl
 DOMAIN-SUFFIX,nwfkjx.gadventures.com
 DOMAIN-SUFFIX,nwlnml.megaknihy.sk
 DOMAIN-SUFFIX,nwmmdn.neumaticos-online.es
+DOMAIN-SUFFIX,nwr.static.mmcdn.com
 DOMAIN-SUFFIX,nwvupz.cljoias.com.br
 DOMAIN-SUFFIX,nwwucx.palemoba.com
 DOMAIN-SUFFIX,nwxaaw.juwelo.nl
@@ -34875,6 +34879,7 @@ DOMAIN-SUFFIX,skwumz.asphaltgold.de
 DOMAIN-SUFFIX,skxbbj.clasic.jp
 DOMAIN-SUFFIX,skyglue.com
 DOMAIN-SUFFIX,slack-5-0-4.net.mydays.de
+DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,s.latam.cemex.com
 DOMAIN-SUFFIX,slaunch.spectrumtherapeutics.com
 DOMAIN-SUFFIX,slb.saudelivrebrasil.online
@@ -46084,6 +46089,7 @@ DOMAIN-SUFFIX,transplant.universityhealth.com
 DOMAIN-SUFFIX,transportation.external.conduent.com
 DOMAIN-SUFFIX,transportation.external.xerox.com
 DOMAIN-SUFFIX,tr.apac.coms.moethennessy.com
+DOMAIN-SUFFIX,tr.api.fanbyte.com
 DOMAIN-SUFFIX,trappcloudservices.trapptechnology.com
 DOMAIN-SUFFIX,trasta.oceansapart.com
 DOMAIN-SUFFIX,tr.audi-fs-email.fr
