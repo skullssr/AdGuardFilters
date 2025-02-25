@@ -1,7 +1,7 @@
 # NAME: RussianFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-25 04:56:21
+# UPDATED: 2025-02-26 04:56:26
 # DOMAIN-SUFFIX: 2473
 # TOTAL: 2473
 DOMAIN-SUFFIX,0427d7.se
@@ -2245,6 +2245,7 @@ DOMAIN-SUFFIX,vicepiter.ru
 DOMAIN-SUFFIX,vidalak.com
 DOMAIN-SUFFIX,video001.com
 DOMAIN-SUFFIX,video1132.com
+DOMAIN-SUFFIX,video.agenteimmobiliare.info
 DOMAIN-SUFFIX,video.begun.ru
 DOMAIN-SUFFIX,videocap.org
 DOMAIN-SUFFIX,videofan.ru
@@ -2305,8 +2306,6 @@ DOMAIN-SUFFIX,vsdcdn.com
 DOMAIN-SUFFIX,vsesumki.com
 DOMAIN-SUFFIX,vst.dfn-network.pro
 DOMAIN-SUFFIX,v.strosin.biz
-DOMAIN-SUFFIX,vst.videolink.host
-DOMAIN-SUFFIX,vst.videolink.site
 DOMAIN-SUFFIX,vtdoska.ru
 DOMAIN-SUFFIX,vtrtl.de
 DOMAIN-SUFFIX,v.tzbox*.xyz
@@ -2370,6 +2369,7 @@ DOMAIN-SUFFIX,woryuc.com
 DOMAIN-SUFFIX,wowlink.ru
 DOMAIN-SUFFIX,wowmoscow.ru
 DOMAIN-SUFFIX,wpnjrm.com
+DOMAIN-SUFFIX,wrapper.bracdn.online
 DOMAIN-SUFFIX,wrfiwa.ru
 DOMAIN-SUFFIX,wsbnk.com
 DOMAIN-SUFFIX,wsp.marketgid.com

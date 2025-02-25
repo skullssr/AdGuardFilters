@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-25 04:54:45
-# DOMAIN-SUFFIX: 51890
-# TOTAL: 51890
+# UPDATED: 2025-02-26 04:54:50
+# DOMAIN-SUFFIX: 51898
+# TOTAL: 51898
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -7134,6 +7134,7 @@ DOMAIN-SUFFIX,client-event-reporter.twitch.tv
 DOMAIN-SUFFIX,client.fastaff.com
 DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,clientlogdep.music.163.com
+DOMAIN-SUFFIX,clientlogger.marketplace.aws.a2z.com
 DOMAIN-SUFFIX,client-log.karte.io
 DOMAIN-SUFFIX,clientlog.midomi.com
 DOMAIN-SUFFIX,clientlogsf.music.163.com
@@ -12836,6 +12837,7 @@ DOMAIN-SUFFIX,dolphin.sfelc.com
 DOMAIN-SUFFIX,d.ombriere.com
 DOMAIN-SUFFIX,domodomain.com
 DOMAIN-SUFFIX,domorewithless.adp.ca
+DOMAIN-SUFFIX,domself.de
 DOMAIN-SUFFIX,donjigrad.viessmann.rs
 DOMAIN-SUFFIX,donkey.aerzteteam-luppe.de
 DOMAIN-SUFFIX,donkey.annieswinecottagepowell.com
@@ -14266,6 +14268,7 @@ DOMAIN-SUFFIX,epezqy.plaisio.gr
 DOMAIN-SUFFIX,ephemeralcounters.api.roblox.com
 DOMAIN-SUFFIX,epicgolive.rainresources.com
 DOMAIN-SUFFIX,epilot.com
+DOMAIN-SUFFIX,epimetheus.navigator.gmx.net
 DOMAIN-SUFFIX,epitrack.com
 DOMAIN-SUFFIX,epiv.cardlytics.com
 DOMAIN-SUFFIX,epixkf.dentrodahistoria.com.br
@@ -22952,7 +22955,6 @@ DOMAIN-SUFFIX,log.apkomega.com
 DOMAIN-SUFFIX,log.apk.v-mate.mobi
 DOMAIN-SUFFIX,log.appbundledownload.com
 DOMAIN-SUFFIX,log.appdriver.jp
-DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
 DOMAIN-SUFFIX,log-auth.flysleep.cn
 DOMAIN-SUFFIX,log-auth.zztfly.com
 DOMAIN-SUFFIX,log.avlyun.com
@@ -23162,6 +23164,7 @@ DOMAIN-SUFFIX,log-tb.isnssdk.com
 DOMAIN-SUFFIX,log-tb.sgsnssdk.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,log.tf.co.kr
+DOMAIN-SUFFIX,log*-*.tiktokv.com
 DOMAIN-SUFFIX,log.tiktokv.com
 DOMAIN-SUFFIX,log.tossinvest.com
 DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
@@ -25449,6 +25452,8 @@ DOMAIN-SUFFIX,mcs-*.lemon8-app.com
 DOMAIN-SUFFIX,mcs-*.lemon8-app.us
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mcs-*.tiktok.com
+DOMAIN-SUFFIX,mcs.*.tiktokv.com
+DOMAIN-SUFFIX,mcs.tiktokw.us
 DOMAIN-SUFFIX,mcs-va.capcutapi.com
 DOMAIN-SUFFIX,mcs-va-*.tiktokv.com
 DOMAIN-SUFFIX,mcs-va.tiktokv.com
@@ -27927,13 +27932,13 @@ DOMAIN-SUFFIX,mon-*.lemon8-app.com
 DOMAIN-SUFFIX,mon-*.lemon8-app.us
 DOMAIN-SUFFIX,mon*-misc-lf.fqnovel.com
 DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
-DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
 DOMAIN-SUFFIX,monsetting.toutiao.com
 DOMAIN-SUFFIX,mon.snssdk.com
 DOMAIN-SUFFIX,montelena.auction.co.kr
 DOMAIN-SUFFIX,montelena.gmarket.co.kr
 DOMAIN-SUFFIX,montelena-rcv.auction.co.kr
 DOMAIN-SUFFIX,montelena-rcv.gmarket.co.kr
+DOMAIN-SUFFIX,mon*-*.tiktokv.com
 DOMAIN-SUFFIX,mon-*.tiktokv.com
 DOMAIN-SUFFIX,mon.tiktokv.com
 DOMAIN-SUFFIX,mon*-*.tiktokv.us
@@ -30780,6 +30785,7 @@ DOMAIN-SUFFIX,patriot.cs.pp.cn
 DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,paupud.meillandrichardier.com
 DOMAIN-SUFFIX,pavle.exclusive-offers-su.click
+DOMAIN-SUFFIX,pavoboxapp.com
 DOMAIN-SUFFIX,p-aw2-adapt-beacon.awsprodops.movetv.com
 DOMAIN-SUFFIX,paxtrz.dreamplacehotels.com
 DOMAIN-SUFFIX,payload.adadapted.com
@@ -43658,6 +43664,7 @@ DOMAIN-SUFFIX,te.quelle.de
 DOMAIN-SUFFIX,terabytemedia.com
 DOMAIN-SUFFIX,teraes.hgreg.com
 DOMAIN-SUFFIX,teralog.techhub.co.kr
+DOMAIN-SUFFIX,teraverseapp.com
 DOMAIN-SUFFIX,ter.centrodayuda.com
 DOMAIN-SUFFIX,terdzl.ohmyglasses.jp
 DOMAIN-SUFFIX,terik.site
@@ -43833,6 +43840,7 @@ DOMAIN-SUFFIX,tgsub.lichtnelke.de
 DOMAIN-SUFFIX,tgtag.io
 DOMAIN-SUFFIX,tgtgzo.otelz.com
 DOMAIN-SUFFIX,tgt.maep.ibm.com
+DOMAIN-SUFFIX,tgw.gmx.net
 DOMAIN-SUFFIX,t.hagebau.de
 DOMAIN-SUFFIX,t.hailstate.com
 DOMAIN-SUFFIX,t.hamptonpirates.com
