@@ -1,10 +1,9 @@
 # NAME: TurkishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-01-21 04:57:22
-# DOMAIN-SUFFIX: 225
-# TOTAL: 225
-DOMAIN-SUFFIX,61ads.net
+# UPDATED: 2025-02-28 05:03:23
+# DOMAIN-SUFFIX: 213
+# TOTAL: 213
 DOMAIN-SUFFIX,adbetnetwork.com
 DOMAIN-SUFFIX,ad*.bilgin.pro
 DOMAIN-SUFFIX,adbreak.cubecdn.net
@@ -82,7 +81,6 @@ DOMAIN-SUFFIX,banner.setrowid.com
 DOMAIN-SUFFIX,banners.tempobet.com
 DOMAIN-SUFFIX,basvformu*.xyz
 DOMAIN-SUFFIX,bcvc.mobi
-DOMAIN-SUFFIX,betendads.com
 DOMAIN-SUFFIX,betkanyon100.com
 DOMAIN-SUFFIX,betwinnerpromo.com
 DOMAIN-SUFFIX,bitcasino365.b-cdn.net
@@ -110,7 +108,6 @@ DOMAIN-SUFFIX,dmcdn.yieldbird.com
 DOMAIN-SUFFIX,dogus-ads-cdn.dygdigital.com
 DOMAIN-SUFFIX,dolarkurum.com
 DOMAIN-SUFFIX,ds.macellan.online
-DOMAIN-SUFFIX,dzypro.xyz
 DOMAIN-SUFFIX,engageya.com
 DOMAIN-SUFFIX,files.pbgiris.com
 DOMAIN-SUFFIX,finvest.care
@@ -121,12 +118,9 @@ DOMAIN-SUFFIX,gorselcdn.com
 DOMAIN-SUFFIX,gorselpanel.com
 DOMAIN-SUFFIX,gr.hdream.cfd
 DOMAIN-SUFFIX,hemenindir.to
-DOMAIN-SUFFIX,htpanel.com
 DOMAIN-SUFFIX,https-filtering-check.adtidy.org
 DOMAIN-SUFFIX,indirads.org
 DOMAIN-SUFFIX,inegolreklam.net
-DOMAIN-SUFFIX,inrool.com
-DOMAIN-SUFFIX,installads2.com
 DOMAIN-SUFFIX,installads.net
 DOMAIN-SUFFIX,installads.org
 DOMAIN-SUFFIX,intermediaworks.com
@@ -149,10 +143,8 @@ DOMAIN-SUFFIX,minireklam.com
 DOMAIN-SUFFIX,mkazanc.com
 DOMAIN-SUFFIX,mobilpop.com
 DOMAIN-SUFFIX,mp.subservis.com
-DOMAIN-SUFFIX,my.urdreama.cfd
 DOMAIN-SUFFIX,n69adserv.com
 DOMAIN-SUFFIX,nativendo.com
-DOMAIN-SUFFIX,noxaffiliates.com
 DOMAIN-SUFFIX,numarapaneli.com
 DOMAIN-SUFFIX,nutga.com
 DOMAIN-SUFFIX,partnerad.l.google.com
@@ -167,7 +159,6 @@ DOMAIN-SUFFIX,pmelon.com
 DOMAIN-SUFFIX,policycounsel.org
 DOMAIN-SUFFIX,pophit.net
 DOMAIN-SUFFIX,publisher-network.com
-DOMAIN-SUFFIX,r20.club
 DOMAIN-SUFFIX,referans.xyz
 DOMAIN-SUFFIX,ref.gitadres.com
 DOMAIN-SUFFIX,reklam1.akhisar.bel.tr
@@ -207,12 +198,10 @@ DOMAIN-SUFFIX,smrtbnr.com
 DOMAIN-SUFFIX,smrtbnr.info
 DOMAIN-SUFFIX,srvd2204.com
 DOMAIN-SUFFIX,static-ads.akamaized.net
-DOMAIN-SUFFIX,storj.cloud
 DOMAIN-SUFFIX,subaxe.xyz
 DOMAIN-SUFFIX,tagon.co
 DOMAIN-SUFFIX,tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 DOMAIN-SUFFIX,theadx.com
-DOMAIN-SUFFIX,threedrive.su
 DOMAIN-SUFFIX,trackocean.com
 DOMAIN-SUFFIX,trkwinaff13.com
 DOMAIN-SUFFIX,ttauri.livescience.com
@@ -228,4 +217,3 @@ DOMAIN-SUFFIX,yedimedia.net
 DOMAIN-SUFFIX,yelads2.life
 DOMAIN-SUFFIX,yonderdim.com
 DOMAIN-SUFFIX,youtubesave.org
-DOMAIN-SUFFIX,youtubex.top
