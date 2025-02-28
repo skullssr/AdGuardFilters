@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-28 05:00:04
-# DOMAIN-SUFFIX: 51899
-# TOTAL: 51899
+# UPDATED: 2025-03-01 04:57:06
+# DOMAIN-SUFFIX: 51901
+# TOTAL: 51901
 DOMAIN-SUFFIX,0186141170.apps.iocnt.de
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
@@ -3409,6 +3409,7 @@ DOMAIN-SUFFIX,analytics.adultempire.com
 DOMAIN-SUFFIX,analytics.adultswim.co.uk
 DOMAIN-SUFFIX,analytics.a-f.io
 DOMAIN-SUFFIX,analytics.afirstsoft.cn
+DOMAIN-SUFFIX,analytics.ahrefs.com
 DOMAIN-SUFFIX,analytics.airindia.com
 DOMAIN-SUFFIX,analytics.airtron.com
 DOMAIN-SUFFIX,analytics.aklamio.com
@@ -6506,6 +6507,7 @@ DOMAIN-SUFFIX,callrail.com
 DOMAIN-SUFFIX,call-tracking.co.uk
 DOMAIN-SUFFIX,calltrackingmetrics.com
 DOMAIN-SUFFIX,calltracks.com
+DOMAIN-SUFFIX,ca-log.cafe24data.com
 DOMAIN-SUFFIX,calvyn.shunnosachi.jp
 DOMAIN-SUFFIX,camel.gastro-plan.app
 DOMAIN-SUFFIX,camel.nonpopularopinion.com
