@@ -1,9 +1,9 @@
 # NAME: AdGuardChineseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-13 04:38:55
-# DOMAIN-SUFFIX: 209
-# TOTAL: 209
+# UPDATED: 2025-03-05 05:24:20
+# DOMAIN-SUFFIX: 211
+# TOTAL: 211
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,199it.com
@@ -43,7 +43,9 @@ DOMAIN-SUFFIX,assbbs.com
 DOMAIN-SUFFIX,aternos.org
 DOMAIN-SUFFIX,battlecats-db.com
 DOMAIN-SUFFIX,bbs.tgfcer.com
+DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,blackmod.net
+DOMAIN-SUFFIX,blog.6ziz.com
 DOMAIN-SUFFIX,blog.ztjal.info
 DOMAIN-SUFFIX,btsax.info
 DOMAIN-SUFFIX,buyad.bi-xenon.cn

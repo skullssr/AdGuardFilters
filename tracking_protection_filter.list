@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-04 04:54:46
+# UPDATED: 2025-03-05 05:40:24
 # DOMAIN-SUFFIX: 52517
 # TOTAL: 52517
 DOMAIN-SUFFIX,02ip.ru
@@ -23226,6 +23226,7 @@ DOMAIN-SUFFIX,logs.theccaa.com
 DOMAIN-SUFFIX,log.strm.yandex.ru
 DOMAIN-SUFFIX,logs.unchecky.com
 DOMAIN-SUFFIX,logs.viadata.store
+DOMAIN-SUFFIX,logs.viewstats.com
 DOMAIN-SUFFIX,logtake.weidian.com
 DOMAIN-SUFFIX,log.talkie-ai.com
 DOMAIN-SUFFIX,log-tb.isnssdk.com
@@ -28955,7 +28956,6 @@ DOMAIN-SUFFIX,nljjem.honeys-onlineshop.com
 DOMAIN-SUFFIX,nl.la-resilience.com
 DOMAIN-SUFFIX,nl-nl.coloplastcare.com
 DOMAIN-SUFFIX,nlog.droid4x.cn
-DOMAIN-SUFFIX,nlog.naver.com
 DOMAIN-SUFFIX,nlpd.alfavin.ch
 DOMAIN-SUFFIX,nlpd.bordier-schmidhauser.ch
 DOMAIN-SUFFIX,nlpd.borel-barbey.ch
