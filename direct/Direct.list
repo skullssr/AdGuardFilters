@@ -1,7 +1,7 @@
 # NAME: AdGuardFiltersDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-05 05:43:03
+# UPDATED: 2025-03-06 05:00:37
 # DOMAIN-SUFFIX: 3693
 # TOTAL: 3693
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,9goku.com
 DOMAIN-SUFFIX,9ketsuki.info
 DOMAIN-SUFFIX,9monate.de
 DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,9sblog.com
 DOMAIN-SUFFIX,aachener-nachrichten.de
 DOMAIN-SUFFIX,aachener-zeitung.de
 DOMAIN-SUFFIX,a.adwolf.ru
@@ -419,7 +420,6 @@ DOMAIN-SUFFIX,bi-girl.net
 DOMAIN-SUFFIX,bikeperfect.com
 DOMAIN-SUFFIX,bikeradar.com
 DOMAIN-SUFFIX,bildderfrau.de
-DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,billiongraves.com
 DOMAIN-SUFFIX,binbucks.com
 DOMAIN-SUFFIX,bing.com

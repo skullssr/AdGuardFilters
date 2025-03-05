@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-05 05:40:24
-# DOMAIN-SUFFIX: 52517
-# TOTAL: 52517
+# UPDATED: 2025-03-06 04:56:50
+# DOMAIN-SUFFIX: 52520
+# TOTAL: 52520
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,24counter.com
 DOMAIN-SUFFIX,24log.com
 DOMAIN-SUFFIX,24log.de
 DOMAIN-SUFFIX,24log.ru
+DOMAIN-SUFFIX,24support.cc
 DOMAIN-SUFFIX,25ix8gm8ien.sandbox.panprices.com
 DOMAIN-SUFFIX,2829i2p88jx.www.csaladinet.hu
 DOMAIN-SUFFIX,2aa6f9qgrh9.acc.evservice.nl
@@ -12805,6 +12806,7 @@ DOMAIN-SUFFIX,drvive.lamoda.ru
 DOMAIN-SUFFIX,ds-aksb-a.akamaihd.net
 DOMAIN-SUFFIX,d.santemagazine.fr
 DOMAIN-SUFFIX,dsas.danawa.com
+DOMAIN-SUFFIX,dsbahmgppc0j4.cloudfront.net
 DOMAIN-SUFFIX,dsb.yahoo.co.jp
 DOMAIN-SUFFIX,dsdjbj.abracadabra.com.br
 DOMAIN-SUFFIX,dsdordering.kdrp.com
@@ -49109,6 +49111,7 @@ DOMAIN-SUFFIX,tvbafy.phoneppu.com
 DOMAIN-SUFFIX,tvcoag.brw.pl
 DOMAIN-SUFFIX,t.vcuathletics.com
 DOMAIN-SUFFIX,t.ventralife.com
+DOMAIN-SUFFIX,tver-metrics.streaks.jp
 DOMAIN-SUFFIX,t.vexlapoint.com
 DOMAIN-SUFFIX,t.villanova.com
 DOMAIN-SUFFIX,t.virginiasports.com
