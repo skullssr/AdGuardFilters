@@ -1,7 +1,7 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-08 05:00:49
+# UPDATED: 2025-03-09 05:00:49
 # DOMAIN-SUFFIX: 52523
 # TOTAL: 52523
 DOMAIN-SUFFIX,02ip.ru
@@ -6306,7 +6306,6 @@ DOMAIN-SUFFIX,bt.dns-finder.com
 DOMAIN-SUFFIX,b.telus.com
 DOMAIN-SUFFIX,b.tienda.com
 DOMAIN-SUFFIX,btkbei.courir.com
-DOMAIN-SUFFIX,btloader.com
 DOMAIN-SUFFIX,btmean.cardosystems.com
 DOMAIN-SUFFIX,bt.mediaimpact.de
 DOMAIN-SUFFIX,btptod.aerzteblatt.de
@@ -23201,6 +23200,7 @@ DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
 DOMAIN-SUFFIX,logs.gaaana.com
 DOMAIN-SUFFIX,logs.gaana.com
 DOMAIN-SUFFIX,log-sg.bytegsdk.com
+DOMAIN-SUFFIX,logs.getfiddler.com
 DOMAIN-SUFFIX,logs.gshopper.com
 DOMAIN-SUFFIX,log.shortbread.analytics.console.aws.a2z.com
 DOMAIN-SUFFIX,log.shortbread.aws.dev
