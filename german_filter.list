@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-02-26 04:56:44
-# DOMAIN-SUFFIX: 400
-# TOTAL: 400
+# UPDATED: 2025-03-11 05:02:14
+# DOMAIN-SUFFIX: 401
+# TOTAL: 401
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,quality-channel.de
 DOMAIN-SUFFIX,qualitymedianetwork.de
 DOMAIN-SUFFIX,quartermedia-ad-service.net
 DOMAIN-SUFFIX,quartermedia.de
+DOMAIN-SUFFIX,qvid2.b-cdn.net
 DOMAIN-SUFFIX,rapidads.de
 DOMAIN-SUFFIX,recognified.net
 DOMAIN-SUFFIX,ref.cdnplus.de
