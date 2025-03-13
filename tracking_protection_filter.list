@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-13 05:00:10
-# DOMAIN-SUFFIX: 53239
-# TOTAL: 53239
+# UPDATED: 2025-03-14 05:00:30
+# DOMAIN-SUFFIX: 53241
+# TOTAL: 53241
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,0.code.cotsta.ru
@@ -7444,6 +7444,7 @@ DOMAIN-SUFFIX,cn-go.experian.com
 DOMAIN-SUFFIX,cnihcx.xlmoto.fi
 DOMAIN-SUFFIX,cnlbcn.allforfood.com
 DOMAIN-SUFFIX,cnlbxi.zoopla.co.uk
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cn.mywd.com
 DOMAIN-SUFFIX,cnnx.link
 DOMAIN-SUFFIX,cnpxwl.cheapcaribbean.com
@@ -51398,6 +51399,7 @@ DOMAIN-SUFFIX,web.novuna.co.uk
 DOMAIN-SUFFIX,web.novunapersonalfinance.co.uk
 DOMAIN-SUFFIX,web.online.monnalisa.com
 DOMAIN-SUFFIX,weborama.com
+DOMAIN-SUFFIX,weborama-tech.ru
 DOMAIN-SUFFIX,web.orionpharma.com
 DOMAIN-SUFFIX,webpage.state.co.nz
 DOMAIN-SUFFIX,web.pondenhome-mail.com

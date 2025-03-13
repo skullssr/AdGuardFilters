@@ -1,9 +1,9 @@
 # NAME: FrenchFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-12 05:03:24
-# DOMAIN-SUFFIX: 5625
-# TOTAL: 5625
+# UPDATED: 2025-03-14 05:03:32
+# DOMAIN-SUFFIX: 5626
+# TOTAL: 5626
 DOMAIN-SUFFIX,0115b2b799.com
 DOMAIN-SUFFIX,01f648fd79.com
 DOMAIN-SUFFIX,03935e5357.com
@@ -564,6 +564,7 @@ DOMAIN-SUFFIX,adsclick.com.br
 DOMAIN-SUFFIX,adscoo.com
 DOMAIN-SUFFIX,ads.dugwood.com
 DOMAIN-SUFFIX,adsearch.pl
+DOMAIN-SUFFIX,ads.ennaharonline.com
 DOMAIN-SUFFIX,adsenseguard.com
 DOMAIN-SUFFIX,adserve.lasentinelle.mu
 DOMAIN-SUFFIX,adserver.icimedias.ca
