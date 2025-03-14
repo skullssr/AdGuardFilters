@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-13 04:52:54
+# UPDATED: 2025-03-15 04:53:20
 # DOMAIN-SUFFIX: 2731
 # TOTAL: 2731
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -205,6 +205,7 @@ DOMAIN-SUFFIX,apkmaza.co
 DOMAIN-SUFFIX,apkmaza.net
 DOMAIN-SUFFIX,apkmb.com
 DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkmoddone.phongroblox.com
 DOMAIN-SUFFIX,apnetv.biz
 DOMAIN-SUFFIX,apnetv.me
 DOMAIN-SUFFIX,apnetv.tv
@@ -2124,7 +2125,6 @@ DOMAIN-SUFFIX,skmedix.pl
 DOMAIN-SUFFIX,sktorrent.net
 DOMAIN-SUFFIX,skycloud-exploit.weebly.com
 DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slashdot.org
 DOMAIN-SUFFIX,slidesharedownloader.ngelmat.net
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,slink.bid
