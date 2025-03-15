@@ -1,11 +1,12 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-15 05:00:36
-# DOMAIN-SUFFIX: 53240
-# TOTAL: 53240
+# UPDATED: 2025-03-16 05:00:31
+# DOMAIN-SUFFIX: 53271
+# TOTAL: 53271
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
+DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
 DOMAIN-SUFFIX,0.code.cotsta.ru
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -1788,6 +1789,11 @@ DOMAIN-SUFFIX,access.acspubs.org
 DOMAIN-SUFFIX,access-analyze.org
 DOMAIN-SUFFIX,access.hikaritv.net
 DOMAIN-SUFFIX,accessintel.com
+DOMAIN-SUFFIX,-access-logs-1.net.daraz.com
+DOMAIN-SUFFIX,-access-logs-3apropmdeizy9vjf.net.daraz.com
+DOMAIN-SUFFIX,-access-logs-acc.net.daraz.com
+DOMAIN-SUFFIX,-access-logsactive.net.daraz.com
+DOMAIN-SUFFIX,-access-logs.net.daraz.com
 DOMAIN-SUFFIX,accessories.ubmfashion.com
 DOMAIN-SUFFIX,accessv.org
 DOMAIN-SUFFIX,acc-hd.de
@@ -5675,6 +5681,7 @@ DOMAIN-SUFFIX,azq.zozo.jp
 DOMAIN-SUFFIX,azrxtr.trenyrkarna.cz
 DOMAIN-SUFFIX,azscgj.penningtons.com
 DOMAIN-SUFFIX,azuaka.the-cover-store.com
+DOMAIN-SUFFIX,-azure.net.daraz.com
 DOMAIN-SUFFIX,azuvwa.ceps.io
 DOMAIN-SUFFIX,azveac.pearl.ch
 DOMAIN-SUFFIX,azwucq.locservice.fr
@@ -6200,6 +6207,8 @@ DOMAIN-SUFFIX,bm-rx.atatus.com
 DOMAIN-SUFFIX,bmslgi.bodylab24.ch
 DOMAIN-SUFFIX,bmspdx.machineseeker.pl
 DOMAIN-SUFFIX,bmuyov.bobbibrown.co.kr
+DOMAIN-SUFFIX,*bmwmini.tt.omtrdc.net
+DOMAIN-SUFFIX,*bmwofnorthamericallc.tt.omtrdc.net
 DOMAIN-SUFFIX,b.mynewplace.com
 DOMAIN-SUFFIX,bmypml.gsuplementos.com.br
 DOMAIN-SUFFIX,bmyudk.clarins.de
@@ -6691,6 +6700,10 @@ DOMAIN-SUFFIX,capybara.civicsoftwarefoundation.org
 DOMAIN-SUFFIX,capybara.kylewinton.com
 DOMAIN-SUFFIX,capybara.randyhamiltonelectric.com
 DOMAIN-SUFFIX,capyrd.yochika.com
+DOMAIN-SUFFIX,-car2101-echo-tls.net.daraz.com
+DOMAIN-SUFFIX,-car21-10yo-models1199m.net.daraz.com
+DOMAIN-SUFFIX,-car21-3apropmdeizy9vjf.net.daraz.com
+DOMAIN-SUFFIX,-car21.net.daraz.com
 DOMAIN-SUFFIX,car-a8.tabirai.net
 DOMAIN-SUFFIX,cardinal.businessfirstonline.co.uk
 DOMAIN-SUFFIX,cardinal.genx.be
@@ -7000,6 +7013,7 @@ DOMAIN-SUFFIX,cheetah.gaptry.com
 DOMAIN-SUFFIX,cheetah.songrender.com
 DOMAIN-SUFFIX,cheetah.stolenboats.info
 DOMAIN-SUFFIX,cheetah.zeh.co.il
+DOMAIN-SUFFIX,-chef.net.daraz.com
 DOMAIN-SUFFIX,chgwwj.klimate.nl
 DOMAIN-SUFFIX,chickadee.mikebifulco.com
 DOMAIN-SUFFIX,chickadee.och.dev
@@ -7215,8 +7229,12 @@ DOMAIN-SUFFIX,click.zoominfo-notifications.com
 DOMAIN-SUFFIX,click.zoominformation.com
 DOMAIN-SUFFIX,clickzs.com
 DOMAIN-SUFFIX,clickzzs.nl
+DOMAIN-SUFFIX,-client-1.net.daraz.com
+DOMAIN-SUFFIX,-client-20141223.net.daraz.com
+DOMAIN-SUFFIX,-clientactive.net.daraz.com
 DOMAIN-SUFFIX,client-analytics.braintreegateway.com
 DOMAIN-SUFFIX,client-analytics.mts.ru
+DOMAIN-SUFFIX,-clienta.net.daraz.com
 DOMAIN-SUFFIX,client.botchk.net
 DOMAIN-SUFFIX,clientengagement.ehpartners.com
 DOMAIN-SUFFIX,client-event-reporter.twitch.tv
@@ -7328,6 +7346,7 @@ DOMAIN-SUFFIX,clohzp.hifi.lu
 DOMAIN-SUFFIX,cloisteredcord.com
 DOMAIN-SUFFIX,clothing.blue-industry.com
 DOMAIN-SUFFIX,cloudad.icu
+DOMAIN-SUFFIX,-cloudapp-car10.net.daraz.com
 DOMAIN-SUFFIX,cloud.bistrobox.pl
 DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
 DOMAIN-SUFFIX,cloud.diagral.fr
@@ -12384,6 +12403,7 @@ DOMAIN-SUFFIX,demo.emaillpb.adobe.com
 DOMAIN-SUFFIX,demo-leadinsights.informa.com
 DOMAIN-SUFFIX,demo.marketingcube.com.au
 DOMAIN-SUFFIX,demo-mktg.vodafone.com
+DOMAIN-SUFFIX,-demo.net.daraz.com
 DOMAIN-SUFFIX,demo.promatis.de
 DOMAIN-SUFFIX,de.mywd.com
 DOMAIN-SUFFIX,denakop.com
@@ -21923,6 +21943,7 @@ DOMAIN-SUFFIX,lhzbdvm.com
 DOMAIN-SUFFIX,lhzulh.tribeamrapali.com
 DOMAIN-SUFFIX,li3k4d70ig52.resourceya.com
 DOMAIN-SUFFIX,liadm.com
+DOMAIN-SUFFIX,-lib-ln-1.net.daraz.com
 DOMAIN-SUFFIX,library.acspubs.org
 DOMAIN-SUFFIX,library.daptiv.com
 DOMAIN-SUFFIX,library.westernstatescat.com
@@ -27675,6 +27696,7 @@ DOMAIN-SUFFIX,metrics-now.experian.com
 DOMAIN-SUFFIX,metrics.nowtv.com
 DOMAIN-SUFFIX,metrics.npr.org
 DOMAIN-SUFFIX,metrics.nrma.com.au
+DOMAIN-SUFFIX,metrics.nsureapi.com
 DOMAIN-SUFFIX,metrics.ntnews.com.au
 DOMAIN-SUFFIX,metrics.n-tv.de
 DOMAIN-SUFFIX,metrics.nutraingredientsasia-awards.com
@@ -29750,6 +29772,7 @@ DOMAIN-SUFFIX,nrswbb.fitpoint.ee
 DOMAIN-SUFFIX,nruxja.habitium.fr
 DOMAIN-SUFFIX,nrwwxk.bushido-sport.pl
 DOMAIN-SUFFIX,nrzfje.ririnco.com
+DOMAIN-SUFFIX,ns_.-043ns11.net.daraz.com
 DOMAIN-SUFFIX,ns1p.net
 DOMAIN-SUFFIX,ns336739.ip-37-187-249.eu
 DOMAIN-SUFFIX,ns3w1qrlbk4s.tip.etip-staging.etip.io
@@ -32058,6 +32081,7 @@ DOMAIN-SUFFIX,plaus.outpost.pub
 DOMAIN-SUFFIX,plaus.pentserv.com
 DOMAIN-SUFFIX,plavxml.com
 DOMAIN-SUFFIX,pla.wigglepixel.nl
+DOMAIN-SUFFIX,playapigrpc-.charlottesweb.tt.omtrdc.net
 DOMAIN-SUFFIX,playbook.convio.com
 DOMAIN-SUFFIX,player-feedback.p7s1video.net
 DOMAIN-SUFFIX,player-feedback-v1.glomex.com
@@ -32412,6 +32436,7 @@ DOMAIN-SUFFIX,prod.fennec.atp.fox
 DOMAIN-SUFFIX,proditor.sparda.de
 DOMAIN-SUFFIX,prod-mhaa.mhtr.be
 DOMAIN-SUFFIX,prodmp.ru
+DOMAIN-SUFFIX,-prod.net.daraz.com
 DOMAIN-SUFFIX,prod.nitrosniffer.ottogroup.io
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,prod.report.nacustomerexperience.citi.com
@@ -32419,7 +32444,10 @@ DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
 DOMAIN-SUFFIX,prod.tahoe-analytics.publishers.advertising.a2z.com
 DOMAIN-SUFFIX,prod.tracking.refinitiv.com
 DOMAIN-SUFFIX,product.cel-fi.com
+DOMAIN-SUFFIX,-production10537981.net.daraz.com
+DOMAIN-SUFFIX,-productionacc.net.daraz.com
 DOMAIN-SUFFIX,production-mcs.lvp.llnw.net
+DOMAIN-SUFFIX,-productionnfreya.net.daraz.com
 DOMAIN-SUFFIX,productionprinting.ricoh.co.uk
 DOMAIN-SUFFIX,productionprinting.ricoh.ie
 DOMAIN-SUFFIX,productivity-s.yale.com
@@ -32968,6 +32996,7 @@ DOMAIN-SUFFIX,qubitproducts.com
 DOMAIN-SUFFIX,qucxmn.buldoza.gr
 DOMAIN-SUFFIX,quebec.savills.ca
 DOMAIN-SUFFIX,quelea.llresearch.dev
+DOMAIN-SUFFIX,query*.petametrics.com
 DOMAIN-SUFFIX,quesid.com
 DOMAIN-SUFFIX,questionpro.com
 DOMAIN-SUFFIX,questions.theanswerco.com
@@ -45603,6 +45632,8 @@ DOMAIN-SUFFIX,t.montecarlosbm.com
 DOMAIN-SUFFIX,t.moonstreet.pl
 DOMAIN-SUFFIX,t.mountainhardwear.ch
 DOMAIN-SUFFIX,t.mowmore.com
+DOMAIN-SUFFIX,-tmp-logs-metrics.hb.tt.omtrdc.net
+DOMAIN-SUFFIX,-tmp.net.daraz.com
 DOMAIN-SUFFIX,tms.53.com
 DOMAIN-SUFFIX,tms.ace.aaa.com
 DOMAIN-SUFFIX,tms.betwayarabia.com
