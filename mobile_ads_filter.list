@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-18 05:04:07
-# DOMAIN-SUFFIX: 937
-# TOTAL: 937
+# UPDATED: 2025-03-20 05:08:32
+# DOMAIN-SUFFIX: 938
+# TOTAL: 938
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -776,6 +776,7 @@ DOMAIN-SUFFIX,sensors.larkplayerapp.com
 DOMAIN-SUFFIX,servebom.com
 DOMAIN-SUFFIX,servedby.o2.co.uk
 DOMAIN-SUFFIX,serveraddr.service.kugou.com
+DOMAIN-SUFFIX,service-ad-image-ga.prd.pluto.tv
 DOMAIN-SUFFIX,sessionm.com
 DOMAIN-SUFFIX,setting.rayjump.com
 DOMAIN-SUFFIX,sexpennyauctions.com
