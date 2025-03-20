@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-20 05:04:47
-# DOMAIN-SUFFIX: 53494
-# TOTAL: 53494
+# UPDATED: 2025-03-21 05:00:36
+# DOMAIN-SUFFIX: 53497
+# TOTAL: 53497
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -20588,6 +20588,7 @@ DOMAIN-SUFFIX,instadrama.site
 DOMAIN-SUFFIX,install.orderwork.online
 DOMAIN-SUFFIX,installtracker.com
 DOMAIN-SUFFIX,installtracker.unityads.unity3d.com
+DOMAIN-SUFFIX,install*.zonastat.com
 DOMAIN-SUFFIX,instana.io
 DOMAIN-SUFFIX,instapagemetrics.com
 DOMAIN-SUFFIX,instore.biz
@@ -26484,6 +26485,7 @@ DOMAIN-SUFFIX,mcuclf.hismileteeth.com
 DOMAIN-SUFFIX,mc.webvisor.org
 DOMAIN-SUFFIX,mcxihs.owme.com.br
 DOMAIN-SUFFIX,mc.yandex.com
+DOMAIN-SUFFIX,mc.yandex.md
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mc-ya.ru
 DOMAIN-SUFFIX,mczpco.darty.com
@@ -44290,6 +44292,7 @@ DOMAIN-SUFFIX,tags.propertyfinder.bh
 DOMAIN-SUFFIX,tags.propertyfinder.eg
 DOMAIN-SUFFIX,tags.propertyfinder.qa
 DOMAIN-SUFFIX,tags.propertyfinder.sa
+DOMAIN-SUFFIX,tags.pw.adn.cloud
 DOMAIN-SUFFIX,tags.qortex.ai
 DOMAIN-SUFFIX,tags.rabobank.nl
 DOMAIN-SUFFIX,tags.radiofarda.com
