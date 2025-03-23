@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-22 05:00:33
-# DOMAIN-SUFFIX: 53500
-# TOTAL: 53500
+# UPDATED: 2025-03-24 05:00:46
+# DOMAIN-SUFFIX: 53501
+# TOTAL: 53501
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -45080,6 +45080,7 @@ DOMAIN-SUFFIX,telulr.golfgalaxy.com
 DOMAIN-SUFFIX,temails.productnotice.thomsonreuters.com
 DOMAIN-SUFFIX,te.mirapodo.de
 DOMAIN-SUFFIX,temp-do-not-use.mba.org
+DOMAIN-SUFFIX,tempo-client-metric-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,temptation.ad.nl
 DOMAIN-SUFFIX,temp.twicomi.com
 DOMAIN-SUFFIX,temsys.temsys.fr
