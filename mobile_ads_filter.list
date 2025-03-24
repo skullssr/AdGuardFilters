@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-20 05:08:32
-# DOMAIN-SUFFIX: 938
-# TOTAL: 938
+# UPDATED: 2025-03-25 05:04:58
+# DOMAIN-SUFFIX: 939
+# TOTAL: 939
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -401,6 +401,7 @@ DOMAIN-SUFFIX,creative*.bidease.com
 DOMAIN-SUFFIX,crispadvertising.com
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,crossadsapi.ecomobileapp.com
 DOMAIN-SUFFIX,crossboardmobile.com
 DOMAIN-SUFFIX,crosspromotion-us.avosapps.us
 DOMAIN-SUFFIX,crosspromotion.weplayer.cc
