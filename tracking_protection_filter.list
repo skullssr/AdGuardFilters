@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-02 05:17:18
-# DOMAIN-SUFFIX: 54208
-# TOTAL: 54208
+# UPDATED: 2025-04-03 05:02:36
+# DOMAIN-SUFFIX: 54210
+# TOTAL: 54210
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -30989,6 +30989,7 @@ DOMAIN-SUFFIX,one.jankyaught.com
 DOMAIN-SUFFIX,one.kejob.at
 DOMAIN-SUFFIX,onelink.appsflyer.com
 DOMAIN-SUFFIX,onelink.me
+DOMAIN-SUFFIX,onelinksmartscript.appsflyer.com
 DOMAIN-SUFFIX,onem.marketing.onemarketinguxp.com
 DOMAIN-SUFFIX,onenet.gakujutsu.com
 DOMAIN-SUFFIX,onestat.com
@@ -32432,6 +32433,7 @@ DOMAIN-SUFFIX,pixeltrack.clientgear.com
 DOMAIN-SUFFIX,pixel.trackverify.com
 DOMAIN-SUFFIX,pixel.watch
 DOMAIN-SUFFIX,pixel.web.roku.com
+DOMAIN-SUFFIX,pixel.wetracked.io
 DOMAIN-SUFFIX,pixel.wp.com
 DOMAIN-SUFFIX,pixel.yabidos.com
 DOMAIN-SUFFIX,pixelzirkus.gameforge.com
