@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-03-17 05:02:17
-# DOMAIN-SUFFIX: 402
-# TOTAL: 402
+# UPDATED: 2025-04-08 05:03:01
+# DOMAIN-SUFFIX: 401
+# TOTAL: 401
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -201,7 +201,6 @@ DOMAIN-SUFFIX,kctag.net
 DOMAIN-SUFFIX,kingads.net
 DOMAIN-SUFFIX,klick4u.de
 DOMAIN-SUFFIX,klicktausch.com
-DOMAIN-SUFFIX,ktxtr.com
 DOMAIN-SUFFIX,kunner.wiesentbote.de
 DOMAIN-SUFFIX,ladbrokes.hs-edge.net
 DOMAIN-SUFFIX,lad.sumikai.com
