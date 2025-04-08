@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-08 05:01:06
-# DOMAIN-SUFFIX: 55025
-# TOTAL: 55025
+# UPDATED: 2025-04-09 05:01:08
+# DOMAIN-SUFFIX: 55027
+# TOTAL: 55027
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -28238,6 +28238,7 @@ DOMAIN-SUFFIX,metrics.morganstanley.com
 DOMAIN-SUFFIX,metrics.morningadvertiser.co.uk
 DOMAIN-SUFFIX,metrics.morningstar.com
 DOMAIN-SUFFIX,metrics.morrisjenkins.com
+DOMAIN-SUFFIX,metrics.motoblouz.com
 DOMAIN-SUFFIX,metrics.motorhomebookers.com
 DOMAIN-SUFFIX,metrics.motortrend.com
 DOMAIN-SUFFIX,metrics.mrporter.com
@@ -34337,6 +34338,7 @@ DOMAIN-SUFFIX,reply.osv.com
 DOMAIN-SUFFIX,report2.iciba.com
 DOMAIN-SUFFIX,report.apkpure.net
 DOMAIN-SUFFIX,report*.appmetrica.webvisor.com
+DOMAIN-SUFFIX,report-edge.agora.io
 DOMAIN-SUFFIX,report.*.gbqofs.io
 DOMAIN-SUFFIX,report.iciba.com
 DOMAIN-SUFFIX,reporting.aatkit.com
