@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-10 05:06:48
-# DOMAIN-SUFFIX: 940
-# TOTAL: 940
+# UPDATED: 2025-04-11 05:04:51
+# DOMAIN-SUFFIX: 943
+# TOTAL: 943
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -253,6 +253,7 @@ DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,aniview.com
 DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,aomsitf.com
+DOMAIN-SUFFIX,api16-access-ttp*.tiktokpangle-b.us
 DOMAIN-SUFFIX,api-ad-adapter.wps.com
 DOMAIN-SUFFIX,api-ad-callback.falconnet.app
 DOMAIN-SUFFIX,api-ad-callback.mobiuspace.net
@@ -574,6 +575,7 @@ DOMAIN-SUFFIX,lb.usemaxserver.de
 DOMAIN-SUFFIX,leadboltads.net
 DOMAIN-SUFFIX,leadc6.icu
 DOMAIN-SUFFIX,leanplum.com
+DOMAIN-SUFFIX,lf-static.tiktokpangle-cdn-us.com
 DOMAIN-SUFFIX,lgvlbd.icu
 DOMAIN-SUFFIX,liftoff-creatives.io
 DOMAIN-SUFFIX,liftoff.io
@@ -846,6 +848,7 @@ DOMAIN-SUFFIX,thecatmachine.com
 DOMAIN-SUFFIX,theship.club
 DOMAIN-SUFFIX,thetrafficstat.net
 DOMAIN-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com
+DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,tivan.naver.com
 DOMAIN-SUFFIX,tizerclik.com
 DOMAIN-SUFFIX,tk0x1.com

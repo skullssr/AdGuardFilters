@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-10 05:03:01
-# DOMAIN-SUFFIX: 55028
-# TOTAL: 55028
+# UPDATED: 2025-04-11 05:01:02
+# DOMAIN-SUFFIX: 55029
+# TOTAL: 55029
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -18672,7 +18672,6 @@ DOMAIN-SUFFIX,host*.polaroid.com
 DOMAIN-SUFFIX,host*.rigbyandpeller.com
 DOMAIN-SUFFIX,host*.rvshare.com
 DOMAIN-SUFFIX,host.zoodipistoia.it
-DOMAIN-SUFFIX,hotapi*.tiktokv.us
 DOMAIN-SUFFIX,hot-count.com
 DOMAIN-SUFFIX,hotel-marketing.hrs.com
 DOMAIN-SUFFIX,hotjar.com
@@ -32728,6 +32727,7 @@ DOMAIN-SUFFIX,pixel.tatpek.com
 DOMAIN-SUFFIX,pixel.thoughtmetric.io
 DOMAIN-SUFFIX,pixeltrack.clientgear.com
 DOMAIN-SUFFIX,pixel.trackverify.com
+DOMAIN-SUFFIX,pixel.vreview.tv
 DOMAIN-SUFFIX,pixel.watch
 DOMAIN-SUFFIX,pixel.web.roku.com
 DOMAIN-SUFFIX,pixel.wetracked.io
@@ -52226,6 +52226,7 @@ DOMAIN-SUFFIX,view.oportun.com
 DOMAIN-SUFFIX,view.peek-cloppenburg.de
 DOMAIN-SUFFIX,views.2222.ro
 DOMAIN-SUFFIX,views.ericcapella.com
+DOMAIN-SUFFIX,views.hulu.com
 DOMAIN-SUFFIX,views.romaniatv.net
 DOMAIN-SUFFIX,views.sikerlogistics.com
 DOMAIN-SUFFIX,views.sikerproducts.com
