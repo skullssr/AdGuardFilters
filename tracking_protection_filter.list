@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-11 05:01:02
-# DOMAIN-SUFFIX: 55029
-# TOTAL: 55029
+# UPDATED: 2025-04-12 05:01:05
+# DOMAIN-SUFFIX: 55033
+# TOTAL: 55033
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -13186,6 +13186,7 @@ DOMAIN-SUFFIX,d.nordicbasketball.no
 DOMAIN-SUFFIX,dnpjzf.fashionette.co.uk
 DOMAIN-SUFFIX,dnrpnl.yves-rocher.no
 DOMAIN-SUFFIX,dns-clientinfo.cbsivideo.com
+DOMAIN-SUFFIX,dns-clientinfo.vtg.paramount.tech
 DOMAIN-SUFFIX,dnsdelegation.io
 DOMAIN-SUFFIX,dnuhjo.proworldinc.com
 DOMAIN-SUFFIX,dnxcok.pentik.com
@@ -29428,6 +29429,9 @@ DOMAIN-SUFFIX,monitor.ebay.com
 DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com
 DOMAIN-SUFFIX,monitoring.youronlinechoices.com
 DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,monitor.ns1-d.viacomtech.net
+DOMAIN-SUFFIX,monitor.ns1-s.rspcdn.net
+DOMAIN-SUFFIX,monitor.r53.cbsivideo.com
 DOMAIN-SUFFIX,monitor-targeting-failures.sqrt-5041.de
 DOMAIN-SUFFIX,monitus.net
 DOMAIN-SUFFIX,monkey.colinjohnston.com
