@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-12 05:01:05
-# DOMAIN-SUFFIX: 55033
-# TOTAL: 55033
+# UPDATED: 2025-04-15 05:01:02
+# DOMAIN-SUFFIX: 55038
+# TOTAL: 55038
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -5912,6 +5912,7 @@ DOMAIN-SUFFIX,bcfhva.tradingpost.com.au
 DOMAIN-SUFFIX,bch8.destinia.co
 DOMAIN-SUFFIX,bcigeg.pishposhbaby.com
 DOMAIN-SUFFIX,bcigfr.www.uoc.edu
+DOMAIN-SUFFIX,b.clipkit.co
 DOMAIN-SUFFIX,bc.nhk.jp
 DOMAIN-SUFFIX,bcnwcn.doomostore.com
 DOMAIN-SUFFIX,bcob.charlotte.edu
@@ -7456,6 +7457,7 @@ DOMAIN-SUFFIX,clog.geniex.com
 DOMAIN-SUFFIX,clog.go.com
 DOMAIN-SUFFIX,clog.lghv.net
 DOMAIN-SUFFIX,clog.mirrativ.com
+DOMAIN-SUFFIX,clog.weverse.io
 DOMAIN-SUFFIX,clog*.yuanfudao.com
 DOMAIN-SUFFIX,clohzp.hifi.lu
 DOMAIN-SUFFIX,cloisteredcord.com
@@ -7695,6 +7697,7 @@ DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
 DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
 DOMAIN-SUFFIX,collection.saga.co.uk
 DOMAIN-SUFFIX,collections.equifax.com
+DOMAIN-SUFFIX,collection.weverse.io
 DOMAIN-SUFFIX,collect.kinto-jp.com
 DOMAIN-SUFFIX,collect.liweestate.se
 DOMAIN-SUFFIX,collect.media.jio.com
@@ -15349,6 +15352,7 @@ DOMAIN-SUFFIX,extole.io
 DOMAIN-SUFFIX,extramilefloorcare.ericksonbuilt.com
 DOMAIN-SUFFIX,extrawatch.com
 DOMAIN-SUFFIX,extreme-dm.com
+DOMAIN-SUFFIX,extreme-ip-lookup.com
 DOMAIN-SUFFIX,extremetracking.com
 DOMAIN-SUFFIX,extstat.info
 DOMAIN-SUFFIX,exufyf.svetla24.cz
@@ -19777,6 +19781,7 @@ DOMAIN-SUFFIX,inboxtag.com
 DOMAIN-SUFFIX,in-business.vodafone.com
 DOMAIN-SUFFIX,incentivesnetwork.net
 DOMAIN-SUFFIX,income.lplnow.com
+DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
 DOMAIN-SUFFIX,incs.get-go.com
 DOMAIN-SUFFIX,incs.gianteagle.com
 DOMAIN-SUFFIX,incs.marketdistrict.com
@@ -28904,6 +28909,7 @@ DOMAIN-SUFFIX,metrics.uol.com.br
 DOMAIN-SUFFIX,metric.superpages.com
 DOMAIN-SUFFIX,metrics.ups.com
 DOMAIN-SUFFIX,metrics.usbank.com
+DOMAIN-SUFFIX,metrics-us.cometchat.io
 DOMAIN-SUFFIX,metrics.userguiding.com
 DOMAIN-SUFFIX,metrics.usfoods.com
 DOMAIN-SUFFIX,metrics.us.levi.com
@@ -46368,7 +46374,6 @@ DOMAIN-SUFFIX,telemetry.jrny.com
 DOMAIN-SUFFIX,telemetry.malwarebytes.com
 DOMAIN-SUFFIX,telemetry.marketscope.com
 DOMAIN-SUFFIX,telemetry.moveworks.com
-DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry.navigatorapp.net
 DOMAIN-SUFFIX,telemetry.navispherecarrier.com
 DOMAIN-SUFFIX,telemetry.nbcuott.com
