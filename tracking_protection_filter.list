@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-15 05:01:02
-# DOMAIN-SUFFIX: 55038
-# TOTAL: 55038
+# UPDATED: 2025-04-16 05:00:58
+# DOMAIN-SUFFIX: 55045
+# TOTAL: 55045
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -4595,6 +4595,7 @@ DOMAIN-SUFFIX,api.segment.io
 DOMAIN-SUFFIX,api.service.belboon.com
 DOMAIN-SUFFIX,api.setting.intl.miui.com
 DOMAIN-SUFFIX,api.share.mob.com
+DOMAIN-SUFFIX,apishowstats.babybus.com
 DOMAIN-SUFFIX,api.sprig.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,api.taboola.sve.cc
@@ -5813,6 +5814,7 @@ DOMAIN-SUFFIX,baboon.namegen.app
 DOMAIN-SUFFIX,baboon.naxon.dev
 DOMAIN-SUFFIX,baboon.vacanti.com
 DOMAIN-SUFFIX,backbone.rossel.tech
+DOMAIN-SUFFIX,backend-pixel.zotek.io
 DOMAIN-SUFFIX,backend.turtlemobile.com.tw
 DOMAIN-SUFFIX,backlinkdino.de
 DOMAIN-SUFFIX,backlink-test.de
@@ -12390,6 +12392,7 @@ DOMAIN-SUFFIX,d.ayrshiretradeframes.co.uk
 DOMAIN-SUFFIX,dayyfq.rapidonline.com
 DOMAIN-SUFFIX,dazdmx.cobra.fr
 DOMAIN-SUFFIX,dazzlitude.kimferno.uno
+DOMAIN-SUFFIX,db7q4jg5rkhk8.cloudfront.net
 DOMAIN-SUFFIX,d.bakjegeluk.nl
 DOMAIN-SUFFIX,dbdidv.lillianvernon.com
 DOMAIN-SUFFIX,dbdkyh.jogunshop.com
@@ -29392,6 +29395,7 @@ DOMAIN-SUFFIX,mobile.tradeshow.globalsources.com
 DOMAIN-SUFFIX,mobile.vmware.com
 DOMAIN-SUFFIX,mobtop.az
 DOMAIN-SUFFIX,mobtop.com
+DOMAIN-SUFFIX,mobuppsweb.online
 DOMAIN-SUFFIX,mobylog.jp
 DOMAIN-SUFFIX,mocgqr.boutiquerugs.com
 DOMAIN-SUFFIX,mochibot.com
@@ -34629,6 +34633,7 @@ DOMAIN-SUFFIX,rluhmv.audibene.de
 DOMAIN-SUFFIX,rlxoie.savait.com
 DOMAIN-SUFFIX,rlxpme.ekosport.ch
 DOMAIN-SUFFIX,rm.aarki.net
+DOMAIN-SUFFIX,rma.homedepot.com
 DOMAIN-SUFFIX,rmapco.diadora.com
 DOMAIN-SUFFIX,rmbehm.junjewelry.com
 DOMAIN-SUFFIX,rmdvca.belvilla.de
@@ -34980,6 +34985,7 @@ DOMAIN-SUFFIX,rubicon.wellsfargo.com
 DOMAIN-SUFFIX,rubolite.ems-dental.com
 DOMAIN-SUFFIX,rucounter.ru
 DOMAIN-SUFFIX,rudderlabs.com
+DOMAIN-SUFFIX,rudr-events.joybird.com
 DOMAIN-SUFFIX,ru-go.experian.com
 DOMAIN-SUFFIX,rugttt.robinson.com
 DOMAIN-SUFFIX,ruhpbn.zhigaojixie.com
@@ -46784,6 +46790,8 @@ DOMAIN-SUFFIX,t.janieandjack.com
 DOMAIN-SUFFIX,t.jaxstatesports.com
 DOMAIN-SUFFIX,tjbhng.hemington.com.tr
 DOMAIN-SUFFIX,tjddgt.portmans.nz
+DOMAIN-SUFFIX,tjinit-event.babybus.com
+DOMAIN-SUFFIX,tjinit-global-register.babybus.com
 DOMAIN-SUFFIX,tjitde.dodo.it
 DOMAIN-SUFFIX,tjk-njk.com
 DOMAIN-SUFFIX,tjlsvr.ec-current.com
@@ -47623,7 +47631,6 @@ DOMAIN-SUFFIX,trackerapi.service.echobox.com
 DOMAIN-SUFFIX,tracker.arc.io
 DOMAIN-SUFFIX,tracker.azet.sk
 DOMAIN-SUFFIX,tracker.bkk24.de
-DOMAIN-SUFFIX,tracker.blutv.com
 DOMAIN-SUFFIX,tracker.bodymindperformancemaximum.com
 DOMAIN-SUFFIX,tracker.bt.uol.com.br
 DOMAIN-SUFFIX,tracker.calameo.com
