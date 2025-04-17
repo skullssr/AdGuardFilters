@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-16 05:00:58
-# DOMAIN-SUFFIX: 55045
-# TOTAL: 55045
+# UPDATED: 2025-04-18 05:01:10
+# DOMAIN-SUFFIX: 55053
+# TOTAL: 55053
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -2438,6 +2438,7 @@ DOMAIN-SUFFIX,ads.mythad.com
 DOMAIN-SUFFIX,adsnid.wagyushop.com
 DOMAIN-SUFFIX,adsolutions.com
 DOMAIN-SUFFIX,ad-spire.net
+DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,adspsp.com
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,ad-srv-track.com
@@ -15192,6 +15193,7 @@ DOMAIN-SUFFIX,events.tryamped.com
 DOMAIN-SUFFIX,events.tubecup.org
 DOMAIN-SUFFIX,events.turbosquid.com
 DOMAIN-SUFFIX,events.tvtime.com
+DOMAIN-SUFFIX,eventsv2balanced.malpagames.com
 DOMAIN-SUFFIX,events.virtusize.jp
 DOMAIN-SUFFIX,events.watchtower.imdbtv.amazon.dev
 DOMAIN-SUFFIX,events.webdock.io
@@ -31370,6 +31372,7 @@ DOMAIN-SUFFIX,ophan.theguardian.com
 DOMAIN-SUFFIX,ophvxe.sorel.jp
 DOMAIN-SUFFIX,opim.pixmania.com
 DOMAIN-SUFFIX,oplxhy.daytimer.com
+DOMAIN-SUFFIX,oply.hearstapps.com
 DOMAIN-SUFFIX,opnmeg.fixami.be
 DOMAIN-SUFFIX,opo4.assuronline.com
 DOMAIN-SUFFIX,opossum.roleup.com
@@ -32966,6 +32969,7 @@ DOMAIN-SUFFIX,plsbl.edison.se
 DOMAIN-SUFFIX,plsbl.martinkriegeskorte.de
 DOMAIN-SUFFIX,plsbl-staging.edison.se
 DOMAIN-SUFFIX,pls.fcrpg.net
+DOMAIN-SUFFIX,pls.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,pls.skycastle.dev
 DOMAIN-SUFFIX,pl.terraintinker.com
 DOMAIN-SUFFIX,pl.trk.quirkalooquotient.com
@@ -35021,6 +35025,7 @@ DOMAIN-SUFFIX,rviunh.tosowoong.com
 DOMAIN-SUFFIX,rviwrh.emslaender-jobanzeiger.de
 DOMAIN-SUFFIX,rvptmn.elmenyplaza.hu
 DOMAIN-SUFFIX,rvtwqp.winparts.se
+DOMAIN-SUFFIX,rvv.emol.com
 DOMAIN-SUFFIX,rvvpbf.xcom-shop.ru
 DOMAIN-SUFFIX,rvz9.destinia.co.ro
 DOMAIN-SUFFIX,rwcboa.rjliving.com.au
@@ -42244,6 +42249,7 @@ DOMAIN-SUFFIX,ss.parkstyling.dk
 DOMAIN-SUFFIX,ss.pascdental.ro
 DOMAIN-SUFFIX,ss.pawy.ch
 DOMAIN-SUFFIX,ss.paylogic.com
+DOMAIN-SUFFIX,ssp.emol.com
 DOMAIN-SUFFIX,ss.peplement.ch
 DOMAIN-SUFFIX,ss.peplement.com
 DOMAIN-SUFFIX,ss.peplement.de
@@ -42255,6 +42261,7 @@ DOMAIN-SUFFIX,ss.pipelinepartners.ai
 DOMAIN-SUFFIX,ss.pisuchytre.cz
 DOMAIN-SUFFIX,ss.pitaya.dk
 DOMAIN-SUFFIX,sspkbf.ragtag.jp
+DOMAIN-SUFFIX,sspnm.emol.com
 DOMAIN-SUFFIX,ss.polyglotskola.lv
 DOMAIN-SUFFIX,s.sporks.space
 DOMAIN-SUFFIX,ss.postofficesocial.com
@@ -43796,6 +43803,7 @@ DOMAIN-SUFFIX,stats.emailrep.io
 DOMAIN-SUFFIX,stats.emk.at
 DOMAIN-SUFFIX,stats.emmah.net
 DOMAIN-SUFFIX,stats.emmas.site
+DOMAIN-SUFFIX,stats.emol.com
 DOMAIN-SUFFIX,stats.engel-apotheke.de
 DOMAIN-SUFFIX,stats.engeldirekt.de
 DOMAIN-SUFFIX,statse-omtrdc.deka.de

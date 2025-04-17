@@ -1,9 +1,9 @@
 # NAME: SpanishFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-11 05:04:29
-# DOMAIN-SUFFIX: 193
-# TOTAL: 193
+# UPDATED: 2025-04-18 05:04:34
+# DOMAIN-SUFFIX: 194
+# TOTAL: 194
 DOMAIN-SUFFIX,19bk5lo5q2.com
 DOMAIN-SUFFIX,actualtrade.eu
 DOMAIN-SUFFIX,adbasket.net
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,ads.olx.com
 DOMAIN-SUFFIX,ads.periodistadigital.com
 DOMAIN-SUFFIX,ads.prisacom.com
 DOMAIN-SUFFIX,adspublicidades.agency
+DOMAIN-SUFFIX,ads-redis.ecn.cl
 DOMAIN-SUFFIX,ads.regiedepub.com
 DOMAIN-SUFFIX,adsroute.com
 DOMAIN-SUFFIX,adsrv.eacdn.com
