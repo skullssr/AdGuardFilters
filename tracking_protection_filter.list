@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-18 05:01:10
-# DOMAIN-SUFFIX: 55053
-# TOTAL: 55053
+# UPDATED: 2025-04-19 05:03:23
+# DOMAIN-SUFFIX: 55057
+# TOTAL: 55057
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -4697,6 +4697,7 @@ DOMAIN-SUFFIX,app.connect.synopsys.com
 DOMAIN-SUFFIX,app.connect.vmware.com
 DOMAIN-SUFFIX,app.connect.wgbh.org
 DOMAIN-SUFFIX,app.connect.wgby.org
+DOMAIN-SUFFIX,app.convertbox.com
 DOMAIN-SUFFIX,app.corp.tableausoftware.com
 DOMAIN-SUFFIX,app.cph.uh.edu
 DOMAIN-SUFFIX,app.crm.millenniumhotels.com
@@ -8161,7 +8162,6 @@ DOMAIN-SUFFIX,conversionlogic.net
 DOMAIN-SUFFIX,conversionly.com
 DOMAIN-SUFFIX,conversionruler.com
 DOMAIN-SUFFIX,conversions.appsflyer.com
-DOMAIN-SUFFIX,convertbox.com
 DOMAIN-SUFFIX,convertexperiments.com
 DOMAIN-SUFFIX,convertglobal.com
 DOMAIN-SUFFIX,convertro.com
@@ -16499,6 +16499,7 @@ DOMAIN-SUFFIX,geoip.pennlive.com
 DOMAIN-SUFFIX,geoip.silive.com
 DOMAIN-SUFFIX,geoip.syracuse.com
 DOMAIN-SUFFIX,geoip.viamichelin.com
+DOMAIN-SUFFIX,geo.justwatch.com
 DOMAIN-SUFFIX,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-SUFFIX,geoloc*.geo20120530.com
 DOMAIN-SUFFIX,geoloc*.geostats.ovh
@@ -21889,6 +21890,7 @@ DOMAIN-SUFFIX,klktmc.parler.co.jp
 DOMAIN-SUFFIX,klldabck.com
 DOMAIN-SUFFIX,kllyys.magizoo.ru
 DOMAIN-SUFFIX,klntov.thediamondguys.net
+DOMAIN-SUFFIX,kloggyr-service.kyruus.com
 DOMAIN-SUFFIX,klqlmg.mitchellandness.com
 DOMAIN-SUFFIX,kltifc.mewshop.jp
 DOMAIN-SUFFIX,klwuhp.daehyuninside.com
@@ -49141,6 +49143,7 @@ DOMAIN-SUFFIX,trafficjoint.com
 DOMAIN-SUFFIX,trafficmaxx.de
 DOMAIN-SUFFIX,trafficregenerator.com
 DOMAIN-SUFFIX,trafficscanner.pl
+DOMAIN-SUFFIX,trafficsyncpro.com
 DOMAIN-SUFFIX,traffic.taktikal.is
 DOMAIN-SUFFIX,traffic.wdc.center
 DOMAIN-SUFFIX,trafic.adsasper.com
@@ -53066,6 +53069,7 @@ DOMAIN-SUFFIX,weborama.com
 DOMAIN-SUFFIX,weborama-tech.ru
 DOMAIN-SUFFIX,web.orionpharma.com
 DOMAIN-SUFFIX,webpage.state.co.nz
+DOMAIN-SUFFIX,webpageviews.click
 DOMAIN-SUFFIX,web.pondenhome-mail.com
 DOMAIN-SUFFIX,web.post.toa.st
 DOMAIN-SUFFIX,web.powgen.at
