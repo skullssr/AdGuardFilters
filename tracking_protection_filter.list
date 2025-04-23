@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-23 05:01:12
-# DOMAIN-SUFFIX: 55217
-# TOTAL: 55217
+# UPDATED: 2025-04-24 05:03:34
+# DOMAIN-SUFFIX: 55222
+# TOTAL: 55222
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -3038,6 +3038,7 @@ DOMAIN-SUFFIX,aidata.io
 DOMAIN-SUFFIX,aidc.barcodesgroup.com
 DOMAIN-SUFFIX,aiddut.particleformen.com
 DOMAIN-SUFFIX,aidsro.ostin.com
+DOMAIN-SUFFIX,aidsvc.netflix.com
 DOMAIN-SUFFIX,aiieer.mangnut2.com
 DOMAIN-SUFFIX,ai.kaishabaikyaku.com
 DOMAIN-SUFFIX,aikhra.londonclub.sk
@@ -15190,6 +15191,7 @@ DOMAIN-SUFFIX,events.golubcapital.com
 DOMAIN-SUFFIX,event.sharjahart.org
 DOMAIN-SUFFIX,events.hermanmiller.com
 DOMAIN-SUFFIX,event.shl.com
+DOMAIN-SUFFIX,event.*.shoplive.cloud
 DOMAIN-SUFFIX,events.iap.unity3d.com
 DOMAIN-SUFFIX,events.icmi.com
 DOMAIN-SUFFIX,events.ifunny.co
@@ -48616,6 +48618,7 @@ DOMAIN-SUFFIX,tracking.response.terex.com
 DOMAIN-SUFFIX,tracking.restreligion.com
 DOMAIN-SUFFIX,tracking.resumecompanion.com
 DOMAIN-SUFFIX,tracking.retailrocket.net
+DOMAIN-SUFFIX,tracking.ringieraxelspringer.tech
 DOMAIN-SUFFIX,tracking.rinoebastel.com
 DOMAIN-SUFFIX,tracking.risk.lexisnexis.co.jp
 DOMAIN-SUFFIX,tracking.risk.lexisnexis.com
@@ -51953,6 +51956,7 @@ DOMAIN-SUFFIX,umvtri.trenirkaren.sk
 DOMAIN-SUFFIX,umwuxk.hotel.cz
 DOMAIN-SUFFIX,umxwew.hellobello.com
 DOMAIN-SUFFIX,umylynsr9b.quira.sh
+DOMAIN-SUFFIX,unalytics.top
 DOMAIN-SUFFIX,unbewn.byravn.dk
 DOMAIN-SUFFIX,uncanny.marvel.com
 DOMAIN-SUFFIX,uncanny.marvelkids.com
@@ -53249,6 +53253,7 @@ DOMAIN-SUFFIX,webprospector.de
 DOMAIN-SUFFIX,web.redazione.italiaoggi.it
 DOMAIN-SUFFIX,web.redazione.milanofinanza.it
 DOMAIN-SUFFIX,websdk.appsflyer.com
+DOMAIN-SUFFIX,web-sdk-cdn.singular.net
 DOMAIN-SUFFIX,websdkmetrics.blackrock.com
 DOMAIN-SUFFIX,websdk.metro.fr
 DOMAIN-SUFFIX,web.sensilab.com
