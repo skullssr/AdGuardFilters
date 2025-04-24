@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-24 05:03:34
-# DOMAIN-SUFFIX: 55222
-# TOTAL: 55222
+# UPDATED: 2025-04-25 05:01:28
+# DOMAIN-SUFFIX: 55231
+# TOTAL: 55231
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -2050,6 +2050,7 @@ DOMAIN-SUFFIX,adara.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adash.m.taobao.com
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
+DOMAIN-SUFFIX,adashx4id.ut.taobao.com
 DOMAIN-SUFFIX,adashx.ut.alibaba.com
 DOMAIN-SUFFIX,adat.freemail.hu
 DOMAIN-SUFFIX,ad.aucfan.com
@@ -2510,6 +2511,7 @@ DOMAIN-SUFFIX,adtracker.jpchd.veraxen.com
 DOMAIN-SUFFIX,adtracker.mkjigsaw.com
 DOMAIN-SUFFIX,adtracker.oilpainting.colorbynumber.veraxen.com
 DOMAIN-SUFFIX,adtracking.smartmediarep.com
+DOMAIN-SUFFIX,adtrack-intl.ucweb.com
 DOMAIN-SUFFIX,adtrack.kireibiz.jp
 DOMAIN-SUFFIX,adtrack.loracle.jp
 DOMAIN-SUFFIX,adtrack.maisonlexia.com
@@ -4251,6 +4253,7 @@ DOMAIN-SUFFIX,analytics.urbanflowers.com.ua
 DOMAIN-SUFFIX,analytic.surfline.com
 DOMAIN-SUFFIX,analytics.us.archive.org
 DOMAIN-SUFFIX,analytics.ust.com
+DOMAIN-SUFFIX,analytics.us.tiktok.com
 DOMAIN-SUFFIX,analytics.utensileriaonline.it
 DOMAIN-SUFFIX,analytics.utopianhours.it
 DOMAIN-SUFFIX,analytics.uwindsor.ca
@@ -6505,6 +6508,7 @@ DOMAIN-SUFFIX,bt.mediaimpact.de
 DOMAIN-SUFFIX,btptod.aerzteblatt.de
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,btrepg.bochumer-jobanzeiger.de
+DOMAIN-SUFFIX,bts-la.ucweb.com
 DOMAIN-SUFFIX,btstats.benakt.com
 DOMAIN-SUFFIX,bttmkj.diesel.com
 DOMAIN-SUFFIX,bttrack.com
@@ -13669,6 +13673,7 @@ DOMAIN-SUFFIX,easyhitcounters.com
 DOMAIN-SUFFIX,easy.lv
 DOMAIN-SUFFIX,easyresearch.se
 DOMAIN-SUFFIX,easytarget.ru
+DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,easytracking.de
 DOMAIN-SUFFIX,easytrk.overalldomaintrk.org
 DOMAIN-SUFFIX,easywebsiteanalytics.com
@@ -20948,6 +20953,7 @@ DOMAIN-SUFFIX,internetmap.info
 DOMAIN-SUFFIX,interstateanalytics.com
 DOMAIN-SUFFIX,intervigil.com
 DOMAIN-SUFFIX,intg.snapchat.com
+DOMAIN-SUFFIX,intlsucus.ucweb.com
 DOMAIN-SUFFIX,intouch.schlesingerassociates.com
 DOMAIN-SUFFIX,intramorstrk.com
 DOMAIN-SUFFIX,intrastats.com
@@ -24347,6 +24353,7 @@ DOMAIN-SUFFIX,log.jackpotmasterslots.com
 DOMAIN-SUFFIX,log.jd.com
 DOMAIN-SUFFIX,log.kinolights.com
 DOMAIN-SUFFIX,log.klook.com
+DOMAIN-SUFFIX,log.kroffle.net
 DOMAIN-SUFFIX,log.krs-ix.ru
 DOMAIN-SUFFIX,loglady.publicbroadcasting.net
 DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
@@ -27172,6 +27179,7 @@ DOMAIN-SUFFIX,meeting.nuance.com
 DOMAIN-SUFFIX,meetings.gaylordhotels.com
 DOMAIN-SUFFIX,meetrics.net
 DOMAIN-SUFFIX,mefo1.zdf.de
+DOMAIN-SUFFIX,megadata.co.kr
 DOMAIN-SUFFIX,mega.mydealz.de
 DOMAIN-SUFFIX,mega-stats.com
 DOMAIN-SUFFIX,meitustat.com
@@ -29824,6 +29832,7 @@ DOMAIN-SUFFIX,mujer.blogdemujer.site
 DOMAIN-SUFFIX,mukbom.paperlanternstore.com
 DOMAIN-SUFFIX,mule.caddyserver.com
 DOMAIN-SUFFIX,mule.pricelessai.com
+DOMAIN-SUFFIX,mum.alibabachengdun.com
 DOMAIN-SUFFIX,munchkin.marketo.net
 DOMAIN-SUFFIX,m.unitedmedicareadvisors.com
 DOMAIN-SUFFIX,m.univision.com
@@ -34181,6 +34190,7 @@ DOMAIN-SUFFIX,reali.st
 DOMAIN-SUFFIX,realist.gen.tr
 DOMAIN-SUFFIX,realizerecess.com
 DOMAIN-SUFFIX,realtimeanalytics.yext.com
+DOMAIN-SUFFIX,realtime-logger.production-public.tubi.io
 DOMAIN-SUFFIX,realtimely.io
 DOMAIN-SUFFIX,realtime-profiling.datarize.ai
 DOMAIN-SUFFIX,realtimewebstats.net
@@ -46406,7 +46416,6 @@ DOMAIN-SUFFIX,tcsayn.okkane.co.kr
 DOMAIN-SUFFIX,t.csurams.com
 DOMAIN-SUFFIX,t.csuvikings.com
 DOMAIN-SUFFIX,tctm.co
-DOMAIN-SUFFIX,tc.tradetracker.net
 DOMAIN-SUFFIX,t.cubiculum.de
 DOMAIN-SUFFIX,t.cubuffs.com
 DOMAIN-SUFFIX,tcwbih.ortoponto.com.br
