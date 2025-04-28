@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-16 05:02:53
-# DOMAIN-SUFFIX: 400
-# TOTAL: 400
+# UPDATED: 2025-04-29 05:03:34
+# DOMAIN-SUFFIX: 399
+# TOTAL: 399
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -216,7 +216,6 @@ DOMAIN-SUFFIX,manughl.de
 DOMAIN-SUFFIX,marketing-guerilla.de
 DOMAIN-SUFFIX,marketing.net.beate-uhse-movie.com
 DOMAIN-SUFFIX,marketing-profis.net
-DOMAIN-SUFFIX,maxi-ad.de
 DOMAIN-SUFFIX,maxiad.de
 DOMAIN-SUFFIX,media.alphaload.com
 DOMAIN-SUFFIX,media*.s24.com
