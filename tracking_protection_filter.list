@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-29 05:01:37
-# DOMAIN-SUFFIX: 55517
-# TOTAL: 55517
+# UPDATED: 2025-04-30 05:01:54
+# DOMAIN-SUFFIX: 55532
+# TOTAL: 55532
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -2431,7 +2431,6 @@ DOMAIN-SUFFIX,ad.shinjuku-mens-chuoh.com
 DOMAIN-SUFFIX,ads-image.production-public.tubi.io
 DOMAIN-SUFFIX,adsmeasurement.com
 DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
-DOMAIN-SUFFIX,ads.mythad.com
 DOMAIN-SUFFIX,adsnid.wagyushop.com
 DOMAIN-SUFFIX,adsolutions.com
 DOMAIN-SUFFIX,ad-spire.net
@@ -8596,6 +8595,7 @@ DOMAIN-SUFFIX,csm.magnetintell.com
 DOMAIN-SUFFIX,cs*.mp3bars.com
 DOMAIN-SUFFIX,cs.nexttv.co.il
 DOMAIN-SUFFIX,c.snow.com
+DOMAIN-SUFFIX,csplog.kwai-pro.com
 DOMAIN-SUFFIX,cspmkl.gruppal.com
 DOMAIN-SUFFIX,csp.prod.saga.co.uk
 DOMAIN-SUFFIX,csp-report.marketing.aws.dev
@@ -15317,6 +15317,7 @@ DOMAIN-SUFFIX,event.thermofisher.com
 DOMAIN-SUFFIX,event.thermoscientific.cn
 DOMAIN-SUFFIX,event.thermoscientific.com
 DOMAIN-SUFFIX,event.togothermany.com
+DOMAIN-SUFFIX,event.tosspayments.com
 DOMAIN-SUFFIX,event-tracking.deliverr.com
 DOMAIN-SUFFIX,eventtracking.hubapi.com
 DOMAIN-SUFFIX,event.unia.ch
@@ -21003,6 +21004,7 @@ DOMAIN-SUFFIX,intelligence.enthuse-marketing.com
 DOMAIN-SUFFIX,intelligencefocus.com
 DOMAIN-SUFFIX,intelligence.officialwesthamstore.com
 DOMAIN-SUFFIX,intelligenceretarget.com
+DOMAIN-SUFFIX,intelligence.xnews.one
 DOMAIN-SUFFIX,intelpartneralliance.intel.com
 DOMAIN-SUFFIX,intel-trk.i-law.com
 DOMAIN-SUFFIX,intel-trk.informa.com
@@ -24510,6 +24512,7 @@ DOMAIN-SUFFIX,logs.browser-intake-datadoghq.eu
 DOMAIN-SUFFIX,logs.chatboost-cv.algoage.co.jp
 DOMAIN-SUFFIX,logs.datadoghq.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
+DOMAIN-SUFFIX,log-sdk.ksapisrv.com
 DOMAIN-SUFFIX,logsdk.kwai-pro.com
 DOMAIN-SUFFIX,logservice1.dbankcloud.cn
 DOMAIN-SUFFIX,logservice1.hicloud.com
@@ -24561,6 +24564,7 @@ DOMAIN-SUFFIX,log.tf.co.kr
 DOMAIN-SUFFIX,log*-*.tiktokv.com
 DOMAIN-SUFFIX,log.tiktokv.com
 DOMAIN-SUFFIX,log.tossinvest.com
+DOMAIN-SUFFIX,log.tosspayments.com
 DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
 DOMAIN-SUFFIX,log.tpns.tencent.com
 DOMAIN-SUFFIX,log.trackingio.com
@@ -30057,6 +30061,7 @@ DOMAIN-SUFFIX,mystats.nl
 DOMAIN-SUFFIX,my.stbarth.com
 DOMAIN-SUFFIX,mystery.vfmleonardo.com
 DOMAIN-SUFFIX,mysumo.de
+DOMAIN-SUFFIX,mythad.com
 DOMAIN-SUFFIX,mytictac.com
 DOMAIN-SUFFIX,my.tint-store.ro
 DOMAIN-SUFFIX,my.top4fitness.at
@@ -52189,13 +52194,22 @@ DOMAIN-SUFFIX,ulerkr.ukrzoloto.ua
 DOMAIN-SUFFIX,ulhyys.naehwelt.de
 DOMAIN-SUFFIX,ulidoo.montblanc.com
 DOMAIN-SUFFIX,ulinyo.bandito.com.tr
+DOMAIN-SUFFIX,ulog1-us.kwai-pro.com
+DOMAIN-SUFFIX,ulog2-us.kwaipros.com
 DOMAIN-SUFFIX,ulog*.gifshow.com
 DOMAIN-SUFFIX,ulogin-stats.ru
 DOMAIN-SUFFIX,ulogjs.ksapisrv.com
+DOMAIN-SUFFIX,ulog-*.ksapisrv.com
+DOMAIN-SUFFIX,ulog.*.ksapisrv.com
+DOMAIN-SUFFIX,ulog.ksapisrv.com
 DOMAIN-SUFFIX,ulog*.kwai-pro.com
+DOMAIN-SUFFIX,ulog.*.kwai-pro.com
+DOMAIN-SUFFIX,ulog.kwai-pro.com
 DOMAIN-SUFFIX,ulog*.kwaipros.com
+DOMAIN-SUFFIX,ulog.kwaipros.com
+DOMAIN-SUFFIX,ulogs1.ksapisrv.com
+DOMAIN-SUFFIX,ulogs2.ksapisrv.com
 DOMAIN-SUFFIX,ulog-sdk.gifshow.com
-DOMAIN-SUFFIX,ulogs*.ksapisrv.com
 DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,ultraimpression.jp
 DOMAIN-SUFFIX,ultund.misterspex.nl
@@ -53861,6 +53875,7 @@ DOMAIN-SUFFIX,wljxga.bogsfootwear.ca
 DOMAIN-SUFFIX,wlkojk.orange.ro
 DOMAIN-SUFFIX,wlmwkz.adrop.sk
 DOMAIN-SUFFIX,wlog.ifdo.co.kr
+DOMAIN-SUFFIX,wlog.ksapisrv.com
 DOMAIN-SUFFIX,wlog.tmon.co.kr
 DOMAIN-SUFFIX,wlp3.aegon.es
 DOMAIN-SUFFIX,wlpdfo.choicefurnituresuperstore.co.uk
