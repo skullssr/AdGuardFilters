@@ -1,9 +1,9 @@
 # NAME: MobileAdsFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-30 05:05:41
-# DOMAIN-SUFFIX: 947
-# TOTAL: 947
+# UPDATED: 2025-05-01 05:07:39
+# DOMAIN-SUFFIX: 951
+# TOTAL: 951
 DOMAIN-SUFFIX,023hysj.com
 DOMAIN-SUFFIX,1mp.mobi
 DOMAIN-SUFFIX,247realmedia.com
@@ -398,6 +398,7 @@ DOMAIN-SUFFIX,comscore.com
 DOMAIN-SUFFIX,config.appjolt.com
 DOMAIN-SUFFIX,config.tremorhub.com
 DOMAIN-SUFFIX,configuration.ttpsdk.info
+DOMAIN-SUFFIX,configure.rayjump.com
 DOMAIN-SUFFIX,contextualadv.com
 DOMAIN-SUFFIX,cpactions.com
 DOMAIN-SUFFIX,cpmstar.com
@@ -474,6 +475,7 @@ DOMAIN-SUFFIX,focas.jp
 DOMAIN-SUFFIX,friendlyduck.com
 DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com
 DOMAIN-SUFFIX,fyber.com
+DOMAIN-SUFFIX,gadsme.com
 DOMAIN-SUFFIX,gamaibids.com
 DOMAIN-SUFFIX,gameanalysis.appcpi.net
 DOMAIN-SUFFIX,gamerplay67.space
@@ -776,6 +778,7 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,screen.buzzvil.com
 DOMAIN-SUFFIX,sc.smardroid.com
 DOMAIN-SUFFIX,sdk.adtiming.com
+DOMAIN-SUFFIX,sdk-api.kidoz.net
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
 DOMAIN-SUFFIX,sdk.starbolt.io
 DOMAIN-SUFFIX,sdkv2.imaginationunwired.com
@@ -913,6 +916,7 @@ DOMAIN-SUFFIX,veta.naver.com
 DOMAIN-SUFFIX,videoads-cloud.rovio.com
 DOMAIN-SUFFIX,videoplus.vo.llnwd.net
 DOMAIN-SUFFIX,vidout.net
+DOMAIN-SUFFIX,v.kidoz.net
 DOMAIN-SUFFIX,vm5apis.com
 DOMAIN-SUFFIX,vmap.v.ad-generation.jp
 DOMAIN-SUFFIX,vod-mplayer.sooplive.co.kr
