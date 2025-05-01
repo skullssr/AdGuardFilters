@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-05-01 05:03:51
-# DOMAIN-SUFFIX: 55536
-# TOTAL: 55536
+# UPDATED: 2025-05-02 05:01:46
+# DOMAIN-SUFFIX: 55551
+# TOTAL: 55551
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -2053,6 +2053,10 @@ DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4id.ut.taobao.com
 DOMAIN-SUFFIX,adashx.ut.alibaba.com
 DOMAIN-SUFFIX,adat.freemail.hu
+DOMAIN-SUFFIX,adat.ingatlanbazar.hu
+DOMAIN-SUFFIX,adat.metropol.hu
+DOMAIN-SUFFIX,adat.she.life.hu
+DOMAIN-SUFFIX,adat.videa.hu
 DOMAIN-SUFFIX,ad.aucfan.com
 DOMAIN-SUFFIX,ad.aucview.com
 DOMAIN-SUFFIX,ad.autorace.jp
@@ -3492,6 +3496,9 @@ DOMAIN-SUFFIX,analytics.74.ru
 DOMAIN-SUFFIX,analytics.adam.page
 DOMAIN-SUFFIX,analytics.ad.daum.net
 DOMAIN-SUFFIX,analytics.adfreetime.com
+DOMAIN-SUFFIX,analytics.adjust.com
+DOMAIN-SUFFIX,analytics.adjust.net.in
+DOMAIN-SUFFIX,analytics.adjust.world
 DOMAIN-SUFFIX,analytics.adoffice.11st.co.kr
 DOMAIN-SUFFIX,analytics.adultempire.com
 DOMAIN-SUFFIX,analytics.adultswim.co.uk
@@ -7053,6 +7060,7 @@ DOMAIN-SUFFIX,cdn.trackclicks.info
 DOMAIN-SUFFIX,cdn.track.olx.com.br
 DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,cdn.userleap.com
+DOMAIN-SUFFIX,cdn-v3.conductrics.net
 DOMAIN-SUFFIX,cdn.villaggioportoada.it
 DOMAIN-SUFFIX,cdnweb2analytics.com
 DOMAIN-SUFFIX,cdn.wgchrrammzv.com
@@ -9039,6 +9047,7 @@ DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
 DOMAIN-SUFFIX,d3j1weegxvu8ns.cloudfront.net
 DOMAIN-SUFFIX,d3kyk5bao1crtw.cloudfront.net
 DOMAIN-SUFFIX,d3l3lkinz3f56t.cloudfront.net
+DOMAIN-SUFFIX,d3lqotgbn3npr.cloudfront.net
 DOMAIN-SUFFIX,d3nq5jrakcyw1w.cloudfront.net
 DOMAIN-SUFFIX,d3p8zr0ffa9t17.cloudfront.net
 DOMAIN-SUFFIX,d3pkntwtp2ukl5.cloudfront.net
@@ -15160,6 +15169,7 @@ DOMAIN-SUFFIX,eventlog.inspsearchapi.com
 DOMAIN-SUFFIX,eventlog.jackpot.de
 DOMAIN-SUFFIX,eventlog.outbrain.com
 DOMAIN-SUFFIX,event.mazars.nl
+DOMAIN-SUFFIX,event.meloshort.com
 DOMAIN-SUFFIX,event.mrtnsvr.com
 DOMAIN-SUFFIX,event.msi.com
 DOMAIN-SUFFIX,event.newsbreak.com
@@ -15323,6 +15333,7 @@ DOMAIN-SUFFIX,event.tosspayments.com
 DOMAIN-SUFFIX,event-tracking.deliverr.com
 DOMAIN-SUFFIX,eventtracking.hubapi.com
 DOMAIN-SUFFIX,event.unia.ch
+DOMAIN-SUFFIX,event-us.ssp.taxssp.com
 DOMAIN-SUFFIX,event.webcollage.net
 DOMAIN-SUFFIX,event.wondershare.com
 DOMAIN-SUFFIX,everestjs.net
@@ -21948,6 +21959,7 @@ DOMAIN-SUFFIX,khvdma.clarins.com.tw
 DOMAIN-SUFFIX,khxjdk.only.com
 DOMAIN-SUFFIX,khyzbu.lsy031.com
 DOMAIN-SUFFIX,kiackw.mrcat.com.br
+DOMAIN-SUFFIX,kib.hu
 DOMAIN-SUFFIX,kibpwj.welrixrental.co.kr
 DOMAIN-SUFFIX,kiddbs.baby-calendar.jp
 DOMAIN-SUFFIX,kidsdeservethebest.childrenswi.org
@@ -29577,6 +29589,7 @@ DOMAIN-SUFFIX,mnxrfc.708090.jp
 DOMAIN-SUFFIX,moa-upload-online.coloros.com
 DOMAIN-SUFFIX,mob2.healthapplines.com
 DOMAIN-SUFFIX,mob2.healthtrackergroup.com
+DOMAIN-SUFFIX,mob2.mymusic2025.com
 DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mob.affiliate.logitravel.com
 DOMAIN-SUFFIX,mobalyzer.net
@@ -29690,6 +29703,7 @@ DOMAIN-SUFFIX,mosquito.birbs.art
 DOMAIN-SUFFIX,mosquito.iamamandaperez.com
 DOMAIN-SUFFIX,mosquito.nooraldiyar.com
 DOMAIN-SUFFIX,mosquito.zero.io
+DOMAIN-SUFFIX,mosspf.net
 DOMAIN-SUFFIX,mosvnx.livup.com.br
 DOMAIN-SUFFIX,moth.artsmia.org
 DOMAIN-SUFFIX,moth.jkundp.at
@@ -33615,6 +33629,7 @@ DOMAIN-SUFFIX,ptbocw.bewooden.de
 DOMAIN-SUFFIX,p-td.com
 DOMAIN-SUFFIX,ptengine.com
 DOMAIN-SUFFIX,ptgxwo.toolstoday.com
+DOMAIN-SUFFIX,pt.ispot.tv
 DOMAIN-SUFFIX,ptiuod.claudiastrater.com
 DOMAIN-SUFFIX,ptlpel.tui.at
 DOMAIN-SUFFIX,ptmcos.beginning.kr
