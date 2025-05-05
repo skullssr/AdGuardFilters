@@ -1,9 +1,9 @@
 # NAME: GermanFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-04-29 05:03:34
-# DOMAIN-SUFFIX: 399
-# TOTAL: 399
+# UPDATED: 2025-05-06 05:03:49
+# DOMAIN-SUFFIX: 398
+# TOTAL: 398
 DOMAIN-SUFFIX,1t2.alpin.de
 DOMAIN-SUFFIX,1t2.kicker.de
 DOMAIN-SUFFIX,4rm.de
@@ -179,7 +179,6 @@ DOMAIN-SUFFIX,green-ads.net
 DOMAIN-SUFFIX,guruads.de
 DOMAIN-SUFFIX,h5v.eu
 DOMAIN-SUFFIX,hot59.de
-DOMAIN-SUFFIX,hovg.de
 DOMAIN-SUFFIX,hybrid-prd.ad-prd.s.joyn.de
 DOMAIN-SUFFIX,ibanner.de
 DOMAIN-SUFFIX,ihreapotheken.de
