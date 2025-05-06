@@ -1,7 +1,7 @@
 # NAME: AdGuardBaseDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-05-03 04:53:56
+# UPDATED: 2025-05-07 04:54:04
 # DOMAIN-SUFFIX: 2736
 # TOTAL: 2736
 DOMAIN-SUFFIX,0mniscient.github.io
@@ -218,6 +218,7 @@ DOMAIN-SUFFIX,apps2app.com
 DOMAIN-SUFFIX,apptoko.com
 DOMAIN-SUFFIX,appvn.com
 DOMAIN-SUFFIX,aqlier.com
+DOMAIN-SUFFIX,aquafora.nl
 DOMAIN-SUFFIX,arab4media.com
 DOMAIN-SUFFIX,arabnaar.com
 DOMAIN-SUFFIX,arabseries.net
@@ -358,6 +359,7 @@ DOMAIN-SUFFIX,btcfaucet.best
 DOMAIN-SUFFIX,btcnewz.com
 DOMAIN-SUFFIX,btvsports.cam
 DOMAIN-SUFFIX,btvsports.lol
+DOMAIN-SUFFIX,btvsports.my
 DOMAIN-SUFFIX,bugswave.com
 DOMAIN-SUFFIX,builder.io
 DOMAIN-SUFFIX,burnbutt.com
@@ -2515,8 +2517,6 @@ DOMAIN-SUFFIX,uploady.io
 DOMAIN-SUFFIX,upost.info
 DOMAIN-SUFFIX,uppit.com
 DOMAIN-SUFFIX,uragongaming.blogspot.com
-DOMAIN-SUFFIX,urlcero.com
-DOMAIN-SUFFIX,urlcloud.us
 DOMAIN-SUFFIX,urlex.org
 DOMAIN-SUFFIX,urlgalleries.net
 DOMAIN-SUFFIX,uruploads.com

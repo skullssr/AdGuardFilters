@@ -1,9 +1,9 @@
 # NAME: TrackingProtectionFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-05-06 05:01:51
-# DOMAIN-SUFFIX: 56014
-# TOTAL: 56014
+# UPDATED: 2025-05-07 05:01:53
+# DOMAIN-SUFFIX: 56027
+# TOTAL: 56027
 DOMAIN-SUFFIX,02ip.ru
 DOMAIN-SUFFIX,07.go.thermofisher.com
 DOMAIN-SUFFIX,-084-gls-223-www-9-k-0brasil.net.daraz.com
@@ -3967,6 +3967,7 @@ DOMAIN-SUFFIX,analytics.neonsfeer.nl
 DOMAIN-SUFFIX,analytics.netkeiba.com
 DOMAIN-SUFFIX,analyticsnew.overwolf.com
 DOMAIN-SUFFIX,analytics.newscred.com
+DOMAIN-SUFFIX,analytics.newsifier.nl
 DOMAIN-SUFFIX,analytics.nextopia.net
 DOMAIN-SUFFIX,analytics-*-nfl.yinzcam.com
 DOMAIN-SUFFIX,analytics.ngs55.ru
@@ -4538,6 +4539,7 @@ DOMAIN-SUFFIX,apaclandingpage.ajo1apac.adls.adobevlab.com
 DOMAIN-SUFFIX,apac.zendesk.com
 DOMAIN-SUFFIX,a-pagerank.net
 DOMAIN-SUFFIX,a.parfumsclub.de
+DOMAIN-SUFFIX,ap.attainplatform.io
 DOMAIN-SUFFIX,apcdp.apnews.com
 DOMAIN-SUFFIX,apcinfo.motorolasolutions.com
 DOMAIN-SUFFIX,apcinfo.vertexstandard.com
@@ -4630,6 +4632,7 @@ DOMAIN-SUFFIX,api*.moengage.com
 DOMAIN-SUFFIX,api.nettjek24.dk
 DOMAIN-SUFFIX,api-notify.markarch.com
 DOMAIN-SUFFIX,api-pixels.easyadsapp.com
+DOMAIN-SUFFIX,apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com
 DOMAIN-SUFFIX,api.publytics.net
 DOMAIN-SUFFIX,api.puhlmannprinting-dental.de
 DOMAIN-SUFFIX,api.receptivity.io
@@ -7973,6 +7976,7 @@ DOMAIN-SUFFIX,concierge.drroof.com
 DOMAIN-SUFFIX,condor.oskarthoren.com
 DOMAIN-SUFFIX,condor.stadttunnel-feldkirch.at
 DOMAIN-SUFFIX,conductrics.com
+DOMAIN-SUFFIX,conduit-beacon.mtvnservices.com
 DOMAIN-SUFFIX,confe.dc.oppomobile.com
 DOMAIN-SUFFIX,conference.all-energy.com.au
 DOMAIN-SUFFIX,conference.flsmidth.com
@@ -7985,6 +7989,7 @@ DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
 DOMAIN-SUFFIX,config.emb-api.com
 DOMAIN-SUFFIX,config.jpush.cn
 DOMAIN-SUFFIX,config.safedk.com
+DOMAIN-SUFFIX,config.sdk.kochava.dewrain.life
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,configure.adlermode.com
 DOMAIN-SUFFIX,conf.international.baidu.com
@@ -8803,7 +8808,9 @@ DOMAIN-SUFFIX,customer.autos
 DOMAIN-SUFFIX,customercare.myomnipod.com
 DOMAIN-SUFFIX,customerconversio.com
 DOMAIN-SUFFIX,customer-engagement.verintsystemsinc.com
+DOMAIN-SUFFIX,customerevents.dradis.netflix.com
 DOMAIN-SUFFIX,customerevents.netflix.com
+DOMAIN-SUFFIX,customerevents.us-east-*.internal.dradis.netflix.com
 DOMAIN-SUFFIX,customerexperience.verintsystemsinc.com
 DOMAIN-SUFFIX,customer.io
 DOMAIN-SUFFIX,customerjourney.mba.org
@@ -19139,6 +19146,7 @@ DOMAIN-SUFFIX,icehcv.nordicchoicehotels.no
 DOMAIN-SUFFIX,icfckg.myft.com.br
 DOMAIN-SUFFIX,icgsiq.cuir-city.com
 DOMAIN-SUFFIX,i.chamberlain.edu
+DOMAIN-SUFFIX,ichnaea.dradis.netflix.com
 DOMAIN-SUFFIX,ichnaea.netflix.com
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,i-*.ci360.sas.com
@@ -24429,6 +24437,7 @@ DOMAIN-SUFFIX,log.collectaction.com
 DOMAIN-SUFFIX,logcollector.note.com
 DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
 DOMAIN-SUFFIX,logconfig.polarisoffice.com
+DOMAIN-SUFFIX,log.cookieyes.com
 DOMAIN-SUFFIX,logcounter.com
 DOMAIN-SUFFIX,log.dance
 DOMAIN-SUFFIX,log.dav.edu.vn
@@ -27493,6 +27502,7 @@ DOMAIN-SUFFIX,metric.4imprint.com
 DOMAIN-SUFFIX,metric.advanceautoparts.com
 DOMAIN-SUFFIX,metric.alexandani.com
 DOMAIN-SUFFIX,metric.angieslist.com
+DOMAIN-SUFFIX,metric-api.newrelic.com
 DOMAIN-SUFFIX,metric.armstrongceilings.com
 DOMAIN-SUFFIX,metric.armstrong.com
 DOMAIN-SUFFIX,metric.aruplab.com
@@ -34515,6 +34525,7 @@ DOMAIN-SUFFIX,red.canary.is
 DOMAIN-SUFFIX,redcounter.net
 DOMAIN-SUFFIX,red.despegue.uno
 DOMAIN-SUFFIX,reddwarf.till-sanders.de
+DOMAIN-SUFFIX,redfast.com
 DOMAIN-SUFFIX,redirect.insightprosolution.com
 DOMAIN-SUFFIX,redistats.com
 DOMAIN-SUFFIX,red.marriageincrisis.com
@@ -36083,6 +36094,7 @@ DOMAIN-SUFFIX,s.bramptonguardian.com
 DOMAIN-SUFFIX,sbrands.lookfantastic.com
 DOMAIN-SUFFIX,sb.scorecard.research.com
 DOMAIN-SUFFIX,sbttlj.togetter.com
+DOMAIN-SUFFIX,s.bunkr.ru
 DOMAIN-SUFFIX,sb.voicefive.com
 DOMAIN-SUFFIX,sbx.daimlertruck.com
 DOMAIN-SUFFIX,sbxxyx.notino.cz
@@ -53167,6 +53179,7 @@ DOMAIN-SUFFIX,view.nucorbuildingsystems.com
 DOMAIN-SUFFIX,view.oportun.com
 DOMAIN-SUFFIX,view.peek-cloppenburg.de
 DOMAIN-SUFFIX,views.2222.ro
+DOMAIN-SUFFIX,views-dual.hulu.com
 DOMAIN-SUFFIX,views.ericcapella.com
 DOMAIN-SUFFIX,views.hulu.com
 DOMAIN-SUFFIX,views.romaniatv.net
