@@ -1,9 +1,9 @@
 # NAME: GermanDirect
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2025-05-08 05:03:25
-# DOMAIN-SUFFIX: 289
-# TOTAL: 289
+# UPDATED: 2025-05-13 05:05:18
+# DOMAIN-SUFFIX: 314
+# TOTAL: 314
 DOMAIN-SUFFIX,20min.ch
 DOMAIN-SUFFIX,4fansites.de
 DOMAIN-SUFFIX,9monate.de
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,aachener-nachrichten.de
 DOMAIN-SUFFIX,aachener-zeitung.de
 DOMAIN-SUFFIX,abendblatt.de
 DOMAIN-SUFFIX,abendzeitung-muenchen.de
+DOMAIN-SUFFIX,ableitungsrechner.net
 DOMAIN-SUFFIX,aerotelegraph.com
 DOMAIN-SUFFIX,airliners.de
 DOMAIN-SUFFIX,ajaxshowtime.com
@@ -32,12 +33,16 @@ DOMAIN-SUFFIX,bravofly.de
 DOMAIN-SUFFIX,brigitte.de
 DOMAIN-SUFFIX,bs.to
 DOMAIN-SUFFIX,buffed.de
+DOMAIN-SUFFIX,businessinsider.de
+DOMAIN-SUFFIX,bz-berlin.de
 DOMAIN-SUFFIX,caravaning.de
 DOMAIN-SUFFIX,chefkoch.de
 DOMAIN-SUFFIX,chinamobilemag.de
+DOMAIN-SUFFIX,chip.de
 DOMAIN-SUFFIX,cinema.de
 DOMAIN-SUFFIX,clever-tanken.de
 DOMAIN-SUFFIX,coinkurier.de
+DOMAIN-SUFFIX,computerbild.de
 DOMAIN-SUFFIX,computerhilfen.de
 DOMAIN-SUFFIX,computerworld.nl
 DOMAIN-SUFFIX,comunio.de
@@ -83,8 +88,10 @@ DOMAIN-SUFFIX,finanzen.net
 DOMAIN-SUFFIX,finanznachrichten.de
 DOMAIN-SUFFIX,finanztreff.de
 DOMAIN-SUFFIX,finya.de
+DOMAIN-SUFFIX,fitbook.de
 DOMAIN-SUFFIX,fitforfun.de
 DOMAIN-SUFFIX,fnp.de
+DOMAIN-SUFFIX,focus.de
 DOMAIN-SUFFIX,formel1.de
 DOMAIN-SUFFIX,frankfurter-wochenblatt.de
 DOMAIN-SUFFIX,fr.de
@@ -129,6 +136,7 @@ DOMAIN-SUFFIX,images.t-online.de
 DOMAIN-SUFFIX,im.chip.de
 DOMAIN-SUFFIX,ingame.de
 DOMAIN-SUFFIX,inside-digital.de
+DOMAIN-SUFFIX,integralrechner.de
 DOMAIN-SUFFIX,iptvliste.com
 DOMAIN-SUFFIX,isondled.net
 DOMAIN-SUFFIX,it-times.de
@@ -169,6 +177,7 @@ DOMAIN-SUFFIX,mein-wahres-ich.de
 DOMAIN-SUFFIX,menshealth.de
 DOMAIN-SUFFIX,merkur.de
 DOMAIN-SUFFIX,metalflirt.de
+DOMAIN-SUFFIX,metal-hammer.de
 DOMAIN-SUFFIX,minecraft-serverlist.net
 DOMAIN-SUFFIX,modhoster.de
 DOMAIN-SUFFIX,motorbasar.de
@@ -179,6 +188,8 @@ DOMAIN-SUFFIX,motortests.de
 DOMAIN-SUFFIX,mountainbike-magazin.de
 DOMAIN-SUFFIX,moviejones.de
 DOMAIN-SUFFIX,mtb-news.de
+DOMAIN-SUFFIX,musikexpress.de
+DOMAIN-SUFFIX,myhomebook.de
 DOMAIN-SUFFIX,netzwelt.de
 DOMAIN-SUFFIX,news38.de
 DOMAIN-SUFFIX,news.at
@@ -191,6 +202,7 @@ DOMAIN-SUFFIX,n-tv.de
 DOMAIN-SUFFIX,nw.de
 DOMAIN-SUFFIX,nwzonline.de
 DOMAIN-SUFFIX,onlinemarketing.de
+DOMAIN-SUFFIX,onvista.de
 DOMAIN-SUFFIX,outdoor-magazin.com
 DOMAIN-SUFFIX,paradisi.de
 DOMAIN-SUFFIX,pcgames.de
@@ -215,11 +227,14 @@ DOMAIN-SUFFIX,radio.de
 DOMAIN-SUFFIX,radiohamburg.de
 DOMAIN-SUFFIX,radio.net
 DOMAIN-SUFFIX,ran.de
+DOMAIN-SUFFIX,ratehase.de
 DOMAIN-SUFFIX,readmore.de
 DOMAIN-SUFFIX,rennrad-news.de
 DOMAIN-SUFFIX,reviersport.de
 DOMAIN-SUFFIX,rheinische-anzeigenblaetter.de
+DOMAIN-SUFFIX,rhodesian-ridgeback-forum.org
 DOMAIN-SUFFIX,roadbike.de
+DOMAIN-SUFFIX,rollingstone.de
 DOMAIN-SUFFIX,rtl.de
 DOMAIN-SUFFIX,ruhr24.de
 DOMAIN-SUFFIX,rundschau-online.de
@@ -235,14 +250,20 @@ DOMAIN-SUFFIX,sms-empfangen.com
 DOMAIN-SUFFIX,soester-anzeiger.de
 DOMAIN-SUFFIX,sozialversicherung-kompetent.de
 DOMAIN-SUFFIX,spiegel.de
+DOMAIN-SUFFIX,spiele.bild.de
 DOMAIN-SUFFIX,spielen.de
 DOMAIN-SUFFIX,spieletipps.de
+DOMAIN-SUFFIX,sport1.de
 DOMAIN-SUFFIX,sportal.de
+DOMAIN-SUFFIX,sportbild.bild.de
 DOMAIN-SUFFIX,sport.de
 DOMAIN-SUFFIX,spox.com
 DOMAIN-SUFFIX,stern.de
+DOMAIN-SUFFIX,stylebook.de
+DOMAIN-SUFFIX,sueddeutsche.de
 DOMAIN-SUFFIX,svz.de
 DOMAIN-SUFFIX,tagesspiegel.de
+DOMAIN-SUFFIX,techbook.de
 DOMAIN-SUFFIX,tele5.de
 DOMAIN-SUFFIX,teltarif.de
 DOMAIN-SUFFIX,testedich.de
@@ -252,6 +273,8 @@ DOMAIN-SUFFIX,tichyseinblick.de
 DOMAIN-SUFFIX,tierfreund.co
 DOMAIN-SUFFIX,tiervermittlung.de
 DOMAIN-SUFFIX,transfermarkt.at
+DOMAIN-SUFFIX,transfermarkt.de
+DOMAIN-SUFFIX,travelbook.de
 DOMAIN-SUFFIX,trend.at
 DOMAIN-SUFFIX,truckscout24.de
 DOMAIN-SUFFIX,tt.com
@@ -267,6 +290,7 @@ DOMAIN-SUFFIX,urlaubspartner.net
 DOMAIN-SUFFIX,videogameszone.de
 DOMAIN-SUFFIX,vip.de
 DOMAIN-SUFFIX,virtualnights.com
+DOMAIN-SUFFIX,vox.de
 DOMAIN-SUFFIX,wallstreet-online.de
 DOMAIN-SUFFIX,waz.de
 DOMAIN-SUFFIX,web.de
@@ -290,6 +314,7 @@ DOMAIN-SUFFIX,womenshealth.de
 DOMAIN-SUFFIX,woxikon.de
 DOMAIN-SUFFIX,wp.de
 DOMAIN-SUFFIX,wr.de
+DOMAIN-SUFFIX,www.t-online.de
 DOMAIN-SUFFIX,yachtrevue.at
 DOMAIN-SUFFIX,yagiay.com
 DOMAIN-SUFFIX,zwergenstadt.com
