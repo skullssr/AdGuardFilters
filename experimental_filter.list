@@ -1,7 +1,8 @@
 # NAME: ExperimentalFilter
 # AUTHOR: skullssr
 # REPO: https://github.com/skullssr/AdGuardFilters
-# UPDATED: 2024-05-04 05:32:56
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2025-05-14 05:05:15
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 DOMAIN-SUFFIX,https-filtering-check.adtidy.org
+DOMAIN-SUFFIX,legy-jp.line-apps.com
